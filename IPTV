@@ -1,971 +1,1563 @@
 #EXTM3U
-#EXTINF:-1,НТВ
-http://persik.tv/stream/0563/411651/10.m3u8
-#EXTINF:-1,Беларусь 1
-http://persik.tv/stream/0563/411651/118.m3u8
-#EXTINF:-1,ОНТ
-http://persik.tv/stream/0563/411651/111.m3u8
-#EXTINF:-1,СТВ
-http://persik.tv/stream/0563/411651/115.m3u8
-#EXTINF:-1,РТР-Беларусь
-http://persik.tv/stream/0563/411651/700.m3u8
-#EXTINF:-1,НТВ-Беларусь
-http://persik.tv/stream/0563/411651/699.m3u8
-#EXTINF:-1,Беларусь 2
-http://persik.tv/stream/0563/411651/148.m3u8
-#EXTINF:-1,Беларусь 3
-http://persik.tv/stream/0563/411651/883.m3u8
-#EXTINF:-1,Первый Канал
-http://persik.tv/stream/0563/411651/8.m3u8
-#EXTINF:-1,Россия 1
-http://persik.tv/stream/0563/411651/9.m3u8
-#EXTINF:-1,тест
-http://persik.tv/stream/0563/411651/351.m3u8
-#EXTINF:-1,тест
-http://persik.tv/stream/0563/411651/394.m3u8
-#EXTINF:-1,test
-http://persik.tv/stream/0563/411651/316.m3u8
-#EXTINF:-1,Русская ночь HD
-http://persik.tv/stream/0563/411651/296.m3u8
-#EXTINF:-1,1HD Music Television
-http://persik.tv/stream/0563/411651/10423.m3u8
-#EXTINF:-1,Bridge TV
-http://persik.tv/stream/0563/411651/409.m3u8
-#EXTINF:-1,Bridge TV Русский хит
-http://persik.tv/stream/0563/411651/668.m3u8
-#EXTINF:-1,CBS Reality
-http://persik.tv/stream/0563/411651/10229.m3u8
-#EXTINF:-1,Euronews
-http://persik.tv/stream/0563/411651/37.m3u8
-#EXTINF:-1,Euronews (Eng)
-http://persik.tv/stream/0563/411651/10265.m3u8
-#EXTINF:-1,Europa Plus TV
-http://persik.tv/stream/0563/411651/682.m3u8
-#EXTINF:-1,History
-http://persik.tv/stream/0563/411651/902.m3u8
-#EXTINF:-1,Jazz
-http://persik.tv/stream/0563/411651/10488.m3u8
-#EXTINF:-1,JimJam
-http://persik.tv/stream/0563/411651/454.m3u8
-#EXTINF:-1,Nadia Umka
-http://persik.tv/stream/0563/411651/10495.m3u8
-#EXTINF:-1,Outdoor Сhannel
-http://persik.tv/stream/0563/411651/10246.m3u8
-#EXTINF:-1,N/A
-http://persik.tv/stream/0563/411651/10213.m3u8
-#EXTINF:-1,TheWolfstalker
-http://persik.tv/stream/0563/411651/10494.m3u8
-#EXTINF:-1,THT Music
-http://persik.tv/stream/0563/411651/10247.m3u8
-#EXTINF:-1,Travel+Adventure
-http://persik.tv/stream/0563/411651/832.m3u8
-#EXTINF:-1,Travel+Adventure HD
-http://persik.tv/stream/0563/411651/10323.m3u8
-#EXTINF:-1,ZooПарк
-http://persik.tv/stream/0563/411651/331.m3u8
-#EXTINF:-1,Авто 24
-http://persik.tv/stream/0563/411651/924.m3u8
-#EXTINF:-1,Авто Плюс
-http://persik.tv/stream/0563/411651/311.m3u8
-#EXTINF:-1,Бабушка Шошо
-http://persik.tv/stream/0563/411651/10492.m3u8
-#EXTINF:-1,Беларусь 1 HD
-http://persik.tv/stream/0563/411651/10405.m3u8
-#EXTINF:-1,Беларусь 2 HD
-http://persik.tv/stream/0563/411651/10406.m3u8
-#EXTINF:-1,Беларусь 3 HD
-http://persik.tv/stream/0563/411651/10407.m3u8
-#EXTINF:-1,Би-Би-Знайки
-http://persik.tv/stream/0563/411651/10497.m3u8
-#EXTINF:-1,Вопросы и ответы
-http://persik.tv/stream/0563/411651/603.m3u8
-#EXTINF:-1,ВТВ
-http://persik.tv/stream/0563/411651/139.m3u8
-#EXTINF:-1,Детский
-http://persik.tv/stream/0563/411651/246.m3u8
-#EXTINF:-1,Домашние животные
-http://persik.tv/stream/0563/411651/601.m3u8
-#EXTINF:-1,Драйв
-http://persik.tv/stream/0563/411651/241.m3u8
-#EXTINF:-1,Здоровое ТВ
-http://persik.tv/stream/0563/411651/242.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://persik.tv/stream/0563/411651/10240.m3u8
-#EXTINF:-1,КХЛ HD
-http://persik.tv/stream/0563/411651/10242.m3u8
-#EXTINF:-1,КХЛ ТВ
-http://persik.tv/stream/0563/411651/604.m3u8
-#EXTINF:-1,Матч!
-http://persik.tv/stream/0563/411651/276.m3u8
-#EXTINF:-1,Матч! Арена
-http://persik.tv/stream/0563/411651/261.m3u8
-#EXTINF:-1,Матч! Игра
-http://persik.tv/stream/0563/411651/10270.m3u8
-#EXTINF:-1,Матч! Наш спорт
-http://persik.tv/stream/0563/411651/10271.m3u8
-#EXTINF:-1,Матч! Футбол 1
-http://persik.tv/stream/0563/411651/346.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD
-http://persik.tv/stream/0563/411651/10266.m3u8
-#EXTINF:-1,Матч! Футбол 2
-http://persik.tv/stream/0563/411651/10217.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
-http://persik.tv/stream/0563/411651/10267.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://persik.tv/stream/0563/411651/10218.m3u8
-#EXTINF:-1,Матч! Футбол 3 HD
-http://persik.tv/stream/0563/411651/10268.m3u8
-#EXTINF:-1,Мультимания
-http://persik.tv/stream/0563/411651/286.m3u8
-#EXTINF:-1,Наш футбол
-http://persik.tv/stream/0563/411651/284.m3u8
-#EXTINF:-1,ОНТ HD
-http://persik.tv/stream/0563/411651/10409.m3u8
-#EXTINF:-1,Охота и рыбалка
-http://persik.tv/stream/0563/411651/243.m3u8
-#EXTINF:-1,Перец International
-http://persik.tv/stream/0563/411651/10273.m3u8
-#EXTINF:-1,Простые рисунки
-http://persik.tv/stream/0563/411651/10491.m3u8
-#EXTINF:-1,Психология21
-http://persik.tv/stream/0563/411651/602.m3u8
-#EXTINF:-1,Ретро
-http://persik.tv/stream/0563/411651/244.m3u8
-#EXTINF:-1,Рождественский камин
-http://persik.tv/stream/0563/411651/10496.m3u8
-#EXTINF:-1,Русский иллюзион
-http://persik.tv/stream/0563/411651/177.m3u8
-#EXTINF:-1,Светлое ТВ
-http://persik.tv/stream/0563/411651/10322.m3u8
-#EXTINF:-1,Светлое ТВ HD
-http://persik.tv/stream/0563/411651/10426.m3u8
-#EXTINF:-1,Скиф
-http://persik.tv/stream/0563/411651/10431.m3u8
-#EXTINF:-1,Скиф HD
-http://persik.tv/stream/0563/411651/10430.m3u8
-#EXTINF:-1,Совершенно секретно
-http://persik.tv/stream/0563/411651/350.m3u8
+#EXTINF:-1,ГТРК Тамбов
+http://37.235.177.98:81/udp/225.50.66.15:1234
+#EXTINF:-1,Тайна
+http://37.235.177.98:81/udp/225.50.64.60:1234
+#EXTINF:-1,Ginger HD
+http://37.235.177.98:81/udp/225.50.64.62:1234
+#EXTINF:-1,Рыжий (сурд.)
+http://37.235.177.98:81/udp/225.50.64.61:1234
+#EXTINF:-1,НашаТема
+http://37.235.177.98:81/udp/225.50.66.51:1234
+#EXTINF:-1,Первый канал
+http://37.235.177.98:81/udp/225.50.66.99:1234
+#EXTINF:-1,Живая природа HD
+http://37.235.177.98:81/udp/225.50.64.82:1234
+#EXTINF:-1,Barely legal
+http://37.235.177.98:81/udp/225.50.70.4:1234
+#EXTINF:-1,Super
+http://37.235.177.98:81/udp/225.50.66.6:1234
+#EXTINF:-1,1 HD
+http://37.235.177.98:81/udp/225.50.64.58:1234
+#EXTINF:-1,Ocean TV
+http://37.235.177.98:81/udp/225.50.64.57:1234
+#EXTINF:-1,Viasat Nature/History HD
+http://37.235.177.98:81/udp/225.50.76.4:1234
+#EXTINF:-1,Asia Amazing TV HD
+http://37.235.177.98:81/udp/225.50.64.56:1234
+#EXTINF:-1,в мире животных HD
+http://37.235.177.98:81/udp/225.50.71.4:1234
+#EXTINF:-1,2х2
+http://37.235.177.98:81/udp/225.50.66.4:1234
+#EXTINF:-1,Первый канал
+http://37.235.177.98:81/udp/225.50.66.93:1234
+#EXTINF:-1,Живая планета
+http://37.235.177.98:81/udp/225.50.64.52:1234
+#EXTINF:-1,НСТ
+http://37.235.177.98:81/udp/225.50.64.53:1234
+#EXTINF:-1,Русский детектив
+http://37.235.177.98:81/udp/225.50.64.54:1234
+#EXTINF:-1,Tnomer
+http://37.235.177.98:81/udp/225.50.64.55:1234
+#EXTINF:-1,Эврика HD
+http://37.235.177.98:81/udp/225.50.71.8:1234
+#EXTINF:-1,NASA TV HD
+http://37.235.177.98:81/udp/225.50.71.27:1234
+#EXTINF:-1,NASA TV UHD
+http://37.235.177.98:81/udp/225.50.71.28:1234
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+http://37.235.177.98:81/udp/225.50.66.201:1234
+#EXTINF:-1,04 НТВ
+http://37.235.177.98:81/udp/225.50.66.204:1234
+#EXTINF:-1,11 РЕН ТВ
+http://37.235.177.98:81/udp/225.50.66.211:1234
+#EXTINF:-1,13 СТС
+http://37.235.177.98:81/udp/225.50.66.213:1234
+#EXTINF:-1,19 ТНТ
+http://37.235.177.98:81/udp/225.50.66.219:1234
+#EXTINF:-1,ТНТ ( цифровой А)
+http://37.235.177.98:81/udp/225.50.76.6:1234
+#EXTINF:-1,Дождь HD
+http://37.235.177.98:81/udp/225.50.76.2:1234
+#EXTINF:-1,TNT4
+http://37.235.177.98:81/udp/225.50.66.7:1234
+#EXTINF:-1,Наша Тема
+http://37.235.177.98:81/udp/225.50.64.48:1234
+#EXTINF:-1,Kinosat
+http://37.235.177.98:81/udp/225.50.64.49:1234
+#EXTINF:-1,В гостях у сказки
+http://37.235.177.98:81/udp/225.50.64.45:1234
+#EXTINF:-1,Big Asia
+http://37.235.177.98:81/udp/225.50.64.47:1234
+#EXTINF:-1,Пятница!
+http://37.235.177.98:81/udp/225.50.66.56:1234
+#EXTINF:-1,Россия-К
+http://37.235.177.98:81/udp/225.50.66.87:1234
 #EXTINF:-1,Союз
-http://persik.tv/stream/0563/411651/235.m3u8
-#EXTINF:-1,Спорт 1
-http://persik.tv/stream/0563/411651/270.m3u8
-#EXTINF:-1,Спорт 2
-http://persik.tv/stream/0563/411651/309.m3u8
-#EXTINF:-1,СТВ HD
-http://persik.tv/stream/0563/411651/10410.m3u8
-#EXTINF:-1,Сундучок Историй
-http://persik.tv/stream/0563/411651/10490.m3u8
-#EXTINF:-1,ТВ-3 Беларусь
-http://persik.tv/stream/0563/411651/847.m3u8
-#EXTINF:-1,ТелеДом HD
-http://persik.tv/stream/0563/411651/10419.m3u8
-#EXTINF:-1,Усадьба
-http://persik.tv/stream/0563/411651/305.m3u8
-#EXTINF:-1,Фасоль
-http://persik.tv/stream/0563/411651/10493.m3u8
-#EXTINF:-1,Филармония имени Шостаковича
-http://persik.tv/stream/0563/411651/10489.m3u8
-#EXTINF:-1,COMEDY
-http://persik.tv/stream/0563/411651/10235.m3u8
-#EXTINF:-1,Dom Kino
-http://persik.tv/stream/0563/411651/10228.m3u8
-#EXTINF:-1,EUROKINO
-http://persik.tv/stream/0563/411651/10222.m3u8
-#EXTINF:-1,Europa
-http://persik.tv/stream/0563/411651/10260.m3u8
-#EXTINF:-1,MTV HITS
-http://persik.tv/stream/0563/411651/10208.m3u8
-#EXTINF:-1,JARA TV
-http://persik.tv/stream/0563/411651/10286.m3u8
-#EXTINF:-1,Nat Geo HD
-http://persik.tv/stream/0563/411651/10243.m3u8
-#EXTINF:-1,Kukhnya TV
-http://persik.tv/stream/0563/411651/10287.m3u8
-#EXTINF:-1,М
-http://persik.tv/stream/0563/411651/595.m3u8
-#EXTINF:-1,travel russia
-http://persik.tv/stream/0563/411651/880.m3u8
-#EXTINF:-1,ВТВ
-http://persik.tv/stream/0563/411651/10263.m3u8
-#EXTINF:-1,Живи
-http://persik.tv/stream/0563/411651/511.m3u8
-#EXTINF:-1,ТНТ
-http://persik.tv/stream/0563/411651/981.m3u8
-#EXTINF:-1,КИНОКАМЕДИЯ
-http://persik.tv/stream/0563/411651/292.m3u8
-#EXTINF:-1,РОДНОЕ КИНО
-http://persik.tv/stream/0563/411651/312.m3u8
-#EXTINF:-1,Amedia Premium HBO2
-http://persik.tv/stream/0563/411651/643.m3u8
-#EXTINF:-1,Amedia Hit HBO
-http://persik.tv/stream/0563/411651/895.m3u8
-#EXTINF:-1,НАШ Футбол ESPORTE
-http://persik.tv/stream/0563/411651/10264.m3u8
-#EXTINF:-1,МАТЧ! планета ESPORTE
-http://persik.tv/stream/0563/411651/10269.m3u8
-#EXTINF:-1,Carton
-http://persik.tv/stream/0563/411651/32.m3u8
-#EXTINF:-1,MTV LIVE HD MUSICA
-http://persik.tv/stream/0563/411651/10289.m3u8
-#EXTINF:-1,RU TV MUSICA
-http://persik.tv/stream/0563/411651/10261.m3u8
-#EXTINF:-1,ЖАРА MUSICA
-http://persik.tv/stream/0563/411651/384.m3u8
-#EXTINF:-1,Briefly
-http://persik.tv/stream/0563/411651/10499.m3u8
-#EXTINF:-1,Жара
-http://persik.tv/stream/0563/411651/11.m3u8
-#EXTINF:-1,Рен ТВ
-http://persik.tv/stream/0563/411651/13.m3u8
-#EXTINF:-1,ТНТ
-http://persik.tv/stream/0563/411651/14.m3u8
-#EXTINF:-1,Россия К
-http://persik.tv/stream/0563/411651/15.m3u8
+http://37.235.177.98:81/udp/225.50.64.131:1234
+#EXTINF:-1,СПАС
+http://37.235.177.98:81/udp/225.50.66.52:1234
 #EXTINF:-1,СТС
-http://persik.tv/stream/0563/411651/17.m3u8
-#EXTINF:-1,Киносвидание
-http://persik.tv/stream/0563/411651/30.m3u8
-#EXTINF:-1,Футбол 1
-http://persik.tv/stream/0563/411651/33.m3u8
-#EXTINF:-1,Кинопремьера
-http://persik.tv/stream/0563/411651/34.m3u8
-#EXTINF:-1,CNL
-http://persik.tv/stream/0563/411651/38.m3u8
-#EXTINF:-1,Nickelodeon
-http://persik.tv/stream/0563/411651/45.m3u8
-#EXTINF:-1,BBC World News
-http://persik.tv/stream/0563/411651/46.m3u8
-#EXTINF:-1,Пятница
-http://persik.tv/stream/0563/411651/48.m3u8
-#EXTINF:-1,Ю
-http://persik.tv/stream/0563/411651/49.m3u8
-#EXTINF:-1,Cartoon Network
-http://persik.tv/stream/0563/411651/54.m3u8
-#EXTINF:-1,Че
-http://persik.tv/stream/0563/411651/56.m3u8
-#EXTINF:-1,ТВ 3
-http://persik.tv/stream/0563/411651/63.m3u8
-#EXTINF:-1,ТНТ4
-http://persik.tv/stream/0563/411651/64.m3u8
-#EXTINF:-1,DW
-http://persik.tv/stream/0563/411651/84.m3u8
-#EXTINF:-1,Travel channel
-http://persik.tv/stream/0563/411651/88.m3u8
-#EXTINF:-1,Bloomberg
-http://persik.tv/stream/0563/411651/90.m3u8
-#EXTINF:-1,Спорт 2 Украина
-http://persik.tv/stream/0563/411651/91.m3u8
-#EXTINF:-1,Planeta RTR
-http://persik.tv/stream/0563/411651/98.m3u8
-#EXTINF:-1,EX
-http://persik.tv/stream/0563/411651/99.m3u8
-#EXTINF:-1,ТВ 3
-http://persik.tv/stream/0563/411651/106.m3u8
-#EXTINF:-1,ВТВ
-http://persik.tv/stream/0563/411651/124.m3u8
-#EXTINF:-1,Россия К
-http://persik.tv/stream/0563/411651/140.m3u8
-#EXTINF:-1,Спорт 2 Украина
-http://persik.tv/stream/0563/411651/144.m3u8
-#EXTINF:-1,Пятница
-http://persik.tv/stream/0563/411651/178.m3u8
-#EXTINF:-1,Кинохит
-http://persik.tv/stream/0563/411651/213.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/215.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/232.m3u8
-#EXTINF:-1,ТВ Центр
-http://persik.tv/stream/0563/411651/237.m3u8
-#EXTINF:-1,А1
-http://persik.tv/stream/0563/411651/257.m3u8
-#EXTINF:-1,Наше новое кино
-http://persik.tv/stream/0563/411651/260.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/263.m3u8
-#EXTINF:-1,Киносерия
-http://persik.tv/stream/0563/411651/278.m3u8
-#EXTINF:-1,365 дней
-http://persik.tv/stream/0563/411651/279.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/308.m3u8
-#EXTINF:-1,Боец
-http://persik.tv/stream/0563/411651/310.m3u8
-#EXTINF:-1,Иллюзион
-http://persik.tv/stream/0563/411651/327.m3u8
-#EXTINF:-1,Россия 24
-http://persik.tv/stream/0563/411651/328.m3u8
-#EXTINF:-1,Кухня ТВ
-http://persik.tv/stream/0563/411651/383.m3u8
-#EXTINF:-1,Че
-http://persik.tv/stream/0563/411651/385.m3u8
-#EXTINF:-1,CNL
-http://persik.tv/stream/0563/411651/397.m3u8
-#EXTINF:-1,Кто есть кто
-http://persik.tv/stream/0563/411651/399.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/410.m3u8
-#EXTINF:-1,Travel channel
-http://persik.tv/stream/0563/411651/424.m3u8
-#EXTINF:-1,Первый канал
-http://persik.tv/stream/0563/411651/435.m3u8
-#EXTINF:-1,Футбол
-http://persik.tv/stream/0563/411651/440.m3u8
-#EXTINF:-1,А2
-http://persik.tv/stream/0563/411651/447.m3u8
-#EXTINF:-1,Пятница
-http://persik.tv/stream/0563/411651/459.m3u8
-#EXTINF:-1,ТНТ4
-http://persik.tv/stream/0563/411651/476.m3u8
-#EXTINF:-1,КХЛ
-http://persik.tv/stream/0563/411651/485.m3u8
-#EXTINF:-1,Euronews
-http://persik.tv/stream/0563/411651/525.m3u8
-#EXTINF:-1,Киносемья
-http://persik.tv/stream/0563/411651/590.m3u8
-#EXTINF:-1,Киномикс
-http://persik.tv/stream/0563/411651/608.m3u8
-#EXTINF:-1,Travel Adventure
-http://persik.tv/stream/0563/411651/635.m3u8
-#EXTINF:-1,Amedia premium
-http://persik.tv/stream/0563/411651/647.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/675.m3u8
-#EXTINF:-1,Euronews
-http://persik.tv/stream/0563/411651/687.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/707.m3u8
-#EXTINF:-1,Матч Арена
-http://persik.tv/stream/0563/411651/724.m3u8
-#EXTINF:-1,Столичный магазин
-http://persik.tv/stream/0563/411651/741.m3u8
-#EXTINF:-1,Вопросы и ответы
-http://persik.tv/stream/0563/411651/746.m3u8
-#EXTINF:-1,Совершенно секретно
-http://persik.tv/stream/0563/411651/800.m3u8
-#EXTINF:-1,Cartoon Network
-http://persik.tv/stream/0563/411651/805.m3u8
-#EXTINF:-1,History HD
-http://persik.tv/stream/0563/411651/879.m3u8
-#EXTINF:-1,Travel channel
-http://persik.tv/stream/0563/411651/886.m3u8
-#EXTINF:-1,Совершенно секретно
-http://persik.tv/stream/0563/411651/888.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/899.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/1014.m3u8
-#EXTINF:-1,ТНТ International
-http://persik.tv/stream/0563/411651/1052.m3u8
-#EXTINF:-1,Матч
-http://persik.tv/stream/0563/411651/1077.m3u8
-#EXTINF:-1,Шансон ТВ
-http://persik.tv/stream/0563/411651/1084.m3u8
-#EXTINF:-1,Авто 24
-http://persik.tv/stream/0563/411651/10004.m3u8
-#EXTINF:-1,Travel Adventure
-http://persik.tv/stream/0563/411651/10010.m3u8
-#EXTINF:-1,National Geografic HD
-http://persik.tv/stream/0563/411651/10016.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/10020.m3u8
-#EXTINF:-1,Первый канал
-http://persik.tv/stream/0563/411651/10021.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/10022.m3u8
-#EXTINF:-1,Первый музыкальный HD
-http://persik.tv/stream/0563/411651/10024.m3u8
-#EXTINF:-1,Мужское кино
-http://persik.tv/stream/0563/411651/10025.m3u8
-#EXTINF:-1,Заставка
-http://persik.tv/stream/0563/411651/10029.m3u8
-#EXTINF:-1,Беларусь 24
-http://persik.tv/stream/0563/411651/10200.m3u8
-#EXTINF:-1,8 канал Россия
-http://persik.tv/stream/0563/411651/10201.m3u8
-#EXTINF:-1,RT
-http://persik.tv/stream/0563/411651/10202.m3u8
-#EXTINF:-1,News One
-http://persik.tv/stream/0563/411651/10205.m3u8
-#EXTINF:-1,Муз ТВ
-http://persik.tv/stream/0563/411651/10207.m3u8
-#EXTINF:-1,CandyMan
-http://persik.tv/stream/0563/411651/10209.m3u8
-#EXTINF:-1,Natiional Geografic
-http://persik.tv/stream/0563/411651/10210.m3u8
-#EXTINF:-1,2x2
-http://persik.tv/stream/0563/411651/10211.m3u8
-#EXTINF:-1,Звезда
-http://persik.tv/stream/0563/411651/10220.m3u8
-#EXTINF:-1,MTV
-http://persik.tv/stream/0563/411651/10226.m3u8
-#EXTINF:-1,MTV Rocks
-http://persik.tv/stream/0563/411651/10227.m3u8
-#EXTINF:-1,Новый мир
-http://persik.tv/stream/0563/411651/10231.m3u8
-#EXTINF:-1,Fox
-http://persik.tv/stream/0563/411651/10234.m3u8
-#EXTINF:-1,History HD
-http://persik.tv/stream/0563/411651/10244.m3u8
-#EXTINF:-1,Travel channel
-http://persik.tv/stream/0563/411651/10245.m3u8
-#EXTINF:-1,Беларусь 1
-http://persik.tv/stream/0563/411651/10251.m3u8
-#EXTINF:-1,Беларусь 2
-http://persik.tv/stream/0563/411651/10252.m3u8
-#EXTINF:-1,Беларусь 3
-http://persik.tv/stream/0563/411651/10253.m3u8
-#EXTINF:-1,НТВ Беларусь
-http://persik.tv/stream/0563/411651/10255.m3u8
-#EXTINF:-1,Беларусь РТР
-http://persik.tv/stream/0563/411651/10256.m3u8
-#EXTINF:-1,СТВ
-http://persik.tv/stream/0563/411651/10257.m3u8
-#EXTINF:-1,ОНТ
-http://persik.tv/stream/0563/411651/10258.m3u8
-#EXTINF:-1,ТНТ Music
-http://persik.tv/stream/0563/411651/10262.m3u8
-#EXTINF:-1,Мир Premium HD
-http://persik.tv/stream/0563/411651/10283.m3u8
-#EXTINF:-1,ББК
-http://persik.tv/stream/0563/411651/10284.m3u8
-#EXTINF:-1,Живи
-http://persik.tv/stream/0563/411651/10285.m3u8
-#EXTINF:-1,365 дней
-http://persik.tv/stream/0563/411651/10288.m3u8
-#EXTINF:-1,Home
-http://persik.tv/stream/0563/411651/10292.m3u8
-#EXTINF:-1,Матч Премьер
-http://persik.tv/stream/0563/411651/10294.m3u8
-#EXTINF:-1,HDL HD
-http://persik.tv/stream/0563/411651/10295.m3u8
-#EXTINF:-1,ОНТ
-http://persik.tv/stream/0563/411651/10296.m3u8
-#EXTINF:-1,Беларусь 1
-http://persik.tv/stream/0563/411651/10297.m3u8
-#EXTINF:-1,Беларусь 2
-http://persik.tv/stream/0563/411651/10298.m3u8
-#EXTINF:-1,Беларусь 3
-http://persik.tv/stream/0563/411651/10299.m3u8
-#EXTINF:-1,Беларусь 24
-http://persik.tv/stream/0563/411651/10301.m3u8
-#EXTINF:-1,Беларусь РТР
-http://persik.tv/stream/0563/411651/10302.m3u8
-#EXTINF:-1,НТВ Беларусь
-http://persik.tv/stream/0563/411651/10303.m3u8
-#EXTINF:-1,СТВ
-http://persik.tv/stream/0563/411651/10304.m3u8
-#EXTINF:-1,Мир
-http://persik.tv/stream/0563/411651/10305.m3u8
-#EXTINF:-1,EX
-http://persik.tv/stream/0563/411651/10309.m3u8
-#EXTINF:-1,Че
-http://persik.tv/stream/0563/411651/10310.m3u8
-#EXTINF:-1,Родное кино
-http://persik.tv/stream/0563/411651/10311.m3u8
-#EXTINF:-1,Киносерия
-http://persik.tv/stream/0563/411651/10312.m3u8
-#EXTINF:-1,Setanta sports
-http://persik.tv/stream/0563/411651/10313.m3u8
-#EXTINF:-1,Setanta sports HD
-http://persik.tv/stream/0563/411651/10314.m3u8
-#EXTINF:-1,Setanta sports
-http://persik.tv/stream/0563/411651/10315.m3u8
-#EXTINF:-1,Setanta sports HD
-http://persik.tv/stream/0563/411651/10316.m3u8
-#EXTINF:-1,Fashion 4K
-http://persik.tv/stream/0563/411651/10317.m3u8
-#EXTINF:-1,Кинохит
-http://persik.tv/stream/0563/411651/10327.m3u8
-#EXTINF:-1,Кинопремьера
-http://persik.tv/stream/0563/411651/10328.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://persik.tv/stream/0563/411651/10329.m3u8
-#EXTINF:-1,Киносемья
-http://persik.tv/stream/0563/411651/10330.m3u8
-#EXTINF:-1,Киносвидание
-http://persik.tv/stream/0563/411651/10331.m3u8
-#EXTINF:-1,Киномикс
-http://persik.tv/stream/0563/411651/10332.m3u8
-#EXTINF:-1,Кинокомедия
-http://persik.tv/stream/0563/411651/10333.m3u8
-#EXTINF:-1,Наше новое кино
-http://persik.tv/stream/0563/411651/10334.m3u8
-#EXTINF:-1,Мужское кино HD
-http://persik.tv/stream/0563/411651/10368.m3u8
-#EXTINF:-1,Санаторий Радон HD
-http://persik.tv/stream/0563/411651/10370.m3u8
-#EXTINF:-1,CNL
-http://persik.tv/stream/0563/411651/10373.m3u8
-#EXTINF:-1,ББК
-http://persik.tv/stream/0563/411651/10376.m3u8
-#EXTINF:-1,Мир
-http://persik.tv/stream/0563/411651/10404.m3u8
-#EXTINF:-1,TVT
-http://persik.tv/stream/0563/411651/10414.m3u8
-#EXTINF:-1,Persik HD
-http://persik.tv/stream/0563/411651/10416.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://persik.tv/stream/0563/411651/10420.m3u8
-#EXTINF:-1,Детский мир
-http://persik.tv/stream/0563/411651/10421.m3u8
-#EXTINF:-1,Дисней
-http://persik.tv/stream/0563/411651/10422.m3u8
-#EXTINF:-1,Отель Неман HD
-http://persik.tv/stream/0563/411651/10424.m3u8
-#EXTINF:-1,NatGeo Wild
-http://persik.tv/stream/0563/411651/10446.m3u8
-#EXTINF:-1,SET
-http://persik.tv/stream/0563/411651/10448.m3u8
-#EXTINF:-1,Sony Sci-fi
-http://persik.tv/stream/0563/411651/10449.m3u8
-#EXTINF:-1,Sony Turbo
-http://persik.tv/stream/0563/411651/10450.m3u8
-#EXTINF:-1,Мир сериала
-http://persik.tv/stream/0563/411651/10451.m3u8
-#EXTINF:-1,Любимое кино
-http://persik.tv/stream/0563/411651/10452.m3u8
-#EXTINF:-1,Кто есть кто
-http://persik.tv/stream/0563/411651/10453.m3u8
-#EXTINF:-1,Shot TV
-http://persik.tv/stream/0563/411651/10454.m3u8
-#EXTINF:-1,Fox Life
-http://persik.tv/stream/0563/411651/10455.m3u8
+http://37.235.177.98:81/udp/225.50.66.53:1234
+#EXTINF:-1,СТС Love
+http://37.235.177.98:81/udp/225.50.64.18:1234
+#EXTINF:-1,ТВ-3
+http://37.235.177.98:81/udp/225.50.66.55:1234
+#EXTINF:-1,EuroNews
+http://37.235.177.98:81/udp/225.50.64.68:1234
+#EXTINF:-1,1 HD
+http://37.235.177.98:81/udp/225.50.71.1:1234
+#EXTINF:-1,FOX HD
+http://37.235.177.98:81/udp/225.50.71.25:1234
+#EXTINF:-1,FOX Life HD
+http://37.235.177.98:81/udp/225.50.71.24:1234
+#EXTINF:-1,HD Life
+http://37.235.177.98:81/udp/225.50.71.2:1234
+#EXTINF:-1,HD Media 3D
+http://37.235.177.98:81/udp/225.50.71.13:1234
+#EXTINF:-1,Nat Geo Wild HD
+http://37.235.177.98:81/udp/225.50.71.15:1234
+#EXTINF:-1,National Geographic HD
+http://37.235.177.98:81/udp/225.50.71.16:1234
+#EXTINF:-1,RT Doc HD
+http://37.235.177.98:81/udp/225.50.71.21:1234
+#EXTINF:-1,RTG HD
+http://37.235.177.98:81/udp/225.50.71.10:1234
+#EXTINF:-1,RT HD
+http://37.235.177.98:81/udp/225.50.71.20:1234
+#EXTINF:-1,Supertennis HD
+http://37.235.177.98:81/udp/225.50.71.22:1234
+#EXTINF:-1,Travel+Adventure HD
+http://37.235.177.98:81/udp/225.50.71.6:1234
+#EXTINF:-1,Матч! Арена HD
+http://37.235.177.98:81/udp/225.50.71.26:1234
+#EXTINF:-1,МИР HD
+http://37.235.177.98:81/udp/225.50.71.5:1234
+#EXTINF:-1,Наш футбол HD
+http://37.235.177.98:81/udp/225.50.67.2:1234
+#EXTINF:-1,Первый канал HD
+http://37.235.177.98:81/udp/225.50.66.11:1234
+#EXTINF:-1,Приключения HD
+http://37.235.177.98:81/udp/225.50.71.3:1234
+#EXTINF:-1,Россия HD
+http://37.235.177.98:81/udp/225.50.66.25:1234
+#EXTINF:-1,Теледом HD
+http://37.235.177.98:81/udp/225.50.71.7:1234
+#EXTINF:-1,Disney
+http://37.235.177.98:81/udp/225.50.64.67:1234
+#EXTINF:-1,Детский
+http://37.235.177.98:81/udp/225.50.64.32:1234
 #EXTINF:-1,Карусель
-http://persik.tv/stream/0563/411651/10456.m3u8
-#EXTINF:-1,RTД
-http://persik.tv/stream/0563/411651/10457.m3u8
-#EXTINF:-1,Rai 1
-http://persik.tv/stream/0563/411651/10458.m3u8
-#EXTINF:-1,Dubai
-http://persik.tv/stream/0563/411651/10460.m3u8
-#EXTINF:-1,?
-http://persik.tv/stream/0563/411651/10461.m3u8
-#EXTINF:-1,TV5 Monde
-http://persik.tv/stream/0563/411651/10462.m3u8
+http://37.235.177.98:81/udp/225.50.66.5:1234
+#EXTINF:-1,МУЛЬТ
+http://37.235.177.98:81/udp/225.50.64.11:1234
+#EXTINF:-1,Мультимания
+http://37.235.177.98:81/udp/225.50.64.30:1234
+#EXTINF:-1,МУЛЬТИМУЗЫКА
+http://37.235.177.98:81/udp/225.50.64.80:1234
+#EXTINF:-1,О!
+http://37.235.177.98:81/udp/225.50.64.6:1234
+#EXTINF:-1,AMC
+http://37.235.177.98:81/udp/225.50.69.5:1234
+#EXTINF:-1,FOX
+http://37.235.177.98:81/udp/225.50.64.22:1234
+#EXTINF:-1,FOX Life
+http://37.235.177.98:81/udp/225.50.64.23:1234
+#EXTINF:-1,Sony Turbo
+http://37.235.177.98:81/udp/225.50.64.66:1234
+#EXTINF:-1,Zee TV
+http://37.235.177.98:81/udp/225.50.64.40:1234
+#EXTINF:-1,Дом Кино
+http://37.235.177.98:81/udp/225.50.64.101:1234
+#EXTINF:-1,Дом Кино Премиум HD
+http://37.235.177.98:81/udp/225.50.64.3:1234
+#EXTINF:-1,Дорама
+http://37.235.177.98:81/udp/225.50.64.44:1234
+#EXTINF:-1,Индийское кино
+http://37.235.177.98:81/udp/225.50.64.2:1234
+#EXTINF:-1,Кинокомедия
+http://37.235.177.98:81/udp/225.50.64.36:1234
+#EXTINF:-1,Киномикс
+http://37.235.177.98:81/udp/225.50.69.3:1234
+#EXTINF:-1,Кино ТВ
+http://37.235.177.98:81/udp/225.50.64.20:1234
+#EXTINF:-1,Новое кино
+http://37.235.177.98:81/udp/225.50.69.2:1234
+#EXTINF:-1,Родное кино
+http://37.235.177.98:81/udp/225.50.69.1:1234
+#EXTINF:-1,Русский Бестселлер
+http://37.235.177.98:81/udp/225.50.64.8:1234
+#EXTINF:-1,Русский роман
+http://37.235.177.98:81/udp/225.50.64.1:1234
+#EXTINF:-1,Bridge TV
+http://37.235.177.98:81/udp/225.50.64.7:1234
+#EXTINF:-1,Dange TV
+http://37.235.177.98:81/udp/225.50.64.26:1234
+#EXTINF:-1,Europa Plus TV
+http://37.235.177.98:81/udp/225.50.64.21:1234
+#EXTINF:-1,RuSong TV
+http://37.235.177.98:81/udp/225.50.64.79:1234
+#EXTINF:-1,МУЗ-ТВ
+http://37.235.177.98:81/udp/225.50.66.10:1234
+#EXTINF:-1,Музыка Первого
+http://37.235.177.98:81/udp/225.50.64.102:1234
+#EXTINF:-1,Наше ТВ
+http://37.235.177.98:81/udp/225.50.64.12:1234
+#EXTINF:-1,ТНТ Music
+http://37.235.177.98:81/udp/225.50.64.103:1234
+#EXTINF:-1,Шансон ТВ
+http://37.235.177.98:81/udp/225.50.64.25:1234
+#EXTINF:-1,National Geographic
+http://37.235.177.98:81/udp/225.50.64.69:1234
+#EXTINF:-1,Russian Travel Guide
+http://37.235.177.98:81/udp/225.50.64.97:1234
+#EXTINF:-1,Travel+Adventure
+http://37.235.177.98:81/udp/225.50.64.34:1234
+#EXTINF:-1,TR!CK
+http://37.235.177.98:81/udp/225.50.64.51:1234
+#EXTINF:-1,БОБЁР
+http://37.235.177.98:81/udp/225.50.64.29:1234
+#EXTINF:-1,История
+http://37.235.177.98:81/udp/225.50.64.31:1234
+#EXTINF:-1,Моя Планета
+http://37.235.177.98:81/udp/225.50.64.24:1234
+#EXTINF:-1,Нано ТВ
+http://37.235.177.98:81/udp/225.50.64.9:1234
+#EXTINF:-1,Наука 2.0
+http://37.235.177.98:81/udp/225.50.64.28:1234
+#EXTINF:-1,Пёс и Ко
+http://37.235.177.98:81/udp/225.50.64.13:1234
+#EXTINF:-1,Поехали!
+http://37.235.177.98:81/udp/225.50.64.5:1234
+#EXTINF:-1,Усадьба
+http://37.235.177.98:81/udp/225.50.64.46:1234
 #EXTINF:-1,NHK World
-http://persik.tv/stream/0563/411651/10463.m3u8
-#EXTINF:-1,TRT 1
-http://persik.tv/stream/0563/411651/10464.m3u8
-#EXTINF:-1,?
-http://persik.tv/stream/0563/411651/10465.m3u8
-#EXTINF:-1,France 24
-http://persik.tv/stream/0563/411651/10466.m3u8
-#EXTINF:-1,TVP Polonia
-http://persik.tv/stream/0563/411651/10467.m3u8
-#EXTINF:-1,CCTV4
-http://persik.tv/stream/0563/411651/10469.m3u8
-#EXTINF:-1,Fashion One
-http://persik.tv/stream/0563/411651/10470.m3u8
-#EXTINF:-1,?
-http://persik.tv/stream/0563/411651/10471.m3u8
-#EXTINF:-1,CNBC
-http://persik.tv/stream/0563/411651/10473.m3u8
-#EXTINF:-1,Tele 5
-http://persik.tv/stream/0563/411651/10474.m3u8
-#EXTINF:-1,RTL
-http://persik.tv/stream/0563/411651/10475.m3u8
-#EXTINF:-1,?
-http://persik.tv/stream/0563/411651/10476.m3u8
-#EXTINF:-1,TVE Espana
-http://persik.tv/stream/0563/411651/10477.m3u8
-#EXTINF:-1,24 horas
-http://persik.tv/stream/0563/411651/10478.m3u8
-#EXTINF:-1,CNN
-http://persik.tv/stream/0563/411651/10479.m3u8
-#EXTINF:-1,Comedy Central
-http://persik.tv/stream/0563/411651/10480.m3u8
-#EXTINF:-1,VH1 classic
-http://persik.tv/stream/0563/411651/10481.m3u8
-#EXTINF:-1,VH1
-http://persik.tv/stream/0563/411651/10482.m3u8
-#EXTINF:-1,Denis Vlasin
-http://persik.tv/stream/0563/411651/10507.m3u8
-#EXTINF:-1,iling show
-http://persik.tv/stream/0563/411651/10505.m3u8
-#EXTINF:-1,Kosmo
-http://persik.tv/stream/0563/411651/10509.m3u8
-#EXTINF:-1,Niky Macaleen
-http://persik.tv/stream/0563/411651/10517.m3u8
-#EXTINF:-1,Russian MusicBox
-http://persik.tv/stream/0563/411651/411.m3u8
-#EXTINF:-1,Serega Otvertka
-http://persik.tv/stream/0563/411651/10508.m3u8
-#EXTINF:-1,TopRelaxMusic
-http://persik.tv/stream/0563/411651/10514.m3u8
-#EXTINF:-1,Vladimir Nikolaev
-http://persik.tv/stream/0563/411651/10515.m3u8
-#EXTINF:-1,Авиамания
-http://persik.tv/stream/0563/411651/10510.m3u8
-#EXTINF:-1,Беларусь 5 HD
-http://persik.tv/stream/0563/411651/10408.m3u8
-#EXTINF:-1,Малыш Мультиш
-http://persik.tv/stream/0563/411651/10518.m3u8
-#EXTINF:-1,Павел Юнусов
-http://persik.tv/stream/0563/411651/10504.m3u8
-#EXTINF:-1,Профессор ГУГЛОВ
-http://persik.tv/stream/0563/411651/10503.m3u8
-#EXTINF:-1,РыбаКит
-http://persik.tv/stream/0563/411651/10519.m3u8
-#EXTINF:-1,Уроки Гитары
-http://persik.tv/stream/0563/411651/10516.m3u8
-#EXTINF:-1,Хайповый Бизнеc
-http://persik.tv/stream/0563/411651/10520.m3u8
-#EXTINF:-1,Хочу знать все!
-http://persik.tv/stream/0563/411651/10506.m3u8
-#EXTINF:-1,Беларусь 5
-http://persik.tv/stream/0563/411651/932.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10027.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10306.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10308.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10318.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10324.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10307.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10351.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10353.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10352.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10354.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10358.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10364.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10363.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10362.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10367.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10377.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10366.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10384.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10383.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10385.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10374.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10382.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10386.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10375.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10396.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10397.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10400.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10401.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10402.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10378.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10399.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10425.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10428.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10427.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10429.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10432.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10459.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10433.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10486.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10487.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10484.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10485.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10498.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10512.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10511.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10513.m3u8
-#EXTINF:-1,Coup de Coeur Online
-http://persik.tv/stream/0563/411651/10532.m3u8
-#EXTINF:-1,HUDI DANCE
-http://persik.tv/stream/0563/411651/10527.m3u8
-#EXTINF:-1,RISK-ACADEMY
-http://persik.tv/stream/0563/411651/10530.m3u8
-#EXTINF:-1,SkyLCclub
-http://persik.tv/stream/0563/411651/10531.m3u8
-#EXTINF:-1,Sveta Rash
-http://persik.tv/stream/0563/411651/10533.m3u8
-#EXTINF:-1,Timur Mashnin
-http://persik.tv/stream/0563/411651/10525.m3u8
-#EXTINF:-1,YouRa Allakhverdov
-http://persik.tv/stream/0563/411651/10522.m3u8
-#EXTINF:-1,Алексей Юрченко
-http://persik.tv/stream/0563/411651/10528.m3u8
-#EXTINF:-1,ПОЛЕЗНЫЕ СОВЕТЫ MIX
-http://persik.tv/stream/0563/411651/10529.m3u8
-#EXTINF:-1,Робики
-http://persik.tv/stream/0563/411651/10524.m3u8
-#EXTINF:-1,Шахматы Олег Соломаха
-http://persik.tv/stream/0563/411651/10523.m3u8
-#EXTINF:-1,Алеся HD
-http://persik.tv/stream/0563/411651/10513.m3
+http://37.235.177.98:81/udp/225.50.64.50:1234
+#EXTINF:-1,RT
+http://37.235.177.98:81/udp/225.50.66.30:1234
+#EXTINF:-1,Дождь
+http://37.235.177.98:81/udp/225.50.76.1:1234
+#EXTINF:-1,МИР 24
+http://37.235.177.98:81/udp/225.50.64.95:1234
+#EXTINF:-1,РБК
+http://37.235.177.98:81/udp/225.50.66.1:1234
+#EXTINF:-1,Россия-24
+http://37.235.177.98:81/udp/225.50.66.86:1234
+#EXTINF:-1,2x2
+http://37.235.177.98:81/udp/225.50.64.4:1234
+#EXTINF:-1,360° HD
+http://37.235.177.98:81/udp/225.50.66.8:1234
+#EXTINF:-1,5 канал
+http://37.235.177.98:81/udp/225.50.66.95:1234
+#EXTINF:-1,Fashion TV
+http://37.235.177.98:81/udp/225.50.64.35:1234
+#EXTINF:-1,Game Show
+http://37.235.177.98:81/udp/225.50.64.98:1234
+#EXTINF:-1,O2
+http://37.235.177.98:81/udp/225.50.66.151:1234
+#EXTINF:-1,RTД HD
+http://37.235.177.98:81/udp/225.50.64.17:1234
+#EXTINF:-1,Shop 24
+http://37.235.177.98:81/udp/225.50.66.26:1234
+#EXTINF:-1,Shop&amp;Show
+http://37.235.177.98:81/udp/225.50.66.100:1234
+#EXTINF:-1,Top Shop TV
+http://37.235.177.98:81/udp/225.50.66.28:1234
+#EXTINF:-1,TV Mall
+http://37.235.177.98:81/udp/225.50.66.13:1234
+#EXTINF:-1,Время
+http://37.235.177.98:81/udp/225.50.64.14:1234
+#EXTINF:-1,Домашний
+http://37.235.177.98:81/udp/225.50.66.54:1234
+#EXTINF:-1,ЕГЭ ТВ
+http://37.235.177.98:81/udp/225.50.64.37:1234
+#EXTINF:-1,Звезда
+http://37.235.177.98:81/udp/225.50.66.57:1234
+#EXTINF:-1,Кухня ТВ
+http://37.235.177.98:81/udp/225.50.64.39:1234
 #EXTINF:-1,МИР
-http://persik.tv/stream/0563/411651/176.m3u8
-#EXTINF:-1,Беларусь РТР
-http://persik.tv/stream/0563/411651/00700.m3u8
-#EXTINF:-1,МАТЧ! Арена
-http://persik.tv/stream/0563/411651/00724.m3u8
-#EXTINF:-1,Столичный магазин
-http://persik.tv/stream/0563/411651/00741.m3u8
-#EXTINF:-1,Вопросы и ответы
-http://persik.tv/stream/0563/411651/00746.m3u8
-#EXTINF:-1,CN
-http://persik.tv/stream/0563/411651/00805.m3u8
-#EXTINF:-1,Совершенно секретно
-http://persik.tv/stream/0563/411651/00800.m3u8
-#EXTINF:-1,travel adventure
-http://persik.tv/stream/0563/411651/00832.m3u8
-#EXTINF:-1,ТВ 3
-http://persik.tv/stream/0563/411651/00847.m3u8
-#EXTINF:-1,History
-http://persik.tv/stream/0563/411651/00879.m3u8
-#EXTINF:-1,travel channel
-http://persik.tv/stream/0563/411651/00880.m3u8
-#EXTINF:-1,Беларусь 3
-http://persik.tv/stream/0563/411651/00883.m3u8
-#EXTINF:-1,Совершенно секретно
-http://persik.tv/stream/0563/411651/00888.m3u8
-#EXTINF:-1,travel channel
-http://persik.tv/stream/0563/411651/00886.m3u8
-#EXTINF:-1,A HBO
-http://persik.tv/stream/0563/411651/00895.m3u8
-#EXTINF:-1,History
-http://persik.tv/stream/0563/411651/00902.m3u8
-#EXTINF:-1,Авто 24
-http://persik.tv/stream/0563/411651/00924.m3u8
+http://37.235.177.98:81/udp/225.50.66.34:1234
+#EXTINF:-1,Новый век
+http://37.235.177.98:81/udp/225.50.66.14:1234
+#EXTINF:-1,Ностальгия
+http://37.235.177.98:81/udp/225.50.64.84:1234
+#EXTINF:-1,НТВ
+http://37.235.177.98:81/udp/225.50.66.94:1234
+#EXTINF:-1,ОТР
+http://37.235.177.98:81/udp/225.50.66.12:1234
+#EXTINF:-1,Твой дом HD
+http://37.235.177.98:81/udp/225.50.64.43:1234
+#EXTINF:-1,ТВЦ
+http://37.235.177.98:81/udp/225.50.66.3:1234
+#EXTINF:-1,Театр ТВ
+http://37.235.177.98:81/udp/225.50.64.38:1234
+#EXTINF:-1,Телекафе
+http://37.235.177.98:81/udp/225.50.64.15:1234
+#EXTINF:-1,ТМВ
+http://37.235.177.98:81/udp/225.50.66.152:1234
 #EXTINF:-1,ТНТ
-http://persik.tv/stream/0563/411651/00981.m3u8
+http://37.235.177.98:81/udp/225.50.66.59:1234
+#EXTINF:-1,FAN
+http://37.235.177.98:81/udp/225.50.64.16:1234
+#EXTINF:-1,Че
+http://37.235.177.98:81/udp/225.50.64.33:1234
+#EXTINF:-1,Ю
+http://37.235.177.98:81/udp/225.50.64.10:1234
+#EXTINF:-1,Ювелирочка
+http://37.235.177.98:81/udp/225.50.66.16:1234
+#EXTINF:-1,АВТО24
+http://37.235.177.98:81/udp/225.50.64.27:1234
+#EXTINF:-1,Драйв
+http://37.235.177.98:81/udp/225.50.64.105:1234
+#EXTINF:-1,КХЛ
+http://37.235.177.98:81/udp/225.50.64.72:1234
+#EXTINF:-1,Матч! Арена
+http://37.235.177.98:81/udp/225.50.64.42:1234
+#EXTINF:-1,Матч! Боец
+http://37.235.177.98:81/udp/225.50.64.19:1234
+#EXTINF:-1,Матч! Игра
+http://37.235.177.98:81/udp/225.50.64.41:1234
+#EXTINF:-1,Матч ТВ
+http://37.235.177.98:81/udp/225.50.66.91:1234
+#EXTINF:-1,Матч ТВ HD
+http://37.235.177.98:81/udp/225.50.64.150:1234
+#EXTINF:-1,Моторспорт.ТВ
+http://37.235.177.98:81/udp/225.50.64.81:1234
+#EXTINF:-1,Наш футбол
+http://37.235.177.98:81/udp/225.50.67.1:1234
+#EXTINF:-1,Охота и рыбалка
+http://37.235.177.98:81/udp/225.50.64.104:1234
+#EXTINF:-1,RTG TV
+http://37.235.177.98:81/udp/225.50.64.96:1234
+#EXTINF:-1,Mjuzik TV
+http://37.235.177.98:81/udp/225.50.66.70:1234
+#EXTINF:-1,TV Disco
+http://37.235.177.98:81/udp/225.50.66.74:1234
+#EXTINF:-1,НТВ
+http://persik.by/stream/2872/411403/10.m3u8
+#EXTINF:-1,Беларусь 1
+http://persik.by/stream/2872/411403/118.m3u8
+#EXTINF:-1,ОНТ
+http://persik.by/stream/2872/411403/111.m3u8
+#EXTINF:-1,СТВ
+http://persik.by/stream/2872/411403/115.m3u8
+#EXTINF:-1,РТР-Беларусь
+http://persik.by/stream/2872/411403/700.m3u8
+#EXTINF:-1,НТВ-Беларусь
+http://persik.by/stream/2872/411403/699.m3u8
+#EXTINF:-1,Беларусь 2
+http://persik.by/stream/2872/411403/148.m3u8
+#EXTINF:-1,Беларусь 3
+http://persik.by/stream/2872/411403/883.m3u8
+#EXTINF:-1,Первый Канал
+http://persik.by/stream/2872/411403/8.m3u8
+#EXTINF:-1,Россия 1
+http://persik.by/stream/2872/411403/9.m3u8
+#EXTINF:-1,Русская ночь HD
+http://persik.by/stream/2872/411403/296.m3u8
+#EXTINF:-1,1HD Music Television
+http://persik.by/stream/2872/411403/10423.m3u8
+#EXTINF:-1,Bridge TV
+http://persik.by/stream/2872/411403/409.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+http://persik.by/stream/2872/411403/668.m3u8
+#EXTINF:-1,CBS Reality
+http://persik.by/stream/2872/411403/10229.m3u8
+#EXTINF:-1,Euronews
+http://persik.by/stream/2872/411403/37.m3u8
+#EXTINF:-1,Euronews (Eng)
+http://persik.by/stream/2872/411403/10265.m3u8
+#EXTINF:-1,Europa Plus TV
+http://persik.by/stream/2872/411403/682.m3u8
+#EXTINF:-1,History
+http://persik.by/stream/2872/411403/902.m3u8
+#EXTINF:-1,Jazz
+http://persik.by/stream/2872/411403/10488.m3u8
+#EXTINF:-1,JimJam
+http://persik.by/stream/2872/411403/454.m3u8
+#EXTINF:-1,Nadia Umka
+http://persik.by/stream/2872/411403/10495.m3u8
+#EXTINF:-1,Outdoor Сhannel
+http://persik.by/stream/2872/411403/10246.m3u8
+#EXTINF:-1,N/A
+http://persik.by/stream/2872/411403/10213.m3u8
+#EXTINF:-1,TheWolfstalker
+http://persik.by/stream/2872/411403/10494.m3u8
+#EXTINF:-1,THT Music
+http://persik.by/stream/2872/411403/10247.m3u8
+#EXTINF:-1,Travel+Adventure
+http://persik.by/stream/2872/411403/832.m3u8
+#EXTINF:-1,Travel+Adventure HD
+http://persik.by/stream/2872/411403/10323.m3u8
+#EXTINF:-1,ZooПарк
+http://persik.by/stream/2872/411403/331.m3u8
+#EXTINF:-1,Авто 24
+http://persik.by/stream/2872/411403/924.m3u8
+#EXTINF:-1,Авто Плюс
+http://persik.by/stream/2872/411403/311.m3u8
+#EXTINF:-1,Бабушка Шошо
+http://persik.by/stream/2872/411403/10492.m3u8
+#EXTINF:-1,Беларусь 1 HD
+http://persik.by/stream/2872/411403/10405.m3u8
+#EXTINF:-1,Беларусь 2 HD
+http://persik.by/stream/2872/411403/10406.m3u8
+#EXTINF:-1,Беларусь 3 HD
+http://persik.by/stream/2872/411403/10407.m3u8
+#EXTINF:-1,Би-Би-Знайки
+http://persik.by/stream/2872/411403/10497.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://persik.by/stream/2872/411403/603.m3u8
+#EXTINF:-1,ВТВ
+http://persik.by/stream/2872/411403/139.m3u8
+#EXTINF:-1,Детский
+http://persik.by/stream/2872/411403/246.m3u8
+#EXTINF:-1,Домашние животные
+http://persik.by/stream/2872/411403/601.m3u8
+#EXTINF:-1,Драйв
+http://persik.by/stream/2872/411403/241.m3u8
+#EXTINF:-1,Здоровое ТВ
+http://persik.by/stream/2872/411403/242.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://persik.by/stream/2872/411403/10240.m3u8
+#EXTINF:-1,КХЛ HD
+http://persik.by/stream/2872/411403/10242.m3u8
+#EXTINF:-1,КХЛ ТВ
+http://persik.by/stream/2872/411403/604.m3u8
+#EXTINF:-1,Матч!
+http://persik.by/stream/2872/411403/276.m3u8
+#EXTINF:-1,Матч! Арена
+http://persik.by/stream/2872/411403/261.m3u8
+#EXTINF:-1,Матч! Игра
+http://persik.by/stream/2872/411403/10270.m3u8
+#EXTINF:-1,Матч! Наш спорт
+http://persik.by/stream/2872/411403/10271.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://persik.by/stream/2872/411403/346.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://persik.by/stream/2872/411403/10266.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://persik.by/stream/2872/411403/10217.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://persik.by/stream/2872/411403/10267.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://persik.by/stream/2872/411403/10218.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://persik.by/stream/2872/411403/10268.m3u8
+#EXTINF:-1,Мультимания
+http://persik.by/stream/2872/411403/286.m3u8
+#EXTINF:-1,Наш футбол
+http://persik.by/stream/2872/411403/284.m3u8
+#EXTINF:-1,ОНТ HD
+http://persik.by/stream/2872/411403/10409.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://persik.by/stream/2872/411403/243.m3u8
+#EXTINF:-1,Перец International
+http://persik.by/stream/2872/411403/10273.m3u8
+#EXTINF:-1,Простые рисунки
+http://persik.by/stream/2872/411403/10491.m3u8
+#EXTINF:-1,Психология21
+http://persik.by/stream/2872/411403/602.m3u8
+#EXTINF:-1,Ретро
+http://persik.by/stream/2872/411403/244.m3u8
+#EXTINF:-1,Рождественский камин
+http://persik.by/stream/2872/411403/10496.m3u8
+#EXTINF:-1,Русский иллюзион
+http://persik.by/stream/2872/411403/177.m3u8
+#EXTINF:-1,Светлое ТВ
+http://persik.by/stream/2872/411403/10322.m3u8
+#EXTINF:-1,Светлое ТВ HD
+http://persik.by/stream/2872/411403/10426.m3u8
+#EXTINF:-1,Скиф
+http://persik.by/stream/2872/411403/10431.m3u8
+#EXTINF:-1,Скиф HD
+http://persik.by/stream/2872/411403/10430.m3u8
+#EXTINF:-1,Совершенно секретно
+http://persik.by/stream/2872/411403/350.m3u8
+#EXTINF:-1,Союз
+http://persik.by/stream/2872/411403/235.m3u8
+#EXTINF:-1,Спорт 1
+http://persik.by/stream/2872/411403/270.m3u8
+#EXTINF:-1,Спорт 2
+http://persik.by/stream/2872/411403/309.m3u8
+#EXTINF:-1,СТВ HD
+http://persik.by/stream/2872/411403/10410.m3u8
+#EXTINF:-1,Сундучок Историй
+http://persik.by/stream/2872/411403/10490.m3u8
+#EXTINF:-1,ТВ-3 Беларусь
+http://persik.by/stream/2872/411403/847.m3u8
+#EXTINF:-1,ТелеДом HD
+http://persik.by/stream/2872/411403/10419.m3u8
+#EXTINF:-1,Усадьба
+http://persik.by/stream/2872/411403/305.m3u8
+#EXTINF:-1,Фасоль
+http://persik.by/stream/2872/411403/10493.m3u8
+#EXTINF:-1,Филармония имени Шостаковича
+http://persik.by/stream/2872/411403/10489.m3u8
+#EXTINF:-1,COMEDY
+http://persik.by/stream/2872/411403/10235.m3u8
+#EXTINF:-1,Dom Kino
+http://persik.by/stream/2872/411403/10228.m3u8
+#EXTINF:-1,EUROKINO
+http://persik.by/stream/2872/411403/10222.m3u8
+#EXTINF:-1,Europa
+http://persik.by/stream/2872/411403/10260.m3u8
+#EXTINF:-1,MTV HITS
+http://persik.by/stream/2872/411403/10208.m3u8
+#EXTINF:-1,JARA TV
+http://persik.by/stream/2872/411403/10286.m3u8
+#EXTINF:-1,Nat Geo HD
+http://persik.by/stream/2872/411403/10243.m3u8
+#EXTINF:-1,Kukhnya TV
+http://persik.by/stream/2872/411403/10287.m3u8
+#EXTINF:-1,М
+http://persik.by/stream/2872/411403/595.m3u8
+#EXTINF:-1,travel russia
+http://persik.by/stream/2872/411403/880.m3u8
+#EXTINF:-1,ВТВ
+http://persik.by/stream/2872/411403/10263.m3u8
+#EXTINF:-1,Живи
+http://persik.by/stream/2872/411403/511.m3u8
+#EXTINF:-1,ТНТ
+http://persik.by/stream/2872/411403/981.m3u8
+#EXTINF:-1,КИНОКАМЕДИЯ
+http://persik.by/stream/2872/411403/292.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://persik.by/stream/2872/411403/312.m3u8
+#EXTINF:-1,Amedia Premium HBO2
+http://persik.by/stream/2872/411403/643.m3u8
+#EXTINF:-1,Amedia Hit HBO
+http://persik.by/stream/2872/411403/895.m3u8
+#EXTINF:-1,НАШ Футбол ESPORTE
+http://persik.by/stream/2872/411403/10264.m3u8
+#EXTINF:-1,МАТЧ! планета ESPORTE
+http://persik.by/stream/2872/411403/10269.m3u8
+#EXTINF:-1,Carton
+http://persik.by/stream/2872/411403/32.m3u8
+#EXTINF:-1,MTV LIVE HD MUSICA
+http://persik.by/stream/2872/411403/10289.m3u8
+#EXTINF:-1,RU TV MUSICA
+http://persik.by/stream/2872/411403/10261.m3u8
+#EXTINF:-1,ЖАРА MUSICA
+http://persik.by/stream/2872/411403/384.m3u8
+#EXTINF:-1,Briefly
+http://persik.by/stream/2872/411403/10499.m3u8
+#EXTINF:-1,Жара
+http://persik.by/stream/2872/411403/11.m3u8
+#EXTINF:-1,Рен ТВ
+http://persik.by/stream/2872/411403/13.m3u8
+#EXTINF:-1,ТНТ
+http://persik.by/stream/2872/411403/14.m3u8
+#EXTINF:-1,Россия К
+http://persik.by/stream/2872/411403/15.m3u8
+#EXTINF:-1,СТС
+http://persik.by/stream/2872/411403/17.m3u8
+#EXTINF:-1,Киносвидание
+http://persik.by/stream/2872/411403/30.m3u8
+#EXTINF:-1,Футбол 1
+http://persik.by/stream/2872/411403/33.m3u8
+#EXTINF:-1,Кинопремьера
+http://persik.by/stream/2872/411403/34.m3u8
+#EXTINF:-1,CNL
+http://persik.by/stream/2872/411403/38.m3u8
+#EXTINF:-1,Nickelodeon
+http://persik.by/stream/2872/411403/45.m3u8
+#EXTINF:-1,BBC World News
+http://persik.by/stream/2872/411403/46.m3u8
+#EXTINF:-1,Пятница
+http://persik.by/stream/2872/411403/48.m3u8
+#EXTINF:-1,Ю
+http://persik.by/stream/2872/411403/49.m3u8
+#EXTINF:-1,Cartoon Network
+http://persik.by/stream/2872/411403/54.m3u8
+#EXTINF:-1,Че
+http://persik.by/stream/2872/411403/56.m3u8
+#EXTINF:-1,ТВ 3
+http://persik.by/stream/2872/411403/63.m3u8
+#EXTINF:-1,ТНТ4
+http://persik.by/stream/2872/411403/64.m3u8
+#EXTINF:-1,DW
+http://persik.by/stream/2872/411403/84.m3u8
+#EXTINF:-1,Travel channel
+http://persik.by/stream/2872/411403/88.m3u8
+#EXTINF:-1,Bloomberg
+http://persik.by/stream/2872/411403/90.m3u8
+#EXTINF:-1,Спорт 2 Украина
+http://persik.by/stream/2872/411403/91.m3u8
+#EXTINF:-1,Planeta RTR
+http://persik.by/stream/2872/411403/98.m3u8
+#EXTINF:-1,EX
+http://persik.by/stream/2872/411403/99.m3u8
+#EXTINF:-1,ТВ 3
+http://persik.by/stream/2872/411403/106.m3u8
+#EXTINF:-1,ВТВ
+http://persik.by/stream/2872/411403/124.m3u8
+#EXTINF:-1,Россия К
+http://persik.by/stream/2872/411403/140.m3u8
+#EXTINF:-1,Спорт 2 Украина
+http://persik.by/stream/2872/411403/144.m3u8
+#EXTINF:-1,Пятница
+http://persik.by/stream/2872/411403/178.m3u8
+#EXTINF:-1,Кинохит
+http://persik.by/stream/2872/411403/213.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/215.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/232.m3u8
+#EXTINF:-1,ТВ Центр
+http://persik.by/stream/2872/411403/237.m3u8
+#EXTINF:-1,А1
+http://persik.by/stream/2872/411403/257.m3u8
+#EXTINF:-1,Наше новое кино
+http://persik.by/stream/2872/411403/260.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/263.m3u8
+#EXTINF:-1,Киносерия
+http://persik.by/stream/2872/411403/278.m3u8
+#EXTINF:-1,365 дней
+http://persik.by/stream/2872/411403/279.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/308.m3u8
+#EXTINF:-1,Боец
+http://persik.by/stream/2872/411403/310.m3u8
+#EXTINF:-1,Иллюзион
+http://persik.by/stream/2872/411403/327.m3u8
+#EXTINF:-1,Россия 24
+http://persik.by/stream/2872/411403/328.m3u8
+#EXTINF:-1,Кухня ТВ
+http://persik.by/stream/2872/411403/383.m3u8
+#EXTINF:-1,Че
+http://persik.by/stream/2872/411403/385.m3u8
+#EXTINF:-1,CNL
+http://persik.by/stream/2872/411403/397.m3u8
+#EXTINF:-1,Кто есть кто
+http://persik.by/stream/2872/411403/399.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/410.m3u8
+#EXTINF:-1,Travel channel
+http://persik.by/stream/2872/411403/424.m3u8
+#EXTINF:-1,Первый канал
+http://persik.by/stream/2872/411403/435.m3u8
+#EXTINF:-1,Футбол
+http://persik.by/stream/2872/411403/440.m3u8
+#EXTINF:-1,А2
+http://persik.by/stream/2872/411403/447.m3u8
+#EXTINF:-1,Пятница
+http://persik.by/stream/2872/411403/459.m3u8
+#EXTINF:-1,ТНТ4
+http://persik.by/stream/2872/411403/476.m3u8
+#EXTINF:-1,КХЛ
+http://persik.by/stream/2872/411403/485.m3u8
+#EXTINF:-1,Euronews
+http://persik.by/stream/2872/411403/525.m3u8
+#EXTINF:-1,Киносемья
+http://persik.by/stream/2872/411403/590.m3u8
+#EXTINF:-1,Киномикс
+http://persik.by/stream/2872/411403/608.m3u8
+#EXTINF:-1,Travel Adventure
+http://persik.by/stream/2872/411403/635.m3u8
+#EXTINF:-1,Amedia premium
+http://persik.by/stream/2872/411403/647.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/675.m3u8
+#EXTINF:-1,Euronews
+http://persik.by/stream/2872/411403/687.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/707.m3u8
+#EXTINF:-1,Матч Арена
+http://persik.by/stream/2872/411403/724.m3u8
+#EXTINF:-1,Столичный магазин
+http://persik.by/stream/2872/411403/741.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://persik.by/stream/2872/411403/746.m3u8
+#EXTINF:-1,Совершенно секретно
+http://persik.by/stream/2872/411403/800.m3u8
+#EXTINF:-1,Cartoon Network
+http://persik.by/stream/2872/411403/805.m3u8
+#EXTINF:-1,History HD
+http://persik.by/stream/2872/411403/879.m3u8
+#EXTINF:-1,Travel channel
+http://persik.by/stream/2872/411403/886.m3u8
+#EXTINF:-1,Совершенно секретно
+http://persik.by/stream/2872/411403/888.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/899.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/1014.m3u8
+#EXTINF:-1,ТНТ International
+http://persik.by/stream/2872/411403/1052.m3u8
+#EXTINF:-1,Матч
+http://persik.by/stream/2872/411403/1077.m3u8
+#EXTINF:-1,Шансон ТВ
+http://persik.by/stream/2872/411403/1084.m3u8
+#EXTINF:-1,Авто 24
+http://persik.by/stream/2872/411403/10004.m3u8
+#EXTINF:-1,Travel Adventure
+http://persik.by/stream/2872/411403/10010.m3u8
+#EXTINF:-1,National Geografic HD
+http://persik.by/stream/2872/411403/10016.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/10020.m3u8
+#EXTINF:-1,Первый канал
+http://persik.by/stream/2872/411403/10021.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/10022.m3u8
+#EXTINF:-1,Первый музыкальный HD
+http://persik.by/stream/2872/411403/10024.m3u8
+#EXTINF:-1,Мужское кино
+http://persik.by/stream/2872/411403/10025.m3u8
+#EXTINF:-1,Заставка
+http://persik.by/stream/2872/411403/10029.m3u8
+#EXTINF:-1,Беларусь 24
+http://persik.by/stream/2872/411403/10200.m3u8
+#EXTINF:-1,8 канал Россия
+http://persik.by/stream/2872/411403/10201.m3u8
+#EXTINF:-1,RT
+http://persik.by/stream/2872/411403/10202.m3u8
+#EXTINF:-1,News One
+http://persik.by/stream/2872/411403/10205.m3u8
+#EXTINF:-1,Муз ТВ
+http://persik.by/stream/2872/411403/10207.m3u8
+#EXTINF:-1,CandyMan
+http://persik.by/stream/2872/411403/10209.m3u8
+#EXTINF:-1,Natiional Geografic
+http://persik.by/stream/2872/411403/10210.m3u8
+#EXTINF:-1,2x2
+http://persik.by/stream/2872/411403/10211.m3u8
+#EXTINF:-1,Звезда
+http://persik.by/stream/2872/411403/10220.m3u8
+#EXTINF:-1,MTV
+http://persik.by/stream/2872/411403/10226.m3u8
+#EXTINF:-1,MTV Rocks
+http://persik.by/stream/2872/411403/10227.m3u8
+#EXTINF:-1,Новый мир
+http://persik.by/stream/2872/411403/10231.m3u8
+#EXTINF:-1,Fox
+http://persik.by/stream/2872/411403/10234.m3u8
+#EXTINF:-1,History HD
+http://persik.by/stream/2872/411403/10244.m3u8
+#EXTINF:-1,Travel channel
+http://persik.by/stream/2872/411403/10245.m3u8
+#EXTINF:-1,Беларусь 1
+http://persik.by/stream/2872/411403/10251.m3u8
+#EXTINF:-1,Беларусь 2
+http://persik.by/stream/2872/411403/10252.m3u8
+#EXTINF:-1,Беларусь 3
+http://persik.by/stream/2872/411403/10253.m3u8
+#EXTINF:-1,НТВ Беларусь
+http://persik.by/stream/2872/411403/10255.m3u8
+#EXTINF:-1,Беларусь РТР
+http://persik.by/stream/2872/411403/10256.m3u8
+#EXTINF:-1,СТВ
+http://persik.by/stream/2872/411403/10257.m3u8
+#EXTINF:-1,ОНТ
+http://persik.by/stream/2872/411403/10258.m3u8
+#EXTINF:-1,ТНТ Music
+http://persik.by/stream/2872/411403/10262.m3u8
+#EXTINF:-1,Мир Premium HD
+http://persik.by/stream/2872/411403/10283.m3u8
+#EXTINF:-1,ББК
+http://persik.by/stream/2872/411403/10284.m3u8
+#EXTINF:-1,Живи
+http://persik.by/stream/2872/411403/10285.m3u8
+#EXTINF:-1,365 дней
+http://persik.by/stream/2872/411403/10288.m3u8
+#EXTINF:-1,Home
+http://persik.by/stream/2872/411403/10292.m3u8
+#EXTINF:-1,Матч Премьер
+http://persik.by/stream/2872/411403/10294.m3u8
+#EXTINF:-1,HDL HD
+http://persik.by/stream/2872/411403/10295.m3u8
+#EXTINF:-1,ОНТ
+http://persik.by/stream/2872/411403/10296.m3u8
+#EXTINF:-1,Беларусь 1
+http://persik.by/stream/2872/411403/10297.m3u8
+#EXTINF:-1,Беларусь 2
+http://persik.by/stream/2872/411403/10298.m3u8
+#EXTINF:-1,Беларусь 3
+http://persik.by/stream/2872/411403/10299.m3u8
+#EXTINF:-1,Беларусь 24
+http://persik.by/stream/2872/411403/10301.m3u8
+#EXTINF:-1,Беларусь РТР
+http://persik.by/stream/2872/411403/10302.m3u8
+#EXTINF:-1,НТВ Беларусь
+http://persik.by/stream/2872/411403/10303.m3u8
+#EXTINF:-1,СТВ
+http://persik.by/stream/2872/411403/10304.m3u8
+#EXTINF:-1,Мир
+http://persik.by/stream/2872/411403/10305.m3u8
+#EXTINF:-1,EX
+http://persik.by/stream/2872/411403/10309.m3u8
+#EXTINF:-1,Че
+http://persik.by/stream/2872/411403/10310.m3u8
+#EXTINF:-1,Родное кино
+http://persik.by/stream/2872/411403/10311.m3u8
+#EXTINF:-1,Киносерия
+http://persik.by/stream/2872/411403/10312.m3u8
+#EXTINF:-1,Setanta sports
+http://persik.by/stream/2872/411403/10313.m3u8
+#EXTINF:-1,Setanta sports HD
+http://persik.by/stream/2872/411403/10314.m3u8
+#EXTINF:-1,Setanta sports
+http://persik.by/stream/2872/411403/10315.m3u8
+#EXTINF:-1,Setanta sports HD
+http://persik.by/stream/2872/411403/10316.m3u8
+#EXTINF:-1,Fashion 4K
+http://persik.by/stream/2872/411403/10317.m3u8
+#EXTINF:-1,Кинохит
+http://persik.by/stream/2872/411403/10327.m3u8
+#EXTINF:-1,Кинопремьера
+http://persik.by/stream/2872/411403/10328.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://persik.by/stream/2872/411403/10329.m3u8
+#EXTINF:-1,Киносемья
+http://persik.by/stream/2872/411403/10330.m3u8
+#EXTINF:-1,Киносвидание
+http://persik.by/stream/2872/411403/10331.m3u8
+#EXTINF:-1,Киномикс
+http://persik.by/stream/2872/411403/10332.m3u8
+#EXTINF:-1,Кинокомедия
+http://persik.by/stream/2872/411403/10333.m3u8
+#EXTINF:-1,Наше новое кино
+http://persik.by/stream/2872/411403/10334.m3u8
+#EXTINF:-1,Мужское кино HD
+http://persik.by/stream/2872/411403/10368.m3u8
+#EXTINF:-1,Санаторий Радон HD
+http://persik.by/stream/2872/411403/10370.m3u8
+#EXTINF:-1,CNL
+http://persik.by/stream/2872/411403/10373.m3u8
+#EXTINF:-1,ББК
+http://persik.by/stream/2872/411403/10376.m3u8
+#EXTINF:-1,Мир
+http://persik.by/stream/2872/411403/10404.m3u8
+#EXTINF:-1,TVT
+http://persik.by/stream/2872/411403/10414.m3u8
+#EXTINF:-1,Persik HD
+http://persik.by/stream/2872/411403/10416.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://persik.by/stream/2872/411403/10420.m3u8
+#EXTINF:-1,Детский мир
+http://persik.by/stream/2872/411403/10421.m3u8
+#EXTINF:-1,Дисней
+http://persik.by/stream/2872/411403/10422.m3u8
+#EXTINF:-1,Отель Неман HD
+http://persik.by/stream/2872/411403/10424.m3u8
+#EXTINF:-1,NatGeo Wild
+http://persik.by/stream/2872/411403/10446.m3u8
+#EXTINF:-1,SET
+http://persik.by/stream/2872/411403/10448.m3u8
+#EXTINF:-1,Sony Sci-fi
+http://persik.by/stream/2872/411403/10449.m3u8
+#EXTINF:-1,Sony Turbo
+http://persik.by/stream/2872/411403/10450.m3u8
+#EXTINF:-1,Мир сериала
+http://persik.by/stream/2872/411403/10451.m3u8
+#EXTINF:-1,Любимое кино
+http://persik.by/stream/2872/411403/10452.m3u8
+#EXTINF:-1,Кто есть кто
+http://persik.by/stream/2872/411403/10453.m3u8
+#EXTINF:-1,Shot TV
+http://persik.by/stream/2872/411403/10454.m3u8
+#EXTINF:-1,Fox Life
+http://persik.by/stream/2872/411403/10455.m3u8
+#EXTINF:-1,Карусель
+http://persik.by/stream/2872/411403/10456.m3u8
+#EXTINF:-1,RTД
+http://persik.by/stream/2872/411403/10457.m3u8
+#EXTINF:-1,Rai 1
+http://persik.by/stream/2872/411403/10458.m3u8
+#EXTINF:-1,Dubai
+http://persik.by/stream/2872/411403/10460.m3u8
+#EXTINF:-1,?
+http://persik.by/stream/2872/411403/10461.m3u8
+#EXTINF:-1,TV5 Monde
+http://persik.by/stream/2872/411403/10462.m3u8
+#EXTINF:-1,NHK World
+http://persik.by/stream/2872/411403/10463.m3u8
+#EXTINF:-1,TRT 1
+http://persik.by/stream/2872/411403/10464.m3u8
+#EXTINF:-1,?
+http://persik.by/stream/2872/411403/10465.m3u8
+#EXTINF:-1,France 24
+http://persik.by/stream/2872/411403/10466.m3u8
+#EXTINF:-1,TVP Polonia
+http://persik.by/stream/2872/411403/10467.m3u8
+#EXTINF:-1,CCTV4
+http://persik.by/stream/2872/411403/10469.m3u8
+#EXTINF:-1,Fashion One
+http://persik.by/stream/2872/411403/10470.m3u8
+#EXTINF:-1,?
+http://persik.by/stream/2872/411403/10471.m3u8
+#EXTINF:-1,CNBC
+http://persik.by/stream/2872/411403/10473.m3u8
+#EXTINF:-1,Tele 5
+http://persik.by/stream/2872/411403/10474.m3u8
+#EXTINF:-1,RTL
+http://persik.by/stream/2872/411403/10475.m3u8
+#EXTINF:-1,?
+http://persik.by/stream/2872/411403/10476.m3u8
+#EXTINF:-1,TVE Espana
+http://persik.by/stream/2872/411403/10477.m3u8
+#EXTINF:-1,24 horas
+http://persik.by/stream/2872/411403/10478.m3u8
+#EXTINF:-1,CNN
+http://persik.by/stream/2872/411403/10479.m3u8
+#EXTINF:-1,Comedy Central
+http://persik.by/stream/2872/411403/10480.m3u8
+#EXTINF:-1,VH1 classic
+http://persik.by/stream/2872/411403/10481.m3u8
+#EXTINF:-1,VH1
+http://persik.by/stream/2872/411403/10482.m3u8
+#EXTINF:-1,Denis Vlasin
+http://persik.by/stream/2872/411403/10507.m3u8
+#EXTINF:-1,iling show
+http://persik.by/stream/2872/411403/10505.m3u8
+#EXTINF:-1,Kosmo
+http://persik.by/stream/2872/411403/10509.m3u8
+#EXTINF:-1,Niky Macaleen
+http://persik.by/stream/2872/411403/10517.m3u8
+#EXTINF:-1,Russian MusicBox
+http://persik.by/stream/2872/411403/411.m3u8
+#EXTINF:-1,Serega Otvertka
+http://persik.by/stream/2872/411403/10508.m3u8
+#EXTINF:-1,TopRelaxMusic
+http://persik.by/stream/2872/411403/10514.m3u8
+#EXTINF:-1,Vladimir Nikolaev
+http://persik.by/stream/2872/411403/10515.m3u8
+#EXTINF:-1,Авиамания
+http://persik.by/stream/2872/411403/10510.m3u8
+#EXTINF:-1,Беларусь 5 HD
+http://persik.by/stream/2872/411403/10408.m3u8
+#EXTINF:-1,Малыш Мультиш
+http://persik.by/stream/2872/411403/10518.m3u8
+#EXTINF:-1,Павел Юнусов
+http://persik.by/stream/2872/411403/10504.m3u8
+#EXTINF:-1,Профессор ГУГЛОВ
+http://persik.by/stream/2872/411403/10503.m3u8
+#EXTINF:-1,РыбаКит
+http://persik.by/stream/2872/411403/10519.m3u8
+#EXTINF:-1,Уроки Гитары
+http://persik.by/stream/2872/411403/10516.m3u8
+#EXTINF:-1,Хайповый Бизнеc
+http://persik.by/stream/2872/411403/10520.m3u8
+#EXTINF:-1,Хочу знать все!
+http://persik.by/stream/2872/411403/10506.m3u8
+#EXTINF:-1,Беларусь 5
+http://persik.by/stream/2872/411403/932.m3u8
+#EXTINF:-1,Робики
+http://persik.by/stream/2872/411403/10524.m3u8
+#EXTINF:-1,Шахматы Олег Соломаха
+http://persik.by/stream/2872/411403/10523.m3u8
+#EXTINF:-1,Алеся HD
+http://persik.by/stream/2872/411403/10513.m3
+#EXTINF:-1,МИР
+http://persik.by/stream/2872/411403/176.m3u8
+#EXTINF:-1,Беларусь РТР
+http://persik.by/stream/2872/411403/00700.m3u8
+#EXTINF:-1,МАТЧ! Арена
+http://persik.by/stream/2872/411403/00724.m3u8
+#EXTINF:-1,Столичный магазин
+http://persik.by/stream/2872/411403/00741.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://persik.by/stream/2872/411403/00746.m3u8
+#EXTINF:-1,CN
+http://persik.by/stream/2872/411403/00805.m3u8
+#EXTINF:-1,Совершенно секретно
+http://persik.by/stream/2872/411403/00800.m3u8
+#EXTINF:-1,travel adventure
+http://persik.by/stream/2872/411403/00832.m3u8
+#EXTINF:-1,ТВ 3
+http://persik.by/stream/2872/411403/00847.m3u8
+#EXTINF:-1,History
+http://persik.by/stream/2872/411403/00879.m3u8
+#EXTINF:-1,travel channel
+http://persik.by/stream/2872/411403/00880.m3u8
+#EXTINF:-1,Беларусь 3
+http://persik.by/stream/2872/411403/00883.m3u8
+#EXTINF:-1,Совершенно секретно
+http://persik.by/stream/2872/411403/00888.m3u8
+#EXTINF:-1,travel channel
+http://persik.by/stream/2872/411403/00886.m3u8
+#EXTINF:-1,A HBO
+http://persik.by/stream/2872/411403/00895.m3u8
+#EXTINF:-1,History
+http://persik.by/stream/2872/411403/00902.m3u8
+#EXTINF:-1,Авто 24
+http://persik.by/stream/2872/411403/00924.m3u8
+#EXTINF:-1,ТНТ
+http://persik.by/stream/2872/411403/00981.m3u8
 #EXTINF:-1,Советы электрика HD
-http://persik.tv/stream/0563/411651/10534.m3u8
+http://persik.by/stream/2872/411403/10534.m3u8
 #EXTINF:-1,Экскурсионный канал 4K
-http://persik.tv/stream/0563/411651/10535.m3u8
+http://persik.by/stream/2872/411403/10535.m3u8
 #EXTINF:-1,Serega Master HD
-http://persik.tv/stream/0563/411651/10536.m3u8
+http://persik.by/stream/2872/411403/10536.m3u8
 #EXTINF:-1,Web разработка HD
-http://persik.tv/stream/0563/411651/10537.m3u8
+http://persik.by/stream/2872/411403/10537.m3u8
 #EXTINF:-1,DanceFit HD
-http://persik.tv/stream/0563/411651/10538.m3u8
+http://persik.by/stream/2872/411403/10538.m3u8
 #EXTINF:-1,Премьеры фильмов HD
-http://persik.tv/stream/0563/411651/10539.m3u8
+http://persik.by/stream/2872/411403/10539.m3u8
 #EXTINF:-1,Премьеры фильмов HD
-http://persik.tv/stream/0563/411651/10540.m3u8
+http://persik.by/stream/2872/411403/10540.m3u8
 #EXTINF:-1,МультиЁж HD
-http://persik.tv/stream/0563/411651/10541.m3u8
+http://persik.by/stream/2872/411403/10541.m3u8
 #EXTINF:-1,Премьеры фильмов HD
-http://persik.tv/stream/0563/411651/10542.m3u8
+http://persik.by/stream/2872/411403/10542.m3u8
 #EXTINF:-1,Основы linq и C sharp basics
-http://persik.tv/stream/0563/411651/10545.m3u8
+http://persik.by/stream/2872/411403/10545.m3u8
 #EXTINF:-1,Promo
-http://persik.tv/stream/0563/411651/10030.m3u8
+http://persik.by/stream/2872/411403/10030.m3u8
 #EXTINF:-1,Гостиницы Беларуси
-http://persik.tv/stream/0563/411651/10673.m3u8
+http://persik.by/stream/2872/411403/10673.m3u8
 #EXTINF:-1,Кинокомедии. Рекомендуем
-http://persik.tv/stream/0563/411651/10544.m3u8
+http://persik.by/stream/2872/411403/10544.m3u8
 #EXTINF:-1,Культовое кино
-http://persik.tv/stream/0563/411651/10578.m3u8
+http://persik.by/stream/2872/411403/10578.m3u8
 #EXTINF:-1,Малыш ТВ
-http://persik.tv/stream/0563/411651/10579.m3u8
+http://persik.by/stream/2872/411403/10579.m3u8
 #EXTINF:-1,Санатории Беларуси
-http://persik.tv/stream/0563/411651/10674.m3u8
+http://persik.by/stream/2872/411403/10674.m3u8
 #EXTINF:-1,Только победители
-http://persik.tv/stream/0563/411651/10577.m3u8
+http://persik.by/stream/2872/411403/10577.m3u8
 #EXTINF:-1,DIANA DI
-http://persik.tv/stream/0563/411651/10624.m3u8
+http://persik.by/stream/2872/411403/10624.m3u8
 #EXTINF:-1,DIPT
-http://persik.tv/stream/0563/411651/10556.m3u8
+http://persik.by/stream/2872/411403/10556.m3u8
 #EXTINF:-1,Elena Matveeva
-http://persik.tv/stream/0563/411651/10664.m3u8
+http://persik.by/stream/2872/411403/10664.m3u8
 #EXTINF:-1,Fedor Comix
-http://persik.tv/stream/0563/411651/10567.m3u8
+http://persik.by/stream/2872/411403/10567.m3u8
 #EXTINF:-1,flynutrition
-http://persik.tv/stream/0563/411651/10620.m3u8
+http://persik.by/stream/2872/411403/10620.m3u8
 #EXTINF:-1,GoldenBurst
-http://persik.tv/stream/0563/411651/10564.m3u8
+http://persik.by/stream/2872/411403/10564.m3u8
 #EXTINF:-1,GruzdoV
-http://persik.tv/stream/0563/411651/10608.m3u8
+http://persik.by/stream/2872/411403/10608.m3u8
 #EXTINF:-1,Info
-http://persik.tv/stream/0563/411651/10681.m3u8
+http://persik.by/stream/2872/411403/10681.m3u8
 #EXTINF:-1,KINOKOS
-http://persik.tv/stream/0563/411651/10609.m3u8
+http://persik.by/stream/2872/411403/10609.m3u8
 #EXTINF:-1,Konstantin Andropov
-http://persik.tv/stream/0563/411651/10660.m3u8
+http://persik.by/stream/2872/411403/10660.m3u8
 #EXTINF:-1,Madman
-http://persik.tv/stream/0563/411651/10584.m3u8
+http://persik.by/stream/2872/411403/10584.m3u8
 #EXTINF:-1,Magic Five
-http://persik.tv/stream/0563/411651/10552.m3u8
+http://persik.by/stream/2872/411403/10552.m3u8
 #EXTINF:-1,Minsk 4K
-http://persik.tv/stream/0563/411651/10605.m3u8
-#EXTINF:-1,Mister Booble
-http://persik.tv/stream/0563/411651/10637.m3u8
+http://persik.by/stream/2872/411403/10605.m3u8
 #EXTINF:-1,MMA Time
-http://persik.tv/stream/0563/411651/10648.m3u8
+http://persik.by/stream/2872/411403/10648.m3u8
 #EXTINF:-1,Mr. Toy Cartoon
-http://persik.tv/stream/0563/411651/10580.m3u8
+http://persik.by/stream/2872/411403/10580.m3u8
 #EXTINF:-1,Pastime Time
-http://persik.tv/stream/0563/411651/10566.m3u8
-#EXTINF:-1,Ridddle
-http://persik.tv/stream/0563/411651/10554.m3u8
-#EXTINF:-1,Saiman - Expedition of the World
-http://persik.tv/stream/0563/411651/10667.m3u8
-#EXTINF:-1,Samodelki Vitmana
-http://persik.tv/stream/0563/411651/10611.m3u8
-#EXTINF:-1,Sasha Chistova
-http://persik.tv/stream/0563/411651/10553.m3u8
-#EXTINF:-1,Serginio Fishing TV - рыболовный канал
-http://persik.tv/stream/0563/411651/10630.m3u8
-#EXTINF:-1,SmooveUkraine
-http://persik.tv/stream/0563/411651/10669.m3u8
-#EXTINF:-1,Smotri Planeta
-http://persik.tv/stream/0563/411651/10590.m3u8
-#EXTINF:-1,Sonya Rudskaya
-http://persik.tv/stream/0563/411651/10589.m3u8
-#EXTINF:-1,TaGs Play Theme
-http://persik.tv/stream/0563/411651/10617.m3u8
-#EXTINF:-1,Tanya StreLove
-http://persik.tv/stream/0563/411651/10558.m3u8
-#EXTINF:-1,Tasty food
-http://persik.tv/stream/0563/411651/10626.m3u8
-#EXTINF:-1,Test-drive TV
-http://persik.tv/stream/0563/411651/10581.m3u8
-#EXTINF:-1,TEXaS TV
-http://persik.tv/stream/0563/411651/10568.m3u8
-#EXTINF:-1,TheVovkaCom
-http://persik.tv/stream/0563/411651/10594.m3u8
-#EXTINF:-1,TOP - Кино
-http://persik.tv/stream/0563/411651/10640.m3u8
-#EXTINF:-1,tvzavr. Фестивальное
-http://persik.tv/stream/0563/411651/10642.m3u8
-#EXTINF:-1,Umeloe TV
-http://persik.tv/stream/0563/411651/10560.m3u8
-#EXTINF:-1,urbanturizm
-http://persik.tv/stream/0563/411651/10587.m3u8
-#EXTINF:-1,ia
-http://persik.tv/stream/0563/411651/10599.m3u8
-#EXTINF:-1,Vitalik Ignatyuk
-http://persik.tv/stream/0563/411651/10563.m3u8
+http://persik.by/stream/2872/411403/10566.m3u8
 #EXTINF:-1,Беларусь 4. Гомель
-http://persik.tv/stream/0563/411651/10683.m3u8
-#EXTINF:-1,Братья Рыбаки
-http://persik.tv/stream/0563/411651/10636.m3u8
+http://persik.by/stream/2872/411403/10683.m3u8
 #EXTINF:-1,В поиске кладов!
-http://persik.tv/stream/0563/411651/10649.m3u8
+http://persik.by/stream/2872/411403/10649.m3u8
 #EXTINF:-1,ВКРАТЦЕ- что если
-http://persik.tv/stream/0563/411651/10607.m3u8
+http://persik.by/stream/2872/411403/10607.m3u8
 #EXTINF:-1,ДНЕВНИК ЕВРЕЯ
-http://persik.tv/stream/0563/411651/10565.m3u8
+http://persik.by/stream/2872/411403/10565.m3u8
 #EXTINF:-1,Добрые походы
-http://persik.tv/stream/0563/411651/10548.m3u8
+http://persik.by/stream/2872/411403/10548.m3u8
 #EXTINF:-1,Другая Кухня
-http://persik.tv/stream/0563/411651/10571.m3u8
+http://persik.by/stream/2872/411403/10571.m3u8
 #EXTINF:-1,ЗНАЮ ВСЁ
-http://persik.tv/stream/0563/411651/10618.m3u8
+http://persik.by/stream/2872/411403/10618.m3u8
 #EXTINF:-1,Калнина Наталья
-http://persik.tv/stream/0563/411651/10666.m3u8
+http://persik.by/stream/2872/411403/10666.m3u8
 #EXTINF:-1,Клуб рыбаков. Рыбалка. Club fishermen.
-http://persik.tv/stream/0563/411651/10596.m3u8
+http://persik.by/stream/2872/411403/10596.m3u8
 #EXTINF:-1,КОТЫ ЮТУБЕРЫ
-http://persik.tv/stream/0563/411651/10644.m3u8
+http://persik.by/stream/2872/411403/10644.m3u8
 #EXTINF:-1,Крис
-http://persik.tv/stream/0563/411651/10583.m3u8
+http://persik.by/stream/2872/411403/10583.m3u8
 #EXTINF:-1,ЛЕСНЫЕ
-http://persik.tv/stream/0563/411651/10635.m3u8
-#EXTINF:-1,Макс Брандт
-http://persik.tv/stream/0563/411651/10550.m3u8
-#EXTINF:-1,МедиаЛузер
-http://persik.tv/stream/0563/411651/10601.m3u8
+http://persik.by/stream/2872/411403/10635.m3u8
 #EXTINF:-1,Мир ТВ
-http://persik.tv/stream/0563/411651/10682.m3u8
+http://persik.by/stream/2872/411403/10682.m3u8
 #EXTINF:-1,Мистик
-http://persik.tv/stream/0563/411651/10625.m3u8
+http://persik.by/stream/2872/411403/10625.m3u8
 #EXTINF:-1,Ольга Матвей
-http://persik.tv/stream/0563/411651/10623.m3u8
-#EXTINF:-1,Очкастый Красавчик
-http://persik.tv/stream/0563/411651/10570.m3u8
+http://persik.by/stream/2872/411403/10623.m3u8
 #EXTINF:-1,Панчер TV
-http://persik.tv/stream/0563/411651/10613.m3u8
+http://persik.by/stream/2872/411403/10613.m3u8
 #EXTINF:-1,Песни Для Детей .tv
-http://persik.tv/stream/0563/411651/10680.m3u8
+http://persik.by/stream/2872/411403/10680.m3u8
 #EXTINF:-1,Подборка сказок
-http://persik.tv/stream/0563/411651/10018.m3u8
+http://persik.by/stream/2872/411403/10018.m3u8
 #EXTINF:-1,Покашеварим
-http://persik.tv/stream/0563/411651/10586.m3u8
+http://persik.by/stream/2872/411403/10586.m3u8
 #EXTINF:-1,Популярное кино
-http://persik.tv/stream/0563/411651/10641.m3u8
+http://persik.by/stream/2872/411403/10641.m3u8
 #EXTINF:-1,ПриветТачка
-http://persik.tv/stream/0563/411651/10575.m3u8
+http://persik.by/stream/2872/411403/10575.m3u8
 #EXTINF:-1,ПРИКОЛЫ Sublimator TV
-http://persik.tv/stream/0563/411651/10593.m3u8
+http://persik.by/stream/2872/411403/10593.m3u8
 #EXTINF:-1,Путешествия Своим Ходом
-http://persik.tv/stream/0563/411651/10653.m3u8
+http://persik.by/stream/2872/411403/10653.m3u8
 #EXTINF:-1,Ричард
-http://persik.tv/stream/0563/411651/10591.m3u8
+http://persik.by/stream/2872/411403/10591.m3u8
 #EXTINF:-1,Рыбалка с Олегом Яворовичем
-http://persik.tv/stream/0563/411651/10668.m3u8
+http://persik.by/stream/2872/411403/10668.m3u8
 #EXTINF:-1,Своим Ходом - Виталик и Лиза
-http://persik.tv/stream/0563/411651/10629.m3u8
+http://persik.by/stream/2872/411403/10629.m3u8
 #EXTINF:-1,Скай Топ
-http://persik.tv/stream/0563/411651/10616.m3u8
+http://persik.by/stream/2872/411403/10616.m3u8
 #EXTINF:-1,Скорти
-http://persik.tv/stream/0563/411651/10651.m3u8
+http://persik.by/stream/2872/411403/10651.m3u8
 #EXTINF:-1,майк и лекси
-http://persik.tv/stream/0563/411651/10592.m3u8
+http://persik.by/stream/2872/411403/10592.m3u8
 #EXTINF:-1,вы не знали?
-http://persik.tv/stream/0563/411651/10679.m3u8
+http://persik.by/stream/2872/411403/10679.m3u8
 #EXTINF:-1,Стася Мар
-http://persik.tv/stream/0563/411651/10650.m3u8
+http://persik.by/stream/2872/411403/10650.m3u8
 #EXTINF:-1,Строим для себя
-http://persik.tv/stream/0563/411651/10672.m3u8
+http://persik.by/stream/2872/411403/10672.m3u8
 #EXTINF:-1,Теперь я Знаю
-http://persik.tv/stream/0563/411651/10561.m3u8
+http://persik.by/stream/2872/411403/10561.m3u8
 #EXTINF:-1,ТОП ТВ
-http://persik.tv/stream/0563/411651/10615.m3u8
+http://persik.by/stream/2872/411403/10615.m3u8
 #EXTINF:-1,экспедиции
-http://persik.tv/stream/0563/411651/10634.m3u8
+http://persik.by/stream/2872/411403/10634.m3u8
 #EXTINF:-1,ХЛЕБ СОЛЬ
-http://persik.tv/stream/0563/411651/10582.m3u8
+http://persik.by/stream/2872/411403/10582.m3u8
 #EXTINF:-1,Эхо Москвы
-http://persik.tv/stream/0563/411651/10658.m3u8
+http://persik.by/stream/2872/411403/10658.m3u8
+#EXTINF:-1,Первый канал HD
+http://myott.tv/stream/ZGLMPFH44S/131.m3u8
+#EXTINF:-1,Россия HD
+http://myott.tv/stream/ZGLMPFH44S/137.m3u8
+#EXTINF:-1,НТВ HD
+http://myott.tv/stream/ZGLMPFH44S/134.m3u8
+#EXTINF:-1,НТВ Мир
+http://myott.tv/stream/ZGLMPFH44S/223.m3u8
+#EXTINF:-1,5 канал (Россия)
+http://myott.tv/stream/ZGLMPFH44S/103.m3u8
+#EXTINF:-1,ТНТ HD
+http://myott.tv/stream/ZGLMPFH44S/135.m3u8
+#EXTINF:-1,СТС
+http://myott.tv/stream/ZGLMPFH44S/138.m3u8
+#EXTINF:-1,СТС Love
+http://myott.tv/stream/ZGLMPFH44S/183.m3u8
+#EXTINF:-1,РЕН ТВ
+http://myott.tv/stream/ZGLMPFH44S/132.m3u8
+#EXTINF:-1,МирТВ
+http://myott.tv/stream/ZGLMPFH44S/77.m3u8
+#EXTINF:-1,Мир HD
+http://myott.tv/stream/ZGLMPFH44S/66.m3u8
+#EXTINF:-1,ОТР
+http://myott.tv/stream/ZGLMPFH44S/61.m3u8
+#EXTINF:-1,Звезда
+http://myott.tv/stream/ZGLMPFH44S/140.m3u8
+#EXTINF:-1,Че
+http://myott.tv/stream/ZGLMPFH44S/121.m3u8
+#EXTINF:-1,ТВ3 Россия
+http://myott.tv/stream/ZGLMPFH44S/136.m3u8
+#EXTINF:-1,Пятница
+http://myott.tv/stream/ZGLMPFH44S/181.m3u8
+#EXTINF:-1,RTVi
+http://myott.tv/stream/ZGLMPFH44S/91.m3u8
+#EXTINF:-1,Супер
+http://myott.tv/stream/ZGLMPFH44S/269.m3u8
+#EXTINF:-1,Домашний
+http://myott.tv/stream/ZGLMPFH44S/227.m3u8
+#EXTINF:-1,Культура
+http://myott.tv/stream/ZGLMPFH44S/229.m3u8
+#EXTINF:-1,РТР Планета
+http://myott.tv/stream/ZGLMPFH44S/224.m3u8
+#EXTINF:-1,8 канал
+http://myott.tv/stream/ZGLMPFH44S/299.m3u8
+#EXTINF:-1,Время
+http://myott.tv/stream/ZGLMPFH44S/237.m3u8
+#EXTINF:-1,Ностальгия
+http://myott.tv/stream/ZGLMPFH44S/94.m3u8
+#EXTINF:-1,Ю
+http://myott.tv/stream/ZGLMPFH44S/230.m3u8
+#EXTINF:-1,2х2
+http://myott.tv/stream/ZGLMPFH44S/187.m3u8
+#EXTINF:-1,Fashion TV
+http://myott.tv/stream/ZGLMPFH44S/119.m3u8
+#EXTINF:-1,ТНТ4
+http://myott.tv/stream/ZGLMPFH44S/106.m3u8
+#EXTINF:-1,КВН ТВ
+http://myott.tv/stream/ZGLMPFH44S/222.m3u8
+#EXTINF:-1,Сарафан
+http://myott.tv/stream/ZGLMPFH44S/81.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://myott.tv/stream/ZGLMPFH44S/76.m3u8
+#EXTINF:-1,Первый канал (+2)
+http://myott.tv/stream/ZGLMPFH44S/99.m3u8
+#EXTINF:-1,НТВ (+2)
+http://myott.tv/stream/ZGLMPFH44S/98.m3u8
+#EXTINF:-1,ТНТ(+2)
+http://myott.tv/stream/ZGLMPFH44S/97.m3u8
+#EXTINF:-1,Россия 1(+2)
+http://myott.tv/stream/ZGLMPFH44S/96.m3u8
+#EXTINF:-1,Первый канал HD(+4)
+http://myott.tv/stream/ZGLMPFH44S/233.m3u8
+#EXTINF:-1,Украина HD
+http://myott.tv/stream/ZGLMPFH44S/167.m3u8
+#EXTINF:-1,ICTV
+http://myott.tv/stream/ZGLMPFH44S/158.m3u8
+#EXTINF:-1,Новый канал
+http://myott.tv/stream/ZGLMPFH44S/157.m3u8
+#EXTINF:-1,СТБ
+http://myott.tv/stream/ZGLMPFH44S/156.m3u8
+#EXTINF:-1,Интер
+http://myott.tv/stream/ZGLMPFH44S/174.m3u8
+#EXTINF:-1,1+1
+http://myott.tv/stream/ZGLMPFH44S/172.m3u8
+#EXTINF:-1,2+2
+http://myott.tv/stream/ZGLMPFH44S/173.m3u8
+#EXTINF:-1,К1
+http://myott.tv/stream/ZGLMPFH44S/270.m3u8
+#EXTINF:-1,ОНТ Беларусь
+http://myott.tv/stream/ZGLMPFH44S/21.m3u8
+#EXTINF:-1,БелРос
+http://myott.tv/stream/ZGLMPFH44S/63.m3u8
+#EXTINF:-1,Беларусь 1
+http://myott.tv/stream/ZGLMPFH44S/22.m3u8
+#EXTINF:-1,РТР Беларусь
+http://myott.tv/stream/ZGLMPFH44S/23.m3u8
+#EXTINF:-1,Беларусь 2
+http://myott.tv/stream/ZGLMPFH44S/24.m3u8
+#EXTINF:-1,Беларусь 3
+http://myott.tv/stream/ZGLMPFH44S/25.m3u8
+#EXTINF:-1,КТК
+http://myott.tv/stream/ZGLMPFH44S/26.m3u8
+#EXTINF:-1,Kentron
+http://myott.tv/stream/ZGLMPFH44S/39.m3u8
+#EXTINF:-1,LNK
+http://myott.tv/stream/ZGLMPFH44S/30.m3u8
+#EXTINF:-1,BTV
+http://myott.tv/stream/ZGLMPFH44S/35.m3u8
+#EXTINF:-1,TV3 Latvija
+http://myott.tv/stream/ZGLMPFH44S/32.m3u8
+#EXTINF:-1,TV3 LV
+http://myott.tv/stream/ZGLMPFH44S/29.m3u8
+#EXTINF:-1,LRT
+http://myott.tv/stream/ZGLMPFH44S/31.m3u8
+#EXTINF:-1,LTV1
+http://myott.tv/stream/ZGLMPFH44S/34.m3u8
+#EXTINF:-1,Jurnal TV HD
+http://myott.tv/stream/ZGLMPFH44S/277.m3u8
+#EXTINF:-1,РТР-Молдова HD
+http://myott.tv/stream/ZGLMPFH44S/278.m3u8
+#EXTINF:-1,Discovery Россия HD
+http://myott.tv/stream/ZGLMPFH44S/177.m3u8
+#EXTINF:-1,Discovery Science HD
+http://myott.tv/stream/ZGLMPFH44S/146.m3u8
+#EXTINF:-1,Discovery Turbo Xtra
+http://myott.tv/stream/ZGLMPFH44S/145.m3u8
+#EXTINF:-1,History Россия HD
+http://myott.tv/stream/ZGLMPFH44S/113.m3u8
+#EXTINF:-1,History2 HD
+http://myott.tv/stream/ZGLMPFH44S/65.m3u8
+#EXTINF:-1,Investigation Discovery Россия
+http://myott.tv/stream/ZGLMPFH44S/205.m3u8
+#EXTINF:-1,TLC Россия
+http://myott.tv/stream/ZGLMPFH44S/168.m3u8
+#EXTINF:-1,Планета HD
+http://myott.tv/stream/ZGLMPFH44S/115.m3u8
+#EXTINF:-1,ЭВРИКА HD
+http://myott.tv/stream/ZGLMPFH44S/212.m3u8
+#EXTINF:-1,DocuBox HD
+http://myott.tv/stream/ZGLMPFH44S/90.m3u8
+#EXTINF:-1,National Geographic HD
+http://myott.tv/stream/ZGLMPFH44S/116.m3u8
+#EXTINF:-1,Наука 2.0
+http://myott.tv/stream/ZGLMPFH44S/125.m3u8
+#EXTINF:-1,24Техно
+http://myott.tv/stream/ZGLMPFH44S/209.m3u8
+#EXTINF:-1,Оружие
+http://myott.tv/stream/ZGLMPFH44S/203.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://myott.tv/stream/ZGLMPFH44S/149.m3u8
+#EXTINF:-1,Animal Planet HD
+http://myott.tv/stream/ZGLMPFH44S/114.m3u8
+#EXTINF:-1,В мире животных HD
+http://myott.tv/stream/ZGLMPFH44S/241.m3u8
+#EXTINF:-1,RTД
+http://myott.tv/stream/ZGLMPFH44S/197.m3u8
+#EXTINF:-1,Мама
+http://myott.tv/stream/ZGLMPFH44S/79.m3u8
+#EXTINF:-1,Доктор
+http://myott.tv/stream/ZGLMPFH44S/80.m3u8
+#EXTINF:-1,Da Vinci»
+http://myott.tv/stream/ZGLMPFH44S/238.m3u8
+#EXTINF:-1,Viasat Explore
+http://myott.tv/stream/ZGLMPFH44S/239.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+http://myott.tv/stream/ZGLMPFH44S/240.m3u8
+#EXTINF:-1,Viasat History
+http://myott.tv/stream/ZGLMPFH44S/101.m3u8
+#EXTINF:-1,История
+http://myott.tv/stream/ZGLMPFH44S/228.m3u8
+#EXTINF:-1,365 дней ТВ
+http://myott.tv/stream/ZGLMPFH44S/70.m3u8
+#EXTINF:-1,Моя планета
+http://myott.tv/stream/ZGLMPFH44S/124.m3u8
+#EXTINF:-1,Russian Travel Guide
+http://myott.tv/stream/ZGLMPFH44S/164.m3u8
+#EXTINF:-1,Приключения HD
+http://myott.tv/stream/ZGLMPFH44S/198.m3u8
+#EXTINF:-1,Travel channel HD
+http://myott.tv/stream/ZGLMPFH44S/231.m3u8
+#EXTINF:-1,Travel+Adventure HD
+http://myott.tv/stream/ZGLMPFH44S/206.m3u8
+#EXTINF:-1,Fine Living HD
+http://myott.tv/stream/ZGLMPFH44S/273.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://myott.tv/stream/ZGLMPFH44S/155.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+http://myott.tv/stream/ZGLMPFH44S/194.m3u8
+#EXTINF:-1,Диалоги о рыбалке
+http://myott.tv/stream/ZGLMPFH44S/264.m3u8
+#EXTINF:-1,Дикая Охота HD
+http://myott.tv/stream/ZGLMPFH44S/274.m3u8
+#EXTINF:-1,Дикая Рыбалка HD
+http://myott.tv/stream/ZGLMPFH44S/275.m3u8
+#EXTINF:-1,Outdoor channel HD
+http://myott.tv/stream/ZGLMPFH44S/211.m3u8
+#EXTINF:-1,Живая природа HD
+http://myott.tv/stream/ZGLMPFH44S/225.m3u8
+#EXTINF:-1,Живая планета
+http://myott.tv/stream/ZGLMPFH44S/83.m3u8
+#EXTINF:-1,Silence TV
+http://myott.tv/stream/ZGLMPFH44S/297.m3u8
+#EXTINF:-1,Кухня ТВ
+http://myott.tv/stream/ZGLMPFH44S/179.m3u8
+#EXTINF:-1,Еда HD
+http://myott.tv/stream/ZGLMPFH44S/216.m3u8
+#EXTINF:-1,Food Network HD
+http://myott.tv/stream/ZGLMPFH44S/298.m3u8
+#EXTINF:-1,Авто24
+http://myott.tv/stream/ZGLMPFH44S/78.m3u8
+#EXTINF:-1,Авто Плюс
+http://myott.tv/stream/ZGLMPFH44S/186.m3u8
+#EXTINF:-1,Морской
+http://myott.tv/stream/ZGLMPFH44S/141.m3u8
+#EXTINF:-1,HDL
+http://myott.tv/stream/ZGLMPFH44S/161.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://myott.tv/stream/ZGLMPFH44S/160.m3u8
+#EXTINF:-1,Остросюжетное HD
+http://myott.tv/stream/ZGLMPFH44S/214.m3u8
+#EXTINF:-1,КиноПремиум HD
+http://myott.tv/stream/ZGLMPFH44S/215.m3u8
+#EXTINF:-1,Наше Крутое HD
+http://myott.tv/stream/ZGLMPFH44S/217.m3u8
+#EXTINF:-1,Наш Кинороман HD
+http://myott.tv/stream/ZGLMPFH44S/213.m3u8
+#EXTINF:-1,Кинокомедия
+http://myott.tv/stream/ZGLMPFH44S/265.m3u8
+#EXTINF:-1,Киносемья
+http://myott.tv/stream/ZGLMPFH44S/170.m3u8
+#EXTINF:-1,Киносвидание
+http://myott.tv/stream/ZGLMPFH44S/171.m3u8
+#EXTINF:-1,Кинохит
+http://myott.tv/stream/ZGLMPFH44S/126.m3u8
+#EXTINF:-1,Киномикс
+http://myott.tv/stream/ZGLMPFH44S/133.m3u8
+#EXTINF:-1,Наше новое кино
+http://myott.tv/stream/ZGLMPFH44S/128.m3u8
+#EXTINF:-1,Родное кино
+http://myott.tv/stream/ZGLMPFH44S/242.m3u8
+#EXTINF:-1,Индийское кино
+http://myott.tv/stream/ZGLMPFH44S/104.m3u8
+#EXTINF:-1,TV1000 East
+http://myott.tv/stream/ZGLMPFH44S/110.m3u8
+#EXTINF:-1,TV1000 Action East
+http://myott.tv/stream/ZGLMPFH44S/100.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://myott.tv/stream/ZGLMPFH44S/123.m3u8
+#EXTINF:-1,ViP Premiere HD
+http://myott.tv/stream/ZGLMPFH44S/202.m3u8
+#EXTINF:-1,ViP Megahit HD
+http://myott.tv/stream/ZGLMPFH44S/200.m3u8
+#EXTINF:-1,ViP Comedy HD
+http://myott.tv/stream/ZGLMPFH44S/201.m3u8
+#EXTINF:-1,ViP Serial HD
+http://myott.tv/stream/ZGLMPFH44S/311.m3u8
+#EXTINF:-1,Комедийное
+http://myott.tv/stream/ZGLMPFH44S/74.m3u8
+#EXTINF:-1,Amedia Premium
+http://myott.tv/stream/ZGLMPFH44S/151.m3u8
+#EXTINF:-1,Русский роман
+http://myott.tv/stream/ZGLMPFH44S/266.m3u8
+#EXTINF:-1,Русский иллюзион
+http://myott.tv/stream/ZGLMPFH44S/122.m3u8
+#EXTINF:-1,Русский детектив
+http://myott.tv/stream/ZGLMPFH44S/204.m3u8
+#EXTINF:-1,Русский бестселлер
+http://myott.tv/stream/ZGLMPFH44S/208.m3u8
+#EXTINF:-1,Русская комедия
+http://myott.tv/stream/ZGLMPFH44S/68.m3u8
+#EXTINF:-1,Fox Россия
+http://myott.tv/stream/ZGLMPFH44S/182.m3u8
+#EXTINF:-1,Fox Life Россия
+http://myott.tv/stream/ZGLMPFH44S/129.m3u8
+#EXTINF:-1,Sony Turbo
+http://myott.tv/stream/ZGLMPFH44S/263.m3u8
+#EXTINF:-1,Sony Channel
+http://myott.tv/stream/ZGLMPFH44S/69.m3u8
+#EXTINF:-1,AXN Sci-Fi Россия
+http://myott.tv/stream/ZGLMPFH44S/180.m3u8
+#EXTINF:-1,КиноТВ HD
+http://myott.tv/stream/ZGLMPFH44S/221.m3u8
+#EXTINF:-1,Кинопоказ
+http://myott.tv/stream/ZGLMPFH44S/64.m3u8
+#EXTINF:-1,Cinema
+http://myott.tv/stream/ZGLMPFH44S/62.m3u8
+#EXTINF:-1,НСТ
+http://myott.tv/stream/ZGLMPFH44S/207.m3u8
+#EXTINF:-1,Страшное HD
+http://myott.tv/stream/ZGLMPFH44S/226.m3u8
+#EXTINF:-1,ТВ XXI
+http://myott.tv/stream/ZGLMPFH44S/152.m3u8
+#EXTINF:-1,Paramount Comedy
+http://myott.tv/stream/ZGLMPFH44S/196.m3u8
+#EXTINF:-1,Paramount Сhannel
+http://myott.tv/stream/ZGLMPFH44S/219.m3u8
+#EXTINF:-1,Мужское кино
+http://myott.tv/stream/ZGLMPFH44S/107.m3u8
+#EXTINF:-1,Дом Кино
+http://myott.tv/stream/ZGLMPFH44S/236.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://myott.tv/stream/ZGLMPFH44S/108.m3u8
+#EXTINF:-1,Hollywood HD
+http://myott.tv/stream/ZGLMPFH44S/268.m3u8
+#EXTINF:-1,НТВ Сериал
+http://myott.tv/stream/ZGLMPFH44S/301.m3u8
+#EXTINF:-1,Spike
+http://myott.tv/stream/ZGLMPFH44S/304.m3u8
+#EXTINF:-1,FilmBox Baltic
+http://myott.tv/stream/ZGLMPFH44S/307.m3u8
+#EXTINF:-1,FilmBox Arthouse
+http://myott.tv/stream/ZGLMPFH44S/308.m3u8
+#EXTINF:-1,Zee TV
+http://myott.tv/stream/ZGLMPFH44S/309.m3u8
+#EXTINF:-1,Star Cinema HD
+http://myott.tv/stream/ZGLMPFH44S/310.m3u8
+#EXTINF:-1,Шокирующее HD
+http://myott.tv/stream/ZGLMPFH44S/75.m3u8
+#EXTINF:-1,Победа
+http://myott.tv/stream/ZGLMPFH44S/312.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://myott.tv/stream/ZGLMPFH44S/188.m3u8
+#EXTINF:-1,Eurosport HD
+http://myott.tv/stream/ZGLMPFH44S/176.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://myott.tv/stream/ZGLMPFH44S/192.m3u8
+#EXTINF:-1,Eurosport Gold HD
+http://myott.tv/stream/ZGLMPFH44S/286.m3u8
+#EXTINF:-1,Матч! СТРАНА
+http://myott.tv/stream/ZGLMPFH44S/143.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://myott.tv/stream/ZGLMPFH44S/163.m3u8
+#EXTINF:-1,Матч ТВ HD
+http://myott.tv/stream/ZGLMPFH44S/169.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://myott.tv/stream/ZGLMPFH44S/130.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://myott.tv/stream/ZGLMPFH44S/142.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://myott.tv/stream/ZGLMPFH44S/185.m3u8
+#EXTINF:-1,Матч Премьер HD
+http://myott.tv/stream/ZGLMPFH44S/193.m3u8
+#EXTINF:-1,Футбол 1 HD Украина
+http://myott.tv/stream/ZGLMPFH44S/159.m3u8
+#EXTINF:-1,Футбол 2 HD Украина
+http://myott.tv/stream/ZGLMPFH44S/191.m3u8
+#EXTINF:-1,Беларусь 5
+http://myott.tv/stream/ZGLMPFH44S/33.m3u8
+#EXTINF:-1,Kazsport
+http://myott.tv/stream/ZGLMPFH44S/72.m3u8
+#EXTINF:-1,Viasat Sport Россия
+http://myott.tv/stream/ZGLMPFH44S/102.m3u8
+#EXTINF:-1,Extreme Sports
+http://myott.tv/stream/ZGLMPFH44S/148.m3u8
+#EXTINF:-1,Setanta Eurasia HD
+http://myott.tv/stream/ZGLMPFH44S/234.m3u8
+#EXTINF:-1,Setanta Eurasia+ HD
+http://myott.tv/stream/ZGLMPFH44S/235.m3u8
+#EXTINF:-1,Матч! Боец
+http://myott.tv/stream/ZGLMPFH44S/112.m3u8
+#EXTINF:-1,Бокс ТВ
+http://myott.tv/stream/ZGLMPFH44S/154.m3u8
+#EXTINF:-1,КХЛ ТВ
+http://myott.tv/stream/ZGLMPFH44S/166.m3u8
+#EXTINF:-1,КХЛ HD
+http://myott.tv/stream/ZGLMPFH44S/178.m3u8
+#EXTINF:-1,Русский экстрим HD
+http://myott.tv/stream/ZGLMPFH44S/285.m3u8
+#EXTINF:-1,Моторспорт ТВ HD
+http://myott.tv/stream/ZGLMPFH44S/300.m3u8
+#EXTINF:-1,Setanta Sports HD UA
+http://myott.tv/stream/ZGLMPFH44S/313.m3u8
+#EXTINF:-1,Детский
+http://myott.tv/stream/ZGLMPFH44S/195.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://myott.tv/stream/ZGLMPFH44S/127.m3u8
+#EXTINF:-1,Тлум HD
+http://myott.tv/stream/ZGLMPFH44S/232.m3u8
+#EXTINF:-1,Канал Disney
+http://myott.tv/stream/ZGLMPFH44S/118.m3u8
+#EXTINF:-1,Карусель
+http://myott.tv/stream/ZGLMPFH44S/120.m3u8
+#EXTINF:-1,TiJi Россия
+http://myott.tv/stream/ZGLMPFH44S/111.m3u8
+#EXTINF:-1,Мульт
+http://myott.tv/stream/ZGLMPFH44S/199.m3u8
+#EXTINF:-1,Мульт и музыка
+http://myott.tv/stream/ZGLMPFH44S/82.m3u8
+#EXTINF:-1,JimJam
+http://myott.tv/stream/ZGLMPFH44S/150.m3u8
+#EXTINF:-1,Cartoon network
+http://myott.tv/stream/ZGLMPFH44S/144.m3u8
+#EXTINF:-1,Nick Jr Polska
+http://myott.tv/stream/ZGLMPFH44S/220.m3u8
+#EXTINF:-1,В гостях у сказки
+http://myott.tv/stream/ZGLMPFH44S/93.m3u8
+#EXTINF:-1,Канал О!
+http://myott.tv/stream/ZGLMPFH44S/60.m3u8
+#EXTINF:-1,Gulli Girl
+http://myott.tv/stream/ZGLMPFH44S/305.m3u8
+#EXTINF:-1,Ani
+http://myott.tv/stream/ZGLMPFH44S/306.m3u8
+#EXTINF:-1,1HD Music Television
+http://myott.tv/stream/ZGLMPFH44S/267.m3u8
+#EXTINF:-1,М1
+http://myott.tv/stream/ZGLMPFH44S/218.m3u8
+#EXTINF:-1,Bridge HD
+http://myott.tv/stream/ZGLMPFH44S/92.m3u8
+#EXTINF:-1,Bridge TV Classic
+http://myott.tv/stream/ZGLMPFH44S/272.m3u8
+#EXTINF:-1,Europa Plus TV
+http://myott.tv/stream/ZGLMPFH44S/184.m3u8
+#EXTINF:-1,MTV Dance
+http://myott.tv/stream/ZGLMPFH44S/147.m3u8
+#EXTINF:-1,MTV Россия
+http://myott.tv/stream/ZGLMPFH44S/89.m3u8
+#EXTINF:-1,MTV Rocks
+http://myott.tv/stream/ZGLMPFH44S/88.m3u8
+#EXTINF:-1,Музыка Первого
+http://myott.tv/stream/ZGLMPFH44S/153.m3u8
+#EXTINF:-1,VH1 Europe
+http://myott.tv/stream/ZGLMPFH44S/165.m3u8
+#EXTINF:-1,VH1 Classic
+http://myott.tv/stream/ZGLMPFH44S/87.m3u8
+#EXTINF:-1,Муз-ТВ
+http://myott.tv/stream/ZGLMPFH44S/86.m3u8
+#EXTINF:-1,N/A
+http://myott.tv/stream/ZGLMPFH44S/109.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://myott.tv/stream/ZGLMPFH44S/276.m3u8
+#EXTINF:-1,Шансон ТВ
+http://myott.tv/stream/ZGLMPFH44S/95.m3u8
+#EXTINF:-1,Ля-минор ТВ
+http://myott.tv/stream/ZGLMPFH44S/303.m3u8
+#EXTINF:-1,РБК ТВ
+http://myott.tv/stream/ZGLMPFH44S/105.m3u8
+#EXTINF:-1,Россия 24
+http://myott.tv/stream/ZGLMPFH44S/139.m3u8
+#EXTINF:-1,EuroNews
+http://myott.tv/stream/ZGLMPFH44S/189.m3u8
+#EXTINF:-1,BBC World News Europe
+http://myott.tv/stream/ZGLMPFH44S/85.m3u8
+#EXTINF:-1,CNN
+http://myott.tv/stream/ZGLMPFH44S/84.m3u8
+#EXTINF:-1,Москва-24
+http://myott.tv/stream/ZGLMPFH44S/67.m3u8
+#EXTINF:-1,112 Украина HD
+http://myott.tv/stream/ZGLMPFH44S/271.m3u8
 #EXTINF:-1,Sky Sport F1 HD
 http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/2109
 #EXTINF:-1,Sky Sport F1 Full HD
 http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/24151
-#EXTINF:-1,Sky Sport F1 SD
-http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/5583
 #EXTINF:-1,Sky Sport Moto GP HD
 http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/2161
 #EXTINF:-1,Sky Sport MotoGP Full HD
 http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/24150
-#EXTINF:-1,Sky Sport Moto GP SD
-http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/5584
