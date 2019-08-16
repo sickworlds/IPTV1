@@ -250,6 +250,8 @@ http://ruip.tv/4780/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! Страна
 http://ruip.tv/7937/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! Арена HD
+#EXTINF:-1,Матч! Арена1 HD
+http://46.23.159.84:1234/udp/239.1.18.1:1234
 http://ruip.tv/3226/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! HD
 http://ruip.tv/5292/video.m3u8?token=u06qiW
