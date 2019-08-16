@@ -252,7 +252,7 @@ http://ruip.tv/7937/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! Арена HD
 http://ruip.tv/3226/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! Арена 1 HD
-http://46.23.159.84:1234/udp/239.1.18.1:1234
+http://ygk.info/stream/7NTPELQB3RWWKL/207/index.m3u8
 #EXTINF:-1,Матч! HD
 http://ruip.tv/5292/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! Футбол 1 HD
@@ -865,3 +865,13 @@ http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
 #EXTINF:-1,TV8 LT
 http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1,LNK
+http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1,TV1
+http://213.252.252.17/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,NTV Mir Baltic
+http://213.252.252.17/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
+#EXTINF:-1,PBK
+http://213.252.252.17/live/eds/PBK/HLS_encr/PBK.m3u8
+#EXTINF:-1,Ren TV Baltic
+http://213.252.252.17/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
