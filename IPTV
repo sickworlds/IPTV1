@@ -255,6 +255,7 @@ http://ruip.tv/3226/video.m3u8?token=u06qiW
 http://185.93.3.83:5010/play/a00p
 #EXTINF:-1,Матч! HD
 #EXTINF:-1,TVPlay Sports + HD
+#EXTVLCOPT:network-caching=1000
 http://95.153.22.122:8000/play/a01s/index.m3u8
 #EXTINF:-1,TVPLAY Sport  HD
 #EXTVLCOPT:network-caching=1000
