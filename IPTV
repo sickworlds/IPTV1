@@ -859,3 +859,15 @@ http://ruip.tv/8020/video.m3u8?token=u06qiW
 http://ruip.tv/9136/video.m3u8?token=u06qiW
 #EXTINF:-1,Беларусь 24
 http://ruip.tv/5581/video.m3u8?token=u06qiW
+#EXTINF:-1,Lietuvos rytas HD
+http://213.159.47.97:9000/udp/239.255.12.8:1234
+#EXTINF:-1,TV3 HD LT
+http://213.159.47.97:9000/udp/239.255.12.13:1234
+#EXTINF:-1,TV6 HDLT
+http://213.159.47.97:9000/udp/239.255.12.16:1234
+#EXTINF:-1,Sport1 HD LT
+http://213.159.47.97:9000/udp/233.136.41.163:1234
+#EXTINF:-1,TVPlay Sports HD
+http://213.159.47.97:9000/udp/239.255.12.10:1234
+#EXTINF:-1,LRT Televizija HD
+http://213.159.47.97:9000/udp/233.136.41.158:1234
