@@ -1,0 +1,2519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<site site="tvprograma.lt" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten">
+-<channels>
+<channel site="tvprograma.lt" xmltv_id="LRT TELEVIZIJA" site_id="lrt-televizija/30" update="i">LRT TELEVIZIJA</channel>
+
+<channel site="tvprograma.lt" xmltv_id="LNK" site_id="lnk/3" update="i">LNK</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV3" site_id="tv3/42" update="i">TV3</channel>
+
+<channel site="tvprograma.lt" xmltv_id="BTV" site_id="btv/26" update="i">BTV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV6" site_id="tv6/1" update="i">TV6</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1" site_id="tv1/9" update="i">TV1</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Lietuvos ryto TV" site_id="lietuvos-ryto-tv/34" update="i">Lietuvos ryto TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV8" site_id="tv8/197" update="i">TV8</channel>
+
+<channel site="tvprograma.lt" xmltv_id="LRT Plius" site_id="lrt-plius/357" update="i">LRT Plius</channel>
+
+<channel site="tvprograma.lt" xmltv_id="INFO TV" site_id="info-tv/40" update="i">INFO TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVPlay Sports" site_id="tvplay-sports/353" update="i">TVPlay Sports</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVPlay Sports Plius +" site_id="tvplay-sports-plius-/356" update="i">TVPlay Sports Plius +</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Sport1" site_id="sport1/24" update="i">Sport1</channel>
+
+<channel site="tvprograma.lt" xmltv_id="EUROSPORT" site_id="eurosport/33" update="i">EUROSPORT</channel>
+
+<channel site="tvprograma.lt" xmltv_id="PBK" site_id="pbk/37" update="i">PBK</channel>
+
+<channel site="tvprograma.lt" xmltv_id="NTV Mir Lietuva" site_id="ntv-mir-lietuva/7" update="i">NTV Mir Lietuva</channel>
+
+<channel site="tvprograma.lt" xmltv_id="REN Lietuva" site_id="ren-lietuva/181" update="i">REN Lietuva</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Liuks!" site_id="liuks/146" update="i">Liuks!</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Balticum" site_id="balticum/102" update="i">Balticum</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Init" site_id="init/147" update="i">Init</channel>
+
+<channel site="tvprograma.lt" xmltv_id="STV" site_id="stv/145" update="i">STV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV7" site_id="tv7/221" update="i">TV7</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Eurosport 2" site_id="eurosport-2/117" update="i">Eurosport 2</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Extreme Sports" site_id="extreme-sports/119" update="i">Extreme Sports</channel>
+
+<channel site="tvprograma.lt" xmltv_id="NTV+Sport" site_id="ntvsport/58" update="i">NTV+Sport</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Viasat Golf" site_id="viasat-golf/29" update="i">Viasat Golf</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Viasat Sport" site_id="viasat-sport/278" update="i">Viasat Sport</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Viasat Sport HD" site_id="viasat-sport-hd/279" update="i">Viasat Sport HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Russkij Extreme" site_id="russkij-extreme/208" update="i">Russkij Extreme</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Boec" site_id="boec/63" update="i">Boec</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Auto Plius" site_id="auto-plius/103" update="i">Auto Plius</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP Sport" site_id="tvp-sport/195" update="i">TVP Sport</channel>
+
+<channel site="tvprograma.lt" xmltv_id="KHL TV" site_id="khl-tv/207" update="i">KHL TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Fight Sport HD" site_id="fight-sport-hd/0" update="i">Fight Sport HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Fuel TV" site_id="fuel-tv/313" update="i">Fuel TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Setanta Sports" site_id="setanta-sports/330" update="i">Setanta Sports</channel>
+
+<channel site="tvprograma.lt" xmltv_id="ESPORTSTV" site_id="esportstv/352" update="i">ESPORTSTV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Balticum auksinis" site_id="balticum-auksinis/101" update="i">Balticum auksinis</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Balticum Platinum" site_id="balticum-platinum/322" update="i">Balticum Platinum</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1000" site_id="tv1000/16" update="i">TV1000</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1000 Premium" site_id="tv1000-premium/18" update="i">TV1000 Premium</channel>
+
+<channel site="tvprograma.lt" xmltv_id="FilmZone" site_id="filmzone/320" update="i">FilmZone</channel>
+
+<channel site="tvprograma.lt" xmltv_id="FilmZone+" site_id="filmzone/321" update="i">FilmZone+</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1000 Action" site_id="tv1000-action/183" update="i">TV1000 Action</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Epic Drama" site_id="epic-drama/355" update="i">Epic Drama</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1000 Russkoje kino" site_id="tv1000-russkoje-kino/17" update="i">TV1000 Russkoje kino</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Dom Kino" site_id="dom-kino/70" update="i">Dom Kino</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV XXI" site_id="tv-xxi/141" update="i">TV XXI</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Kinoklub" site_id="kinoklub/57" update="i">Kinoklub</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Nase kino" site_id="nase-kino/39" update="i">Nase kino</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Nase Liubimoje Kino" site_id="nase-liubimoje-kino/265" update="i">Nase Liubimoje Kino</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Mnogo TV" site_id="mnogo-tv/65" update="i">Mnogo TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Kinopokaz" site_id="kinopokaz/272" update="i">Kinopokaz</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Russkij Iliuzionist" site_id="russkij-iliuzionist/243" update="i">Russkij Iliuzionist</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP Seriale" site_id="tvp-seriale/194" update="i">TVP Seriale</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Indija" site_id="indija/66" update="i">Indija</channel>
+
+<channel site="tvprograma.lt" xmltv_id="FOX Life" site_id="fox-life/85" update="i">FOX Life</channel>
+
+<channel site="tvprograma.lt" xmltv_id="FOX" site_id="fox/84" update="i">FOX</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Nitro" site_id="nitro/215" update="i">Nitro</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTL Crime" site_id="rtl-crime/216" update="i">RTL Crime</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Retro TV" site_id="retro-tv/242" update="i">Retro TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Bollywood TV" site_id="bollywood-tv/334" update="i">Bollywood TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Dom Kino Premium HD" site_id="dom-kino-premium-hd/336" update="i">Dom Kino Premium HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Vip Megahit" site_id="vip-megahit/350" update="i">Vip Megahit</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Muzhskoe kino" site_id="muzhskoe-kino/325" update="i">Muzhskoe kino</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Kabel Eins" site_id="kabel-eins/302" update="i">Kabel Eins</channel>
+
+<channel site="tvprograma.lt" xmltv_id="K2 movie channel" site_id="k2-movie-channel/287" update="i">K2 movie channel</channel>
+
+<channel site="tvprograma.lt" xmltv_id="HD1 movie channel" site_id="hd1-movie-channel/286" update="i">HD1 movie channel</channel>
+
+<channel site="tvprograma.lt" xmltv_id="K1 movie channel" site_id="k1-movie-channel/285" update="i">K1 movie channel</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Vip Comedy" site_id="vip-comedy/348" update="i">Vip Comedy</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Vip Premiere" site_id="vip-premiere/349" update="i">Vip Premiere</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1000 East" site_id="tv1000-east/296" update="i">TV1000 East</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1000 World Kino" site_id="tv1000-world-kino/351" update="i">TV1000 World Kino</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV1000 Global Kino" site_id="tv1000-global-kino/361" update="i">TV1000 Global Kino</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TNT" site_id="tnt/49" update="i">TNT</channel>
+
+<channel site="tvprograma.lt" xmltv_id="STS-CTC" site_id="sts-ctc/54" update="i">STS-CTC</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTR Planeta" site_id="rtr-planeta/8" update="i">RTR Planeta</channel>
+
+<channel site="tvprograma.lt" xmltv_id="NTV" site_id="ntv/48" update="i">NTV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="1 kanal" site_id="1-kanal/98" update="i">1 kanal</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTVi" site_id="rtvi/36" update="i">RTVi</channel>
+
+<channel site="tvprograma.lt" xmltv_id="ONT" site_id="ont/2" update="i">ONT</channel>
+
+<channel site="tvprograma.lt" xmltv_id="AjaraTV" site_id="ajaratv/62" update="i">AjaraTV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Baltarusijos TV" site_id="baltarusijos-tv/153" update="i">Baltarusijos TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Inter+" site_id="inter/229" update="i">Inter+</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Kto is Kto" site_id="kto-is-kto/246" update="i">Kto is Kto</channel>
+
+<channel site="tvprograma.lt" xmltv_id="La Minor" site_id="la-minor/64" update="i">La Minor</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MIR" site_id="mir/71" update="i">MIR</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Rosija" site_id="rosija/50" update="i">Rosija</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RBC" site_id="rbc/209" update="i">RBC</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Russian Travel Guide" site_id="russian-travel-guide/245" update="i">Russian Travel Guide</channel>
+
+<channel site="tvprograma.lt" xmltv_id="S-TV" site_id="s-tv/256" update="i">S-TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Soversheno sekretno" site_id="soversheno-sekretno/255" update="i">Soversheno sekretno</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVCi" site_id="tvci/41" update="i">TVCi</channel>
+
+<channel site="tvprograma.lt" xmltv_id="ТВЦ" site_id="tvc/56" update="i">ТВЦ</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV vremia" site_id="tv-vremia/250" update="i">TV vremia</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV-3(ru)" site_id="tv-3ru/52" update="i">TV-3(ru)</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Usadba TV" site_id="usadba-tv/61" update="i">Usadba TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Zdorovoe TV" site_id="zdorovoe-tv/269" update="i">Zdorovoe TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="24Techno" site_id="24techno/262" update="i">24Techno</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Telecafe" site_id="telecafe/314" update="i">Telecafe</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Bobior TV" site_id="bobior-tv/337" update="i">Bobior TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RBK" site_id="rbk/341" update="i">RBK</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Komedia TV" site_id="komedia-tv/326" update="i">Komedia TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Muzyka Pervogo" site_id="muzyka-pervogo/318" update="i">Muzyka Pervogo</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Russia 24" site_id="russia-24/316" update="i">Russia 24</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Zhivi!" site_id="zhivi/315" update="i">Zhivi!</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Dožd" site_id="dozd/312" update="i">Dožd</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Перец" site_id="perec/347" update="i">Перец</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Viasat Explore" site_id="viasat-explore/19" update="i">Viasat Explore</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Viasat History" site_id="viasat-history/20" update="i">Viasat History</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Viasat Nature" site_id="viasat-nature/184" update="i">Viasat Nature</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Discovery" site_id="discovery/35" update="i">Discovery</channel>
+
+<channel site="tvprograma.lt" xmltv_id="National Geographic" site_id="national-geographic/22" update="i">National Geographic</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Animal planet" site_id="animal-planet/38" update="i">Animal planet</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Discovery Science" site_id="discovery-science/79" update="i">Discovery Science</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Discovery World" site_id="discovery-world/112" update="i">Discovery World</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Discovery ID" site_id="discovery-id/203" update="i">Discovery ID</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Discovery HD Showcase" site_id="discovery-hd-showcase/202" update="i">Discovery HD Showcase</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Animal planet HD" site_id="animal-planet-hd/292" update="i">Animal planet HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Travel channel" site_id="travel-channel/21" update="i">Travel channel</channel>
+
+<channel site="tvprograma.lt" xmltv_id="National Geographic HD" site_id="national-geographic-hd/130" update="i">National Geographic HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="National Geographic Wild" site_id="national-geographic-wild/131" update="i">National Geographic Wild</channel>
+
+<channel site="tvprograma.lt" xmltv_id="History Channel" site_id="history-channel/204" update="i">History Channel</channel>
+
+<channel site="tvprograma.lt" xmltv_id="History Channel HD" site_id="history-channel-hd/205" update="i">History Channel HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Arte" site_id="arte/227" update="i">Arte</channel>
+
+<channel site="tvprograma.lt" xmltv_id="EWTN" site_id="ewtn/266" update="i">EWTN</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Da Vinci Learning" site_id="da-vinci-learning/268" update="i">Da Vinci Learning</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Fine living network" site_id="fine-living-network/237" update="i">Fine living network</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Food Network" site_id="food-network/267" update="i">Food Network</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Sarafan" site_id="sarafan/179" update="i">Sarafan</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Mat I ditia" site_id="mat-i-ditia/241" update="i">Mat I ditia</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Kuchnia TV" site_id="kuchnia-tv/73" update="i">Kuchnia TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVE internacional" site_id="tve-internacional/225" update="i">TVE internacional</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP Historia" site_id="tvp-historia/191" update="i">TVP Historia</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP Kultura" site_id="tvp-kultura/193" update="i">TVP Kultura</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TLC" site_id="tlc/222" update="i">TLC</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV5 MONDE (Europe)" site_id="tv5-monde-europe/136" update="i">TV5 MONDE (Europe)</channel>
+
+<channel site="tvprograma.lt" xmltv_id="24Doc" site_id="24doc/259" update="i">24Doc</channel>
+
+<channel site="tvprograma.lt" xmltv_id="BBC Earth" site_id="bbc-earth/327" update="i">BBC Earth</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Oruzhie TV" site_id="oruzhie-tv/299" update="i">Oruzhie TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Nauka 2.0" site_id="nauka-20/298" update="i">Nauka 2.0</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Discovery turbo Xtra - DTX" site_id="discovery-turbo-xtra-dtx/323" update="i">Discovery turbo Xtra - DTX</channel>
+
+<channel site="tvprograma.lt" xmltv_id="H2 Europe" site_id="h2-europe/328" update="i">H2 Europe</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Moya Planeta" site_id="moya-planeta/297" update="i">Moya Planeta</channel>
+
+<channel site="tvprograma.lt" xmltv_id="DocuBox HD" site_id="docubox-hd/333" update="i">DocuBox HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="SONY Entertainment" site_id="sony-entertainment/264" update="i">SONY Entertainment</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Sony Turbo" site_id="sony-turbo/293" update="i">Sony Turbo</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Playboy TV" site_id="playboy-tv/132" update="i">Playboy TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="BLUE HUSTLER" site_id="blue-hustler/76" update="i">BLUE HUSTLER</channel>
+
+<channel site="tvprograma.lt" xmltv_id="CBS Reality" site_id="cbs-reality/91" update="i">CBS Reality</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Ochota i rybalka" site_id="ochota-i-rybalka/69" update="i">Ochota i rybalka</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Comedy TV" site_id="comedy-tv/249" update="i">Comedy TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Drive TV" site_id="drive-tv/68" update="i">Drive TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Crime & Investigation" site_id="crime-investigation/311" update="i">Crime & Investigation</channel>
+
+<channel site="tvprograma.lt" xmltv_id="E!" site_id="e/114" update="i">E!</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Fashion TV" site_id="fashion-tv/86" update="i">Fashion TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Fashion TV HD" site_id="fashion-tv-hd/289" update="i">Fashion TV HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Luxe TV" site_id="luxe-tv/125" update="i">Luxe TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTL Living" site_id="rtl-living/217" update="i">RTL Living</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TDK" site_id="tdk/72" update="i">TDK</channel>
+
+<channel site="tvprograma.lt" xmltv_id="World Fashion Channel" site_id="world-fashion-channel/139" update="i">World Fashion Channel</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Outdoor Channel" site_id="outdoor-channel/295" update="i">Outdoor Channel</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Trace Sport Stars" site_id="trace-sport-stars/304" update="i">Trace Sport Stars</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Fashion One HD" site_id="fashion-one-hd/338" update="i">Fashion One HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="HBO" site_id="hbo/363" update="i">HBO</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Žvaigždė" site_id="zvaigzde/212" update="i">Žvaigždė</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Muz TV" site_id="muz-tv/46" update="i">Muz TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MTV" site_id="mtv/12" update="i">MTV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MEZZO" site_id="mezzo/126" update="i">MEZZO</channel>
+
+<channel site="tvprograma.lt" xmltv_id="VH1 Europe" site_id="vh1-europe/93" update="i">VH1 Europe</channel>
+
+<channel site="tvprograma.lt" xmltv_id="VH1 Classic" site_id="vh1-classic/137" update="i">VH1 Classic</channel>
+
+<channel site="tvprograma.lt" xmltv_id="iConcerts" site_id="iconcerts/219" update="i">iConcerts</channel>
+
+<channel site="tvprograma.lt" xmltv_id="C MUSIC TV" site_id="c-music-tv/288" update="i">C MUSIC TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Deluxe music" site_id="deluxe-music/234" update="i">Deluxe music</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MTV Dance" site_id="mtv-dance/127" update="i">MTV Dance</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MTV Hits" site_id="mtv-hits/128" update="i">MTV Hits</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MTV Rocks" site_id="mtv-rocks/129" update="i">MTV Rocks</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Mezzo Live HD" site_id="mezzo-live-hd/220" update="i">Mezzo Live HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Schanson tv" site_id="schanson-tv/253" update="i">Schanson tv</channel>
+
+<channel site="tvprograma.lt" xmltv_id="VIVA" site_id="viva/94" update="i">VIVA</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MCM POP" site_id="mcm-pop/294" update="i">MCM POP</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MCM TOP" site_id="mcm-top/233" update="i">MCM TOP</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MTV Music" site_id="mtv-music/360" update="i">MTV Music</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Ru TV" site_id="ru-tv/300" update="i">Ru TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Trace Urban" site_id="trace-urban/303" update="i">Trace Urban</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Play TV" site_id="play-tv/306" update="i">Play TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="MTV Live HD" site_id="mtv-live-hd/308" update="i">MTV Live HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Cartoon Network" site_id="cartoon-network/77" update="i">Cartoon Network</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Boomerang" site_id="boomerang/111" update="i">Boomerang</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Nickelodeon" site_id="nickelodeon/90" update="i">Nickelodeon</channel>
+
+<channel site="tvprograma.lt" xmltv_id="PinGviniUkas TV" site_id="pingviniukas-tv/211" update="i">PinGviniUkas TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="BabyTV" site_id="babytv/110" update="i">BabyTV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Detski mir" site_id="detski-mir/60" update="i">Detski mir</channel>
+
+<channel site="tvprograma.lt" xmltv_id="JimJam" site_id="jimjam/254" update="i">JimJam</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Nick Jr" site_id="nick-jr/239" update="i">Nick Jr</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Disney" site_id="disney/88" update="i">Disney</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Disney XD" site_id="disney-xd/87" update="i">Disney XD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Disney Junior" site_id="disney-junior/224" update="i">Disney Junior</channel>
+
+<channel site="tvprograma.lt" xmltv_id="KiKa" site_id="kika/124" update="i">KiKa</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Karusel International" site_id="karusel-international/248" update="i">Karusel International</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Super RTL" site_id="super-rtl/214" update="i">Super RTL</channel>
+
+<channel site="tvprograma.lt" xmltv_id="KidZone TV" site_id="kidzone-tv/307" update="i">KidZone TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="SmartZone HD" site_id="smartzone-hd/354" update="i">SmartZone HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Duck TV" site_id="duck-tv/283" update="i">Duck TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Duck TV HD" site_id="duck-tv-hd/284" update="i">Duck TV HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Nickelodeon HD" site_id="nickelodeon-hd/310" update="i">Nickelodeon HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Kidzone+" site_id="kidzone/346" update="i">Kidzone+</channel>
+
+<channel site="tvprograma.lt" xmltv_id="LRT LITUANICA" site_id="lrt-lituanica/196" update="i">LRT LITUANICA</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTL" site_id="rtl/32" update="i">RTL</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTL 2" site_id="rtl-2/134" update="i">RTL 2</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Das Erste" site_id="das-erste/291" update="i">Das Erste</channel>
+
+<channel site="tvprograma.lt" xmltv_id="3Sat" site_id="3sat/109" update="i">3Sat</channel>
+
+<channel site="tvprograma.lt" xmltv_id="PRO7" site_id="pro7/133" update="i">PRO7</channel>
+
+<channel site="tvprograma.lt" xmltv_id="VOX" site_id="vox/138" update="i">VOX</channel>
+
+<channel site="tvprograma.lt" xmltv_id="SAT1" site_id="sat1/226" update="i">SAT1</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP1" site_id="tvp1/13" update="i">TVP1</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP2" site_id="tvp2/14" update="i">TVP2</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TV Polonia" site_id="tv-polonia/15" update="i">TV Polonia</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP HD" site_id="tvp-hd/190" update="i">TVP HD</channel>
+
+<channel site="tvprograma.lt" xmltv_id="TVP Info" site_id="tvp-info/192" update="i">TVP Info</channel>
+
+<channel site="tvprograma.lt" xmltv_id="BBC World" site_id="bbc-world/104" update="i">BBC World</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Bloomberg" site_id="bloomberg/106" update="i">Bloomberg</channel>
+
+<channel site="tvprograma.lt" xmltv_id="CNN International" site_id="cnn-international/81" update="i">CNN International</channel>
+
+<channel site="tvprograma.lt" xmltv_id="CNBC Europe" site_id="cnbc-europe/80" update="i">CNBC Europe</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Euronews" site_id="euronews/116" update="i">Euronews</channel>
+
+<channel site="tvprograma.lt" xmltv_id="DW English" site_id="dw-english/232" update="i">DW English</channel>
+
+<channel site="tvprograma.lt" xmltv_id="SkyNews International" site_id="skynews-international/210" update="i">SkyNews International</channel>
+
+<channel site="tvprograma.lt" xmltv_id="France 24" site_id="france-24/120" update="i">France 24</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Aljazeera" site_id="aljazeera/252" update="i">Aljazeera</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Arirang TV" site_id="arirang-tv/251" update="i">Arirang TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="CCTV-9" site_id="cctv-9/235" update="i">CCTV-9</channel>
+
+<channel site="tvprograma.lt" xmltv_id="N-TV" site_id="n-tv/213" update="i">N-TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="NHK World" site_id="nhk-world/240" update="i">NHK World</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Rosija today" site_id="rosija-today/247" update="i">Rosija today</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Tele5" site_id="tele5/236" update="i">Tele5</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Init Ekstra TV" site_id="init-ekstra-tv/305" update="i">Init Ekstra TV</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Marijampolės televizija" site_id="marijampoles-televizija/319" update="i">Marijampolės televizija</channel>
+
+<channel site="tvprograma.lt" xmltv_id="CurrentTime" site_id="currenttime/335" update="i">CurrentTime</channel>
+
+<channel site="tvprograma.lt" xmltv_id="Seimas Tiesiogiai" site_id="seimas-tiesiogiai/340" update="i">Seimas Tiesiogiai</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTL Passion" site_id="rtl-passion/342" update="i">RTL Passion</channel>
+
+<channel site="tvprograma.lt" xmltv_id="RTL plus" site_id="rtl-plus/344" update="i">RTL plus</channel>
+
+<channel site="tvprograma.lt" xmltv_id="GEO Television" site_id="geo-television/345" update="i">GEO Television</channel>
+
+-<site site="tv.yandex.ru" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.5 -- Jan van Straaten">
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Интер" site_id="187##1489" update="i">UA-Интер</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Украина" site_id="187##1463" update="i">UA-Украина</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-1+1" site_id="187##1480" update="i">UA-1+1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ICTV" site_id="187##1502" update="i">UA-ICTV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-СТБ" site_id="187##1506" update="i">UA-СТБ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-НТН" site_id="187##1467" update="i">UA-НТН</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Новый канал" site_id="187##1515" update="i">UA-Новый канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-2+2" site_id="187##1468" update="i">UA-2+2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТЕТ" site_id="187##1559" update="i">UA-ТЕТ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-К1" site_id="187##1465" update="i">UA-К1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Мега" site_id="187##1469" update="i">UA-Мега</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-UA:Перший / Эра" site_id="187##1505" update="i">UA-UA:Перший / Эра</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-НЛО TV" site_id="187##1532" update="i">UA-НЛО TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-К2" site_id="187##1466" update="i">UA-К2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Boutique TV" site_id="187##1629" update="i">UA-Boutique TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Odessa Int" site_id="187##1627" update="i">UA-Odessa Int</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cine+ Hit HD" site_id="187##1638" update="i">UA-Cine+ Hit HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-RTi" site_id="187##1626" update="i">UA-RTi</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-EU.Music HD" site_id="187##1625" update="i">UA-EU.Music HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Enter-фильм" site_id="187##1547" update="i">UA-Enter-фильм</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Film.Ua Drama" site_id="187##1628" update="i">UA-Film.Ua Drama</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cine+ HD" site_id="187##1637" update="i">UA-Cine+ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cine+" site_id="187##1636" update="i">UA-Cine+</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cine+ Mix" site_id="187##1639" update="i">UA-Cine+ Mix</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cine+ Legend" site_id="187##1640" update="i">UA-Cine+ Legend</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Дача" site_id="187##1631" update="i">UA-Дача</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-М1" site_id="187##1553" update="i">UA-М1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-М2" site_id="187##1495" update="i">UA-М2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-OTV" site_id="187##1510" update="i">UA-OTV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Eu.Music" site_id="187##1488" update="i">UA-Eu.Music</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Music Box UA" site_id="187##1492" update="i">UA-Music Box UA</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Первый автомобильный " site_id="187##1493" update="i">UA-Первый автомобильный </channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Zoom" site_id="187##1484" update="i">UA-Zoom</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Maxxi-TV" site_id="187##1485" update="i">UA-Maxxi-TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Сонце" site_id="187##1535" update="i">UA-Сонце</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Прямой HD" site_id="187##1526" update="i">UA-Прямой HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-112 Украина HD" site_id="187##1555" update="i">UA-112 Украина HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Футбол 1 HD" site_id="187##1556" update="i">UA-Футбол 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Футбол 2 HD" site_id="187##1527" update="i">UA-Футбол 2 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-5 канал" site_id="187##1462" update="i">UA-5 канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Пиксель" site_id="187##1472" update="i">UA-Пиксель</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Бигуди" site_id="187##1500" update="i">UA-Бигуди</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Прямой" site_id="187##1471" update="i">UA-Прямой</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Эко-ТВ" site_id="187##1512" update="i">UA-Эко-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Надія" site_id="187##1534" update="i">UA-Надія</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Футбол 1" site_id="187##1503" update="i">UA-Футбол 1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Футбол 2" site_id="187##1516" update="i">UA-Футбол 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Спорт 1" site_id="187##1473" update="i">UA-Спорт 1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Спорт 2" site_id="187##1481" update="i">UA-Спорт 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Xsport" site_id="187##1696" update="i">UA-Xsport</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ПлюсПлюс" site_id="187##1470" update="i">UA-ПлюсПлюс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-QTV" site_id="187##1498" update="i">UA-QTV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Малятко TV" site_id="187##1507" update="i">UA-Малятко TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-112 Украина" site_id="187##1549" update="i">UA-112 Украина</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Еспресо TV" site_id="187##1552" update="i">UA-Еспресо TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Телеканал новостей 24" site_id="187##1478" update="i">UA-Телеканал новостей 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Первый деловой" site_id="187##1479" update="i">UA-Первый деловой</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Рада" site_id="187##1530" update="i">UA-Рада</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-NewsOne" site_id="187##1491" update="i">UA-NewsOne</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ZIK" site_id="187##1511" update="i">UA-ZIK</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ЧП.INFO" site_id="187##1496" update="i">UA-ЧП.INFO</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Первый" site_id="187##146" update="i">UA-Первый</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Ретро ТВ" site_id="187##6" update="i">UA-Ретро ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Родное кино" site_id="187##12" update="i">UA-Родное кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Загородная жизнь" site_id="187##21" update="i">UA-Загородная жизнь</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кинопоказ" site_id="187##22" update="i">UA-Кинопоказ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Евроновости" site_id="187##23" update="i">UA-Евроновости</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Russian MusicBox" site_id="187##25" update="i">UA-Russian MusicBox</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Мультимания" site_id="187##31" update="i">UA-Мультимания</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cine+ Kids" site_id="187##1697" update="i">UA-Cine+ Kids</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Нано" site_id="187##35" update="i">UA-Нано</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cinema" site_id="187##37" update="i">UA-Cinema</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Русский Иллюзион" site_id="187##53" update="i">UA-Русский Иллюзион</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-OCEAN-TV" site_id="187##55" update="i">UA-OCEAN-TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Первый метео" site_id="187##59" update="i">UA-Первый метео</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Детский" site_id="187##66" update="i">UA-Детский</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-RTVI" site_id="187##76" update="i">UA-RTVI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Мужской" site_id="187##82" update="i">UA-Мужской</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-National Geographic" site_id="187##102" update="i">UA-National Geographic</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Живи!" site_id="187##113" update="i">UA-Живи!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fashion TV HD" site_id="187##121" update="i">UA-Fashion TV HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Иллюзион +" site_id="187##123" update="i">UA-Иллюзион +</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Travel Channel HD" site_id="187##124" update="i">UA-Travel Channel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TV1000 Action" site_id="187##125" update="i">UA-TV1000 Action</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TV1000" site_id="187##127" update="i">UA-TV1000</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Охотник и Рыболов" site_id="187##132" update="i">UA-Охотник и Рыболов</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кинопоказ HD-1" site_id="187##138" update="i">UA-Кинопоказ HD-1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-myZen.tv" site_id="187##141" update="i">UA-myZen.tv</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Мир сериала" site_id="187##145" update="i">UA-Мир сериала</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Bridge TV" site_id="187##151" update="i">UA-Bridge TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Авто Плюс" site_id="187##153" update="i">UA-Авто Плюс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-VH1 Classic" site_id="187##156" update="i">UA-VH1 Classic</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Телеклуб" site_id="187##163" update="i">UA-Телеклуб</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Жара" site_id="187##165" update="i">UA-Жара</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Телекафе" site_id="187##173" update="i">UA-Телекафе</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТНВ" site_id="187##180" update="i">UA-ТНВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Про Бизнес" site_id="187##214" update="i">UA-Про Бизнес</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Nat Geo WILD" site_id="187##223" update="i">UA-Nat Geo WILD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-365 дней ТВ" site_id="187##250" update="i">UA-365 дней ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Ля-минор" site_id="187##257" update="i">UA-Ля-минор</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-RU TV" site_id="187##258" update="i">UA-RU TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TV1000 World kino" site_id="187##1693" update="i">UA-TV1000 World kino</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TV1000 Русское кино" site_id="187##267" update="i">UA-TV1000 Русское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Зоо ТВ" site_id="187##273" update="i">UA-Зоо ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Viasat History" site_id="187##277" update="i">UA-Viasat History</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-BBC Entertainment" site_id="187##278" update="i">UA-BBC Entertainment</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Страна" site_id="187##284" update="i">UA-Страна</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Extreme Sports" site_id="187##288" update="i">UA-Extreme Sports</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Baby TV" site_id="187##308" update="i">UA-Baby TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TV XXI" site_id="187##309" update="i">UA-TV XXI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Sony Channel" site_id="187##311" update="i">UA-Sony Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Luxe HD" site_id="187##312" update="i">UA-Luxe HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-RT" site_id="187##313" update="i">UA-RT</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-C Music TV" site_id="187##319" update="i">UA-C Music TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Outdoor Channel" site_id="187##322" update="i">UA-Outdoor Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Футбол" site_id="187##328" update="i">UA-Футбол</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Teletravel HD" site_id="187##331" update="i">UA-Teletravel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Вопросы и ответы" site_id="187##333" update="i">UA-Вопросы и ответы</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-World Fashion Channel" site_id="187##346" update="i">UA-World Fashion Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Союз" site_id="187##349" update="i">UA-Союз</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Еврокино" site_id="187##352" update="i">UA-Еврокино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Deutsche Welle" site_id="187##355" update="i">UA-Deutsche Welle</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-РазТВ" site_id="187##363" update="i">UA-РазТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Zooпарк" site_id="187##367" update="i">UA-Zooпарк</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Оружие" site_id="187##376" update="i">UA-Оружие</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-MTV Live International HD" site_id="187##382" update="i">UA-MTV Live International HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Дождь" site_id="187##384" update="i">UA-Дождь</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-National Geographic HD" site_id="187##389" update="i">UA-National Geographic HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fine Living" site_id="187##393" update="i">UA-Fine Living</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Русский роман" site_id="187##401" update="i">UA-Русский роман</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Русский Экстрим" site_id="187##406" update="i">UA-Русский Экстрим</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Discovery Science" site_id="187##409" update="i">UA-Discovery Science</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Da Vinci" site_id="187##410" update="i">UA-Da Vinci</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Юмор TV" site_id="187##412" update="i">UA-Юмор TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-HD Life" site_id="187##415" update="i">UA-HD Life</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Nickelodeon HD" site_id="187##423" update="i">UA-Nickelodeon HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TLC" site_id="187##425" update="i">UA-TLC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Эгоист ТВ" site_id="187##431" update="i">UA-Эгоист ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Психология 21" site_id="187##434" update="i">UA-Психология 21</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Luxe.TV" site_id="187##442" update="i">UA-Luxe.TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Спас ТВ" site_id="187##447" update="i">UA-Спас ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Боец" site_id="187##454" update="i">UA-Матч! Боец</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Viasat Sport" site_id="187##455" update="i">UA-Viasat Sport</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-France 24" site_id="187##461" update="i">UA-France 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Киносвидание" site_id="187##462" update="i">UA-Киносвидание</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Bloomberg" site_id="187##463" update="i">UA-Bloomberg</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-О2ТВ" site_id="187##777" update="i">UA-О2ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fox Life HD" site_id="187##464" update="i">UA-Fox Life HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-РТВ - Любимое кино" site_id="187##477" update="i">UA-РТВ - Любимое кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-КХЛ" site_id="187##481" update="i">UA-КХЛ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Наше Новое Кино" site_id="187##485" update="i">UA-Наше Новое Кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-VH1 European" site_id="187##491" update="i">UA-VH1 European</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Телеканал 21+" site_id="187##492" update="i">UA-Телеканал 21+</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-JimJam" site_id="187##494" update="i">UA-JimJam</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-CNN" site_id="187##495" update="i">UA-CNN</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Наш футбол" site_id="187##499" update="i">UA-Наш футбол</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-BBC" site_id="187##502" update="i">UA-BBC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Драйв" site_id="187##505" update="i">UA-Драйв</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-РЖД" site_id="187##509" update="i">UA-РЖД</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-SONY SCI-FI" site_id="187##516" update="i">UA-SONY SCI-FI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Настоящее Страшное Телевидение" site_id="187##518" update="i">UA-Настоящее Страшное Телевидение</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Домашние животные" site_id="187##520" update="i">UA-Домашние животные</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Viasat Explore CEE" site_id="187##1758" update="i">UA-Viasat Explore CEE</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Viasat Explore" site_id="187##521" update="i">UA-Viasat Explore</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Motors TV" site_id="187##531" update="i">UA-Motors TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-MCM TOP" site_id="187##533" update="i">UA-MCM TOP</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кинохит" site_id="187##542" update="i">UA-Кинохит</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Успех" site_id="187##547" update="i">UA-Успех</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TiJi" site_id="187##555" update="i">UA-TiJi</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Eurosport 1 HD" site_id="187##560" update="i">UA-Eurosport 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Футбол 2" site_id="187##563" update="i">UA-Матч! Футбол 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кинопремьера" site_id="187##566" update="i">UA-Кинопремьера</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Nickelodeon" site_id="187##567" update="i">UA-Nickelodeon</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Mezzo" site_id="187##575" update="i">UA-Mezzo</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТБН" site_id="187##576" update="i">UA-ТБН</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TV5-Monde" site_id="187##589" update="i">UA-TV5-Monde</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Bridge TV Русский Хит" site_id="187##591" update="i">UA-Bridge TV Русский Хит</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Здоровое ТВ" site_id="187##595" update="i">UA-Здоровое ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Cartoon Network" site_id="187##601" update="i">UA-Cartoon Network</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-AMC" site_id="187##608" update="i">UA-AMC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Travel Channel" site_id="187##613" update="i">UA-Travel Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кухня ТВ" site_id="187##614" update="i">UA-Кухня ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fox Life" site_id="187##615" update="i">UA-Fox Life</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Охота и рыбалка" site_id="187##617" update="i">UA-Охота и рыбалка</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Мама" site_id="187##618" update="i">UA-Мама</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Zee-TV" site_id="187##626" update="i">UA-Zee-TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-HD Медиа" site_id="187##631" update="i">UA-HD Медиа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Тонус-ТВ" site_id="187##637" update="i">UA-Тонус-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Радость Моя" site_id="187##638" update="i">UA-Радость Моя</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-MusicBox TV" site_id="187##642" update="i">UA-MusicBox TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Киномикс" site_id="187##644" update="i">UA-Киномикс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Russian Travel Guide" site_id="187##648" update="i">UA-Russian Travel Guide</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-FOX" site_id="187##659" update="i">UA-FOX</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fashion TV" site_id="187##661" update="i">UA-Fashion TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Шансон-TB" site_id="187##662" update="i">UA-Шансон-TB</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Сарафан" site_id="187##663" update="i">UA-Сарафан</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Футбол 1" site_id="187##664" update="i">UA-Матч! Футбол 1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Время" site_id="187##669" update="i">UA-Время</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Моя Планета" site_id="187##675" update="i">UA-Моя Планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТНТ Music" site_id="187##680" update="i">UA-ТНТ Music</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Europa Plus TV" site_id="187##681" update="i">UA-Europa Plus TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Просвещение" site_id="187##685" update="i">UA-Просвещение</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Феникс+ Кино" site_id="187##686" update="i">UA-Феникс+ Кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Загородный" site_id="187##705" update="i">UA-Загородный</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Музыка Первого" site_id="187##715" update="i">UA-Музыка Первого</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Наука" site_id="187##723" update="i">UA-Наука</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-МИР" site_id="187##726" update="i">UA-МИР</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-БелРос (ТРО)" site_id="187##730" update="i">UA-БелРос (ТРО)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Eurosport" site_id="187##737" update="i">UA-Eurosport</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кинопоказ HD-2" site_id="187##741" update="i">UA-Кинопоказ HD-2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Детский мир" site_id="187##747" update="i">UA-Детский мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Ajara TV" site_id="187##756" update="i">UA-Ajara TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-English Club TV" site_id="187##757" update="i">UA-English Club TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Viasat Nature CEE" site_id="187##765" update="i">UA-Viasat Nature CEE</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кто есть кто" site_id="187##769" update="i">UA-Кто есть кто</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Первый образовательный" site_id="187##774" update="i">UA-Первый образовательный</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TDK" site_id="187##776" update="i">UA-TDK</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Усадьба" site_id="187##779" update="i">UA-Усадьба</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Ностальгия" site_id="187##783" update="i">UA-Ностальгия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Улыбка Ребенка" site_id="187##789" update="i">UA-Улыбка Ребенка</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Телепутешествия" site_id="187##794" update="i">UA-Телепутешествия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Индийское кино" site_id="187##798" update="i">UA-Индийское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Киносерия" site_id="187##799" update="i">UA-Киносерия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Mezzo Live HD" site_id="187##801" update="i">UA-Mezzo Live HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Nat Geo Wild HD" site_id="187##807" update="i">UA-Nat Geo Wild HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Gulli Girl" site_id="187##810" update="i">UA-Gulli Girl</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кинокомедия" site_id="187##821" update="i">UA-Кинокомедия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-BBC World News" site_id="187##828" update="i">UA-BBC World News</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-CNBC" site_id="187##831" update="i">UA-CNBC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Дом кино" site_id="187##834" update="i">UA-Дом кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Eurosport 2" site_id="187##850" update="i">UA-Eurosport 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Беларусь-24" site_id="187##248" update="i">UA-Беларусь-24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-МУЗ-ТВ" site_id="187##897" update="i">UA-МУЗ-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-CBS Reality" site_id="187##912" update="i">UA-CBS Reality</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Nick Jr" site_id="187##917" update="i">UA-Nick Jr</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-A2" site_id="187##918" update="i">UA-A2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fashion One" site_id="187##919" update="i">UA-Fashion One</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Paramount Comedy" site_id="187##920" update="i">UA-Paramount Comedy</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-NHK WORLD TV" site_id="187##921" update="i">UA-NHK WORLD TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Детский мир + Телеклуб" site_id="187##923" update="i">UA-Детский мир + Телеклуб</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Театр" site_id="187##925" update="i">UA-Театр</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Stingray iConcerts" site_id="187##927" update="i">UA-Stingray iConcerts</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Discovery Восточная Европа" site_id="187##928" update="i">UA-Discovery Восточная Европа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Boomerang" site_id="187##929" update="i">UA-Boomerang</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Еда Премиум" site_id="187##930" update="i">UA-Еда Премиум</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ЕДА" site_id="187##931" update="i">UA-ЕДА</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТНВ-планета" site_id="187##933" update="i">UA-ТНВ-планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-MGM HD" site_id="187##934" update="i">UA-MGM HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Sony Turbo" site_id="187##935" update="i">UA-Sony Turbo</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Россия 1 HD" site_id="187##984" update="i">UA-Россия 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Киносемья" site_id="187##987" update="i">UA-Киносемья</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Animal Planet HD" site_id="187##990" update="i">UA-Animal Planet HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Русский бестселлер (международный)" site_id="187##1675" update="i">UA-Русский бестселлер (международный)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Русский бестселлер" site_id="187##994" update="i">UA-Русский бестселлер</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Travel+Adventure" site_id="187##996" update="i">UA-Travel+Adventure</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ViP Comedy" site_id="187##1011" update="i">UA-ViP Comedy</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ViP Megahit" site_id="187##1012" update="i">UA-ViP Megahit</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ViP Premiere" site_id="187##1013" update="i">UA-ViP Premiere</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-MTV Russia" site_id="187##1021" update="i">UA-MTV Russia</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-LUXURY" site_id="187##1026" update="i">UA-LUXURY</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fashion One HD" site_id="187##1030" update="i">UA-Fashion One HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Fox HD" site_id="187##1031" update="i">UA-Fox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Outdoor HD" site_id="187##1033" update="i">UA-Outdoor HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Sony ТВ HD" site_id="187##1034" update="i">UA-Sony ТВ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Travel+Adventure HD" site_id="187##1035" update="i">UA-Travel+Adventure HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-История" site_id="187##1036" update="i">UA-История</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-КХЛ HD" site_id="187##1038" update="i">UA-КХЛ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Футбол 3" site_id="187##1039" update="i">UA-Матч! Футбол 3</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Футбол 2 HD" site_id="187##1042" update="i">UA-Матч! Футбол 2 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Футбол 1 HD" site_id="187##1043" update="i">UA-Матч! Футбол 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-СТС Love" site_id="187##1322" update="i">UA-СТС Love</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-1HD" site_id="187##1329" update="i">UA-1HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Планета HD" site_id="187##1330" update="i">UA-Планета HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-МИР 24" site_id="187##1331" update="i">UA-МИР 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-МУЛЬТ" site_id="187##1332" update="i">UA-МУЛЬТ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Живая природа" site_id="187##1365" update="i">UA-Живая природа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-A1" site_id="187##1371" update="i">UA-A1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Amedia Premium HD" site_id="187##1372" update="i">UA-Amedia Premium HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Бокс ТВ" site_id="187##1376" update="i">UA-Бокс ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Страшное HD" site_id="187##1377" update="i">UA-Страшное HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кубань 24 Орбита" site_id="187##1392" update="i">UA-Кубань 24 Орбита</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-History" site_id="187##1394" update="i">UA-History</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Bollywood HD" site_id="187##1395" update="i">UA-Bollywood HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Точка ТВ" site_id="187##1396" update="i">UA-Точка ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-World Business Channel" site_id="187##1397" update="i">UA-World Business Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ЛДПР ТВ" site_id="187##1425" update="i">UA-ЛДПР ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Техно 24" site_id="187##1436" update="i">UA-Техно 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Вита" site_id="187##1458" update="i">UA-Вита</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТВ-7 (Мариуполь)" site_id="187##1519" update="i">UA-ТВ-7 (Мариуполь)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-УНИАН ТВ" site_id="187##1521" update="i">UA-УНИАН ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-СТС International" site_id="187##166" update="i">UA-СТС International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-НТВ" site_id="187##162" update="i">UA-НТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-НТВ-Мир" site_id="187##422" update="i">UA-НТВ-Мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-РБК" site_id="187##743" update="i">UA-РБК</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Карусель INT" site_id="187##465" update="i">UA-Карусель INT</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Discovery Channel" site_id="187##325" update="i">UA-Discovery Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Россия-Планета" site_id="187##143" update="i">UA-Россия-Планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-UATV" site_id="187##1513" update="i">UA-UATV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Донбасс" site_id="187##1508" update="i">UA-Донбасс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Тиса-1" site_id="187##1482" update="i">UA-Тиса-1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-UA:Перший Ukraine" site_id="187##1531" update="i">UA-UA:Перший Ukraine</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-КРТ" site_id="187##1464" update="i">UA-КРТ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Глас" site_id="187##1477" update="i">UA-Глас</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-НТС (Севастополь)" site_id="187##1538" update="i">UA-НТС (Севастополь)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Глас (Одесса)" site_id="187##1497" update="i">UA-Глас (Одесса)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ATR" site_id="187##1523" update="i">UA-ATR</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Первый Севастопольский" site_id="187##1536" update="i">UA-Первый Севастопольский</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Культура (Украина)" site_id="187##1476" update="i">UA-Культура (Украина)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Трофей" site_id="187##1554" update="i">UA-Трофей</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-1+1 International" site_id="187##1475" update="i">UA-1+1 International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Shopping TV" site_id="187##1528" update="i">UA-Shopping TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Львов-ТВ" site_id="187##1548" update="i">UA-Львов-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-7 канал (Одесса)" site_id="187##1551" update="i">UA-7 канал (Одесса)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-МТВ" site_id="187##1518" update="i">UA-МТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Эверест" site_id="187##1459" update="i">UA-Эверест</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Киев" site_id="187##1522" update="i">UA-Киев</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТРК Регион (Днепропетровск)" site_id="187##1546" update="i">UA-ТРК Регион (Днепропетровск)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ИТВ" site_id="187##1325" update="i">UA-ИТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Animal Planet" site_id="187##607" update="i">UA-Animal Planet</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Кино ТВ" site_id="187##1037" update="i">UA-Кино ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Совершенно секретно" site_id="187##275" update="i">UA-Совершенно секретно</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-8 Канал" site_id="187##217" update="i">UA-8 Канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Винтера" site_id="187##1457" update="i">UA-Винтера</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Днепропетровский государственный" site_id="187##1486" update="i">UA-Днепропетровский государственный</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ИКС" site_id="187##1542" update="i">UA-ИКС</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-HDFASHION" site_id="187##1545" update="i">UA-HDFASHION</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Pro Все" site_id="187##1490" update="i">UA-Pro Все</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Индиго" site_id="187##1456" update="i">UA-Индиго</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Интер+" site_id="187##1514" update="i">UA-Интер+</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Центральный канал" site_id="187##1483" update="i">UA-Центральный канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Сигма" site_id="187##1517" update="i">UA-Сигма</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-34 канал (Днепропетровск)" site_id="187##1543" update="i">UA-34 канал (Днепропетровск)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Страна советов" site_id="187##1474" update="i">UA-Страна советов</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-НТА" site_id="187##1520" update="i">UA-НТА</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-UA:Перший Digital" site_id="187##1540" update="i">UA-UA:Перший Digital</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Первый крымский" site_id="187##1539" update="i">UA-Первый крымский</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Lale" site_id="187##1544" update="i">UA-Lale</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТРК \\\"Буковина\\\"" site_id="187##1509" update="i">UA-ТРК \\\"Буковина\\\"</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-твFM" site_id="187##1541" update="i">UA-твFM</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-РЕН ТВ" site_id="187##18" update="i">UA-РЕН ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-СТС" site_id="187##79" update="i">UA-СТС</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТНТ" site_id="187##353" update="i">UA-ТНТ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Домашний" site_id="187##304" update="i">UA-Домашний</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-2x2" site_id="187##323" update="i">UA-2x2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Россия 1" site_id="187##711" update="i">UA-Россия 1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Русский Детектив" site_id="187##1570" update="i">UA-Русский Детектив</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТВ Центр" site_id="187##649" update="i">UA-ТВ Центр</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Пятница" site_id="187##1003" update="i">UA-Пятница</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТВ-3" site_id="187##698" update="i">UA-ТВ-3</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Ю" site_id="187##898" update="i">UA-Ю</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Ямал-Регион" site_id="187##419" update="i">UA-Ямал-Регион</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Мужское кино" site_id="187##1584" update="i">UA-Мужское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч!" site_id="187##1593" update="i">UA-Матч!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-ТНТ4" site_id="187##1649" update="i">UA-ТНТ4</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Планета" site_id="187##1671" update="i">UA-Матч! Планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Звезда" site_id="187##405" update="i">UA-Звезда</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-R1" site_id="187##1674" update="i">UA-R1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Арена" site_id="187##1667" update="i">UA-Матч! Арена</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Россия 24" site_id="187##1683" update="i">UA-Россия 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Москва. Доверие" site_id="187##655" update="i">UA-Москва. Доверие</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Матч! Игра" site_id="187##1668" update="i">UA-Матч! Игра</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Пятый канал" site_id="187##427" update="i">UA-Пятый канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Сетанта Спорт" site_id="187##1383" update="i">UA-Сетанта Спорт</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Setanta Sports +" site_id="187##1688" update="i">UA-Setanta Sports +</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Винтаж" site_id="187##1689" update="i">UA-Винтаж</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-TV5 (Запорожье)" site_id="187##1733" update="i">UA-TV5 (Запорожье)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Квартал ТВ" site_id="187##1750" update="i">UA-Квартал ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Комедия" site_id="187##1620" update="i">UA-Комедия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Че" site_id="187##1598" update="i">UA-Че</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Bolt" site_id="187##1789" update="i">UA-Bolt</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Detektiv.tv" site_id="187##1736" update="i">UA-Detektiv.tv</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Телевсесвит" site_id="187##1796" update="i">UA-Телевсесвит</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="UA-Телевсесвит HD" site_id="187##1797" update="i">UA-Телевсесвит HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Первый" site_id="213##146" update="i">RU-Первый</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Россия 1" site_id="213##711" update="i">RU-Россия 1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч!" site_id="213##1593" update="i">RU-Матч!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-НТВ" site_id="213##162" update="i">RU-НТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Пятый канал" site_id="213##427" update="i">RU-Пятый канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Культура" site_id="213##187" update="i">RU-Культура</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Россия 24" site_id="213##1683" update="i">RU-Россия 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Карусель" site_id="213##740" update="i">RU-Карусель</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ОТР" site_id="213##1000" update="i">RU-ОТР</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТВ Центр" site_id="213##649" update="i">RU-ТВ Центр</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-РЕН ТВ" site_id="213##18" update="i">RU-РЕН ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Спас ТВ" site_id="213##447" update="i">RU-Спас ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-СТС" site_id="213##79" update="i">RU-СТС</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Домашний" site_id="213##304" update="i">RU-Домашний</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТВ-3" site_id="213##698" update="i">RU-ТВ-3</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Пятница" site_id="213##1003" update="i">RU-Пятница</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Звезда" site_id="213##405" update="i">RU-Звезда</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-МИР" site_id="213##726" update="i">RU-МИР</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТНТ" site_id="213##353" update="i">RU-ТНТ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-МУЗ-ТВ" site_id="213##897" update="i">RU-МУЗ-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Канал Disney" site_id="213##150" update="i">RU-Канал Disney</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Че" site_id="213##1598" update="i">RU-Че</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТНТ4" site_id="213##1649" update="i">RU-ТНТ4</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Ю" site_id="213##898" update="i">RU-Ю</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-2x2" site_id="213##323" update="i">RU-2x2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Москва. Доверие" site_id="213##655" update="i">RU-Москва. Доверие</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Семья" site_id="213##335" update="i">RU-Семья</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-360°" site_id="213##161" update="i">RU-360°</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Москва-24" site_id="213##334" update="i">RU-Москва-24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Эхо TV" site_id="213##1046" update="i">RU-Эхо TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кино ТВ" site_id="213##1037" update="i">RU-Кино ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-A2" site_id="213##918" update="i">RU-A2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Sony Turbo" site_id="213##935" update="i">RU-Sony Turbo</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-SONY SCI-FI" site_id="213##516" update="i">RU-SONY SCI-FI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-AMC" site_id="213##608" update="i">RU-AMC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TV1000" site_id="213##127" update="i">RU-TV1000</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TV1000 Русское кино" site_id="213##267" update="i">RU-TV1000 Русское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TV XXI" site_id="213##309" update="i">RU-TV XXI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Дом кино" site_id="213##834" update="i">RU-Дом кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Иллюзион +" site_id="213##123" update="i">RU-Иллюзион +</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Индийское кино" site_id="213##798" update="i">RU-Индийское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Киносвидание" site_id="213##462" update="i">RU-Киносвидание</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кинопоказ" site_id="213##22" update="i">RU-Кинопоказ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кинохит" site_id="213##542" update="i">RU-Кинохит</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Настоящее Страшное Телевидение" site_id="213##518" update="i">RU-Настоящее Страшное Телевидение</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Родное кино" site_id="213##12" update="i">RU-Родное кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Наше Новое Кино" site_id="213##485" update="i">RU-Наше Новое Кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кинопремьера" site_id="213##566" update="i">RU-Кинопремьера</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Русский Иллюзион" site_id="213##53" update="i">RU-Русский Иллюзион</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Телеклуб" site_id="213##163" update="i">RU-Телеклуб</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Феникс+ Кино" site_id="213##686" update="i">RU-Феникс+ Кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-FOX" site_id="213##659" update="i">RU-FOX</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fox Life" site_id="213##615" update="i">RU-Fox Life</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Еврокино" site_id="213##352" update="i">RU-Еврокино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Zee-TV" site_id="213##626" update="i">RU-Zee-TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мир сериала" site_id="213##145" update="i">RU-Мир сериала</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Киномикс" site_id="213##644" update="i">RU-Киномикс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TV1000 Action" site_id="213##125" update="i">RU-TV1000 Action</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-РТВ - Любимое кино" site_id="213##477" update="i">RU-РТВ - Любимое кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Sony Channel" site_id="213##311" update="i">RU-Sony Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Киносерия" site_id="213##799" update="i">RU-Киносерия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кинокомедия" site_id="213##821" update="i">RU-Кинокомедия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Русский роман" site_id="213##401" update="i">RU-Русский роман</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Русский бестселлер" site_id="213##994" update="i">RU-Русский бестселлер</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-A1" site_id="213##1371" update="i">RU-A1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Русский Детектив" site_id="213##1570" update="i">RU-Русский Детектив</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мужское кино" site_id="213##1584" update="i">RU-Мужское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Комедия" site_id="213##1620" update="i">RU-Комедия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-R1" site_id="213##1674" update="i">RU-R1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Наше ТВ" site_id="213##1680" update="i">RU-Наше ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-История" site_id="213##1036" update="i">RU-История</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Планета HD" site_id="213##1330" update="i">RU-Планета HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Тайны Галактики" site_id="213##924" update="i">RU-Тайны Галактики</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Discovery Восточная Европа" site_id="213##928" update="i">RU-Discovery Восточная Европа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Animal Planet" site_id="213##365" update="i">RU-Animal Planet</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Discovery Channel" site_id="213##325" update="i">RU-Discovery Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Discovery Science" site_id="213##409" update="i">RU-Discovery Science</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-National Geographic" site_id="213##102" update="i">RU-National Geographic</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-OCEAN-TV" site_id="213##55" update="i">RU-OCEAN-TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Viasat Explore" site_id="213##521" update="i">RU-Viasat Explore</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Viasat History" site_id="213##277" update="i">RU-Viasat History</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Время" site_id="213##669" update="i">RU-Время</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Зоо ТВ" site_id="213##273" update="i">RU-Зоо ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Моя Планета" site_id="213##675" update="i">RU-Моя Планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Телепутешествия" site_id="213##794" update="i">RU-Телепутешествия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Домашние животные" site_id="213##520" update="i">RU-Домашние животные</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Viasat Nature CEE" site_id="213##765" update="i">RU-Viasat Nature CEE</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Nat Geo WILD" site_id="213##223" update="i">RU-Nat Geo WILD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Russian Travel Guide" site_id="213##648" update="i">RU-Russian Travel Guide</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Вопросы и ответы" site_id="213##333" update="i">RU-Вопросы и ответы</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кто есть кто" site_id="213##769" update="i">RU-Кто есть кто</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Первый образовательный" site_id="213##774" update="i">RU-Первый образовательный</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Наука" site_id="213##723" update="i">RU-Наука</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Travel Channel" site_id="213##613" update="i">RU-Travel Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Zooпарк" site_id="213##367" update="i">RU-Zooпарк</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Outdoor Channel" site_id="213##322" update="i">RU-Outdoor Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-365 дней ТВ" site_id="213##250" update="i">RU-365 дней ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-CBS Reality" site_id="213##912" update="i">RU-CBS Reality</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Travel+Adventure" site_id="213##996" update="i">RU-Travel+Adventure</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-English Club TV" site_id="213##757" update="i">RU-English Club TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Просвещение" site_id="213##685" update="i">RU-Просвещение</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Нано" site_id="213##35" update="i">RU-Нано</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-History" site_id="213##1394" update="i">RU-History</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Живая природа" site_id="213##1365" update="i">RU-Живая природа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Техно 24" site_id="213##1436" update="i">RU-Техно 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Живая планета" site_id="213##1562" update="i">RU-Живая планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-DTX" site_id="213##1585" update="i">RU-DTX</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Футбол 3" site_id="213##1039" update="i">RU-Матч! Футбол 3</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Eurosport 2" site_id="213##850" update="i">RU-Eurosport 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Extreme Sports" site_id="213##288" update="i">RU-Extreme Sports</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Боец" site_id="213##454" update="i">RU-Матч! Боец</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Русский Экстрим" site_id="213##406" update="i">RU-Русский Экстрим</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Футбол" site_id="213##328" update="i">RU-Футбол</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Viasat Sport" site_id="213##455" update="i">RU-Viasat Sport</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Eurosport" site_id="213##737" update="i">RU-Eurosport</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-КХЛ" site_id="213##481" update="i">RU-КХЛ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Наш футбол" site_id="213##499" update="i">RU-Наш футбол</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Футбол 1" site_id="213##664" update="i">RU-Матч! Футбол 1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Футбол 2" site_id="213##563" update="i">RU-Матч! Футбол 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Motors TV" site_id="213##531" update="i">RU-Motors TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Бокс ТВ" site_id="213##1376" update="i">RU-Бокс ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Арена" site_id="213##1667" update="i">RU-Матч! Арена</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Игра" site_id="213##1668" update="i">RU-Матч! Игра</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Наш спорт" site_id="213##1669" update="i">RU-Матч! Наш спорт</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Планета" site_id="213##1671" update="i">RU-Матч! Планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-МУЛЬТ" site_id="213##1332" update="i">RU-МУЛЬТ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Nick Jr" site_id="213##917" update="i">RU-Nick Jr</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Boomerang" site_id="213##929" update="i">RU-Boomerang</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Cartoon Network" site_id="213##601" update="i">RU-Cartoon Network</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Nickelodeon" site_id="213##567" update="i">RU-Nickelodeon</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Детский" site_id="213##66" update="i">RU-Детский</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Детский мир" site_id="213##747" update="i">RU-Детский мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Da Vinci" site_id="213##410" update="i">RU-Da Vinci</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Gulli Girl" site_id="213##810" update="i">RU-Gulli Girl</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-JimJam" site_id="213##494" update="i">RU-JimJam</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мультимания" site_id="213##31" update="i">RU-Мультимания</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TiJi" site_id="213##555" update="i">RU-TiJi</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Baby TV" site_id="213##308" update="i">RU-Baby TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Рыжий" site_id="213##1578" update="i">RU-Рыжий</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-МИР 24" site_id="213##1331" update="i">RU-МИР 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-NHK WORLD TV" site_id="213##921" update="i">RU-NHK WORLD TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Bloomberg" site_id="213##463" update="i">RU-Bloomberg</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-CNN" site_id="213##495" update="i">RU-CNN</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Евроновости" site_id="213##23" update="i">RU-Евроновости</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TV5-Monde" site_id="213##589" update="i">RU-TV5-Monde</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-РБК" site_id="213##743" update="i">RU-РБК</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-BBC" site_id="213##502" update="i">RU-BBC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Дождь" site_id="213##384" update="i">RU-Дождь</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-RT" site_id="213##313" update="i">RU-RT</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Про Бизнес" site_id="213##214" update="i">RU-Про Бизнес</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-BBC World News" site_id="213##828" update="i">RU-BBC World News</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Deutsche Welle" site_id="213##355" update="i">RU-Deutsche Welle</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-BBC Entertainment" site_id="213##278" update="i">RU-BBC Entertainment</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-CNBC" site_id="213##831" update="i">RU-CNBC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-France 24" site_id="213##461" update="i">RU-France 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Первый метео" site_id="213##59" update="i">RU-Первый метео</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ЧП.Info" site_id="213##315" update="i">RU-ЧП.Info</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-NewsOne" site_id="213##247" update="i">RU-NewsOne</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MTV Russia" site_id="213##1021" update="i">RU-MTV Russia</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Stingray iConcerts" site_id="213##927" update="i">RU-Stingray iConcerts</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Mezzo" site_id="213##575" update="i">RU-Mezzo</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-VH1 Classic" site_id="213##156" update="i">RU-VH1 Classic</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-RU TV" site_id="213##258" update="i">RU-RU TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТНТ Music" site_id="213##680" update="i">RU-ТНТ Music</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Шансон-TB" site_id="213##662" update="i">RU-Шансон-TB</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Europa Plus TV" site_id="213##681" update="i">RU-Europa Plus TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Музыка Первого" site_id="213##715" update="i">RU-Музыка Первого</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-C Music TV" site_id="213##319" update="i">RU-C Music TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MCM TOP" site_id="213##533" update="i">RU-MCM TOP</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Russian MusicBox" site_id="213##25" update="i">RU-Russian MusicBox</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MusicBox TV" site_id="213##642" update="i">RU-MusicBox TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Bridge TV Русский Хит" site_id="213##591" update="i">RU-Bridge TV Русский Хит</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-VH1 European" site_id="213##491" update="i">RU-VH1 European</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Bridge TV" site_id="213##151" update="i">RU-Bridge TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Ля-минор" site_id="213##257" update="i">RU-Ля-минор</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-HardLife TV" site_id="213##1561" update="i">RU-HardLife TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fashion One" site_id="213##919" update="i">RU-Fashion One</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fashion TV" site_id="213##661" update="i">RU-Fashion TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-World Fashion Channel" site_id="213##346" update="i">RU-World Fashion Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Охота и рыбалка" site_id="213##617" update="i">RU-Охота и рыбалка</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Телекафе" site_id="213##173" update="i">RU-Телекафе</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Усадьба" site_id="213##779" update="i">RU-Усадьба</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мужской" site_id="213##82" update="i">RU-Мужской</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Психология 21" site_id="213##434" update="i">RU-Психология 21</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Успех" site_id="213##547" update="i">RU-Успех</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Оружие" site_id="213##376" update="i">RU-Оружие</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Загородный" site_id="213##705" update="i">RU-Загородный</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Загородная жизнь" site_id="213##21" update="i">RU-Загородная жизнь</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Тонус-ТВ" site_id="213##637" update="i">RU-Тонус-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TDK" site_id="213##776" update="i">RU-TDK</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TLC" site_id="213##425" update="i">RU-TLC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Драйв" site_id="213##505" update="i">RU-Драйв</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Здоровое ТВ" site_id="213##595" update="i">RU-Здоровое ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Живи!" site_id="213##113" update="i">RU-Живи!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кухня ТВ" site_id="213##614" update="i">RU-Кухня ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Авто Плюс" site_id="213##153" update="i">RU-Авто Плюс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ЕДА" site_id="213##931" update="i">RU-ЕДА</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fine Living" site_id="213##393" update="i">RU-Fine Living</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Охотник и Рыболов" site_id="213##132" update="i">RU-Охотник и Рыболов</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-World Business Channel" site_id="213##1397" update="i">RU-World Business Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мир Увлечений" site_id="213##1571" update="i">RU-Мир Увлечений</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-RTG International" site_id="213##1660" update="i">RU-RTG International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Бобер" site_id="213##1662" update="i">RU-Бобер</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Конный мир" site_id="213##1679" update="i">RU-Конный мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-LUXURY" site_id="213##1026" update="i">RU-LUXURY</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-СТС Love" site_id="213##1322" update="i">RU-СТС Love</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-1HD" site_id="213##1329" update="i">RU-1HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Театр" site_id="213##925" update="i">RU-Театр</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Сарафан" site_id="213##663" update="i">RU-Сарафан</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Paramount Comedy" site_id="213##920" update="i">RU-Paramount Comedy</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-О2ТВ" site_id="213##777" update="i">RU-О2ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Юмор TV" site_id="213##412" update="i">RU-Юмор TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Жара" site_id="213##165" update="i">RU-Жара</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Game Show" site_id="213##1676" update="i">RU-Game Show</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fashion One HD" site_id="213##1030" update="i">RU-Fashion One HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-КХЛ HD" site_id="213##1038" update="i">RU-КХЛ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Outdoor HD" site_id="213##1033" update="i">RU-Outdoor HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ViP Comedy" site_id="213##1011" update="i">RU-ViP Comedy</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ViP Megahit" site_id="213##1012" update="i">RU-ViP Megahit</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ViP Premiere" site_id="213##1013" update="i">RU-ViP Premiere</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Travel+Adventure HD" site_id="213##1035" update="i">RU-Travel+Adventure HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fox HD" site_id="213##1031" update="i">RU-Fox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Sony ТВ HD" site_id="213##1034" update="i">RU-Sony ТВ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Футбол 2 HD" site_id="213##1042" update="i">RU-Матч! Футбол 2 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Матч! Футбол 1 HD" site_id="213##1043" update="i">RU-Матч! Футбол 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MGM HD" site_id="213##934" update="i">RU-MGM HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кинопоказ HD-1" site_id="213##138" update="i">RU-Кинопоказ HD-1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Кинопоказ HD-2" site_id="213##741" update="i">RU-Кинопоказ HD-2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Mezzo Live HD" site_id="213##801" update="i">RU-Mezzo Live HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-National Geographic HD" site_id="213##389" update="i">RU-National Geographic HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Travel Channel HD" site_id="213##124" update="i">RU-Travel Channel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Nickelodeon HD" site_id="213##423" update="i">RU-Nickelodeon HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-HD Life" site_id="213##415" update="i">RU-HD Life</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Еда Премиум" site_id="213##930" update="i">RU-Еда Премиум</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Первый HD" site_id="213##983" update="i">RU-Первый HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Россия 1 HD" site_id="213##984" update="i">RU-Россия 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Animal Planet HD" site_id="213##990" update="i">RU-Animal Planet HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Киносемья" site_id="213##987" update="i">RU-Киносемья</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Luxe HD" site_id="213##312" update="i">RU-Luxe HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-HD Медиа" site_id="213##631" update="i">RU-HD Медиа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Teletravel HD" site_id="213##331" update="i">RU-Teletravel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fashion TV HD" site_id="213##121" update="i">RU-Fashion TV HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Nat Geo Wild HD" site_id="213##807" update="i">RU-Nat Geo Wild HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fox Life HD" site_id="213##464" update="i">RU-Fox Life HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Eurosport 1 HD" site_id="213##560" update="i">RU-Eurosport 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MTV Live International HD" site_id="213##382" update="i">RU-MTV Live International HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Amedia Premium HD" site_id="213##1372" update="i">RU-Amedia Premium HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Страшное HD" site_id="213##1377" update="i">RU-Страшное HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Bollywood HD" site_id="213##1395" update="i">RU-Bollywood HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-КиноПремиумHD" site_id="213##1586" update="i">RU-КиноПремиумHD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Остросюжетное HD" site_id="213##1588" update="i">RU-Остросюжетное HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Discovery Channel HD" site_id="213##1612" update="i">RU-Discovery Channel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Ginger HD" site_id="213##1657" update="i">RU-Ginger HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Охотник и Рыболов HD" site_id="213##1681" update="i">RU-Охотник и Рыболов HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Insight Ultra HD" site_id="213##1663" update="i">RU-Insight Ultra HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fuel TV HD" site_id="213##1670" update="i">RU-Fuel TV HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Museum HD" site_id="213##1672" update="i">RU-Museum HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Балашиха ТВ" site_id="213##1451" update="i">RU-Балашиха ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Беларусь-24" site_id="213##248" update="i">RU-Беларусь-24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТНВ-планета" site_id="213##933" update="i">RU-ТНВ-планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мама" site_id="213##618" update="i">RU-Мама</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Ностальгия" site_id="213##783" update="i">RU-Ностальгия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Радость Моя" site_id="213##638" update="i">RU-Радость Моя</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТНВ" site_id="213##180" update="i">RU-ТНВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Cinema" site_id="213##37" update="i">RU-Cinema</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Улыбка Ребенка" site_id="213##789" update="i">RU-Улыбка Ребенка</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Совершенно секретно" site_id="213##275" update="i">RU-Совершенно секретно</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Ретро ТВ" site_id="213##6" update="i">RU-Ретро ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-8 Канал" site_id="213##217" update="i">RU-8 Канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Детский мир + Телеклуб" site_id="213##923" update="i">RU-Детский мир + Телеклуб</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Ajara TV" site_id="213##756" update="i">RU-Ajara TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Страна" site_id="213##284" update="i">RU-Страна</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Luxe.TV" site_id="213##442" update="i">RU-Luxe.TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-myZen.tv" site_id="213##141" update="i">RU-myZen.tv</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Эгоист ТВ" site_id="213##431" update="i">RU-Эгоист ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-РазТВ" site_id="213##363" update="i">RU-РазТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-РЖД" site_id="213##509" update="i">RU-РЖД</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-БелРос (ТРО)" site_id="213##730" update="i">RU-БелРос (ТРО)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТБН" site_id="213##576" update="i">RU-ТБН</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Союз" site_id="213##349" update="i">RU-Союз</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Точка ТВ" site_id="213##1396" update="i">RU-Точка ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ЛДПР ТВ" site_id="213##1425" update="i">RU-ЛДПР ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Калейдоскоп ТВ" site_id="213##1666" update="i">RU-Калейдоскоп ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Синергия ТВ" site_id="213##932" update="i">RU-Синергия ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-H2" site_id="213##1699" update="i">RU-H2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-КВН ТВ" site_id="213##1700" update="i">RU-КВН ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Пингвин Лоло" site_id="213##1698" update="i">RU-Пингвин Лоло</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Food Network" site_id="213##1703" update="i">RU-Food Network</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Центральное телевидение (ЦТВ)" site_id="213##1702" update="i">RU-Центральное телевидение (ЦТВ)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fashion One 4K" site_id="213##1719" update="i">RU-Fashion One 4K</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Открытый мир" site_id="213##1713" update="i">RU-Открытый мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Твой Дом" site_id="213##1714" update="i">RU-Твой Дом</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТЛУМ HD" site_id="213##1716" update="i">RU-ТЛУМ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Global Star" site_id="213##1720" update="i">RU-Global Star</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MTV Dance International" site_id="213##1722" update="i">RU-MTV Dance International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MTV Hits International" site_id="213##1723" update="i">RU-MTV Hits International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-MTV Rocks International" site_id="213##1721" update="i">RU-MTV Rocks International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-SHANT Premium" site_id="213##1725" update="i">RU-SHANT Premium</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Paramount Channel" site_id="213##1726" update="i">RU-Paramount Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Animal Family HD" site_id="213##1729" update="i">RU-Animal Family HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Eureka HD" site_id="213##1730" update="i">RU-Eureka HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-RTД" site_id="213##1728" update="i">RU-RTД</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Viasat Golf" site_id="213##1727" update="i">RU-Viasat Golf</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Дом Кино Премиум" site_id="213##1731" update="i">RU-Дом Кино Премиум</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Надежда" site_id="213##1732" update="i">RU-Надежда</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Detektiv.tv" site_id="213##1736" update="i">RU-Detektiv.tv</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Малыш" site_id="213##1734" update="i">RU-Малыш</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Наш Детектив" site_id="213##1737" update="i">RU-Наш Детектив</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Наш Кинороман" site_id="213##1738" update="i">RU-Наш Кинороман</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TRICK" site_id="213##1746" update="i">RU-TRICK</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Анекдот ТВ" site_id="213##1743" update="i">RU-Анекдот ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Новый мир" site_id="213##1744" update="i">RU-Новый мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Санкт-Петербург" site_id="213##690" update="i">RU-Санкт-Петербург</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-НТВ Право" site_id="213##1753" update="i">RU-НТВ Право</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-НТВ Сериал" site_id="213##1754" update="i">RU-НТВ Сериал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-НТВ Стиль" site_id="213##1755" update="i">RU-НТВ Стиль</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-О!" site_id="213##1757" update="i">RU-О!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-HITV" site_id="213##1759" update="i">RU-HITV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Spike" site_id="213##1760" update="i">RU-Spike</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-HD Медиа 3D" site_id="213##1761" update="i">RU-HD Медиа 3D</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-DocuBox HD" site_id="213##1762" update="i">RU-DocuBox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-FilmBox HD" site_id="213##1763" update="i">RU-FilmBox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Russian Extreme Ultra HD" site_id="213##1764" update="i">RU-Russian Extreme Ultra HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-TVRUS" site_id="213##1765" update="i">RU-TVRUS</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мультик HD" site_id="213##1766" update="i">RU-Мультик HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-ТНТ HD" site_id="213##1767" update="i">RU-ТНТ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-H2 HD" site_id="213##1772" update="i">RU-H2 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Мужское кино HD" site_id="213##1773" update="i">RU-Мужское кино HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-7 TV" site_id="213##1780" update="i">RU-7 TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fashion Box HD" site_id="213##1781" update="i">RU-Fashion Box HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Fast & FunBox HD" site_id="213##1782" update="i">RU-Fast & FunBox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-FilmBox Arthouse" site_id="213##1783" update="i">RU-FilmBox Arthouse</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Доктор" site_id="213##1784" update="i">RU-Доктор</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="RU-Поехали!" site_id="213##1785" update="i">RU-Поехали!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Первый" site_id="983##142" update="i">TR-Первый</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Россия-Планета" site_id="983##143" update="i">TR-Россия-Планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ТВ Центр-International" site_id="983##435" update="i">TR-ТВ Центр-International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-НТВ-Мир" site_id="983##422" update="i">TR-НТВ-Мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Эхо TV" site_id="983##1046" update="i">TR-Эхо TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-СТС Love" site_id="983##1322" update="i">TR-СТС Love</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Синергия ТВ" site_id="983##932" update="i">TR-Синергия ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-BBC World News" site_id="983##828" update="i">TR-BBC World News</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Luxe HD" site_id="983##312" update="i">TR-Luxe HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Mezzo" site_id="983##575" update="i">TR-Mezzo</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Nickelodeon" site_id="983##567" update="i">TR-Nickelodeon</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-OCEAN-TV" site_id="983##55" update="i">TR-OCEAN-TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TV1000" site_id="983##127" update="i">TR-TV1000</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TV1000 Русское кино" site_id="983##267" update="i">TR-TV1000 Русское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Иллюзион +" site_id="983##123" update="i">TR-Иллюзион +</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Киносвидание" site_id="983##462" update="i">TR-Киносвидание</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кинопоказ" site_id="983##22" update="i">TR-Кинопоказ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кинохит" site_id="983##542" update="i">TR-Кинохит</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Моя Планета" site_id="983##675" update="i">TR-Моя Планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Музыка Первого" site_id="983##715" update="i">TR-Музыка Первого</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-О2ТВ" site_id="983##777" update="i">TR-О2ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кинопремьера" site_id="983##566" update="i">TR-Кинопремьера</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-РБК" site_id="983##743" update="i">TR-РБК</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Русский Экстрим" site_id="983##406" update="i">TR-Русский Экстрим</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Спас ТВ" site_id="983##447" update="i">TR-Спас ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Телепутешествия" site_id="983##794" update="i">TR-Телепутешествия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-RTVI" site_id="983##76" update="i">TR-RTVI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-BBC" site_id="983##502" update="i">TR-BBC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-BBC Entertainment" site_id="983##278" update="i">TR-BBC Entertainment</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-C Music TV" site_id="983##319" update="i">TR-C Music TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-CNBC" site_id="983##831" update="i">TR-CNBC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Da Vinci" site_id="983##410" update="i">TR-Da Vinci</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fine Living" site_id="983##393" update="i">TR-Fine Living</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-HD Медиа" site_id="983##631" update="i">TR-HD Медиа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Домашние животные" site_id="983##520" update="i">TR-Домашние животные</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Luxe.TV" site_id="983##442" update="i">TR-Luxe.TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MCM TOP" site_id="983##533" update="i">TR-MCM TOP</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Mezzo Live HD" site_id="983##801" update="i">TR-Mezzo Live HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мир сериала" site_id="983##145" update="i">TR-Мир сериала</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MusicBox TV" site_id="983##642" update="i">TR-MusicBox TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мужской" site_id="983##82" update="i">TR-Мужской</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Футбол" site_id="983##328" update="i">TR-Футбол</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Охотник и Рыболов" site_id="983##132" update="i">TR-Охотник и Рыболов</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Психология 21" site_id="983##434" update="i">TR-Психология 21</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Дождь" site_id="983##384" update="i">TR-Дождь</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Russian Travel Guide" site_id="983##648" update="i">TR-Russian Travel Guide</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Bridge TV Русский Хит" site_id="983##591" update="i">TR-Bridge TV Русский Хит</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TV1000 Action" site_id="983##125" update="i">TR-TV1000 Action</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Вопросы и ответы" site_id="983##333" update="i">TR-Вопросы и ответы</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Оружие" site_id="983##376" update="i">TR-Оружие</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Загородный" site_id="983##705" update="i">TR-Загородный</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Zee-TV" site_id="983##626" update="i">TR-Zee-TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Тонус-ТВ" site_id="983##637" update="i">TR-Тонус-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-РТВ - Любимое кино" site_id="983##477" update="i">TR-РТВ - Любимое кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Первый образовательный" site_id="983##774" update="i">TR-Первый образовательный</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-RU TV" site_id="983##258" update="i">TR-RU TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Юмор TV" site_id="983##412" update="i">TR-Юмор TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fashion TV HD" site_id="983##121" update="i">TR-Fashion TV HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Наука" site_id="983##723" update="i">TR-Наука</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Zooпарк" site_id="983##367" update="i">TR-Zooпарк</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-КХЛ" site_id="983##481" update="i">TR-КХЛ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Outdoor Channel" site_id="983##322" update="i">TR-Outdoor Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Жара" site_id="983##165" update="i">TR-Жара</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-HD Life" site_id="983##415" update="i">TR-HD Life</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Авто Плюс" site_id="983##153" update="i">TR-Авто Плюс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кухня ТВ" site_id="983##614" update="i">TR-Кухня ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Русский роман" site_id="983##401" update="i">TR-Русский роман</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-СТС International" site_id="983##166" update="i">TR-СТС International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Про Бизнес" site_id="983##214" update="i">TR-Про Бизнес</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ЕДА" site_id="983##931" update="i">TR-ЕДА</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Еда Премиум" site_id="983##930" update="i">TR-Еда Премиум</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Русский бестселлер" site_id="983##994" update="i">TR-Русский бестселлер</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Animal Planet HD" site_id="983##990" update="i">TR-Animal Planet HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Baby TV" site_id="983##308" update="i">TR-Baby TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Boomerang" site_id="983##929" update="i">TR-Boomerang</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Discovery Восточная Европа" site_id="983##928" update="i">TR-Discovery Восточная Европа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Eurosport 1 HD" site_id="983##560" update="i">TR-Eurosport 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fashion One HD" site_id="983##1030" update="i">TR-Fashion One HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fox Life" site_id="983##615" update="i">TR-Fox Life</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fox Life HD" site_id="983##464" update="i">TR-Fox Life HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Stingray iConcerts" site_id="983##927" update="i">TR-Stingray iConcerts</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MGM HD" site_id="983##934" update="i">TR-MGM HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Motors TV" site_id="983##531" update="i">TR-Motors TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MTV Live International HD" site_id="983##382" update="i">TR-MTV Live International HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-NHK WORLD TV" site_id="983##921" update="i">TR-NHK WORLD TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Outdoor HD" site_id="983##1033" update="i">TR-Outdoor HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Sony Turbo" site_id="983##935" update="i">TR-Sony Turbo</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Travel Channel HD" site_id="983##124" update="i">TR-Travel Channel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Живи!" site_id="983##113" update="i">TR-Живи!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Загородная жизнь" site_id="983##21" update="i">TR-Загородная жизнь</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-МУЗ-ТВ" site_id="983##897" update="i">TR-МУЗ-ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Нано" site_id="983##35" update="i">TR-Нано</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Футбол 2" site_id="983##563" update="i">TR-Матч! Футбол 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Театр" site_id="983##925" update="i">TR-Театр</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ТНВ-планета" site_id="983##933" update="i">TR-ТНВ-планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Успех" site_id="983##547" update="i">TR-Успех</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Эгоист ТВ" site_id="983##431" update="i">TR-Эгоист ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Зоо ТВ" site_id="983##273" update="i">TR-Зоо ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Nat Geo Wild HD" site_id="983##807" update="i">TR-Nat Geo Wild HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-RT" site_id="983##313" update="i">TR-RT</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-A1" site_id="983##1371" update="i">TR-A1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Киносемья" site_id="983##987" update="i">TR-Киносемья</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кино ТВ" site_id="983##1037" update="i">TR-Кино ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ViP Premiere" site_id="983##1013" update="i">TR-ViP Premiere</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Amedia Premium HD" site_id="983##1372" update="i">TR-Amedia Premium HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-A2" site_id="983##918" update="i">TR-A2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Охотник и Рыболов HD" site_id="983##1681" update="i">TR-Охотник и Рыболов HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Travel+Adventure HD" site_id="983##1035" update="i">TR-Travel+Adventure HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Europa Plus TV" site_id="983##681" update="i">TR-Europa Plus TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Россия 1 HD" site_id="983##984" update="i">TR-Россия 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Детский мир + Телеклуб" site_id="983##923" update="i">TR-Детский мир + Телеклуб</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Bridge TV" site_id="983##151" update="i">TR-Bridge TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fox HD" site_id="983##1031" update="i">TR-Fox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Sony ТВ HD" site_id="983##1034" update="i">TR-Sony ТВ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-История" site_id="983##1036" update="i">TR-История</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Travel+Adventure" site_id="983##996" update="i">TR-Travel+Adventure</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Футбол 2 HD" site_id="983##1042" update="i">TR-Матч! Футбол 2 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Футбол 1 HD" site_id="983##1043" update="i">TR-Матч! Футбол 1 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Teletravel HD" site_id="983##331" update="i">TR-Teletravel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MTV Russia" site_id="983##1021" update="i">TR-MTV Russia</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-LUXURY" site_id="983##1026" update="i">TR-LUXURY</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Здоровое ТВ" site_id="983##595" update="i">TR-Здоровое ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-World Fashion Channel" site_id="983##346" update="i">TR-World Fashion Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Viasat Sport" site_id="983##455" update="i">TR-Viasat Sport</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Усадьба" site_id="983##779" update="i">TR-Усадьба</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Улыбка Ребенка" site_id="983##789" update="i">TR-Улыбка Ребенка</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TV XXI" site_id="983##309" update="i">TR-TV XXI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ViP Megahit" site_id="983##1012" update="i">TR-ViP Megahit</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ViP Comedy" site_id="983##1011" update="i">TR-ViP Comedy</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Travel Channel" site_id="983##613" update="i">TR-Travel Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TiJi" site_id="983##555" update="i">TR-TiJi</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Союз" site_id="983##349" update="i">TR-Союз</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Шансон-TB" site_id="983##662" update="i">TR-Шансон-TB</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Sony Channel" site_id="983##311" update="i">TR-Sony Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Русский Иллюзион" site_id="983##53" update="i">TR-Русский Иллюзион</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-CBS Reality" site_id="983##912" update="i">TR-CBS Reality</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Радость Моя" site_id="983##638" update="i">TR-Радость Моя</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Детский мир" site_id="983##747" update="i">TR-Детский мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Наше Новое Кино" site_id="983##485" update="i">TR-Наше Новое Кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Телеклуб" site_id="983##163" update="i">TR-Телеклуб</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Bloomberg" site_id="983##463" update="i">TR-Bloomberg</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-CNN" site_id="983##495" update="i">TR-CNN</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Cartoon Network" site_id="983##601" update="i">TR-Cartoon Network</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Discovery Science" site_id="983##409" update="i">TR-Discovery Science</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Extreme Sports" site_id="983##288" update="i">TR-Extreme Sports</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-National Geographic" site_id="983##102" update="i">TR-National Geographic</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Евроновости" site_id="983##23" update="i">TR-Евроновости</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Animal Planet" site_id="983##365" update="i">TR-Animal Planet</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Discovery Channel" site_id="983##325" update="i">TR-Discovery Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Discovery Channel HD" site_id="983##1612" update="i">TR-Discovery Channel HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Eurosport" site_id="983##737" update="i">TR-Eurosport</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Наш футбол" site_id="983##499" update="i">TR-Наш футбол</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Настоящее Страшное Телевидение" site_id="983##518" update="i">TR-Настоящее Страшное Телевидение</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Nick Jr" site_id="983##917" update="i">TR-Nick Jr</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-NewsOne" site_id="983##247" update="i">TR-NewsOne</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-National Geographic HD" site_id="983##389" update="i">TR-National Geographic HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Russian MusicBox" site_id="983##25" update="i">TR-Russian MusicBox</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мультимания" site_id="983##31" update="i">TR-Мультимания</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кинокомедия" site_id="983##821" update="i">TR-Кинокомедия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-JimJam" site_id="983##494" update="i">TR-JimJam</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Viasat History" site_id="983##277" update="i">TR-Viasat History</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Охота и рыбалка" site_id="983##617" update="i">TR-Охота и рыбалка</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Gulli Girl" site_id="983##810" update="i">TR-Gulli Girl</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-France 24" site_id="983##461" update="i">TR-France 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-FOX" site_id="983##659" update="i">TR-FOX</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Феникс+ Кино" site_id="983##686" update="i">TR-Феникс+ Кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fashion TV" site_id="983##661" update="i">TR-Fashion TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fashion One" site_id="983##919" update="i">TR-Fashion One</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Viasat Explore" site_id="983##521" update="i">TR-Viasat Explore</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Eurosport 2" site_id="983##850" update="i">TR-Eurosport 2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Deutsche Welle" site_id="983##355" update="i">TR-Deutsche Welle</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Драйв" site_id="983##505" update="i">TR-Драйв</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Детский" site_id="983##66" update="i">TR-Детский</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Боец" site_id="983##454" update="i">TR-Матч! Боец</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-SONY SCI-FI" site_id="983##516" update="i">TR-SONY SCI-FI</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ТНТ Music" site_id="983##680" update="i">TR-ТНТ Music</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ЧП.Info" site_id="983##315" update="i">TR-ЧП.Info</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Еврокино" site_id="983##352" update="i">TR-Еврокино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-МУЛЬТ" site_id="983##1332" update="i">TR-МУЛЬТ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-1HD" site_id="983##1329" update="i">TR-1HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-History" site_id="983##1394" update="i">TR-History</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Русский Детектив" site_id="983##1570" update="i">TR-Русский Детектив</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Сарафан" site_id="983##663" update="i">TR-Сарафан</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Футбол 3" site_id="983##1039" update="i">TR-Матч! Футбол 3</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Футбол 1" site_id="983##664" update="i">TR-Матч! Футбол 1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Родное кино" site_id="983##12" update="i">TR-Родное кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Киномикс" site_id="983##644" update="i">TR-Киномикс</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-8 Канал" site_id="983##217" update="i">TR-8 Канал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Bollywood HD" site_id="983##1395" update="i">TR-Bollywood HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-МИР 24" site_id="983##1331" update="i">TR-МИР 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Страшное HD" site_id="983##1377" update="i">TR-Страшное HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Планета HD" site_id="983##1330" update="i">TR-Планета HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Карусель INT" site_id="983##465" update="i">TR-Карусель INT</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Техно 24" site_id="983##1436" update="i">TR-Техно 24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-HardLife TV" site_id="983##1561" update="i">TR-HardLife TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-AMC" site_id="983##608" update="i">TR-AMC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Телекафе" site_id="983##173" update="i">TR-Телекафе</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Страна" site_id="983##284" update="i">TR-Страна</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мир Увлечений" site_id="983##1571" update="i">TR-Мир Увлечений</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Бокс ТВ" site_id="983##1376" update="i">TR-Бокс ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ЛДПР ТВ" site_id="983##1425" update="i">TR-ЛДПР ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Viasat Nature CEE" site_id="983##765" update="i">TR-Viasat Nature CEE</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-English Club TV" site_id="983##757" update="i">TR-English Club TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мама" site_id="983##618" update="i">TR-Мама</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Nat Geo WILD" site_id="983##223" update="i">TR-Nat Geo WILD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кто есть кто" site_id="983##769" update="i">TR-Кто есть кто</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Совершенно секретно" site_id="983##275" update="i">TR-Совершенно секретно</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Индийское кино" site_id="983##798" update="i">TR-Индийское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Paramount Comedy" site_id="983##920" update="i">TR-Paramount Comedy</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Просвещение" site_id="983##685" update="i">TR-Просвещение</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Живая природа" site_id="983##1365" update="i">TR-Живая природа</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Живая планета" site_id="983##1562" update="i">TR-Живая планета</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Ностальгия" site_id="983##783" update="i">TR-Ностальгия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-VH1 Classic" site_id="983##156" update="i">TR-VH1 Classic</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-VH1 European" site_id="983##491" update="i">TR-VH1 European</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TDK" site_id="983##776" update="i">TR-TDK</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TLC" site_id="983##425" update="i">TR-TLC</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Ретро ТВ" site_id="983##6" update="i">TR-Ретро ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TV5-Monde" site_id="983##589" update="i">TR-TV5-Monde</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Время" site_id="983##669" update="i">TR-Время</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Cinema" site_id="983##37" update="i">TR-Cinema</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кинопоказ HD-1" site_id="983##138" update="i">TR-Кинопоказ HD-1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Кинопоказ HD-2" site_id="983##741" update="i">TR-Кинопоказ HD-2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-КХЛ HD" site_id="983##1038" update="i">TR-КХЛ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-myZen.tv" site_id="983##141" update="i">TR-myZen.tv</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Nickelodeon HD" site_id="983##423" update="i">TR-Nickelodeon HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-World Business Channel" site_id="983##1397" update="i">TR-World Business Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-R1" site_id="983##1674" update="i">TR-R1</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ТБН" site_id="983##576" update="i">TR-ТБН</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Точка ТВ" site_id="983##1396" update="i">TR-Точка ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-БелРос (ТРО)" site_id="983##730" update="i">TR-БелРос (ТРО)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Первый метео" site_id="983##59" update="i">TR-Первый метео</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-РЖД" site_id="983##509" update="i">TR-РЖД</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ТНВ" site_id="983##180" update="i">TR-ТНВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Дом кино" site_id="983##834" update="i">TR-Дом кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Рыжий" site_id="983##1578" update="i">TR-Рыжий</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Ginger HD" site_id="983##1657" update="i">TR-Ginger HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Беларусь-24" site_id="983##248" update="i">TR-Беларусь-24</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-РазТВ" site_id="983##363" update="i">TR-РазТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-RTG International" site_id="983##1660" update="i">TR-RTG International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Бобер" site_id="983##1662" update="i">TR-Бобер</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мужское кино" site_id="983##1584" update="i">TR-Мужское кино</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-365 дней ТВ" site_id="983##250" update="i">TR-365 дней ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Ля-минор" site_id="983##257" update="i">TR-Ля-минор</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Киносерия" site_id="983##799" update="i">TR-Киносерия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-КиноПремиумHD" site_id="983##1586" update="i">TR-КиноПремиумHD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Остросюжетное HD" site_id="983##1588" update="i">TR-Остросюжетное HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Комедия" site_id="983##1620" update="i">TR-Комедия</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Insight Ultra HD" site_id="983##1663" update="i">TR-Insight Ultra HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Калейдоскоп ТВ" site_id="983##1666" update="i">TR-Калейдоскоп ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Арена" site_id="983##1667" update="i">TR-Матч! Арена</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Игра" site_id="983##1668" update="i">TR-Матч! Игра</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Матч! Наш спорт" site_id="983##1669" update="i">TR-Матч! Наш спорт</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fuel TV HD" site_id="983##1670" update="i">TR-Fuel TV HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Museum HD" site_id="983##1672" update="i">TR-Museum HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Game Show" site_id="983##1676" update="i">TR-Game Show</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Конный мир" site_id="983##1679" update="i">TR-Конный мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Наше ТВ" site_id="983##1680" update="i">TR-Наше ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-H2" site_id="983##1699" update="i">TR-H2</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-КВН ТВ" site_id="983##1700" update="i">TR-КВН ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Food Network" site_id="983##1703" update="i">TR-Food Network</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Центральное телевидение (ЦТВ)" site_id="983##1702" update="i">TR-Центральное телевидение (ЦТВ)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fashion One 4K" site_id="983##1719" update="i">TR-Fashion One 4K</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Открытый мир" site_id="983##1713" update="i">TR-Открытый мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Твой Дом" site_id="983##1714" update="i">TR-Твой Дом</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ТЛУМ HD" site_id="983##1716" update="i">TR-ТЛУМ HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Global Star" site_id="983##1720" update="i">TR-Global Star</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MTV Dance International" site_id="983##1722" update="i">TR-MTV Dance International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MTV Hits International" site_id="983##1723" update="i">TR-MTV Hits International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-MTV Rocks International" site_id="983##1721" update="i">TR-MTV Rocks International</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-SHANT Premium" site_id="983##1725" update="i">TR-SHANT Premium</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Paramount Channel" site_id="983##1726" update="i">TR-Paramount Channel</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Animal Family HD" site_id="983##1729" update="i">TR-Animal Family HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Eureka HD" site_id="983##1730" update="i">TR-Eureka HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-RTД" site_id="983##1728" update="i">TR-RTД</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Viasat Golf" site_id="983##1727" update="i">TR-Viasat Golf</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Тайны Галактики" site_id="983##924" update="i">TR-Тайны Галактики</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Надежда" site_id="983##1732" update="i">TR-Надежда</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Detektiv.tv" site_id="983##1736" update="i">TR-Detektiv.tv</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Малыш" site_id="983##1734" update="i">TR-Малыш</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Наш Детектив" site_id="983##1737" update="i">TR-Наш Детектив</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Наш Кинороман" site_id="983##1738" update="i">TR-Наш Кинороман</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TRICK" site_id="983##1746" update="i">TR-TRICK</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Анекдот ТВ" site_id="983##1743" update="i">TR-Анекдот ТВ</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Новый мир" site_id="983##1744" update="i">TR-Новый мир</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Санкт-Петербург" site_id="983##690" update="i">TR-Санкт-Петербург</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-НТВ Право" site_id="983##1753" update="i">TR-НТВ Право</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-НТВ Сериал" site_id="983##1754" update="i">TR-НТВ Сериал</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-НТВ Стиль" site_id="983##1755" update="i">TR-НТВ Стиль</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-О!" site_id="983##1757" update="i">TR-О!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-HITV" site_id="983##1759" update="i">TR-HITV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Spike" site_id="983##1760" update="i">TR-Spike</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-HD Медиа 3D" site_id="983##1761" update="i">TR-HD Медиа 3D</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-DocuBox HD" site_id="983##1762" update="i">TR-DocuBox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-FilmBox HD" site_id="983##1763" update="i">TR-FilmBox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Russian Extreme Ultra HD" site_id="983##1764" update="i">TR-Russian Extreme Ultra HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-TVRUS" site_id="983##1765" update="i">TR-TVRUS</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мультик HD" site_id="983##1766" update="i">TR-Мультик HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-H2 HD" site_id="983##1772" update="i">TR-H2 HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Мужское кино HD" site_id="983##1773" update="i">TR-Мужское кино HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-ТНТ (International)" site_id="983##1775" update="i">TR-ТНТ (International)</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-7 TV" site_id="983##1780" update="i">TR-7 TV</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fashion Box HD" site_id="983##1781" update="i">TR-Fashion Box HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Fast & FunBox HD" site_id="983##1782" update="i">TR-Fast & FunBox HD</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-FilmBox Arthouse" site_id="983##1783" update="i">TR-FilmBox Arthouse</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Доктор" site_id="983##1784" update="i">TR-Доктор</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Поехали!" site_id="983##1785" update="i">TR-Поехали!</channel>
+
+<channel site="tv.yandex.ru" xmltv_id="TR-Ajara TV" site_id="983##756" update="i">TR-Ajara TV</channel>
