@@ -257,8 +257,6 @@ http://185.93.3.83:5010/play/a00p
 http://ruip.tv/5292/video.m3u8?token=u06qiW
 #EXTINF:-1,TVPlay Sports HD
 http://ruip.tv/7729/video.m3u8?token=u06qiW
-#EXTINF:-1 group-title="Sportas" tvg-id="tvplay-sports-plus" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/10/logo-tvplay-sports-plus-hd-spot.png",TVPlay Sports Plus HD hls
-http://88.216.48.14:80/tvplayspplus/live.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD
 http://ruip.tv/2321/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! Футбол 2 HD
