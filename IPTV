@@ -247,6 +247,12 @@ http://ruip.tv/4780/video.m3u8?token=u06qiW
 http://ruip.tv/7937/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! HD
 http://ruip.tv/5292/video.m3u8?token=u06qiW
+#EXTINF:-1,Setanta Sports Украина
+#EXTVLCOPT:network-caching=1000
+https://sportbar.biz/lba/ODgwMzQ3YTE4NzMxYjRiMmIyOWEwNTk5NjgwNGQxMTQ=/g4/setantaukr.m3u8?token=ODgwMzQ3YTE4NzMxYjRiMmIyOWEwNTk5NjgwNGQxMTQ=&id=Nzg1ZThmNTdmYjJkNWFhMjc0MGFkZGFlM2MzZWM0OGM=&vip=1565418341&dip=NzY5OTc1OWRjNmFmMWIyZmY1YWRlNGJjMWFlZTZlMzA=&pip=78.62.5.61&hip=MDc5Y2E5NjMxOTA0NmQwZWQ2NjViM2Y1Yzc2ZmI2N2U=
+#EXTINF:-1,TVPlay Sports HD +
+#EXTVLCOPT:network-caching=1000
+http://95.153.22.122:8000/play/a01s/tracks-v1a1/index.m3u8
 #EXTINF:-1,TVPlay Sports HD
 http://ruip.tv/7729/video.m3u8?token=u06qiW
 #EXTINF:-1,Матч! Арена HD
