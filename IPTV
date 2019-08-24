@@ -43,6 +43,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=67f1e463b6511718d2e3cb1e32f18755ce5a1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c958755ec5b51b20f88693c725ec200d95797c0d
 #EXTINF:-1, 1+1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=afeeb4c9336716ed180d0056e71bef27284c0116
+#EXTINF:1,1+1 International
+#EXTVLCOPT:network-caching=1000
+http://topchantv.net:3456/live/911TVCDN/CDN911StreammMXPZeksyE/335.m3u8
 #EXTINF:-1, Первый канал HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ee3ce944fa3a5f49428240d363ffc368454c6b72
 #EXTINF:-1, 2+2
@@ -83,6 +86,15 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e2fe666bbec21148dc37c34985cbf81837c1f
 http://127.0.0.1:6878/ace/manifest.m3u8?id=65a8d652cfcb95e7513fa0975075b38a5e3db9a5
 #EXTINF:-1, TV1000 Action East
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bdcd46d5b6b08a85fbcb0146a707f339a897085c
+#EXTINF:1,VIP Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://91.238.192.169/vipcomedyhd/tracks-v1a1/index.m3u8
+#EXTINF:1,VIP Megahit HD
+#EXTVLCOPT:network-caching=1000
+http://91.238.192.169/vipmegahithd/tracks-v1a1/index.m3u8
+#EXTINF:0,VIP Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://91.238.192.169/vippremierehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, Пятница
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1e1589bcf14e9eb57b33be0e86ccb2c8c2d2d04c
 #EXTINF:-1, Кинокомедия
@@ -133,6 +145,12 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=29394427a196c1e71549f54da14a7fc9483e0
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e73c851d2c986049b324d6b5c3c6c9da64ad4b65
 #EXTINF:-1, Бокс ТВ 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2ee8cc6d23f5ea4013385343e42d037233e7ad6d
+#EXTINF:1,СТС Love
+#EXTVLCOPT:network-caching=1000
+http://5.8.203.183:5055/play/a084
+#EXTINF:1,Телекафе
+#EXTVLCOPT:network-caching=1000
+http://91.205.131.7:80/telecafe/tracks-v1a1/index.m3u8
 #EXTINF:-1,TV3 LT HD
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1,TV6 LT
