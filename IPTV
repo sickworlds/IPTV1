@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Дом кино Премиум HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=863878744814575d1686df2d2a6250d5eda64a22
 #EXTINF:-1, Setanta Sports HD
-manifest.m3u8?id=b919b8b349c177783f63c4ed0e6ee72848c5bb59&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.3200701026364119&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=b919b8b349c177783f63c4ed0e6ee72848c5bb59
 #EXTINF:-1, Setanta Sports + HD 
-manifest.m3u8?id=748e65f5e9652a1c014dca2ad489957e1ba08b3c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.41658289896040146&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=748e65f5e9652a1c014dca2ad489957e1ba08b3c
 #EXTINF:-1, МАТЧ! Футбол 3 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=70b20efc8b27aa84025b7fe5752dea186429b08c
 #EXTINF:-1, Матч! Футбол 2 HD
@@ -16,15 +14,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=62ef7e82275b9f50a51b6dd19123e460f68e6
 #EXTINF:-1, Матч! Арена HD
 manifest.m3u8?id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1, Матч ТВ HD
-manifest.m3u8?id=781f1e0f92475b086b3988bf45da9fbf88de3e63&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1, Матч! Страна 
-manifest.m3u8?id=501018635ad5a212639acc8f1857120390b0e699&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.5193052635180069&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=781f1e0f92475b086b3988bf45da9fbf88de3e63
 #EXTINF:-1, Матч Премьер
-manifest.m3u8?id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.06697614000127783&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd
 #EXTINF:-1,  Беларусь 5
-manifest.m3u8?id=8d9094e60cac92486cd23d1311a4ef1261a337ed&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.6258753625775135&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=8d9094e60cac92486cd23d1311a4ef1261a337ed
 #EXTINF:-1,  КХЛ ТВ HD
-manifest.m3u8?id=18699df05bd2b99c37b2d827a6206a04b0b9c891&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.5366585232868715&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=18699df05bd2b99c37b2d827a6206a04b0b9c891
 #EXTINF:-1, Футбол 1 HD
 http://91.238.192.169/football1hd/tracks-v1a1/index.m3u8
 #EXTINF:-1, Футбол 2 HD
@@ -41,6 +37,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=3f2d29b82d9216cf3ae86c7826e3197ad699a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=67f1e463b6511718d2e3cb1e32f18755ce5a15e1
 #EXTINF:-1, Россия К
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c958755ec5b51b20f88693c725ec200d95797c0d
+#EXTINF:-1, Дом кино Премиум HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=863878744814575d1686df2d2a6250d5eda64a22
 #EXTINF:-1, 1+1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=afeeb4c9336716ed180d0056e71bef27284c0116
 #EXTINF:1,1+1 International
