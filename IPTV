@@ -12,7 +12,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=92550ac34357a69bf6c734145fa359197d62f
 #EXTINF:-1, Матч! Игра HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=62ef7e82275b9f50a51b6dd19123e460f68e678a
 #EXTINF:-1, Матч! Арена HD
-manifest.m3u8?id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.4674440271651237&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da
 #EXTINF:-1, Матч ТВ HD
 http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.5193052635180069&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=781f1e0f92475b086b3988bf45da9fbf88de3e63
 #EXTINF:-1, Матч Премьер
