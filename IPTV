@@ -1,137 +1,280 @@
 #EXTM3U
-#EXTINF:-1,Setanta Sport HD
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1,Setanta Sport Plus HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1, МАТЧ! Футбол 3 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=70b20efc8b27aa84025b7fe5752dea186429b08c
-#EXTINF:-1, Матч! Футбол 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=153e4a4098ada1e6150a5e62cdd58db806fddada
-#EXTINF:-1,Матч! Футбол 1 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=92550ac34357a69bf6c734145fa359197d62fec0
-#EXTINF:-1, Матч! Игра HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=62ef7e82275b9f50a51b6dd19123e460f68e678a
-#EXTINF:-1, Матч! Арена HD
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.4674440271651237&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da
-#EXTINF:-1, Матч ТВ HD
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.5193052635180069&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=781f1e0f92475b086b3988bf45da9fbf88de3e63
-#EXTINF:-1, Матч Премьер
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.06697614000127783&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd
-#EXTINF:-1,  Беларусь 5
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.6258753625775135&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=8d9094e60cac92486cd23d1311a4ef1261a337ed
-#EXTINF:-1,  КХЛ ТВ HD
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.5366585232868715&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=18699df05bd2b99c37b2d827a6206a04b0b9c891
-#EXTINF:-1, Футбол 1 HD
-http://91.238.192.169/football1hd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Футбол 2 HD
-http://91.238.192.169/football2hd/tracks-v1a1/index.m3u8
-#EXTINF:-1, 112 Украина HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1, НТВ HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=879b42e44f9fa7a868758bded64eacdcc7bf11a0
-#EXTINF:-1, НТВ (+2)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7b9b14a22cb0792da756f6f7d13f9cad71e7d05c
-#EXTINF:-1, Россия HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3f2d29b82d9216cf3ae86c7826e3197ad699af62
-#EXTINF:-1, Россия 1 (+2)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=67f1e463b6511718d2e3cb1e32f18755ce5a15e1
-#EXTINF:-1, Россия К
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c958755ec5b51b20f88693c725ec200d95797c0d
-#EXTINF:-1, Дом кино Премиум HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=863878744814575d1686df2d2a6250d5eda64a22
-#EXTINF:-1, 1+1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=afeeb4c9336716ed180d0056e71bef27284c0116
-#EXTINF:1,1+1 International
-#EXTVLCOPT:network-caching=1000
-http://topchantv.net:3456/live/911TVCDN/CDN911StreammMXPZeksyE/335.m3u8
-#EXTINF:-1, Первый канал HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ee3ce944fa3a5f49428240d363ffc368454c6b72
-#EXTINF:-1, 2+2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1582fa915d8ca7a3a68017391403239ba5ea9cec
-#EXTINF:-1, Первый канал (+2) 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=743244c3a526aa5b68d1f7ef9c8a2f36a1d505ec
-#EXTINF:-1, Первый канал HD (+4)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c6eb4bbbafb780ed39136674f167e6d47a90c569
-#EXTINF:-1, Интер 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3912d8223b6f3038e9488f7415e0b8bedd1088ca
-#EXTINF:-1, Звезда 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=58af396101a2c9848267cacb05f37221f33584ee
-#EXTINF:-1, Мир HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7e9558cfc3a9bf095ee8a2c25d6f097440ef9859
-#EXTINF:-1, Мир +4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3f4a179ec95e2c2d5c1bb0f95837e74fa58ac787
-#EXTINF:-1, ТВЦ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acf4e8053a6062d5eadd11cb1c75e24ce4d41a1b
-#EXTINF:-1, СТБ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0d44f8dc1f9d9be406300ff76d5342e88ab48634
-#EXTINF:-1, РЕН ТВ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=33af28e422710686d91df03087d03e5f3ff64d3d
-#EXTINF:-1, РБК
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5eb216345065a185723f4cd2bd553040650f8ad1
-#EXTINF:-1, Russia Today
-http://127.0.0.1:6878/ace/manifest.m3u8?id=19b6204cc21aff1f19b091a2437a00a009dc4f6f
-#EXTINF:-1, RTVi
-http://127.0.0.1:6878/ace/manifest.m3u8?id=748c5b155ec28aeefc0491998544615e15a4bede
-#EXTINF:-1, ТНТ International
-http://127.0.0.1:6878/ace/manifest.m3u8?id=876c4603d181505f3ef228d3499dc7354cf109aa
+#EXTINF:-1,Первый канал
+http://81.22.55.121:1234/udp/230.7.7.1:1234
+#EXTINF:-1,Россия 1
+http://81.22.55.121:1234/udp/230.7.7.2:1234
+#EXTINF:-1,Матч ТВ
+http://81.22.55.121:1234/udp/230.7.7.3:1234
+#EXTINF:-1,Россия К
+http://81.22.55.121:1234/udp/230.7.7.6:1234
+#EXTINF:-1,Пятый канал
+http://81.22.55.121:1234/udp/230.7.7.5:1234
+#EXTINF:-1,Россия 24
+http://81.22.55.121:1234/udp/230.7.7.7:1234
+#EXTINF:-1,Карусель
+http://81.22.55.121:1234/udp/230.7.7.8:1234
+#EXTINF:-1,НТВ
+http://81.22.55.121:1234/udp/230.7.7.4:1234
+#EXTINF:-1,ОТР
+http://81.22.55.121:1234/udp/230.7.7.9:1234
+#EXTINF:-1,ТВ Центр
+http://81.22.55.121:1234/udp/230.7.7.10:1234
+#EXTINF:-1,РЕН ТВ
+http://81.22.55.121:1234/udp/230.7.7.11:1234
+#EXTINF:-1,Спас
+http://81.22.55.121:1234/udp/230.7.7.12:1234
+#EXTINF:-1,CTC
+http://81.22.55.121:1234/udp/230.7.7.13:1234
+#EXTINF:-1,Домашний
+http://81.22.55.121:1234/udp/230.7.7.14:1234
+#EXTINF:-1,ТВ3
+http://81.22.55.121:1234/udp/230.7.7.15:1234
+#EXTINF:-1,Пятница
+http://81.22.55.121:1234/udp/230.7.7.16:1234
+#EXTINF:-1,Звезда
+http://81.22.55.121:1234/udp/230.7.7.17:1234
+#EXTINF:-1,Мир
+http://81.22.55.121:1234/udp/230.7.7.18:1234
+#EXTINF:-1,МУЗ ТВ
+http://81.22.55.121:1234/udp/230.7.7.20:1234
 #EXTINF:-1,ТНТ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=53793e7e28816241047bad3ce46b3efe0a6db243
-#EXTINF:-1,Первый городской Нижний Новгород
-#EXTINF:-1,Первый канал Europe
-http://91.194.72.46:10051/play/1TVRUS_Europe/index.m3u8
-#EXTINF:-1,Первый канал HD
-http://176.114.16.54:80/1HD/index.m3u8
-#EXTINF:-1,Первый канал + HD
-http://31.185.0.40:8080/OrtHD/playlist.m3u8
-#EXTINF:-1,Первый канал HD +4
-http://188.128.15.118:8080/play/a98
-#EXTINF:-1,Россия HD
-http://188.128.15.118:8080/play/a172
-#EXTINF:-1, СТС 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e2fe666bbec21148dc37c34985cbf81837c1f93e
-#EXTINF:-1, БелМуз ТВ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=65a8d652cfcb95e7513fa0975075b38a5e3db9a5
-#EXTINF:-1, TV1000 Action East
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bdcd46d5b6b08a85fbcb0146a707f339a897085c
-#EXTINF:1,VIP Comedy HD
-#EXTVLCOPT:network-caching=1000
-http://91.238.192.169/vipcomedyhd/tracks-v1a1/index.m3u8
-#EXTINF:1,VIP Megahit HD
-#EXTVLCOPT:network-caching=1000
-http://91.238.192.169/vipmegahithd/tracks-v1a1/index.m3u8
-#EXTINF:0,VIP Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://91.238.192.169/vippremierehd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Пятница
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1e1589bcf14e9eb57b33be0e86ccb2c8c2d2d04c
-#EXTINF:-1, КИНОПРЕМЬЕРА HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=be5599ac4112e2d0a4765f6e05a42aa683d6dd31
-#EXTINF:-1, КиноПремиум HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6a45f49f6cb3f271cf28d94bd0a6c61897134c61
-#EXTINF:-1, КИНОСЕМЬЯ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8e41521482e2daf70b032dea8348abc06f58192a
-#EXTINF:-1, КИНОСВИДАНИЕ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=10e5781bbfac4fed4059c2084cb4bef3b4c338a5
-#EXTINF:-1, КИНОХИТ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=17a7bdf381d98ea110654d230a22b08136cc6d7b
-#EXTINF:-1, Наш Кинороман HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1a52808675389dcfc4474d0bb268c4a6ce927ed3
-#EXTINF:-1, History Россия HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=14283a2a7c935c6b7505c073476ee2591277c9a1
-#EXTINF:-1, Travel+Adventure HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2b9b8f57396ffd86f9d073e485a343f018b38e10
-#EXTINF:-1, ТНТ Music 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=29394427a196c1e71549f54da14a7fc9483e02ca
-#EXTINF:-1, Авто плюс
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e73c851d2c986049b324d6b5c3c6c9da64ad4b65
-#EXTINF:-1, Бокс ТВ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2ee8cc6d23f5ea4013385343e42d037233e7ad6d
-#EXTINF:1,СТС Love
-#EXTVLCOPT:network-caching=1000
-http://5.8.203.183:5055/play/a084
-#EXTINF:1,Телекафе
-#EXTVLCOPT:network-caching=1000
-http://91.205.131.7:80/telecafe/tracks-v1a1/index.m3u8
+http://81.22.55.121:1234/udp/230.7.7.19:1234
+#EXTINF:-1,Че
+http://81.22.55.121:1234/udp/230.7.7.21:1234
+#EXTINF:-1,Самара ГИС
+http://81.22.55.121:1234/udp/230.7.7.22:1234
+#EXTINF:-1,Губерния ТВ Самара
+http://81.22.55.121:1234/udp/230.7.7.23:1234
+#EXTINF:-1,ТНТ4
+http://81.22.55.121:1234/udp/230.7.7.24:1234
+#EXTINF:-1,Мужское кино HD
+http://81.22.55.121:1234/udp/230.7.7.26:1234
+#EXTINF:-1,Наш Кинороман HD
+http://81.22.55.121:1234/udp/230.7.7.27:1234
+#EXTINF:-1,Приключения HD
+http://81.22.55.121:1234/udp/230.7.7.25:1234
+#EXTINF:-1,Киномикс HD
+http://81.22.55.121:1234/udp/230.7.7.28:1234
+#EXTINF:-1,Самара 24
+http://81.22.55.121:1234/udp/230.7.7.29:1234
+#EXTINF:-1,IZ RU
+http://81.22.55.121:1234/udp/230.7.7.30:1234
+#EXTINF:-1,Эврика HD
+http://81.22.55.121:1234/udp/230.7.7.31:1234
+#EXTINF:-1,В мире животных HD
+http://81.22.55.121:1234/udp/230.7.7.32:1234
+#EXTINF:-1,КиноПремиум HD
+http://81.22.55.121:1234/udp/230.7.7.33:1234
+#EXTINF:-1,Охотник и рыболов HD
+http://81.22.55.121:1234/udp/230.7.7.34:1234
+#EXTINF:-1,Матч! Игра HD
+http://81.22.55.121:1234/udp/230.7.7.35:1234
+#EXTINF:-1,Остросюжетное HD
+http://81.22.55.121:1234/udp/230.7.7.36:1234
+#EXTINF:-1,Еда HD
+http://81.22.55.121:1234/udp/230.7.7.37:1234
+#EXTINF:-1,SET HD
+http://81.22.55.121:1234/udp/230.7.7.38:1234
+#EXTINF:-1,Русский Экстрим HD
+http://81.22.55.121:1234/udp/230.7.7.40:1234
+#EXTINF:-1,I-Concerts HD
+http://81.22.55.121:1234/udp/230.7.7.39:1234
+#EXTINF:-1,Матч ТВ HD
+http://81.22.55.121:1234/udp/230.7.7.41:1234
+#EXTINF:-1,Fashion HD
+http://81.22.55.121:1234/udp/230.7.7.42:1234
+#EXTINF:-1,Дом Кино Премиум HD
+http://81.22.55.121:1234/udp/230.7.7.43:1234
+#EXTINF:-1,RTG HD
+http://81.22.55.121:1234/udp/230.7.7.44:1234
+#EXTINF:-1,Amedia 2 HD
+http://81.22.55.121:1234/udp/230.7.7.45:1234
+#EXTINF:-1,Первый HD
+http://81.22.55.121:1234/udp/230.7.7.46:1234
+#EXTINF:-1,Россия 1 HD
+http://81.22.55.121:1234/udp/230.7.7.47:1234
+#EXTINF:-1,Наш Детектив HD
+http://81.22.55.121:1234/udp/230.7.7.48:1234
+#EXTINF:-1,Матч Премьер
+http://81.22.55.121:1234/udp/230.7.7.49:1234
+#EXTINF:-1,Shop and Show
+http://81.22.55.121:1234/udp/230.7.7.50:1234
+#EXTINF:-1,Терра 360°
+http://81.22.55.121:1234/udp/230.7.7.52:1234
+#EXTINF:-1,Наше новое кино
+http://81.22.55.121:1234/udp/230.7.7.51:1234
+#EXTINF:-1,ТНВ-Планета
+http://81.22.55.121:1234/udp/230.7.7.54:1234
+#EXTINF:-1,TV XXI
+http://81.22.55.121:1234/udp/230.7.7.53:1234
+#EXTINF:-1,Eurosport 1
+http://81.22.55.121:1234/udp/230.7.7.55:1234
+#EXTINF:-1,Extreme Sport
+http://81.22.55.121:1234/udp/230.7.7.57:1234
+#EXTINF:-1,Eurosport 2
+http://81.22.55.121:1234/udp/230.7.7.56:1234
+#EXTINF:-1,Amedia 1
+http://81.22.55.121:1234/udp/230.7.7.58:1234
+#EXTINF:-1,Матч! Страна
+http://81.22.55.121:1234/udp/230.7.7.60:1234
+#EXTINF:-1,ДиалогТВ
+http://81.22.55.121:1234/udp/230.7.7.61:1234
+#EXTINF:-1,КИНОХИТ
+http://81.22.55.121:1234/udp/230.7.7.59:1234
+#EXTINF:-1,Матч! Боец
+http://81.22.55.121:1234/udp/230.7.7.64:1234
+#EXTINF:-1,AMEDIA 2
+http://81.22.55.121:1234/udp/230.7.7.63:1234
+#EXTINF:-1,Родное кино
+http://81.22.55.121:1234/udp/230.7.7.62:1234
+#EXTINF:-1,Иллюзион+
+http://81.22.55.121:1234/udp/230.7.7.65:1234
+#EXTINF:-1,ТНТ Music
+http://81.22.55.121:1234/udp/230.7.7.66:1234
+#EXTINF:-1,Россия 1
+http://81.22.55.121:1234/udp/230.7.7.67:1234
+#EXTINF:-1,IDXtra
+http://81.22.55.121:1234/udp/230.7.7.68:1234
+#EXTINF:-1,Телекафе
+http://81.22.55.121:1234/udp/230.7.7.69:1234
+#EXTINF:-1,Мама
+http://81.22.55.121:1234/udp/230.7.7.70:1234
+#EXTINF:-1,Animal Planet
+http://81.22.55.121:1234/udp/230.7.7.71:1234
+#EXTINF:-1,Киносемья
+http://81.22.55.121:1234/udp/230.7.7.72:1234
+#EXTINF:-1,Русский иллюзион
+http://81.22.55.121:1234/udp/230.7.7.74:1234
+#EXTINF:-1,Киносвидание
+http://81.22.55.121:1234/udp/230.7.7.73:1234
+#EXTINF:-1,CKAT24 HD
+http://81.22.55.121:1234/udp/230.7.7.75:1234
+#EXTINF:-1,Первый Канал
+http://81.22.55.121:1234/udp/230.7.7.76:1234
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://81.22.55.121:1234/udp/230.7.7.77:1234
+#EXTINF:-1,Мужское кино
+http://81.22.55.121:1234/udp/230.7.7.78:1234
+#EXTINF:-1,Discovery Channel
+http://81.22.55.121:1234/udp/230.7.7.79:1234
+#EXTINF:-1,24 Техно
+http://81.22.55.121:1234/udp/230.7.7.80:1234
+#EXTINF:-1,Мульт
+http://81.22.55.121:1234/udp/230.7.7.81:1234
+#EXTINF:-1,MB-SAMARA
+http://81.22.55.121:1234/udp/230.7.7.82:1234
+#EXTINF:-1,2x2
+http://81.22.55.121:1234/udp/230.7.7.83:1234
+#EXTINF:-1,O!
+http://81.22.55.121:1234/udp/230.7.7.84:1234
+#EXTINF:-1,Viasat Sport
+http://81.22.55.121:1234/udp/230.7.7.86:1234
+#EXTINF:-1,Viasat Nature
+http://81.22.55.121:1234/udp/230.7.7.85:1234
+#EXTINF:-1,Disney
+http://81.22.55.121:1234/udp/230.7.7.87:1234
+#EXTINF:-1,CTC love
+http://81.22.55.121:1234/udp/230.7.7.89:1234
+#EXTINF:-1,8 Канал
+http://81.22.55.121:1234/udp/230.7.7.88:1234
+#EXTINF:-1,Ля-минор
+http://81.22.55.121:1234/udp/230.7.7.90:1234
+#EXTINF:-1,Дождь
+http://81.22.55.121:1234/udp/230.7.7.92:1234
+#EXTINF:-1,Ю ТВ
+http://81.22.55.121:1234/udp/230.7.7.91:1234
+#EXTINF:-1,Ностальгия
+http://81.22.55.121:1234/udp/230.7.7.93:1234
+#EXTINF:-1,Наука 2.0
+http://81.22.55.121:1234/udp/230.7.7.94:1234
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://81.22.55.121:1234/udp/230.7.7.95:1234
+#EXTINF:-1,Русский роман
+http://81.22.55.121:1234/udp/230.7.7.96:1234
+#EXTINF:-1,Индийское кино
+http://81.22.55.121:1234/udp/230.7.7.97:1234
+#EXTINF:-1,BBC World News
+http://81.22.55.121:1234/udp/230.7.7.98:1234
+#EXTINF:-1,TV5 Monde
+http://81.22.55.121:1234/udp/230.7.7.99:1234
+#EXTINF:-1,Deutsche Welle
+http://81.22.55.121:1234/udp/230.7.7.100:1234
+#EXTINF:-1,Моя планета
+http://81.22.55.121:1234/udp/230.7.7.101:1234
+#EXTINF:-1,ТНТ
+http://81.22.55.121:1234/udp/230.7.7.102:1234
+#EXTINF:-1,РБК ТВ
+http://81.22.55.121:1234/udp/230.7.7.103:1234
+#EXTINF:-1,Nickelodeon
+http://81.22.55.121:1234/udp/230.7.7.104:1234
+#EXTINF:-1,Europa Plus TV
+http://81.22.55.121:1234/udp/230.7.7.105:1234
+#EXTINF:-1,Synergy TV
+http://81.22.55.121:1234/udp/230.7.7.106:1234
+#EXTINF:-1,Мультимания
+http://81.22.55.121:1234/udp/230.7.7.107:1234
+#EXTINF:-1,Союз
+http://81.22.55.121:1234/udp/230.7.7.108:1234
+#EXTINF:-1,Мужской
+http://81.22.55.121:1234/udp/230.7.7.110:1234
+#EXTINF:-1,НСТ
+http://81.22.55.121:1234/udp/230.7.7.109:1234
+#EXTINF:-1,Загородная Жизнь
+http://81.22.55.121:1234/udp/230.7.7.111:1234
+#EXTINF:-1,TV1000
+http://81.22.55.121:1234/udp/230.7.7.112:1234
+#EXTINF:-1,TV 1000 Русское Кино
+http://81.22.55.121:1234/udp/230.7.7.113:1234
+#EXTINF:-1,TV1000 Action
+http://81.22.55.121:1234/udp/230.7.7.114:1234
+#EXTINF:-1,Viasat Explore
+http://81.22.55.121:1234/udp/230.7.7.115:1234
+#EXTINF:-1,Viasat History
+http://81.22.55.121:1234/udp/230.7.7.116:1234
+#EXTINF:-1,Da Vinchi Learning
+http://81.22.55.121:1234/udp/230.7.7.117:1234
+#EXTINF:-1,Bridge TV
+http://81.22.55.121:1234/udp/230.7.7.118:1234
+#EXTINF:-1,Дом Кино
+http://81.22.55.121:1234/udp/230.7.7.120:1234
+#EXTINF:-1,Русский детектив
+http://81.22.55.121:1234/udp/230.7.7.122:1234
+#EXTINF:-1,Авто Плюс
+http://81.22.55.121:1234/udp/230.7.7.121:1234
+#EXTINF:-1,Русский бестселлер
+http://81.22.55.121:1234/udp/230.7.7.123:1234
+#EXTINF:-1,История
+http://81.22.55.121:1234/udp/230.7.7.124:1234
+#EXTINF:-1,TLC
+http://81.22.55.121:1234/udp/230.7.7.125:1234
+#EXTINF:-1,Кинопремьера HD
+http://81.22.55.121:1234/udp/230.7.7.126:1234
+#EXTINF:-1,Fashion One HD
+http://81.22.55.121:1234/udp/230.7.7.127:1234
+#EXTINF:-1,КХЛ HD
+http://81.22.55.121:1234/udp/230.7.7.128:1234
+#EXTINF:-1,Шокирующее HD
+http://81.22.55.121:1234/udp/230.7.7.129:1234
+#EXTINF:-1,Комедийное HD
+http://81.22.55.121:1234/udp/230.7.7.130:1234
+#EXTINF:-1,Наше Любимое HD
+http://81.22.55.121:1234/udp/230.7.7.132:1234
+#EXTINF:-1,Глазами туриста HD
+http://81.22.55.121:1234/udp/230.7.7.133:1234
+#EXTINF:-1,Живая Природа HD
+http://81.22.55.121:1234/udp/230.7.7.134:1234
+#EXTINF:-1,Кино ТВ HD
+http://81.22.55.121:1234/udp/230.7.7.135:1234
+#EXTINF:-1,C Music HD
+http://81.22.55.121:1234/udp/230.7.7.136:1234
+#EXTINF:-1,Travel Channel HD
+http://81.22.55.121:1234/udp/230.7.7.137:1234
+#EXTINF:-1,Тлум HD
+http://81.22.55.121:1234/udp/230.7.7.138:1234
+#EXTINF:-1,ТНТ
+http://81.22.55.121:1234/udp/230.7.7.139:1234
+#EXTINF:-1,КВН ТВ
+http://81.22.55.121:1234/udp/230.7.7.119:1234
 #EXTINF:-1,TV3 LT HD
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1,TV6 LT
