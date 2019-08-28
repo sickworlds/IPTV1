@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-name="Матч! Арена HD", Матч! Арена + HD
+http://cn02.iptv.monster/play/146/30D4F524A7BB353/video.m3u8
 #EXTINF:-1,Матч! Арена
 http://79.133.108.144:999/udp/239.191.254.201:13343
 #EXTINF:-1,супер +
