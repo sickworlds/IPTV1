@@ -5,6 +5,16 @@ http://cn02.iptv.monster/play/146/30D4F524A7BB353/video.m3u8
 http://cn02.iptv.monster/play/250/30D4F524A7BB353/video.m3u8
 #EXTINF:1 Матч Арена
 http://cn02.iptv.monster/play/136/30D4F524A7BB353/video.m3u8
+#EXTINF:1, Матч! Планета
+http://cn02.iptv.monster/play/14/30D4F524A7BB353/video.m3u8
+#EXTINF:1, Матч ТВ
+http://sn202.iptv.monster/play/5/30D4F524A7BB353/video.m3u8
+#EXTINF:1, МАТЧ! Боец
+http://cn02.iptv.monster/play/30/30D4F524A7BB353/video.m3u8
+#EXTINF:1, Матч! Наш спорт
+http://cn02.iptv.monster/play/134/30D4F524A7BB353/video.m3u8
+#EXTINF:1, Матч! Игра HD
+http://cn02.iptv.monster/play/268/30D4F524A7BB353/video.m3u8
 #EXTINF:-1,супер +
 http://178.163.86.55:4022/udp/234.0.0.100:2000
 #EXTINF:-1,Большая Азия +
@@ -229,139 +239,6 @@ http://178.163.86.55:4022/udp/234.0.0.207:2000
 http://178.163.86.55:4022/udp/234.0.0.151:2000
 #EXTINF:-1,Eurunews +
 http://178.163.86.55:4022/udp/234.0.0.248:2000
-#EXTINF:-1,Setanta Sport HD
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1,Setanta Sport Plus HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1, МАТЧ! Футбол 3 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=70b20efc8b27aa84025b7fe5752dea186429b08c
-#EXTINF:-1, Матч! Футбол 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=153e4a4098ada1e6150a5e62cdd58db806fddada
-#EXTINF:-1,Матч! Футбол 1 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=92550ac34357a69bf6c734145fa359197d62fec0
-#EXTINF:-1, Матч! Игра HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=62ef7e82275b9f50a51b6dd19123e460f68e678a
-#EXTINF:-1, Матч! Арена HD
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.4674440271651237&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da
-#EXTINF:-1, Матч ТВ HD
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.5193052635180069&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=781f1e0f92475b086b3988bf45da9fbf88de3e63
-#EXTINF:-1, Матч Премьер
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.06697614000127783&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd
-#EXTINF:-1,  Беларусь 5
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.6258753625775135&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=8d9094e60cac92486cd23d1311a4ef1261a337ed
-#EXTINF:-1,  КХЛ ТВ HD
-http://127.0.0.1:6878/ace/manifest.m3u8?sid=0.5366585232868715&use_api_events=1&use_api_stop=1&use_timeshift=1&transcode_audio=1&transcode_mp3=0&id=18699df05bd2b99c37b2d827a6206a04b0b9c891
-#EXTINF:-1, Футбол 1 HD
-http://91.238.192.169/football1hd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Футбол 2 HD
-http://91.238.192.169/football2hd/tracks-v1a1/index.m3u8
-#EXTINF:-1, 112 Украина HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1, НТВ HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=879b42e44f9fa7a868758bded64eacdcc7bf11a0
-#EXTINF:-1, НТВ (+2)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7b9b14a22cb0792da756f6f7d13f9cad71e7d05c
-#EXTINF:-1, Россия HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3f2d29b82d9216cf3ae86c7826e3197ad699af62
-#EXTINF:-1, Россия 1 (+2)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=67f1e463b6511718d2e3cb1e32f18755ce5a15e1
-#EXTINF:-1, Россия К
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c958755ec5b51b20f88693c725ec200d95797c0d
-#EXTINF:-1, Дом кино Премиум HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=863878744814575d1686df2d2a6250d5eda64a22
-#EXTINF:-1, 1+1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=afeeb4c9336716ed180d0056e71bef27284c0116
-#EXTINF:1,1+1 International
-#EXTVLCOPT:network-caching=1000
-http://topchantv.net:3456/live/911TVCDN/CDN911StreammMXPZeksyE/335.m3u8
-#EXTINF:-1, Первый канал HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ee3ce944fa3a5f49428240d363ffc368454c6b72
-#EXTINF:-1, 2+2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1582fa915d8ca7a3a68017391403239ba5ea9cec
-#EXTINF:-1, Первый канал (+2) 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=743244c3a526aa5b68d1f7ef9c8a2f36a1d505ec
-#EXTINF:-1, Первый канал HD (+4)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c6eb4bbbafb780ed39136674f167e6d47a90c569
-#EXTINF:-1, Интер 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3912d8223b6f3038e9488f7415e0b8bedd1088ca
-#EXTINF:-1, Звезда 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=58af396101a2c9848267cacb05f37221f33584ee
-#EXTINF:-1, Мир HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7e9558cfc3a9bf095ee8a2c25d6f097440ef9859
-#EXTINF:-1, Мир +4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3f4a179ec95e2c2d5c1bb0f95837e74fa58ac787
-#EXTINF:-1, ТВЦ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acf4e8053a6062d5eadd11cb1c75e24ce4d41a1b
-#EXTINF:-1, СТБ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0d44f8dc1f9d9be406300ff76d5342e88ab48634
-#EXTINF:-1, РЕН ТВ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=33af28e422710686d91df03087d03e5f3ff64d3d
-#EXTINF:-1, РБК
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5eb216345065a185723f4cd2bd553040650f8ad1
-#EXTINF:-1, Russia Today
-http://127.0.0.1:6878/ace/manifest.m3u8?id=19b6204cc21aff1f19b091a2437a00a009dc4f6f
-#EXTINF:-1, RTVi
-http://127.0.0.1:6878/ace/manifest.m3u8?id=748c5b155ec28aeefc0491998544615e15a4bede
-#EXTINF:-1, ТНТ International
-http://127.0.0.1:6878/ace/manifest.m3u8?id=876c4603d181505f3ef228d3499dc7354cf109aa
-#EXTINF:-1,ТНТ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=53793e7e28816241047bad3ce46b3efe0a6db243
-#EXTINF:-1,Первый городской Нижний Новгород
-#EXTINF:-1,Первый канал Europe
-http://91.194.72.46:10051/play/1TVRUS_Europe/index.m3u8
-#EXTINF:-1,Первый канал HD
-http://176.114.16.54:80/1HD/index.m3u8
-#EXTINF:-1,Первый канал + HD
-http://31.185.0.40:8080/OrtHD/playlist.m3u8
-#EXTINF:-1,Первый канал HD +4
-http://188.128.15.118:8080/play/a98
-#EXTINF:-1,Россия HD
-http://188.128.15.118:8080/play/a172
-#EXTINF:-1, СТС 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e2fe666bbec21148dc37c34985cbf81837c1f93e
-#EXTINF:-1, БелМуз ТВ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=65a8d652cfcb95e7513fa0975075b38a5e3db9a5
-#EXTINF:-1, TV1000 Action East
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bdcd46d5b6b08a85fbcb0146a707f339a897085c
-#EXTINF:1,VIP Comedy HD
-#EXTVLCOPT:network-caching=1000
-http://91.238.192.169/vipcomedyhd/tracks-v1a1/index.m3u8
-#EXTINF:1,VIP Megahit HD
-#EXTVLCOPT:network-caching=1000
-http://91.238.192.169/vipmegahithd/tracks-v1a1/index.m3u8
-#EXTINF:0,VIP Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://91.238.192.169/vippremierehd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Пятница
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1e1589bcf14e9eb57b33be0e86ccb2c8c2d2d04c
-#EXTINF:-1, КИНОПРЕМЬЕРА HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=be5599ac4112e2d0a4765f6e05a42aa683d6dd31
-#EXTINF:-1, КиноПремиум HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6a45f49f6cb3f271cf28d94bd0a6c61897134c61
-#EXTINF:-1, КИНОСЕМЬЯ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8e41521482e2daf70b032dea8348abc06f58192a
-#EXTINF:-1, КИНОСВИДАНИЕ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=10e5781bbfac4fed4059c2084cb4bef3b4c338a5
-#EXTINF:-1, КИНОХИТ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=17a7bdf381d98ea110654d230a22b08136cc6d7b
-#EXTINF:-1, Наш Кинороман HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1a52808675389dcfc4474d0bb268c4a6ce927ed3
-#EXTINF:-1, History Россия HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=14283a2a7c935c6b7505c073476ee2591277c9a1
-#EXTINF:-1, Travel+Adventure HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2b9b8f57396ffd86f9d073e485a343f018b38e10
-#EXTINF:-1, ТНТ Music 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=29394427a196c1e71549f54da14a7fc9483e02ca
-#EXTINF:-1, Авто плюс
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e73c851d2c986049b324d6b5c3c6c9da64ad4b65
-#EXTINF:-1, Бокс ТВ 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2ee8cc6d23f5ea4013385343e42d037233e7ad6d
-#EXTINF:1,СТС Love
-#EXTVLCOPT:network-caching=1000
-http://5.8.203.183:5055/play/a084
-#EXTINF:1,Телекафе
-#EXTVLCOPT:network-caching=1000
-http://91.205.131.7:80/telecafe/tracks-v1a1/index.m3u8
 #EXTINF:-1,TV3 LT HD
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1,TV6 LT
