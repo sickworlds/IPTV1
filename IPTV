@@ -5,26 +5,8 @@ http://92.46.127.146:8080/SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,Setanta Sport + HD UA 
 http://5.9.11.205:2082/ch323/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
-#EXTINF:-1,НТВ
-http://persik.tv/stream/1479/413193/10.m3u8
-#EXTINF:-1,Беларусь 1
-http://persik.tv/stream/1479/413193/118.m3u8
-#EXTINF:-1,ОНТ
-http://persik.tv/stream/1479/413193/111.m3u8
-#EXTINF:-1,СТВ
-http://persik.tv/stream/1479/413193/115.m3u8
-#EXTINF:-1,РТР-Беларусь
-http://persik.tv/stream/1479/413193/700.m3u8
-#EXTINF:-1,НТВ-Беларусь
-http://persik.tv/stream/1479/413193/699.m3u8
-#EXTINF:-1,Беларусь 2
-http://persik.tv/stream/1479/413193/148.m3u8
-#EXTINF:-1,Беларусь 3
-http://persik.tv/stream/1479/413193/883.m3u8
-#EXTINF:-1,Первый Канал
-http://persik.tv/stream/1479/413193/8.m3u8
-#EXTINF:-1,Россия 1
-http://persik.tv/stream/1479/413193/9.m3u8
+#EXTINF:-1,РОССИЯ-1 HD
+http://31.41.96.236:81/udp/225.0.56.2:1234
 #EXTINF:-1,TV3 LT HD
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1,TV6 LT
