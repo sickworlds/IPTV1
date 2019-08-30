@@ -3,17 +3,17 @@
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,Setanta Sport Plus + HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1,Setanta Sport UA 
+#EXTINF:-1,Setanta Sport + HD UA 
 http://5.9.11.205:2082/ch323/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
-#EXTINF:-1,1+1 +
+#EXTINF:-1,1+1 
 http://5.9.11.205:2082/ch001/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
-#EXTINF:-1,1+1 Int. +
+#EXTINF:-1,1+1 Int. 
 http://5.9.11.205:2082/ch002/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
 #EXTINF:-1,2+2 +
 http://5.9.11.205:2082/ch003/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
-#EXTINF:-1,4 Канал +
+#EXTINF:-1,4 Канал 
 http://5.9.11.205:2082/ch004/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
-#EXTINF:-1,8 канал +
+#EXTINF:-1,8 канал 
 http://5.9.11.205:2082/ch005/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
 #EXTINF:-1,ATR
 http://5.9.11.205:2082/ch006/index.m3u8?token=aGhoamhkY3x8TVRFeE1URXhNVEU9
