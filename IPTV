@@ -39,14 +39,12 @@ http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 http://188.128.15.118:8080/play/a7
 #EXTINF:-1,ОТР
 http://188.128.15.118:8080/play/a145
-#EXTINF:-1,СТС
+#EXTINF:-1,СТС +
 http://188.35.9.11:21101/udp/131p
 #EXTINF:-1,СТС
 http://176.114.16.54:80/sts/index.m3u8
 #EXTINF:-1,ТВ-3
 http://188.128.15.118:8080/play/a15
-#EXTINF:-1,ТВЦ
-http://188.128.15.118:8080/play/a6
 #EXTINF:-1,Супер
 http://188.128.15.118:8080/play/a269
 #EXTINF:-1,Че +7
