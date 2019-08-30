@@ -15,8 +15,8 @@ http://188.128.15.118:8080/play/a174
 http://83.174.198.141/Futbol2HD.m3u8
 #EXTINF:-1,МАТЧ! Футбол 3 HD
 http://83.174.198.141/Futbol3HD.m3u8
-#EXTINF:-1,Первый канал HD
-http://176.114.16.54:80/1HD/index.m3u8
+#EXTINF:-1,Первый Канал HD
+http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Первый канал + HD
 http://31.185.0.40:8080/OrtHD/playlist.m3u8
 #EXTINF:-1,Первый канал HD +4
@@ -51,6 +51,8 @@ http://188.128.15.118:8080/play/a269
 http://188.128.15.118:8080/play/a11
 #EXTINF:-1,Ю
 http://188.128.15.118:8080/play/a228
+#EXTINF:-1,Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,ПЯТНИЦА
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1,Мир (HD)
