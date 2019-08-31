@@ -3,9 +3,6 @@
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,Setanta Sport Plus + HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:1,  EUROSPORT 4K
-#EXTVLCOPT:network-caching=1000
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8%7Cuser-agent=mx
 #EXTINF:1,  Eurosport GOLD
 #EXTVLCOPT:network-caching=1000
 http://79.105.165.118:5055/udp/239.4.1.149:2020
@@ -18,9 +15,8 @@ http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8
 #EXTINF:1,КХЛ HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/NHZMNCY8QGX5VG/215/index.m3u8
-#EXTINF:1,МАТЧ!  HD
-#EXTVLCOPT:network-caching=1000
-https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:-1,МАТЧ HD
+http://193.8.209.100:81/udp/239.195.5.25:1234
 #EXTINF:1,МАТЧ! АРЕНА HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
