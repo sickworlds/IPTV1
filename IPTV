@@ -3,54 +3,8 @@
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,Setanta Sport Plus + HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1,Матч! HD
-http://188.35.9.5:10007/stolen/196k/parasite.install
-#EXTINF:-1,Матч! Арена
-http://188.128.15.118:8080/play/a97
-#EXTINF:-1,Матч! Боец
-http://188.128.15.118:8080/play/a125
-#EXTINF:-1,Матч! Футбол 1
-http://188.128.15.118:8080/play/a174
-#EXTINF:-1,МАТЧ! Футбол 2 HD
-http://83.174.198.141/Futbol2HD.m3u8
-#EXTINF:-1,МАТЧ! Футбол 3 HD
-http://83.174.198.141/Futbol3HD.m3u8
 #EXTINF:-1,Первый Канал HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
-#EXTINF:-1,Первый канал + HD
-http://31.185.0.40:8080/OrtHD/playlist.m3u8
-#EXTINF:-1,Первый канал HD +4
-http://188.128.15.118:8080/play/a98
-#EXTINF:-1,ТНТ
-http://188.128.15.118:8080/play/a19
-#EXTINF:-1,ТНТ4
-http://188.128.15.118:8080/play/a58
-#EXTINF:-1,НТВ
-http://188.128.15.118:8080/play/a93
-#EXTINF:-1,Звезда
-http://188.128.15.118:8080/play/a55
-#EXTINF:-1,НАШЕ ТВ
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-#EXTINF:-1,360 HD
-http://360tv-cdn.facecast.io/360/channel2/1.m3u8
-#EXTINF:-1,360 Новости HD
-http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-1,Рен ТВ
-http://188.128.15.118:8080/play/a7
-#EXTINF:-1,ОТР
-http://188.128.15.118:8080/play/a145
-#EXTINF:-1,СТС +
-http://188.35.9.11:21101/udp/131p
-#EXTINF:-1,СТС
-http://176.114.16.54:80/sts/index.m3u8
-#EXTINF:-1,ТВ-3
-http://188.128.15.118:8080/play/a15
-#EXTINF:-1,Супер
-http://188.128.15.118:8080/play/a269
-#EXTINF:-1,Че +7
-http://188.128.15.118:8080/play/a11
-#EXTINF:-1,Ю
-http://188.128.15.118:8080/play/a228
 #EXTINF:-1,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,ПЯТНИЦА
