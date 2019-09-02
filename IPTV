@@ -20,6 +20,8 @@ http://193.8.209.100:81/udp/239.195.5.25:1234
 #EXTINF:1,МАТЧ! АРЕНА + HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
+#EXTINF:-1,МАТЧ! Игра + HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/117
 #EXTINF:1,МАТЧ! ПРЕМЬЕР + HD  
 #EXTVLCOPT:network-caching=1000
 http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/220/index.m3u8
@@ -35,14 +37,6 @@ http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
 #EXTINF:1,Матч! + Боец
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
-#EXTINF:1,Матч! + Игра
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1,Футбол 2 Украина HD
-http://91.238.192.169/football2hd/tracks-v1a1/index.m3u
-#EXTINF:-1,Матч! HD +
-http://91.105.172.235:81/udp/239.54.6.152:1224
-#EXTINF:-1,Беларусь 4
-http://95.46.208.8:26258/belarus4
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
