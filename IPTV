@@ -37,6 +37,8 @@ http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
 #EXTINF:1,Матч! + Боец
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
+#EXTINF:1, Беларусь 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a89e7a962c033355ba5b2ecde69ad3183e8634ee
 #EXTINF:1, Беларусь 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8d9094e60cac92486cd23d1311a4ef1261a337ed&transcode_audio=1
 #EXTINF:-1,Первый Канал + HD
