@@ -38,6 +38,8 @@ http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
 #EXTINF:1,Матч! + Игра
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/225/index.m3u8
+#EXTINF:-1,Беларусь 5 HD
+http://persik.tv/stream/5981/414183/10408.m3u8
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
