@@ -37,6 +37,8 @@ http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
 #EXTINF:1,Матч! + Боец
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
+#EXTINF:-1,Беларусь 1 HD
+http://persik.tv/stream/5981/414183/10405.m3u8
 #EXTINF:1, Беларусь 1 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a89e7a962c033355ba5b2ecde69ad3183e8634ee
 #EXTINF:1, Беларусь 3
