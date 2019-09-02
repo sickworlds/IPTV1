@@ -62,6 +62,12 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Россия К +
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Беларусь 1 HD
+http://persik.tv/stream/5981/414183/10405.m3u8
+#EXTINF:-1,Беларусь 2 HD
+http://persik.tv/stream/5981/414183/10406.m3u8
+#EXTINF:-1,Беларусь 3 HD
+http://persik.tv/stream/5981/414183/10407.m3u8
 #EXTINF:-1,Первый HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
 #EXTINF:-1,Первый канал
