@@ -37,9 +37,13 @@ http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
 http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
 #EXTINF:1,Матч! + Игра
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Футбол 2 Украина HD
+http://91.238.192.169/football2hd/tracks-v1a1/index.m3u
+#EXTINF:-1,Матч! HD +
+http://91.105.172.235:81/udp/239.54.6.152:1224
+#EXTINF:-1,Беларусь 4
+http://95.46.208.8:26258/belarus4
 http://ygk.info/stream/22E8AWHQEC4LCA/225/index.m3u8
-#EXTINF:-1,Беларусь 5 HD
-http://persik.tv/stream/5981/414183/10408.m3u8
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
@@ -64,12 +68,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Россия К +
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Беларусь 1 HD
-http://persik.tv/stream/5981/414183/10405.m3u8
-#EXTINF:-1,Беларусь 2 HD
-http://persik.tv/stream/5981/414183/10406.m3u8
-#EXTINF:-1,Беларусь 3 HD
-http://persik.tv/stream/5981/414183/10407.m3u8
 #EXTINF:-1,Первый HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
 #EXTINF:-1,Первый канал
