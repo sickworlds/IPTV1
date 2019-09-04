@@ -3,28 +3,16 @@
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,Setanta Sport Plus + HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:1,Eurosport GOLD
-#EXTVLCOPT:network-caching=1000
-http://79.105.165.118:5055/udp/239.4.1.149:2020
-#EXTINF:1,EUROSPORT 1 + HD 
-#EXTVLCOPT:network-caching=1000
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/228/index.m3u8
 #EXTINF:1,Idman  /Az +
 #EXTVLCOPT:network-caching=1000
 http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8
-#EXTINF:1,КХЛ + HD
-#EXTVLCOPT:network-caching=1000
-http://ygk.info/stream/NHZMNCY8QGX5VG/215/index.m3u8
-#EXTINF:-1,МАТЧ + HD
-http://193.8.209.100:81/udp/239.195.5.25:1234
 #EXTINF:1,МАТЧ! АРЕНА + HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
 #EXTINF:-1,МАТЧ! Игра + HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/117
-#EXTINF:1,МАТЧ! ПРЕМЬЕР + HD  
-#EXTVLCOPT:network-caching=1000
-http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/220/index.m3u8
+#EXTINF:-1,Матч! HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/165
 #EXTINF:1,МАТЧ! ФУТБОЛ 1 + HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/222/index.m3u8
@@ -34,9 +22,18 @@ http://ygk.info/stream/22E8AWHQEC4LCA/211/index.m3u8
 #EXTINF:1,МАТЧ! ФУТБОЛ 3 + HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
-#EXTINF:1,Матч! + Боец
-#EXTVLCOPT:network-caching=1000
-http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/720
+#EXTINF:-1,КХЛ HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/187
+#EXTINF:-1,Eurosport 1 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/167
+#EXTINF:-1,Eurosport 2 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/161
+#EXTINF:-1,Eurosport Gold HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1584
+#EXTINF:-1,Eurosport 4K
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2147
 #EXTINF:-1,Беларусь 5 HD
 http://persik.by/stream/5914/413845/10408.m3u8
 #EXTINF:-1,Беларусь 1 HD
