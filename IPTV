@@ -39,6 +39,10 @@ http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
 http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
 #EXTINF:-1,Беларусь 1 HD
 http://persik.by/stream/5914/413845/10405.m3u8
+#EXTINF:-1,Беларусь 2 HD
+http://persik.by/stream/5914/413845/10406.m3u8
+#EXTINF:-1,Беларусь 3 HD
+http://persik.by/stream/5914/413845/10407.m3u8
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
