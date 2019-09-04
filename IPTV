@@ -50,6 +50,8 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2142
 #EXTINF:-1,ПЯТНИЦА +
 http://ott-cdn.ucom.am/s50/04.m3u8
+#EXTINF:-1,Супер
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1809
 #EXTINF:-1,Мир (HD) +
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24 HD +
