@@ -13,6 +13,8 @@ http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/117
 #EXTINF:-1,Матч! HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/165
+#EXTINF:-1,Матч ТВ + HD
+http://81.22.56.184:1234/udp/230.7.7.41:1234
 #EXTINF:1,МАТЧ! ФУТБОЛ 1 + HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/222/index.m3u8
