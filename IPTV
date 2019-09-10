@@ -1260,3 +1260,19 @@ http://213.252.252.17/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
 http://213.252.252.17/live/eds/PBK/HLS_encr/PBK.m3u8
 #EXTINF:-1,Ren TV Baltic
 http://213.252.252.17/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,TV1000
+http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 Action
+http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000 Premium
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,Viasat Nature
+http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,Viasat History HD
+https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Explorer HD
+https://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,National Geographic
+http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Setanta Sports
+http://213.252.252.17/live/eds/Setanta/HLS_encr/Setanta.m3u8
