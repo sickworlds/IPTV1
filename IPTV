@@ -1268,11 +1268,13 @@ http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,Viasat Nature
 http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1,Viasat History HD
-https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat Explorer HD
-https://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat History
+http://213.252.252.2/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,Viasat Explorer
+http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
 #EXTINF:-1,National Geographic
 http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,Setanta Sports
-http://213.252.252.17/live/eds/Setanta/HLS_encr/Setanta.m3u8
+#EXTINF:-1,Viasat History +
+https://213.252.252.2/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Explorer +
+https://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
