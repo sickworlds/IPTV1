@@ -30,6 +30,10 @@ http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/720
 #EXTINF:-1,КХЛ HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/187
+#EXTINF:-1,Футбол 1 Украина HD
+http://62.210.81.3/TV/FLASH-TV/n/mac/550.m3u8
+#EXTINF:-1,Футбол 2 HD Украина
+http://62.210.81.3/TV/FLASH-TV/n/mac/553.m3u8
 #EXTINF:-1,Eurosport 1 HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/167
 #EXTINF:-1,Eurosport 2 HD
