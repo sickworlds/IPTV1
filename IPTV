@@ -3,6 +3,22 @@
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,Setanta Sport Plus + HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,Setanta Sports UA HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10018&login=veronika777&key=127YLMN
+#EXTINF:-1,Setanta Sports UA
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10019&login=veronika777&key=127YLMN
+#EXTINF:-1,SKY Sport 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10015&login=veronika777&key=127YLMN
+#EXTINF:-1,SKY Sport 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10016&login=veronika777&key=127YLMN
+#EXTINF:-1,SKY Sport Bundesliga 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10017&login=veronika777&key=127YLMN
+#EXTINF:1,TVPlay Sports HD
+#EXTVLCOPT:network-caching=1000
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=veronika777&key=127YLMN
+#EXTINF:0,TVPlay Sports + HD
+#EXTVLCOPT:network-caching=1000
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPLAYSPORTPLUSSD&login=veronika777&key=127YLMN
 #EXTINF:-1,Sport1 LT
 http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:1,Idman  /Az +
@@ -42,14 +58,84 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/161
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1584
 #EXTINF:-1,Eurosport 4K
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2147
-#EXTINF:-1,Беларусь 5 + HD
-http://persik.by/stream/5914/413845/10408.m3u8
+#EXTINF:-1,Беларусь 5 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB5&login=veronika777&key=127YLMN
+#EXTINF:-1,LRT
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLTULRT&login=veronika777&key=127YLMN
+#EXTINF:-1,LRT HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTTelevizijaHD&login=veronika777&key=127YLMN
+#EXTINF:-1,LRT Plius
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTKULTURA&login=veronika777&key=127YLMN
+#EXTINF:-1,LRT Plius HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTKULTURAHD&login=veronika777&key=127YLMN
+#EXTINF:-1,Info TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINFOTVHD&login=veronika777&key=127YLMN
+#EXTINF:-1,LNK
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Flnk&login=veronika777&key=127YLMN
+#EXTINF:-1,LNK HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FlnkHD&login=veronika777&key=127YLMN
+#EXTINF:-1,BTV LT
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBTV&login=veronika777&key=127YLMN
+#EXTINF:-1,BTV HD LT
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBTVHD&login=veronika777&key=127YLMN
+#EXTINF:-1,СТС Baltic
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTSBaltic&login=veronika777&key=127YLMN
+#EXTINF:-1,Balticum
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBaltikumtv&login=veronika777&key=127YLMN
+#EXTINF:-1,Balticum Auksinis
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBALTICUMAUKSINIS&login=veronika777&key=127YLMN
+#EXTINF:-1,Balticum Platinum
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBaltikumPlatinumTV&login=veronika777&key=127YLMN
+#EXTINF:-1,Balticum Platinum HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBALTICUMPLATINUMHD&login=veronika777&key=127YLMN
+#EXTINF:-1,Smartzone HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSMARTZONEHD&login=veronika777&key=127YLMN
+#EXTINF:-1,KidZone
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=veronika777&key=127YLMN
+#EXTINF:-1,KidZone HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidzoneHD&login=veronika777&key=127YLMN
+#EXTINF:-1,Lietuvos Rytas TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIETUVOSRYTASTV&login=veronika777&key=127YLMN
+#EXTINF:-1,Lietuvos Rytas TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIETUVOSRYTASTVHD&login=veronika777&key=127YLMN
+#EXTINF:-1,Info TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINFOTV&login=veronika777&key=127YLMN
+#EXTINF:-1,TV1 Lietuva
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1LT&login=veronika777&key=127YLMN
+#EXTINF:-1,TV1 Lietuva HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1LTHD&login=veronika777&key=127YLMN
+#EXTINF:-1,TV3 Lietuva
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3LT&login=veronika777&key=127YLMN
+#EXTINF:-1,TV3 Lietuva HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3LTHD&login=veronika777&key=127YLMN
+#EXTINF:-1,TV6 Lietuva
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV6LT&login=veronika777&key=127YLMN
+#EXTINF:-1,TV6 Lietuva HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV6LTHD&login=veronika777&key=127YLMN
+#EXTINF:-1,TV8 Lietuva
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV8LT&login=veronika777&key=127YLMN
+#EXTINF:-1,TV8 Lietuva HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV8HDLT&login=veronika777&key=127YLMN
+#EXTINF:-1,LIUKS!
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIUKS&login=veronika777&key=127YLMN
+#EXTINF:-1,Tavo TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTAVOTV&login=veronika777&key=127YLMN
 #EXTINF:-1,Беларусь 1 HD
-http://persik.by/stream/5914/413845/10405.m3u8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB1&login=veronika777&key=127YLMN
 #EXTINF:-1,Беларусь 2 HD
-http://persik.by/stream/5914/413845/10406.m3u8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB2&login=veronika777&key=127YLMN
 #EXTINF:-1,Беларусь 3 HD
-http://persik.by/stream/5914/413845/10407.m3u8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB3&login=veronika777&key=127YLMN
+#EXTINF:-1,Беларусь 24
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBelarus24&login=veronika777&key=127YLMN
+#EXTINF:-1,НТВ Беларусь
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBNTV&login=veronika777&key=127YLMN
+#EXTINF:-1,ОНТ Беларусь
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FONTB&login=veronika777&key=127YLMN
+#EXTINF:-1,РТР Беларусь
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBRTR&login=veronika777&key=127YLMN
+#EXTINF:-1,МИР Беларусь
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBmir&login=veronika777&key=127YLMN
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
@@ -1702,22 +1788,6 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FS
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSPAS&login=veronika777&key=127YLMN
 #EXTINF:-1,Просвещение
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FProsveshenie&login=veronika777&key=127YLMN
-#EXTINF:-1,Беларусь 1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB1&login=veronika777&key=127YLMN
-#EXTINF:-1,Беларусь 2 HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB2&login=veronika777&key=127YLMN
-#EXTINF:-1,Беларусь 3 HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB3&login=veronika777&key=127YLMN
-#EXTINF:-1,Беларусь 24
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBelarus24&login=veronika777&key=127YLMN
-#EXTINF:-1,НТВ Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBNTV&login=veronika777&key=127YLMN
-#EXTINF:-1,ОНТ Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FONTB&login=veronika777&key=127YLMN
-#EXTINF:-1,РТР Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBRTR&login=veronika777&key=127YLMN
-#EXTINF:-1,МИР Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBmir&login=veronika777&key=127YLMN
 #EXTINF:-1,Белсат
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBelsat&login=veronika777&key=127YLMN
 #EXTINF:-1,Ani
@@ -2198,8 +2268,6 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FV
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatFootbal&login=veronika777&key=127YLMN
 #EXTINF:-1,TVPlay Sports
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportBaltic&login=veronika777&key=127YLMN
-#EXTINF:-1,TVPlay Sports HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=veronika777&key=127YLMN
 #EXTINF:-1,Xsport
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FXsport&login=veronika777&key=127YLMN
 #EXTINF:-1,Xsport HD
@@ -2208,7 +2276,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FX
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FExtremeSports&login=veronika777&key=127YLMN
 #EXTINF:-1,Моторспорт ТВ HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMotorsports&login=veronika777&key=127YLMN
-#EXTINF:-1,Sport 1 LT
+#EXTINF:-1,Sport 1 LT SD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSPORT1LT&login=veronika777&key=127YLMN
 #EXTINF:-1,Конный Мир
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKonnyiMir&login=veronika777&key=127YLMN
@@ -2714,66 +2782,6 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPsihologia21&login=veronika777&key=127YLMN
 #EXTINF:-1,MyZen TV 4K
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fhotbird4k&login=veronika777&key=127YLMN
-#EXTINF:-1,LRT
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLTULRT&login=veronika777&key=127YLMN
-#EXTINF:-1,LRT HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTTelevizijaHD&login=veronika777&key=127YLMN
-#EXTINF:-1,LRT Plius
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTKULTURA&login=veronika777&key=127YLMN
-#EXTINF:-1,LRT Plius HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTKULTURAHD&login=veronika777&key=127YLMN
-#EXTINF:-1,Info TV HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINFOTVHD&login=veronika777&key=127YLMN
-#EXTINF:-1,LNK
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Flnk&login=veronika777&key=127YLMN
-#EXTINF:-1,LNK HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FlnkHD&login=veronika777&key=127YLMN
-#EXTINF:-1,BTV LT
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBTV&login=veronika777&key=127YLMN
-#EXTINF:-1,BTV HD LT
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBTVHD&login=veronika777&key=127YLMN
-#EXTINF:-1,СТС Baltic
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTSBaltic&login=veronika777&key=127YLMN
-#EXTINF:-1,Balticum
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBaltikumtv&login=veronika777&key=127YLMN
-#EXTINF:-1,Balticum Auksinis
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBALTICUMAUKSINIS&login=veronika777&key=127YLMN
-#EXTINF:-1,Balticum Platinum
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBaltikumPlatinumTV&login=veronika777&key=127YLMN
-#EXTINF:-1,Balticum Platinum HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBALTICUMPLATINUMHD&login=veronika777&key=127YLMN
-#EXTINF:-1,Smartzone HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSMARTZONEHD&login=veronika777&key=127YLMN
-#EXTINF:-1,KidZone
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=veronika777&key=127YLMN
-#EXTINF:-1,KidZone HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidzoneHD&login=veronika777&key=127YLMN
-#EXTINF:-1,Lietuvos Rytas TV
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIETUVOSRYTASTV&login=veronika777&key=127YLMN
-#EXTINF:-1,Lietuvos Rytas TV HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIETUVOSRYTASTVHD&login=veronika777&key=127YLMN
-#EXTINF:-1,Info TV
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINFOTV&login=veronika777&key=127YLMN
-#EXTINF:-1,TV1 Lietuva
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1LT&login=veronika777&key=127YLMN
-#EXTINF:-1,TV1 Lietuva HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1LTHD&login=veronika777&key=127YLMN
-#EXTINF:-1,TV3 Lietuva
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3LT&login=veronika777&key=127YLMN
-#EXTINF:-1,TV3 Lietuva HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3LTHD&login=veronika777&key=127YLMN
-#EXTINF:-1,TV6 Lietuva
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV6LT&login=veronika777&key=127YLMN
-#EXTINF:-1,TV6 Lietuva HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV6LTHD&login=veronika777&key=127YLMN
-#EXTINF:-1,TV8 Lietuva
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV8LT&login=veronika777&key=127YLMN
-#EXTINF:-1,TV8 Lietuva HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV8HDLT&login=veronika777&key=127YLMN
-#EXTINF:-1,LIUKS!
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIUKS&login=veronika777&key=127YLMN
-#EXTINF:-1,Tavo TV
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTAVOTV&login=veronika777&key=127YLMN
 #EXTINF:-1,Rai 4K
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEROXXXHD&login=veronika777&key=127YLMN
 #EXTINF:-1,Viasat 3+
@@ -2796,8 +2804,6 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FP
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFIGHTSPORTHD&login=veronika777&key=127YLMN
 #EXTINF:-1,LANDSCAPE HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLANDSCAPEHD&login=veronika777&key=127YLMN
-#EXTINF:-1,TVPlay Sports + HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPLAYSPORTPLUSSD&login=veronika777&key=127YLMN
 #EXTINF:-1,Мир Баскетбола
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMirBasketbola&login=veronika777&key=127YLMN
 #EXTINF:-1,Театр HD
@@ -3332,13 +3338,3 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F1
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10047&login=veronika777&key=127YLMN
 #EXTINF:-1,FlixSnip HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10014&login=veronika777&key=127YLMN
-#EXTINF:-1,SKY Sport 2 HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10015&login=veronika777&key=127YLMN
-#EXTINF:-1,SKY Sport 1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10016&login=veronika777&key=127YLMN
-#EXTINF:-1,SKY Sport Bundesliga 1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10017&login=veronika777&key=127YLMN
-#EXTINF:-1,Setanta Sports UA HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10018&login=veronika777&key=127YLMN
-#EXTINF:-1,Setanta Sports UA
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10019&login=veronika777&key=127YLMN
