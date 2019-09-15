@@ -13,11 +13,9 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F1
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10016&login=veronika777&key=127YLMN
 #EXTINF:-1,SKY Sport Bundesliga 1 HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10017&login=veronika777&key=127YLMN
-#EXTINF:1,TVPlay Sports HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TVPlay Sports HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=veronika777&key=127YLMN
-#EXTINF:0,TVPlay Sports + HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TVPlay Sports + HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPLAYSPORTPLUSSD&login=veronika777&key=127YLMN
 #EXTINF:-1,Sport1 LT
 http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
