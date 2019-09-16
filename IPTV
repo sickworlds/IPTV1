@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Беларусь 1 + HD
-http://persik.tv/stream/7296/415970/10405.m3u8
-#EXTINF:-1,Беларусь 2 + HD
-http://persik.tv/stream/7296/415970/10406.m3u8
-#EXTINF:-1,Беларусь 3 + HD
-http://persik.tv/stream/7296/415970/10407.m3u8
-#EXTINF:-1,Беларусь 5 + HD
-http://persik.tv/stream/7296/415970/10408.m3u8
 #EXTINF:-1,Setanta Sport + HD
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,Setanta Sport Plus + HD
