@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Беларусь 1
+http://persik.tv/stream/7296/415970/118.m3u8
 #EXTINF:-1,Первый HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
 #EXTINF:-1,Первый канал
