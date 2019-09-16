@@ -42,15 +42,15 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/161
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1584
 #EXTINF:-1,Eurosport 4K
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2147
-File36=http://persik.tv/stream/7296/415970/10405.m3u8
 #EXTINF:-1,Беларусь 1 HD
 Length36=-1
-File37=http://persik.tv/stream/7296/415970/10406.m3u8
+http://persik.tv/stream/7296/415970/10406.m3u8
 #EXTINF:-1,Беларусь 2 HD
 Length37=-1
-File38=http://persik.tv/stream/7296/415970/10407.m3u8
+http://persik.tv/stream/7296/415970/10407.m3u8
 #EXTINF:-1,Беларусь 3 HD
 Length38=-1
+http://persik.tv/stream/7296/415970/10405.m3u8
 #EXTINF:-1,Беларусь 24
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBelarus24&login=veronika777&key=127YLMN
 #EXTINF:-1,НТВ Беларусь
