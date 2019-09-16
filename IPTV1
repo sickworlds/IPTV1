@@ -1,4 +1,438 @@
 #EXTM3U
+#EXTINF:-1,Первый HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
+#EXTINF:-1,Первый канал
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/260
+#EXTINF:-1,Первый канал (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1262
+#EXTINF:-1,Первый канал (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1668
+#EXTINF:-1,Первый канал (+6)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2273
+#EXTINF:-1,Первый канал (+8)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2276
+#EXTINF:-1,Россия 1 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/197
+#EXTINF:-1,Россия 1
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/266
+#EXTINF:-1,Россия 1 (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1267
+#EXTINF:-1,Россия 1 (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1667
+#EXTINF:-1,Россия 1 (+6)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2274
+#EXTINF:-1,Россия 1 (+8)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2277
+#EXTINF:-1,ТНТ HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/102
+#EXTINF:-1,ТНТ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/349
+#EXTINF:-1,ТНТ (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1264
+#EXTINF:-1,ТНТ (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1671
+#EXTINF:-1,ТНТ (+7)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2280
+#EXTINF:-1,ТНТ4
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/230
+#EXTINF:-1,СТС
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/214
+#EXTINF:-1,СТС (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1263
+#EXTINF:-1,СТС (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1672
+#EXTINF:-1,СТС Love
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/212
+#EXTINF:-1,НТВ HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1136
+#EXTINF:-1,НТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/258
+#EXTINF:-1,НТВ (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1265
+#EXTINF:-1,НТВ (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1670
+#EXTINF:-1,НТВ (+7)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2275
+#EXTINF:-1,РЕН ТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/264
+#EXTINF:-1,РЕН HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1880
+#EXTINF:-1,РЕН ТВ (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1266
+#EXTINF:-1,РЕН ТВ (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1669
+#EXTINF:-1,ТВЦ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/164
+#EXTINF:-1,ТВЦ (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2267
+#EXTINF:-1,ТВЦ (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2268
+#EXTINF:-1,ТВ-3
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/263
+#EXTINF:-1,ТВ-3 (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2263
+#EXTINF:-1,ТВ-3 (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2264
+#EXTINF:-1,Домашний
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/148
+#EXTINF:-1,Домашний (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2265
+#EXTINF:-1,Домашний (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2266
+#EXTINF:-1,Пятый канал
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1330
+#EXTINF:-1,Пятый канал (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2269
+#EXTINF:-1,Пятый канал (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2270
+#EXTINF:-1,Мир
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2130
+#EXTINF:-1,Мир Premium HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2131
+#EXTINF:-1,КВН ТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/311
+#EXTINF:-1,RTVi
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/340
+#EXTINF:-1,Дождь
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/310
+#EXTINF:-1,Дождь HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2128
+#EXTINF:-1,НТВ Мир
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/296
+#EXTINF:-1,Пятница HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2142
+#EXTINF:-1,Пятница
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/265
+#EXTINF:-1,Пятница (+2)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2271
+#EXTINF:-1,Пятница (+4)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2272
+#EXTINF:-1,Ю
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/222
+#EXTINF:-1,Супер
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1809
+#EXTINF:-1,Че
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/142
+#EXTINF:-1,Россия-Культура
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/196
+#EXTINF:-1,Телеканал Звезда
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/412
+#EXTINF:-1,Москва 24
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1432
+#EXTINF:-1,РБК
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/257
+#EXTINF:-1,360° Подмосковье
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2015
+#EXTINF:-1,Euronews
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1468
+#EXTINF:-1,Россия-24
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/259
+#EXTINF:-1,365 дней ТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/272
+#EXTINF:-1,Шокирующее
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/341
+#EXTINF:-1,Комедийное HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/126
+#EXTINF:-1,Paramount Comedy
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/337
+#EXTINF:-1,FOX HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/109
+#EXTINF:-1,Fox Life
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/330
+#EXTINF:-1,Fox Russia
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/274
+#EXTINF:-1,Amedia 1
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/140
+#EXTINF:-1,Amedia 2
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/307
+#EXTINF:-1,Amedia Hit
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/308
+#EXTINF:-1,AMEDIA Premium HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/242
+#EXTINF:-1,Дом Кино Премиум HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/147
+#EXTINF:-1,Еврокино
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/150
+#EXTINF:-1,КИНО ТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/157
+#EXTINF:-1,Кино ТВ HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2127
+#EXTINF:-1,Любимое Кино
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/291
+#EXTINF:-1,Дом Кино
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/328
+#EXTINF:-1,Наш Кинороман HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/127
+#EXTINF:-1,Наше Крутое HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1331
+#EXTINF:-1,SONY Sci-Fi
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/227
+#EXTINF:-1,Страшное HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/278
+#EXTINF:-1,НСТ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1397
+#EXTINF:-1,Hollywood HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/243
+#EXTINF:-1,Sony Entertainment Television
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/226
+#EXTINF:-1,TV 1000
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/238
+#EXTINF:-1,TV1000 Action
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/234
+#EXTINF:-1,VIP Comedy
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/235
+#EXTINF:-1,VIP Megahit
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/236
+#EXTINF:-1,VIP Premiere
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/237
+#EXTINF:-1,TV1000 Русское кино
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/239
+#EXTINF:-1,TV1000 Premium HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2310
+#EXTINF:-1,Русский бестселлер
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1579
+#EXTINF:-1,Русский детектив
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1580
+#EXTINF:-1,Русская комедия
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1578
+#EXTINF:-1,Русский Иллюзион
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1629
+#EXTINF:-1,Русский роман
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1863
+#EXTINF:-1,Кинопремиум HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/128
+#EXTINF:-1,Остросюжетное HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/125
+#EXTINF:-1,Ultra HD Cinema
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1557
+#EXTINF:-1,Кино UHD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2306
+#EXTINF:-1,Сериал UHD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2307
+#EXTINF:-1,Победа
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2208
+#EXTINF:-1,НТВ Сериал
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1980
+#EXTINF:-1,Мир Сериала
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1990
+#EXTINF:-1,FAN
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2075
+#EXTINF:-1,FAN HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2076
+#EXTINF:-1,Spike Russia
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1994
+#EXTINF:-1,Бобёр
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1979
+#EXTINF:-1,Еда Премиум
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/131
+#EXTINF:-1,Food Network
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2185
+#EXTINF:-1,Food Network HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2186
+#EXTINF:-1,SHOT TV
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/149
+#EXTINF:-1,Sony Turbo
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/225
+#EXTINF:-1,E tv
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2014
+#EXTINF:-1,Paramount Channel
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/314
+#EXTINF:-1,Viasat History
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/200
+#EXTINF:-1,Viasat Explore
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/199
+#EXTINF:-1,Viasat Nature
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/201
+#EXTINF:-1,Nat Geographic
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/312
+#EXTINF:-1,National Geographic HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1439
+#EXTINF:-1,History HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1434
+#EXTINF:-1,H2
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1870
+#EXTINF:-1,НТВ Стиль
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1982
+#EXTINF:-1,Конный мир HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1991
+#EXTINF:-1,Viasat Nature/History HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1433
+#EXTINF:-1,Nat Geo Wild HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/180
+#EXTINF:-1,Авто 24
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/240
+#EXTINF:-1,Драйв
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1869
+#EXTINF:-1,Авто Плюс
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/303
+#EXTINF:-1,Морской
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2202
+#EXTINF:-1,Discovery Channel
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/245
+#EXTINF:-1,Discovery Channel HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/110
+#EXTINF:-1,ID Xtra
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/224
+#EXTINF:-1,DTX
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/329
+#EXTINF:-1,Discovery Science
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/145
+#EXTINF:-1,Discovery Science HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2062
+#EXTINF:-1,Travel Channel HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1558
+#EXTINF:-1,Travel+Adventure
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2122
+#EXTINF:-1,Travel+Adventure HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2123
+#EXTINF:-1,Наука 2.0
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1868
+#EXTINF:-1,Eureka HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1281
+#EXTINF:-1,НТВ Право
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1981
+#EXTINF:-1,Приключения HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1284
+#EXTINF:-1,Animal Planet
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/306
+#EXTINF:-1,Animal Planet HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/141
+#EXTINF:-1,В мире животных HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2124
+#EXTINF:-1,Fine Living
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2001
+#EXTINF:-1,Fine living HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2002
+#EXTINF:-1,TLC
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1967
+#EXTINF:-1,TLC HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1966
+#EXTINF:-1,Охота и рыбалка
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/271
+#EXTINF:-1,Охотник и Рыболов HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2129
+#EXTINF:-1,Дикий
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1565
+#EXTINF:-1,Моя Планета
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1879
+#EXTINF:-1,Viasat Sport
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/169
+#EXTINF:-1,Viasat Sport HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/166
+#EXTINF:-1,МАТЧ! Боец
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/217
+#EXTINF:-1,МАТЧ! Страна
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/332
+#EXTINF:-1,Матч ТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/171
+#EXTINF:-1,Матч! HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/165
+#EXTINF:-1,МАТЧ! Арена
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/210
+#EXTINF:-1,МАТЧ! Арена HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/104
+#EXTINF:-1,МАТЧ! Игра
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/143
+#EXTINF:-1,МАТЧ! Игра HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/117
+#EXTINF:-1,МАТЧ! Планета
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/282
+#EXTINF:-1,МАТЧ! Футбол 1
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/279
+#EXTINF:-1,МАТЧ! Футбол 1 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/118
+#EXTINF:-1,МАТЧ! Футбол 2
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/280
+#EXTINF:-1,МАТЧ! Футбол 2 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/105
+#EXTINF:-1,МАТЧ! Футбол 3
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/281
+#EXTINF:-1,Матч! Футбол 3 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/656
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/181
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/720
+#EXTINF:-1,Футбол
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/170
+#EXTINF:-1,Бокс ТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/168
+#EXTINF:-1,UFC ТВ (TEST)
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2189
+#EXTINF:-1,КХЛ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/220
+#EXTINF:-1,КХЛ HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/187
+#EXTINF:-1,Eurosport
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/162
+#EXTINF:-1,Eurosport 1 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/167
+#EXTINF:-1,Eurosport 2 HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/161
+#EXTINF:-1,Eurosport Gold HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1584
+#EXTINF:-1,Eurosport 4K
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2147
+#EXTINF:-1,Extreme Sport
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/163
+#EXTINF:-1,Русский Экстрим
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/297
+#EXTINF:-1,Точка отрыва
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/98
+#EXTINF:-1,Сетанта Спорт +
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/134
+#EXTINF:-1,Сетанта Спорт
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/133
+#EXTINF:-1,MTV
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/292
+#EXTINF:-1,MTV Dance
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/293
+#EXTINF:-1,MTV HITS
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/244
+#EXTINF:-1,MTV Rocks
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/333
+#EXTINF:-1,Музыка первого
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/294
+#EXTINF:-1,Europa Plus TV
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/151
+#EXTINF:-1,Наше ТВ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1548
+#EXTINF:-1,МУЗ
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1549
+#EXTINF:-1,N/A
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/342
+#EXTINF:-1,Bridge TV
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/232
+#EXTINF:-1,Bridge TV Dance
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/290
+#EXTINF:-1,BRIDGE HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/111
+#EXTINF:-1,ТНТ MUSIC
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/158
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/248
+#EXTINF:-1,Жара
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/348
+#EXTINF:-1,BRIDGE TV Classic
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1546
+#EXTINF:-1,VH-1 Classic
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/298
+#EXTINF:-1,1HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/132
+#EXTINF:-1,iConcerts HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1895
+#EXTINF:-1,MCM Top
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/156
+#EXTINF:-1,ОТР
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2327
+#EXTINF:-1,RTG HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2322
+#EXTINF:-1,Дикая охота HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2324
+#EXTINF:-1,Планета HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2323
+#EXTINF:-1,Футбол HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2326
 #EXTINF:-1,Первый
 http://62.210.81.3/TV/FLASH-TV/n/mac/481.m3u8
 #EXTINF:-1,Первый HD
@@ -835,7 +1269,7 @@ http://62.210.81.3/TV/FLASH-TV/n/mac/813.m3u8
 http://62.210.81.3/TV/FLASH-TV/n/mac/611.m3u8
 #EXTINF:-1,AZTV
 http://62.210.81.3/TV/FLASH-TV/n/mac/845.m3u8
-#EXTINF:-1,Супер
+#EXTINF:-1,Супер +
 http://62.210.81.3/TV/FLASH-TV/n/mac/848.m3u8
 #EXTINF:-1,Наше Новое Кино
 http://62.210.81.3/TV/FLASH-TV/n/mac/847.m3u8
@@ -845,530 +1279,3 @@ http://62.210.81.3/TV/FLASH-TV/n/mac/849.m3u8
 http://62.210.81.3/TV/FLASH-TV/n/mac/850.m3u8
 #EXTINF:-1,Sky Sports 1
 http://62.210.81.3/TV/FLASH-TV/n/mac/839.m3u8
-#EXTM3U
-#EXTINF:-1,Первый HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
-#EXTINF:-1,Первый канал
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/260
-#EXTINF:-1,Первый канал (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1262
-#EXTINF:-1,Первый канал (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1668
-#EXTINF:-1,Первый канал (+6)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2273
-#EXTINF:-1,Первый канал (+8)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2276
-#EXTINF:-1,Россия 1 HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/197
-#EXTINF:-1,Россия 1
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/266
-#EXTINF:-1,Россия 1 (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1267
-#EXTINF:-1,Россия 1 (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1667
-#EXTINF:-1,Россия 1 (+6)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2274
-#EXTINF:-1,Россия 1 (+8)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2277
-#EXTINF:-1,ТНТ HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/102
-#EXTINF:-1,ТНТ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/349
-#EXTINF:-1,ТНТ (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1264
-#EXTINF:-1,ТНТ (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1671
-#EXTINF:-1,ТНТ (+7)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2280
-#EXTINF:-1,ТНТ4
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/230
-#EXTINF:-1,СТС
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/214
-#EXTINF:-1,СТС (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1263
-#EXTINF:-1,СТС (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1672
-#EXTINF:-1,СТС Love
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/212
-#EXTINF:-1,НТВ HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1136
-#EXTINF:-1,НТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/258
-#EXTINF:-1,НТВ (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1265
-#EXTINF:-1,НТВ (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1670
-#EXTINF:-1,НТВ (+7)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2275
-#EXTINF:-1,РЕН ТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/264
-#EXTINF:-1,РЕН HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1880
-#EXTINF:-1,РЕН ТВ (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1266
-#EXTINF:-1,РЕН ТВ (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1669
-#EXTINF:-1,ТВЦ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/164
-#EXTINF:-1,ТВЦ (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2267
-#EXTINF:-1,ТВЦ (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2268
-#EXTINF:-1,ТВ-3
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/263
-#EXTINF:-1,ТВ-3 (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2263
-#EXTINF:-1,ТВ-3 (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2264
-#EXTINF:-1,Домашний
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/148
-#EXTINF:-1,Домашний (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2265
-#EXTINF:-1,Домашний (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2266
-#EXTINF:-1,Пятый канал
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1330
-#EXTINF:-1,Пятый канал (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2269
-#EXTINF:-1,Пятый канал (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2270
-#EXTINF:-1,Мир
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2130
-#EXTINF:-1,Мир Premium HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2131
-#EXTINF:-1,КВН ТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/311
-#EXTINF:-1,RTVi
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/340
-#EXTINF:-1,Дождь
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/310
-#EXTINF:-1,Дождь HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2128
-#EXTINF:-1,НТВ Мир
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/296
-#EXTINF:-1,Пятница HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2142
-#EXTINF:-1,Пятница
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/265
-#EXTINF:-1,Пятница (+2)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2271
-#EXTINF:-1,Пятница (+4)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2272
-#EXTINF:-1,Ю
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/222
-#EXTINF:-1,Супер
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1809
-#EXTINF:-1,Че
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/142
-#EXTINF:-1,Россия-Культура
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/196
-#EXTINF:-1,Телеканал Звезда
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/412
-#EXTINF:-1,Москва 24
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1432
-#EXTINF:-1,РБК
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/257
-#EXTINF:-1,360° Подмосковье
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2015
-#EXTINF:-1,Euronews
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1468
-#EXTINF:-1,Россия-24
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/259
-#EXTINF:-1,365 дней ТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/272
-#EXTINF:-1,Шокирующее
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/341
-#EXTINF:-1,Комедийное HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/126
-#EXTINF:-1,Paramount Comedy
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/337
-#EXTINF:-1,FOX HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/109
-#EXTINF:-1,Fox Life
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/330
-#EXTINF:-1,Fox Russia
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/274
-#EXTINF:-1,Amedia 1
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/140
-#EXTINF:-1,Amedia 2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/307
-#EXTINF:-1,Amedia Hit
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/308
-#EXTINF:-1,AMEDIA Premium HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/242
-#EXTINF:-1,Дом Кино Премиум HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/147
-#EXTINF:-1,Еврокино
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/150
-#EXTINF:-1,КИНО ТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/157
-#EXTINF:-1,Кино ТВ HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2127
-#EXTINF:-1,Любимое Кино
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/291
-#EXTINF:-1,Дом Кино
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/328
-#EXTINF:-1,Наш Кинороман HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/127
-#EXTINF:-1,Наше Крутое HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1331
-#EXTINF:-1,SONY Sci-Fi
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/227
-#EXTINF:-1,Страшное HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/278
-#EXTINF:-1,НСТ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1397
-#EXTINF:-1,Hollywood HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/243
-#EXTINF:-1,Sony Entertainment Television
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/226
-#EXTINF:-1,TV 1000
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/238
-#EXTINF:-1,TV1000 Action
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/234
-#EXTINF:-1,VIP Comedy
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/235
-#EXTINF:-1,VIP Megahit
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/236
-#EXTINF:-1,VIP Premiere
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/237
-#EXTINF:-1,TV1000 Русское кино
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/239
-#EXTINF:-1,TV1000 Premium HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2310
-#EXTINF:-1,Русский бестселлер
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1579
-#EXTINF:-1,Русский детектив
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1580
-#EXTINF:-1,Русская комедия
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1578
-#EXTINF:-1,Русский Иллюзион
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1629
-#EXTINF:-1,Русский роман
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1863
-#EXTINF:-1,Кинопремиум HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/128
-#EXTINF:-1,Остросюжетное HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/125
-#EXTINF:-1,Ultra HD Cinema
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1557
-#EXTINF:-1,Кино UHD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2306
-#EXTINF:-1,Сериал UHD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2307
-#EXTINF:-1,Победа
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2208
-#EXTINF:-1,НТВ Сериал
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1980
-#EXTINF:-1,Мир Сериала
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1990
-#EXTINF:-1,FAN
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2075
-#EXTINF:-1,FAN HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2076
-#EXTINF:-1,Spike Russia
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1994
-#EXTINF:-1,Бобёр
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1979
-#EXTINF:-1,Еда Премиум
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/131
-#EXTINF:-1,Food Network
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2185
-#EXTINF:-1,Food Network HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2186
-#EXTINF:-1,SHOT TV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/149
-#EXTINF:-1,Sony Turbo
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/225
-#EXTINF:-1,E tv
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2014
-#EXTINF:-1,Paramount Channel
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/314
-#EXTINF:-1,Viasat History
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/200
-#EXTINF:-1,Viasat Explore
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/199
-#EXTINF:-1,Viasat Nature
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/201
-#EXTINF:-1,Nat Geographic
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/312
-#EXTINF:-1,National Geographic HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1439
-#EXTINF:-1,History HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1434
-#EXTINF:-1,H2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1870
-#EXTINF:-1,НТВ Стиль
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1982
-#EXTINF:-1,Конный мир HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1991
-#EXTINF:-1,Viasat Nature/History HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1433
-#EXTINF:-1,Nat Geo Wild HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/180
-#EXTINF:-1,Авто 24
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/240
-#EXTINF:-1,Драйв
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1869
-#EXTINF:-1,Авто Плюс
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/303
-#EXTINF:-1,Морской
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2202
-#EXTINF:-1,Discovery Channel
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/245
-#EXTINF:-1,Discovery Channel HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/110
-#EXTINF:-1,ID Xtra
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/224
-#EXTINF:-1,DTX
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/329
-#EXTINF:-1,Discovery Science
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/145
-#EXTINF:-1,Discovery Science HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2062
-#EXTINF:-1,Travel Channel HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1558
-#EXTINF:-1,Travel+Adventure
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2122
-#EXTINF:-1,Travel+Adventure HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2123
-#EXTINF:-1,Наука 2.0
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1868
-#EXTINF:-1,Eureka HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1281
-#EXTINF:-1,НТВ Право
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1981
-#EXTINF:-1,Приключения HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1284
-#EXTINF:-1,Animal Planet
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/306
-#EXTINF:-1,Animal Planet HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/141
-#EXTINF:-1,В мире животных HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2124
-#EXTINF:-1,Fine Living
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2001
-#EXTINF:-1,Fine living HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2002
-#EXTINF:-1,TLC
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1967
-#EXTINF:-1,TLC HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1966
-#EXTINF:-1,Охота и рыбалка
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/271
-#EXTINF:-1,Охотник и Рыболов HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2129
-#EXTINF:-1,Дикий
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1565
-#EXTINF:-1,Моя Планета
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1879
-#EXTINF:-1,Viasat Sport
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/169
-#EXTINF:-1,Viasat Sport HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/166
-#EXTINF:-1,МАТЧ! Боец
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/217
-#EXTINF:-1,МАТЧ! Страна
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/332
-#EXTINF:-1,Матч ТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/171
-#EXTINF:-1,Матч! HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/165
-#EXTINF:-1,МАТЧ! Арена
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/210
-#EXTINF:-1,МАТЧ! Арена HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/104
-#EXTINF:-1,МАТЧ! Игра
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/143
-#EXTINF:-1,МАТЧ! Игра HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/117
-#EXTINF:-1,МАТЧ! Планета
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/282
-#EXTINF:-1,МАТЧ! Футбол 1
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/279
-#EXTINF:-1,МАТЧ! Футбол 1 HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/118
-#EXTINF:-1,МАТЧ! Футбол 2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/280
-#EXTINF:-1,МАТЧ! Футбол 2 HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/105
-#EXTINF:-1,МАТЧ! Футбол 3
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/281
-#EXTINF:-1,Матч! Футбол 3 HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/656
-#EXTINF:-1,МАТЧ ПРЕМЬЕР
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/181
-#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/720
-#EXTINF:-1,Футбол
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/170
-#EXTINF:-1,Бокс ТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/168
-#EXTINF:-1,UFC ТВ (TEST)
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2189
-#EXTINF:-1,КХЛ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/220
-#EXTINF:-1,КХЛ HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/187
-#EXTINF:-1,Eurosport
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/162
-#EXTINF:-1,Eurosport 1 HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/167
-#EXTINF:-1,Eurosport 2 HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/161
-#EXTINF:-1,Eurosport Gold HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1584
-#EXTINF:-1,Eurosport 4K
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2147
-#EXTINF:-1,Extreme Sport
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/163
-#EXTINF:-1,Русский Экстрим
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/297
-#EXTINF:-1,Точка отрыва
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/98
-#EXTINF:-1,Сетанта Спорт +
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/134
-#EXTINF:-1,Сетанта Спорт
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/133
-#EXTINF:-1,MTV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/292
-#EXTINF:-1,MTV Dance
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/293
-#EXTINF:-1,MTV HITS
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/244
-#EXTINF:-1,MTV Rocks
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/333
-#EXTINF:-1,Музыка первого
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/294
-#EXTINF:-1,Europa Plus TV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/151
-#EXTINF:-1,Наше ТВ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1548
-#EXTINF:-1,МУЗ
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1549
-#EXTINF:-1,N/A
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/342
-#EXTINF:-1,Bridge TV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/232
-#EXTINF:-1,Bridge TV Dance
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/290
-#EXTINF:-1,BRIDGE HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/111
-#EXTINF:-1,ТНТ MUSIC
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/158
-#EXTINF:-1,BRIDGE TV Русский Хит
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/248
-#EXTINF:-1,Жара
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/348
-#EXTINF:-1,BRIDGE TV Classic
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1546
-#EXTINF:-1,VH-1 Classic
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/298
-#EXTINF:-1,1HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/132
-#EXTINF:-1,iConcerts HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1895
-#EXTINF:-1,MCM Top
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/156
-#EXTINF:-1,Cartoon Network
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/327
-#EXTINF:-1,Disney
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/146
-#EXTINF:-1,Мульт
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/177
-#EXTINF:-1,Kapitan Fantastika HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1282
-#EXTINF:-1,Gulli Girls
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/262
-#EXTINF:-1,2x2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/320
-#EXTINF:-1,Boomerang
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1987
-#EXTINF:-1,Карусель
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/155
-#EXTINF:-1,Детский мир
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/355
-#EXTINF:-1,Nick Jr.
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/313
-#EXTINF:-1,O!
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/288
-#EXTINF:-1,Jim Jam
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/154
-#EXTINF:-1,Nickelodeon
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/184
-#EXTINF:-1,Nickelodeon HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2318
-#EXTINF:-1,Tiji TV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/316
-#EXTINF:-1,Тлум HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/241
-#EXTINF:-1,СТС Kids HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1992
-#EXTINF:-1,Мультик HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1283
-#EXTINF:-1,Мультимузыка
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/595
-#EXTINF:-1,Детский
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1853
-#EXTINF:-1,Мама
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/119
-#EXTINF:-1,DFM
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1898
-#EXTINF:-1,Europa Plus
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/593
-#EXTINF:-1,Pirate Station
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/360
-#EXTINF:-1,Radio Record
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/364
-#EXTINF:-1,Record Chill
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/354
-#EXTINF:-1,Record Club
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/356
-#EXTINF:-1,Record Deep
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/357
-#EXTINF:-1,Record Dubstep
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/358
-#EXTINF:-1,Record Megamix
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/359
-#EXTINF:-1,Record Rock
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/361
-#EXTINF:-1,Record Russian Mix
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/362
-#EXTINF:-1,Record VIP mix
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1547
-#EXTINF:-1,Trancemission Radio
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/363
-#EXTINF:-1,Радио Дача
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/594
-#EXTINF:-1,Эхо москвы
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1423
-#EXTINF:-1,LV: 3+
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1811
-#EXTINF:-1,LV: LNT
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1813
-#EXTINF:-1,LV: LTV7
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1816
-#EXTINF:-1,LV: TV3 LV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1810
-#EXTINF:-1,LV: TV6
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1812
-#EXTINF:-1,LV: LTV1
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1538
-#EXTINF:-1,LV: Kanals2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2149
-#EXTINF:-1,LV: Latuijas Slagerkanals
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2148
-#EXTINF:-1,LV: PBK
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2150
-#EXTINF:-1,LV: TV1000 Premium HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2311
-#EXTINF:-1,ОТР
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2327
-#EXTINF:-1,RTG HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2322
-#EXTINF:-1,Дикая охота HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2324
-#EXTINF:-1,Планета HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2323
-#EXTINF:-1,Футбол HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2326
