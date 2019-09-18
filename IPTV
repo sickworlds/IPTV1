@@ -3,6 +3,14 @@
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,Setanta Sport Plus + HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,Setanta Sports UA HD
+http://new.ott-club.online/ch00562/video.m3u8?token=enNrcmk2ajRxNXx8ZW5OcmNtazJhalJ4TlVCemJXRnlkQzFsYldGcGJDNXRaUT09
+#EXTINF:-1,TVPlay Sports+ HD
+http://new.ott-club.online/ch0535/video.m3u8?token=enNrcmk2ajRxNXx8ZW5OcmNtazJhalJ4TlVCemJXRnlkQzFsYldGcGJDNXRaUT09
+#EXTINF:-1,TVPlay Sports HD
+http://new.ott-club.online/ch0536/video.m3u8?token=enNrcmk2ajRxNXx8ZW5OcmNtazJhalJ4TlVCemJXRnlkQzFsYldGcGJDNXRaUT09
+#EXTINF:-1,Беларусь 5 HD
+http://new.ott-club.online/ch0370/video.m3u8?token=enNrcmk2ajRxNXx8ZW5OcmNtazJhalJ4TlVCemJXRnlkQzFsYldGcGJDNXRaUT09
 #EXTINF:-1,Sport1 LT
 http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:1,Idman  /Az +
