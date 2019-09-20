@@ -1245,8 +1245,16 @@ http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
 http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
 #EXTINF:-1,TV1
 http://213.252.252.17/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,LRT HD
+https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b1500000_tkdG9rZW5oYXNoPVNpc2UyUFMzbXNwTVVMYnRrWFBSWlZzSXdwejZIWmI5MV9keXQwZnBRWVBIMFVmN0U3WjZpaElDTVY5a3hIRnhpMUdiLXNtbUNseFZNSnpJbXlJaF9nPT0mdG9rZW5lbmR0aW1lPTE1NjkwMTcxMDA=.m3u8
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
+#EXTINF:-1, LRT Plius HD
+https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/playlist.m3u8?tokenhash=Q2MDBm14x6K_O5cvZVNyneUHb9ZAjf1VwYByzHwxGe4SAwR0YncfpEHUZKxVGGRhScX2PaUMMqSpr6j9IVYJSQ==&tokenendtime=1569016230
+#EXTINF:-1 LRT lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_480p/index.m3u8
+#EXTINF:-1, INFO TV HD
+https://live.lnk.lt/lnk_live/tiesiogiai/playlist.m3u8?tokenstarttime=0&tokenendtime=1569057780&tokenhash=6wlL5nEqFBBYR2MIHA-3u66Gr6oir2anpQCO0fkCpkx4Itoqj7XYaCtCPwpo2_XRvLuoAgMOLe6c3vmPa7s3qw==
 #EXTINF:-1,NTV Mir Baltic
 http://213.252.252.17/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
 #EXTINF:-1,PBK 
