@@ -1281,11 +1281,3 @@ http://persik.by/stream/2864/416522/148.m3u8
 http://persik.by/stream/2864/416522/883.m3u8
 #EXTINF:-1,Беларусь 5
 http://persik.by/stream/2864/416522/10254.m3u8
-#EXTINF:-1,ViasatExploreHD (EN)
-https://88.119.220.2/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,ViasatExploreHD (RU)
-https://88.119.220.2/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20001=96000-video=5000000.m3u8
-#EXTINF:-1,Nickelodeon (RU)
-https://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio_20001=96000-video=2200000.m3u8
-#EXTINF:-1,Nickelodeon (LV)
-https://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio_20002=96000-video=2200000.m3u8
