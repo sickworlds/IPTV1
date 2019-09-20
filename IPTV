@@ -1281,9 +1281,3 @@ http://persik.by/stream/2864/416522/148.m3u8
 http://persik.by/stream/2864/416522/883.m3u8
 #EXTINF:-1,Беларусь 5
 http://persik.by/stream/2864/416522/10254.m3u8
-#EXTINF:-1,TV1000PremiumHD (LT)
-https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,TV1000PremiumHD (LV)
-https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20001=96000-video=5000000.m3u8
-#EXTINF:-1,TV1000PremiumHD (RU)
-https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
