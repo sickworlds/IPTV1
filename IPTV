@@ -1249,7 +1249,7 @@ http://213.252.252.17/live/eds/TV1/HLS_encr/TV1.m3u8
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
 #EXTINF:-1,NTV Mir Baltic
 http://213.252.252.17/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
-#EXTINF:-1,PBK +
+#EXTINF:-1,PBK 
 http://213.252.252.17/live/eds/PBK/HLS_encr/PBK.m3u8
 #EXTINF:-1,Ren TV Baltic
 http://213.252.252.17/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
@@ -1257,13 +1257,15 @@ http://213.252.252.17/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
 http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
 #EXTINF:-1,TV1000 Action
 http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
-#EXTINF:-1,TV1000 Premium
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,TV1000 Premium LT
+https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
 #EXTINF:-1,Viasat Nature
 http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1,Viasat History
-http://213.252.252.2/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
-#EXTINF:-1,Viasat Explorer
-http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
-#EXTINF:-1,National Geographic
-http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Viasat History HD (RU)
+https://88.119.220.2/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20000=96000-video=5000000.m3u8
+#EXTINF:-1,Viasat Explorer HD (RU)
+https://88.119.220.2/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20001=96000-video=5000000.m3u8
+#EXTINF:-1,National Geographic HD
+https://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20000=96000-video=5000000.m3u8
+#EXTINF:-1,EpicDramaHD (LT)
+https://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=2200000.m3u8
