@@ -1257,8 +1257,9 @@ https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_480p/index.m3u8
 https://live.lnk.lt/lnk_live/tiesiogiai/playlist.m3u8?tokenstarttime=0&tokenendtime=1569057780&tokenhash=6wlL5nEqFBBYR2MIHA-3u66Gr6oir2anpQCO0fkCpkx4Itoqj7XYaCtCPwpo2_XRvLuoAgMOLe6c3vmPa7s3qw==
 #EXTINF:-1, Lietuvos Rytas HD
 https://ssb-live.lrytas.lt/live/smil:lrytas.smil/playlist.m3u8?tokenhash=hRVFV1Fanz7YDa6gVwnx9xEImGK99hNkZ2h_5b0dqvZdwVva4IluDlpJoK_Hho_rhUoeCHewmwShnYtrYr157g==&tokenendtime=1569102240
-#EXTINF:1,Lietuvos Rytas + HD
-playlist.m3u8?tokenhash=hRVFV1Fanz7YDa6gVwnx9xEImGK99hNkZ2h_5b0dqvZdwVva4IluDlpJoK_Hho_rhUoeCHewmwShnYtrYr157g==&tokenendtime=1569102240
+#EXTINF:1,playlist.m3u8?tokenhash=hRVFV1Fanz7YDa6gVwnx9xEImGK99hNkZ2h_5b0dqvZdwVva4IluDlpJoK_Hho_rhUoeCHewmwShnYtrYr157g==&tokenendtime=1569102240
+#EXTVLCOPT:network-caching=1000
+https://ssb-live.lrytas.lt/live/smil:lrytas.smil/playlist.m3u8?tokenhash=hRVFV1Fanz7YDa6gVwnx9xEImGK99hNkZ2h_5b0dqvZdwVva4IluDlpJoK_Hho_rhUoeCHewmwShnYtrYr157g==&tokenendtime=1569102240
 #EXTINF:-1,NTV Mir Baltic
 http://213.252.252.17/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
 #EXTINF:-1,PBK 
