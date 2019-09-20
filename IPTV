@@ -1246,11 +1246,11 @@ http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
 #EXTINF:-1,TV1
 http://213.252.252.17/live/eds/TV1/HLS_encr/TV1.m3u8
 #EXTINF:-1,LRT HD
-https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b1500000_tkdG9rZW5oYXNoPVNpc2UyUFMzbXNwTVVMYnRrWFBSWlZzSXdwejZIWmI5MV9keXQwZnBRWVBIMFVmN0U3WjZpaElDTVY5a3hIRnhpMUdiLXNtbUNseFZNSnpJbXlJaF9nPT0mdG9rZW5lbmR0aW1lPTE1NjkwMTcxMDA=.m3u8
+https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b1500000_tkdG9rZW5oYXNoPVkxM0s4dVIyd0xwUXNOR1dIZnhvbU5tOWNCX3F6UUh1LWMycWtqdDJBNFp1UFNvSFlHQk9DS0ZOM3ZnN1d2M2pLanFSVmxRSHNoRVJVQmNWLWNTZXN3PT0mdG9rZW5lbmR0aW1lPTE1NjkwMTcxMDA=.m3u8
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
 #EXTINF:-1, LRT Plius HD
-https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/playlist.m3u8?tokenhash=Q2MDBm14x6K_O5cvZVNyneUHb9ZAjf1VwYByzHwxGe4SAwR0YncfpEHUZKxVGGRhScX2PaUMMqSpr6j9IVYJSQ==&tokenendtime=1569016230
+https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/playlist.m3u8?tokenhash=Izr8agtPSjivxai9XU1_1RdSZqcvylqZWTgkEl6YnizUFxRsUx0n8hlt_d0gwoSCOgje4-VQr1CxTF7cOseOBw==&tokenendtime=1569019503
 #EXTINF:-1 LRT lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_480p/index.m3u8
 #EXTINF:-1, INFO TV HD
