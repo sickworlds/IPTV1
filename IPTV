@@ -1267,19 +1267,19 @@ http://213.252.252.2/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
 http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
 #EXTINF:-1,National Geographic
 http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,ViasatExploreHD (RU)
+#EXTINF:-1,Viasat Explore HD 
 https://88.119.220.2/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20001=96000-video=5000000.m3u8
-#EXTINF:-1,ViasatHistoryHD (RU)
+#EXTINF:-1,Viasat History HD 
 https://88.119.220.2/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,TV1000PremiumHD (LT)
+#EXTINF:-1,TV1000 PremiumH D 
 https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,TV1000PremiumHD (RU)
+#EXTINF:-1,TV1000 Premium + HD 
 https://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1,EpicDramaHD (LT)
-https://88.119.220.3/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=2200000.m3u8#EXTINF:-1,LRT_Lithuania
-#EXTINF:-1,EpicDramaHD (RU)
+#EXTINF:-1,Epic Drama + HD 
+https://88.119.220.3/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=2200000.m3u8
+#EXTINF:-1,Epic Drama HD 
 https://88.119.220.3/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1,LRT_Lithuania
+#EXTINF:-1,LRT_Lithuania +
 https://88.119.220.2/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,Беларусь 1 HD
 http://persik.by/stream/2864/416522/10405.m3u8
