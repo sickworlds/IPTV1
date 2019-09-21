@@ -1254,15 +1254,15 @@ http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
 #EXTINF:-1,TV1
 http://213.252.252.17/live/eds/TV1/HLS_encr/TV1.m3u8
 #EXTINF:-1,LRT + HD
-https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b1500000_tkdG9rZW5oYXNoPWI1WkV4Yy1DS1FZUTZQVEZNdlpXbXA5dnM1NGxHWkZvRFZTdVAxclE2VDBycTJmRGFTMzBkSS1nSFJ5YThpb0tfLWxnNXhtSlRWam5BekhDUXlBRmxBPT0mdG9rZW5lbmR0aW1lPTE1NjkwMjA3MDA=.m3u8
+https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b3500000_tkdG9rZW5oYXNoPVhUM0JSMFRnTUwwajhSZVphWE8wRVc1WUNMNGl6a2pTT3N3a1NnN2V4RHpOekI2eER1QnBjUWdObUVRYkYwUHNNYXR2LVFxaF81aFlIZU10bkJaWXlnPT0mdG9rZW5lbmR0aW1lPTE1NjkwNzY0NTQ=.m3u8
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
 #EXTINF:-1, LRT Plius HD
-https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/playlist.m3u8?tokenhash=Izr8agtPSjivxai9XU1_1RdSZqcvylqZWTgkEl6YnizUFxRsUx0n8hlt_d0gwoSCOgje4-VQr1CxTF7cOseOBw==&tokenendtime=1569019503
+https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/playlist.m3u8?tokenhash=5EMXkzG7WtoWX3mKTF0vEnB88CIx6tF0cdJ1vk7OU2d1A_1gkCM63AQVR5dIYtP2U7jpsHZQZo2_yuiY0qBIUg==&tokenendtime=1569075527
 #EXTINF:-1,LRT lituanica
-https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_480p/index.m3u8
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1, INFO TV HD
-https://live.lnk.lt/lnk_live/tiesiogiai/playlist.m3u8?tokenstarttime=0&tokenendtime=1569057780&tokenhash=6wlL5nEqFBBYR2MIHA-3u66Gr6oir2anpQCO0fkCpkx4Itoqj7XYaCtCPwpo2_XRvLuoAgMOLe6c3vmPa7s3qw==
+https://live.lnk.lt/lnk_live/tiesiogiai/playlist.m3u8?tokenstarttime=0&tokenendtime=1569116153&tokenhash=Zutb8SEcr2xUDFWmEeWRKe6lUt5YLdJ37Tbt4_x7kFXzrLtYon7A7-2pip72JW-J2oeEtlCJSrnOnKV4kNjpXA==
 #EXTINF:1, Lietuvos Rytas HD
 https://ssb-live.lrytas.lt/live/smil:lrytas.smil/playlist.m3u8?tokenhash=hRVFV1Fanz7YDa6gVwnx9xEImGK99hNkZ2h_5b0dqvZdwVva4IluDlpJoK_Hho_rhUoeCHewmwShnYtrYr157g==&tokenendtime=1569102240
 #EXTINF:-1,NTV Mir Baltic
