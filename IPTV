@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Setanta Sport + HD
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1,Setanta Sport Plus + HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1,Setanta Sports 1 HD
+#EXTINF:-1,Setanta Sports  HD
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/271/index.m3u8
-#EXTINF:-1,Setanta Sports 2 HD
+#EXTINF:-1,Setanta Sports Plus HD
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/270/index.m3u8
 #EXTINF:-1,Sport1 LT
 http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
@@ -35,10 +31,6 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/187
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/1109/index.m3u8
 #EXTINF:-1,Футбол 2 Украина
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/1110/index.m3u
-#EXTINF:-1,Футбол 1 Украина HD
-http://62.210.81.3/TV/FLASH-TV/n/mac/550.m3u8
-#EXTINF:-1,Футбол 2 HD Украина
-http://62.210.81.3/TV/FLASH-TV/n/mac/553.m3u8
 #EXTINF:-1,Eurosport 1 HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/167
 #EXTINF:-1,Eurosport 2 HD
@@ -1253,18 +1245,14 @@ http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
 http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
 #EXTINF:-1,TV1
 http://46.251.40.201:9981/stream/channelid/1767920004
-#EXTINF:-1,LRT + HD
-https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b3500000_tkdG9rZW5oYXNoPVhUM0JSMFRnTUwwajhSZVphWE8wRVc1WUNMNGl6a2pTT3N3a1NnN2V4RHpOekI2eER1QnBjUWdObUVRYkYwUHNNYXR2LVFxaF81aFlIZU10bkJaWXlnPT0mdG9rZW5lbmR0aW1lPTE1NjkwNzY0NTQ=.m3u8
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
-#EXTINF:-1, LRT Plius HD
-https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/playlist.m3u8?tokenhash=5EMXkzG7WtoWX3mKTF0vEnB88CIx6tF0cdJ1vk7OU2d1A_1gkCM63AQVR5dIYtP2U7jpsHZQZo2_yuiY0qBIUg==&tokenendtime=1569075527
-#EXTINF:-1,LRT lituanica
-https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-1, INFO TV HD
-https://live.lnk.lt/lnk_live/tiesiogiai/playlist.m3u8?tokenstarttime=0&tokenendtime=1569116153&tokenhash=Zutb8SEcr2xUDFWmEeWRKe6lUt5YLdJ37Tbt4_x7kFXzrLtYon7A7-2pip72JW-J2oeEtlCJSrnOnKV4kNjpXA==
-#EXTINF:1, Lietuvos Rytas HD
-https://ssb-live.lrytas.lt/live/smil:lrytas.smil/playlist.m3u8?tokenhash=hRVFV1Fanz7YDa6gVwnx9xEImGK99hNkZ2h_5b0dqvZdwVva4IluDlpJoK_Hho_rhUoeCHewmwShnYtrYr157g==&tokenendtime=1569102240
+#EXTINF:-1,Info TV
+http://46.251.40.201:9981/stream/channelid/1425282269
+#EXTINF:-1,Lietuvos rytas TV
+http://46.251.40.201:9981/stream/channelid/166103600
+#EXTINF:-1,LIUKS!
+http://46.251.40.201:9981/stream/channelid/736205318
 #EXTINF:-1,NTV Mir Baltic
 http://213.252.252.17/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
 #EXTINF:-1,PBK 
