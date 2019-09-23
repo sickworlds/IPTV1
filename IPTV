@@ -1247,6 +1247,8 @@ http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
 http://46.251.40.201:9981/stream/channelid/1767920004
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
+#EXTINF:-1,LRT Lithuania
+https://194.204.46.137/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
 #EXTINF:-1,Info TV
 http://46.251.40.201:9981/stream/channelid/1425282269
 #EXTINF:-1,Lietuvos rytas TV
