@@ -1249,18 +1249,6 @@ http://46.251.40.201:9981/stream/channelid/1767920004
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
 #EXTINF:-1,LRT Lithuania
 https://194.204.46.137/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
-#EXTINF:-1, TAVO TV 
-http://sf1.namai.tv/TAVOTV/index.m3u8?token=MTkzNDMrU2lja3dvcmxkc2VzcEBnbWFpbC5jb20rMjAxOS0wOS0yNCAxOTo0MTozNi4wMDAwMDArazNzNGdub3ZpZ2RoNzJ1NHJrZDBmZ2h2OTI=
-#EXTINF:-1, LRT Plus
-http://s1.namai.tv:8081/LTU-LRT2/index.m3u8?token=MTkzNDMrU2lja3dvcmxkc2VzcEBnbWFpbC5jb20rMjAxOS0wOS0yNCAxOTo0MTozNi4wMDAwMDArazNzNGdub3ZpZ2RoNzJ1NHJrZDBmZ2h2OTI=
-#EXTINF:-1, PBK +
-http://s1.namai.tv:8081/PERVYJ_BALTIJSKIJ/mono.m3u8?token=MTkzNDMrU2lja3dvcmxkc2VzcEBnbWFpbC5jb20rMjAxOS0wOS0yNCAxOTo0MTozNi4wMDAwMDArazNzNGdub3ZpZ2RoNzJ1NHJrZDBmZ2h2OTI=
-#EXTINF:-1, Match TV +
-http://s1.namai.tv:8081/NTV_MATCH/index.m3u8?token=MTkzNDMrU2lja3dvcmxkc2VzcEBnbWFpbC5jb20rMjAxOS0wOS0yNCAxOTo0MTozNi4wMDAwMDArazNzNGdub3ZpZ2RoNzJ1NHJrZDBmZ2h2OTI=
-#EXTINF:-1, NTV HD
-http://s1.namai.tv:8081/RUS-NTVHD/tracks-v1a1/mono.m3u8?token=MTkzNDMrU2lja3dvcmxkc2VzcEBnbWFpbC5jb20rMjAxOS0wOS0yNCAxOTo0MTozNi4wMDAwMDArazNzNGdub3ZpZ2RoNzJ1NHJrZDBmZ2h2OTI%3D
-#EXTINF:-1, Match Futboll 1
-http://s1.namai.tv:8081/MATCH_FOOTBALL_1/mono.m3u8?token=MTkzNDMrU2lja3dvcmxkc2VzcEBnbWFpbC5jb20rMjAxOS0wOS0yNCAxOTo0MTozNi4wMDAwMDArazNzNGdub3ZpZ2RoNzJ1NHJrZDBmZ2h2OTI=
 #EXTINF:-1,Info TV
 http://46.251.40.201:9981/stream/channelid/1425282269
 #EXTINF:-1,Lietuvos rytas TV
