@@ -3,6 +3,24 @@
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/271/index.m3u8
 #EXTINF:-1,Setanta Sports Plus HD
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/270/index.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:HD
+http://b9d9e8f7.ulkakak.pw/iptv/MH3CV52LP8UP2K/270/index.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:HD
+http://b9d9e8f7.ulkakak.pw/iptv/MH3CV52LP8UP2K/271/index.m3u8
+#EXTINF:0,Setanta Sports Ukraine HD
+#EXTGRP:HD
+http://b9d9e8f7.ulkakak.pw/iptv/MH3CV52LP8UP2K/272/index.m3u8
+#EXTINF:0,Canal + Sport Polska
+#EXTGRP:HD
+http://b9d9e8f7.ulkakak.pw/iptv/MH3CV52LP8UP2K/801/index.m3u8
+#EXTINF:0,Canal + Sport 3 Polska
+#EXTGRP:HD
+http://b9d9e8f7.ulkakak.pw/iptv/MH3CV52LP8UP2K/802/index.m3u8
+#EXTINF:0,Canal + Sport 4 Polska
+#EXTGRP:HD
+http://b9d9e8f7.ulkakak.pw/iptv/MH3CV52LP8UP2K/803/index.m3u8
 #EXTINF:-1,Sport1 LT
 http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:1,Idman  /Az +
