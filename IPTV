@@ -57,6 +57,52 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/161
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1584
 #EXTINF:-1,Eurosport 4K
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2147
+#EXTINF:-1,BT SPORTS 1
+http://185.132.134.141:9090/load/87b4f95d4fc3/106.mpegts
+#EXTINF:-1,BT SPORTS 2
+http://185.132.134.141:9090/load/87b4f95d4fc3/107.mpegts
+#EXTINF:-1,BT SPORTS 3
+http://185.132.134.141:9090/load/87b4f95d4fc3/108.mpegts
+#EXTINF:-1,BT SPORTS EPSN
+http://185.132.134.141:9090/load/87b4f95d4fc3/109.mpegts
+#EXTINF:-1,Sky Sports Action
+http://185.132.134.141:9090/load/87b4f95d4fc3/342.mpegts
+#EXTINF:-1,Sky Sports Arena
+http://185.132.134.141:9090/load/87b4f95d4fc3/343.mpegts
+#EXTINF:-1,Sky Sports Football
+http://185.132.134.141:9090/load/87b4f95d4fc3/344.mpegts
+#EXTINF:-1,Sky Sports Premier League
+http://185.132.134.141:9090/load/87b4f95d4fc3/345.mpegts
+#EXTINF:-1,Sky Sports Main Event
+http://185.132.134.141:9090/load/87b4f95d4fc3/346.mpegts
+#EXTINF:-1,Sky Sports F1
+http://185.132.134.141:9090/load/87b4f95d4fc3/349.mpegts
+#EXTINF:-1,Premiere Sports 2
+http://185.132.134.141:9090/load/87b4f95d4fc3/353.mpegts
+#EXTINF:-1,BeinSports 1 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/148.mpegts
+#EXTINF:-1,BeinSports 2 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/149.mpegts
+#EXTINF:-1,BeinSports 3 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/150.mpegts
+#EXTINF:-1,BeinSports 4 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/151.mpegts
+#EXTINF:-1,BeinSports 5 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/152.mpegts
+#EXTINF:-1,BeinSports 6 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/153.mpegts
+#EXTINF:-1,BeinSports 7 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/154.mpegts
+#EXTINF:-1,BeinSports 8 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/155.mpegts
+#EXTINF:-1,BeinSports 9 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/156.mpegts
+#EXTINF:-1,BeinSports 10 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/157.mpegts
+#EXTINF:-1,BeinSports 12 HD
+http://185.132.134.141:9090/load/87b4f95d4fc3/159.mpegts
+#EXTINF:-1,BeinSports News
+http://185.132.134.141:9090/load/87b4f95d4fc3/160.mpegts
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
