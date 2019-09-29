@@ -33,54 +33,102 @@ http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/1109/index.m3u8
 #EXTINF:-1,Футбол 2 Украина
 http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/1110/index.m3u
+#EXTINF:-1,beIN SPORTS HD
+http://x12tv.co:80/barakat5000/barakat5000/10067
+#EXTINF:-1,beIN SPORTS NEWS
+http://x12tv.co:80/barakat5000/barakat5000/4387
+#EXTINF:-1,beIN SPORTS 1HD
+http://x12tv.co:80/barakat5000/barakat5000/20998
+#EXTINF:-1,beIN SPORTS 2HD
+http://x12tv.co:80/barakat5000/barakat5000/20999
+#EXTINF:-1,beIN SPORTS 3HD
+http://x12tv.co:80/barakat5000/barakat5000/21000
+#EXTINF:-1,beIN SPORTS 4HD
+http://x12tv.co:80/barakat5000/barakat5000/19143
+#EXTINF:-1,beIN SPORTS 5HD
+http://x12tv.co:80/barakat5000/barakat5000/7881
+#EXTINF:-1,beIN SPORTS 6HD
+http://x12tv.co:80/barakat5000/barakat5000/8796
+#EXTINF:-1,beIN SPORTS 7HD
+http://x12tv.co:80/barakat5000/barakat5000/1695
+#EXTINF:-1,beIN SPORTS 8HD
+http://x12tv.co:80/barakat5000/barakat5000/1694
+#EXTINF:-1,beIN SPORTS 9HD
+http://x12tv.co:80/barakat5000/barakat5000/1693
+#EXTINF:-1,beIN SPORTS 10HD
+http://x12tv.co:80/barakat5000/barakat5000/1692
+#EXTINF:-1,beIN SPORTS 11HD
+http://x12tv.co:80/barakat5000/barakat5000/1691
+#EXTINF:-1,beIN SPORTS 12HD
+http://x12tv.co:80/barakat5000/barakat5000/1690
+#EXTINF:-1,Abu Dhabi Sports 1 HD
+http://x12tv.co:80/barakat5000/barakat5000/1720
+#EXTINF:-1,Abu Dhabi Sports 2 HD
+http://x12tv.co:80/barakat5000/barakat5000/1721
+#EXTINF:-1,Abu Dhabi Sports 3 HD
+http://x12tv.co:80/barakat5000/barakat5000/10052
+#EXTINF:-1,Abu Dhabi Sports 4 HD
+http://x12tv.co:80/barakat5000/barakat5000/31887
+#EXTINF:-1,Abu Dhabi Sports 5 HD
+http://x12tv.co:80/barakat5000/barakat5000/31888
+#EXTINF:-1,beIN SPORT HD1 F
+http://x12tv.co:80/barakat5000/barakat5000/2080
+#EXTINF:-1,beIN SPORT HD2 F
+http://x12tv.co:80/barakat5000/barakat5000/2079
+#EXTINF:-1,beIN SPORT HD3 F
+http://x12tv.co:80/barakat5000/barakat5000/2078
+#EXTINF:-1,beIN SPORT MAX4 HD
+http://x12tv.co:80/barakat5000/barakat5000/4043
+#EXTINF:-1,beIN SPORT MAX5 HD
+http://x12tv.co:80/barakat5000/barakat5000/4044
+#EXTINF:-1,beIN SPORT MAX6 HD
+http://x12tv.co:80/barakat5000/barakat5000/4045
+#EXTINF:-1,beIN SPORT MAX7 HD
+http://x12tv.co:80/barakat5000/barakat5000/4046
+#EXTINF:-1,beIN SPORT MAX8 HD
+http://x12tv.co:80/barakat5000/barakat5000/4047
+#EXTINF:-1,beIN SPORT MAX9 HD
+http://x12tv.co:80/barakat5000/barakat5000/4048
+#EXTINF:-1,beIN SPORT MAX10 HD
+http://x12tv.co:80/barakat5000/barakat5000/4049
 #EXTINF:-1,Sky Sports F1
 http://x12tv.co:80/barakat5000/barakat5000/6804
-#EXTINF:-1,BT SPORTS 1
-http://185.132.134.141:9090/load/87b4f95d4fc3/106.mpegts
-#EXTINF:-1,BT SPORTS 2
-http://185.132.134.141:9090/load/87b4f95d4fc3/107.mpegts
-#EXTINF:-1,BT SPORTS 3
-http://185.132.134.141:9090/load/87b4f95d4fc3/108.mpegts
-#EXTINF:-1,BT SPORTS EPSN
-http://185.132.134.141:9090/load/87b4f95d4fc3/109.mpegts
 #EXTINF:-1,Sky Sports Action
-http://185.132.134.141:9090/load/87b4f95d4fc3/342.mpegts
-#EXTINF:-1,Sky Sports Arena
-http://185.132.134.141:9090/load/87b4f95d4fc3/343.mpegts
+http://x12tv.co:80/barakat5000/barakat5000/6810
+#EXTINF:-1,SKY SPORTS HD ARENA
+http://x12tv.co:80/barakat5000/barakat5000/6808
+#EXTINF:-1,Sky Sports Cricket
+http://x12tv.co:80/barakat5000/barakat5000/6806
 #EXTINF:-1,Sky Sports Football
-http://185.132.134.141:9090/load/87b4f95d4fc3/344.mpegts
+http://x12tv.co:80/barakat5000/barakat5000/6812
+#EXTINF:-1,Sky Sports Main Events
+http://x12tv.co:80/barakat5000/barakat5000/6819
+#EXTINF:-1,Sky Sports Mix
+http://x12tv.co:80/barakat5000/barakat5000/6817
+#EXTINF:-1,Sky Sports News
+http://x12tv.co:80/barakat5000/barakat5000/6821
 #EXTINF:-1,Sky Sports Premier League
-http://185.132.134.141:9090/load/87b4f95d4fc3/345.mpegts
-#EXTINF:-1,Sky Sports Main Event
-http://185.132.134.141:9090/load/87b4f95d4fc3/346.mpegts
-#EXTINF:-1,Sky Sports F1
-http://185.132.134.141:9090/load/87b4f95d4fc3/349.mpegts
-#EXTINF:-1,Premiere Sports 2
-http://185.132.134.141:9090/load/87b4f95d4fc3/353.mpegts
-#EXTINF:-1,BeinSports 1 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/148.mpegts
-#EXTINF:-1,BeinSports 2 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/149.mpegts
-#EXTINF:-1,BeinSports 3 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/150.mpegts
-#EXTINF:-1,BeinSports 4 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/151.mpegts
-#EXTINF:-1,BeinSports 5 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/152.mpegts
-#EXTINF:-1,BeinSports 6 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/153.mpegts
-#EXTINF:-1,BeinSports 7 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/154.mpegts
-#EXTINF:-1,BeinSports 8 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/155.mpegts
-#EXTINF:-1,BeinSports 9 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/156.mpegts
-#EXTINF:-1,BeinSports 10 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/157.mpegts
-#EXTINF:-1,BeinSports 12 HD
-http://185.132.134.141:9090/load/87b4f95d4fc3/159.mpegts
-#EXTINF:-1,BeinSports News
-http://185.132.134.141:9090/load/87b4f95d4fc3/160.mpegts
+http://x12tv.co:80/barakat5000/barakat5000/6814
+#EXTINF:-1,Sharjah Sport HD
+http://x12tv.co:80/barakat5000/barakat5000/34734
+#EXTINF:-1,ON Sport HD
+http://x12tv.co:80/barakat5000/barakat5000/7215
+#EXTINF:-1,KSA SPORT1 HD
+http://x12tv.co:80/barakat5000/barakat5000/12821
+#EXTINF:-1,KSA SPORT2 HD
+http://x12tv.co:80/barakat5000/barakat5000/8883
+#EXTINF:-1,KSA SPORT 2+ HD
+http://x12tv.co:80/barakat5000/barakat5000/12822
+#EXTINF:-1,SFR SPORT 1
+http://x12tv.co:80/barakat5000/barakat5000/2863
+#EXTINF:-1,SFR SPORT 2
+http://x12tv.co:80/barakat5000/barakat5000/2864
+#EXTINF:-1,SFR SPORT 3
+http://x12tv.co:80/barakat5000/barakat5000/2865
+#EXTINF:-1,DUBAI SPORT 1
+http://x12tv.co:80/barakat5000/barakat5000/1585
+#EXTINF:-1,DUBAI SPORT 2
+http://x12tv.co:80/barakat5000/barakat5000/1584
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
