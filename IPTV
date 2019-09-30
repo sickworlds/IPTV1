@@ -24,7 +24,9 @@ http://b9d9e8f7.ulkakak.pw/iptv/MH3CV52LP8UP2K/803/index.m3u8
 #EXTINF:-1,Sport1 LT
 http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:-1,TVP Sport LT
-http://rr2.1ott.net/~109fd5b87c3bf37a7e7fc3768a84e63ee4b/51108
+http://rr2.1ott.net/~1091e9fa952230502c19e7874b3aa8e57b0/51108
+#EXTINF:-1,TVPlay Sport+
+http://rr2.1ott.net/~1091e9fa952230502c19e7874b3aa8e57b0/42091
 #EXTINF:1,Idman  /Az +
 #EXTVLCOPT:network-caching=1000
 http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8
