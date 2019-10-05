@@ -29,10 +29,16 @@ http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8
 #EXTINF:1,МАТЧ! АРЕНА + HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
-#EXTINF:-1,Футбол 1 Украина
-http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/1109/index.m3u8
-#EXTINF:-1,Футбол 2 Украина
-http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/1110/index.m3u
+#EXTINF:-1,Футбол1 HD
+https://iptvdom.my1.ru/load/0-0-1-313-20
+#EXTINF:-1,Футбол2 HD
+https://iptvdom.my1.ru/load/0-0-1-314-20
+#EXTINF:-1,Матч! Футбол 1 HD
+http://persik.by/stream/428/418448/10266.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://persik.by/stream/428/418448/10267.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://persik.by/stream/428/418448/10268.m3u8
 #EXTINF:-1,Первый Канал + HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,Интер +
