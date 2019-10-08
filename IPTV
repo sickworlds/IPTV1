@@ -22,11 +22,6 @@ http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:1,МАТЧ! АРЕНА + HD
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
-#EXTINF:-1,Футбол1 HD
-#EXTVLCOPT:network-caching=1000
-https://iptvdom.my1.ru/load/0-0-1-313-20
-#EXTINF:-1,Футбол2 HD
-https://iptvdom.my1.ru/load/0-0-1-314-20
 #EXTINF:-1,Матч! Футбол 1 HD
 http://persik.by/stream/428/418448/10266.m3u8
 #EXTINF:-1,Матч! Футбол 2 HD
