@@ -23,6 +23,7 @@ http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTVLCOPT:network-caching=1000
 http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
 #EXTINF:-1,Футбол1 HD
+#EXTVLCOPT:network-caching=1000
 https://iptvdom.my1.ru/load/0-0-1-313-20
 #EXTINF:-1,Футбол2 HD
 https://iptvdom.my1.ru/load/0-0-1-314-20
@@ -38,6 +39,8 @@ http://188.35.9.5:10005/stolen/103r/imposter.rar
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,ПЯТНИЦА +
 http://ott-cdn.ucom.am/s50/04.m3u8
+#EXTINF:-1,Пятница! (International)
+http://79.140.3.187:1194/udp/239.2.153.156:1234
 #EXTINF:-1,Мир (HD) +
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24 HD +
