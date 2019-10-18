@@ -11,8 +11,6 @@ http://188.35.9.5:10005/stolen/103r/imposter.rar
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,ПЯТНИЦА +
 http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1,Пятница! (International)
-http://31.31.123.114:1194/udp/239.2.153.156:1234
 #EXTINF:-1,Мир (HD) +
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24 HD +
@@ -71,3 +69,57 @@ http://213.252.252.2/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
 http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
 #EXTINF:-1,National Geographic
 http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://server1.life-tv.eu/ch0044/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Eurosport Gold HD
+http://server1.life-tv.eu/ch0046/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Extreme Sports
+http://server1.life-tv.eu/ch0047/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Арена HD
+http://server1.life-tv.eu/ch0153/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Боец
+http://server1.life-tv.eu/ch0154/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Игра HD
+http://server1.life-tv.eu/ch0155/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Страна
+http://server1.life-tv.eu/ch0156/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Футбол 1 HD
+http://server1.life-tv.eu/ch0160/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Футбол 2 HD
+http://server1.life-tv.eu/ch0161/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Футбол 3 HD
+http://server1.life-tv.eu/ch0308/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,КХЛ HD
+http://server1.life-tv.eu/ch0186/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! Премьер HD
+http://server1.life-tv.eu/ch0157/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Футбол
+http://server1.life-tv.eu/ch0260/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Футбол HD
+http://server1.life-tv.eu/ch0261/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Спорт HD UA
+http://server1.life-tv.eu/ch0003/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Мотоспорт HD
+http://server1.life-tv.eu/ch0196/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Беларусь 5 HD
+http://server1.life-tv.eu/ch0370/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч!
+http://server1.life-tv.eu/ch0158/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Матч! HD
+http://server1.life-tv.eu/ch0159/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Setanta Live 2 HD
+http://server1.life-tv.eu/ch0381/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Мир Баскетбола
+http://server1.life-tv.eu/ch0487/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Футбол 1 UA
+http://server1.life-tv.eu/ch0359/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Футбол 2 AU
+http://server1.life-tv.eu/ch0360/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Eurosport2 HD
+http://server1.life-tv.eu/ch0310/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Eurosport 4K UHD
+http://server1.life-tv.eu/ch0531/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Megogo футбол
+http://server1.life-tv.eu/ch0532/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Setanta Sports UA HD
+http://server1.life-tv.eu/ch00562/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
