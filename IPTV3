@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1,В мире животных
+http://ip.tvoetv.com.ru:8080/CH-128/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч! Игра HD (резерв)
+http://ip.tvoetv.com.ru:8080/CH-126/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч! Арена HD
+http://ip.tvoetv.com.ru:8080/CH-125/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Кинопремьера HD
+http://ip.tvoetv.com.ru:8080/CH-123/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Дикая Охота HD
+http://ip.tvoetv.com.ru:8080/CH-122/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Дикая Рыбалка HD
+http://ip.tvoetv.com.ru:8080/CH-121/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Перввый канал
+http://ip.tvoetv.com.ru:8080/CH-1/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Россия 1
+http://ip.tvoetv.com.ru:8080/CH-2/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч!
+http://ip.tvoetv.com.ru:8080/CH-3/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,НТВ
+http://ip.tvoetv.com.ru:8080/CH-4/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Пятый канал
+http://ip.tvoetv.com.ru:8080/CH-5/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Россия К
+http://ip.tvoetv.com.ru:8080/CH-6/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Россия 24
+http://ip.tvoetv.com.ru:8080/CH-7/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Карусель
+http://ip.tvoetv.com.ru:8080/CH-8/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,ОТР
+http://ip.tvoetv.com.ru:8080/CH-9/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,ТВЦ
+http://ip.tvoetv.com.ru:8080/CH-10/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,РЕН ТВ
+http://ip.tvoetv.com.ru:8080/CH-11/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Спас
+http://ip.tvoetv.com.ru:8080/CH-12/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,СТС
+http://ip.tvoetv.com.ru:8080/CH-13/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Домашний
+http://ip.tvoetv.com.ru:8080/CH-14/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,ТВ3
+http://ip.tvoetv.com.ru:8080/CH-15/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Пятница!
+http://ip.tvoetv.com.ru:8080/CH-16/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Звезда
+http://ip.tvoetv.com.ru:8080/CH-17/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,МИР
+http://ip.tvoetv.com.ru:8080/CH-18/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,ТНТ
+http://ip.tvoetv.com.ru:8080/CH-19/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Муз ТВ
+http://ip.tvoetv.com.ru:8080/CH-20/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Shopping Live
+http://ip.tvoetv.com.ru:8080/CH-21/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,МИР 24
+http://ip.tvoetv.com.ru:8080/CH-22/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Точка отрыва
+http://ip.tvoetv.com.ru:8080/CH-23/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Анекдот ТВ
+http://ip.tvoetv.com.ru:8080/CH-24/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Крым 24
+http://ip.tvoetv.com.ru:8080/CH-25/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Москва 24
+http://ip.tvoetv.com.ru:8080/CH-26/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Первый Севастопольский
+http://ip.tvoetv.com.ru:8080/CH-27/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,ИКС
+http://ip.tvoetv.com.ru:8080/CH-28/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Ретро
+http://ip.tvoetv.com.ru:8080/CH-29/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Драйв
+http://ip.tvoetv.com.ru:8080/CH-30/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Охота и рыбалка
+http://ip.tvoetv.com.ru:8080/CH-31/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Здоровое ТВ
+http://ip.tvoetv.com.ru:8080/CH-32/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Усадьба
+http://ip.tvoetv.com.ru:8080/CH-33/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Домашние животные
+http://ip.tvoetv.com.ru:8080/CH-34/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Психология 21
+http://ip.tvoetv.com.ru:8080/CH-35/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Вопросы и ответы
+http://ip.tvoetv.com.ru:8080/CH-36/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Кинокомедия
+http://ip.tvoetv.com.ru:8080/CH-37/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Кухня ТВ
+http://ip.tvoetv.com.ru:8080/CH-38/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Киносерия
+http://ip.tvoetv.com.ru:8080/CH-39/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Индийское кино
+http://ip.tvoetv.com.ru:8080/CH-40/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,КХЛ
+http://ip.tvoetv.com.ru:8080/CH-41/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,НТС
+http://ip.tvoetv.com.ru:8080/CH-42/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Ю-ТВ
+http://ip.tvoetv.com.ru:8080/CH-43/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч Арена
+http://ip.tvoetv.com.ru:8080/CH-44/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Телепутешествия
+http://ip.tvoetv.com.ru:8080/CH-45/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,КВН
+http://ip.tvoetv.com.ru:8080/CH-46/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Оружие
+http://ip.tvoetv.com.ru:8080/CH-47/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Наша Тема
+http://ip.tvoetv.com.ru:8080/CH-48/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,365
+http://ip.tvoetv.com.ru:8080/CH-49/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Russia Today
+http://ip.tvoetv.com.ru:8080/CH-50/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,8 канал
+http://ip.tvoetv.com.ru:8080/CH-51/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Europa Plus
+http://ip.tvoetv.com.ru:8080/CH-52/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Любимое кино
+http://ip.tvoetv.com.ru:8080/CH-53/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Авто Плюс
+http://ip.tvoetv.com.ru:8080/CH-54/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч Футбол 2
+http://ip.tvoetv.com.ru:8080/CH-55/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Первый HD
+http://ip.tvoetv.com.ru:8080/CH-56/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Ля Минор
+http://ip.tvoetv.com.ru:8080/CH-57/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Наше ТВ
+http://ip.tvoetv.com.ru:8080/CH-58/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч Боец
+http://ip.tvoetv.com.ru:8080/CH-59/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,A2
+http://ip.tvoetv.com.ru:8080/CH-60/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Кинохит
+http://ip.tvoetv.com.ru:8080/CH-61/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Наше новое кино
+http://ip.tvoetv.com.ru:8080/CH-62/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Мир сериала
+http://ip.tvoetv.com.ru:8080/CH-63/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Феникс плюс Кино
+http://ip.tvoetv.com.ru:8080/CH-64/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч Футбол 1
+http://ip.tvoetv.com.ru:8080/CH-65/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Инфо провайдер
+http://ip.tvoetv.com.ru:8080/CH-66/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,RT DOC HD
+http://ip.tvoetv.com.ru:8080/CH-67/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Мир Премиум HD
+http://ip.tvoetv.com.ru:8080/CH-68/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Ностальгия
+http://ip.tvoetv.com.ru:8080/CH-69/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Мужской
+http://ip.tvoetv.com.ru:8080/CH-70/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Резерв
+http://ip.tvoetv.com.ru:8080/CH-71/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч Футбол 3
+http://ip.tvoetv.com.ru:8080/CH-72/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,ИКС 24
+http://ip.tvoetv.com.ru:8080/CH-73/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Кто есть кто
+http://ip.tvoetv.com.ru:8080/CH-74/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Детский
+http://ip.tvoetv.com.ru:8080/CH-75/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Русский иллюзион
+http://ip.tvoetv.com.ru:8080/CH-76/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Иллюзион
+http://ip.tvoetv.com.ru:8080/CH-77/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Зоопарк
+http://ip.tvoetv.com.ru:8080/CH-78/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Еврокино
+http://ip.tvoetv.com.ru:8080/CH-79/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Авто 24
+http://ip.tvoetv.com.ru:8080/CH-80/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Центральное телевидение
+http://ip.tvoetv.com.ru:8080/CH-81/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Киносат
+http://ip.tvoetv.com.ru:8080/CH-82/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Пёс и Ко
+http://ip.tvoetv.com.ru:8080/CH-83/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч Игра
+http://ip.tvoetv.com.ru:8080/CH-84/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Океан
+http://ip.tvoetv.com.ru:8080/CH-85/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Дорама
+http://ip.tvoetv.com.ru:8080/CH-86/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч премьер
+http://ip.tvoetv.com.ru:8080/CH-87/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Загородная жизнь
+http://ip.tvoetv.com.ru:8080/CH-88/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Нано ТВ
+http://ip.tvoetv.com.ru:8080/CH-89/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Матч Страна
+http://ip.tvoetv.com.ru:8080/CH-90/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Киносемья
+http://ip.tvoetv.com.ru:8080/CH-91/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Киносвидание
+http://ip.tvoetv.com.ru:8080/CH-92/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Родное кино
+http://ip.tvoetv.com.ru:8080/CH-93/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Киномикс
+http://ip.tvoetv.com.ru:8080/CH-94/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Мужское кино
+http://ip.tvoetv.com.ru:8080/CH-95/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Жара
+http://ip.tvoetv.com.ru:8080/CH-96/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Русский роман
+http://ip.tvoetv.com.ru:8080/CH-97/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Русский бестселлер
+http://ip.tvoetv.com.ru:8080/CH-98/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Русский детектив
+http://ip.tvoetv.com.ru:8080/CH-99/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Русская комедия
+http://ip.tvoetv.com.ru:8080/CH-100/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,НСТ
+http://ip.tvoetv.com.ru:8080/CH-101/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Кино ТВ
+http://ip.tvoetv.com.ru:8080/CH-102/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Cinema
+http://ip.tvoetv.com.ru:8080/CH-103/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Моя планета
+http://ip.tvoetv.com.ru:8080/CH-104/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Живая планета
+http://ip.tvoetv.com.ru:8080/CH-105/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Наука
+http://ip.tvoetv.com.ru:8080/CH-106/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Первый Крымский
+http://ip.tvoetv.com.ru:8080/CH-107/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,История
+http://ip.tvoetv.com.ru:8080/CH-108/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Мама
+http://ip.tvoetv.com.ru:8080/CH-109/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Техно 24
+http://ip.tvoetv.com.ru:8080/CH-110/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,360 Подмосковье
+http://ip.tvoetv.com.ru:8080/CH-111/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Россия 1 HD
+http://ip.tvoetv.com.ru:8080/CH-112/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,N/A
+http://ip.tvoetv.com.ru:8080/CH-113/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Миллет
+http://ip.tvoetv.com.ru:8080/CH-114/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Красная линия
+http://ip.tvoetv.com.ru:8080/CH-115/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Galaxy
+http://ip.tvoetv.com.ru:8080/CH-116/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,THT Music
+http://ip.tvoetv.com.ru:8080/CH-117/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Твой дом
+http://ip.tvoetv.com.ru:8080/CH-118/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Bridge Dance
+http://ip.tvoetv.com.ru:8080/CH-119/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Bridge Classic
+http://ip.tvoetv.com.ru:8080/CH-120/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,HDL
+http://ip.tvoetv.com.ru:8080/CH-124/video.m3u8?token=GqR-JwWHs3
+#EXTINF:-1,Большая Азия
+http://ip.tvoetv.com.ru:8080/CH-127/video.m3u8?token=GqR-JwWHs3
