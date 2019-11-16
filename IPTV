@@ -1,6 +1,86 @@
 #EXTM3U
-#EXTINF:-1,Lietuvos rytas HD
-http://88.216.48.147/flussonic/Lietuvos_rytas_HD/video.m3u8
+#EXTINF:0,LRT Televizija HD
+http://88.216.48.147/flussonic/LRT_Televizija_HD/video.m3u8
+#EXTINF:0,šiauliu televizija
+http://88.216.48.147/flussonic/Siauliu_TV/index.m3u8
+#EXTINF:0,Informacija
+http://88.216.48.30/iptv/info/live.m3u8
+#EXTINF:0,TV21
+http://88.216.48.147/flussonic/TV21/video.m3u8
+#EXTINF:0,Dom Kino
+http://88.216.48.147/flussonic/Dom_Kino/index.m3u8
+#EXTINF:0,RTR
+http://88.216.48.147/flussonic/RTR_Planeta/index.m3u8
+#EXTINF:0,NTV Mir Lithuania
+http://88.216.48.147/flussonic/NTV_Mir/video.m3u8
+#EXTINF:0,Zdorovoj
+http://88.216.48.147/flussonic/Zdorovoje/index.m3u8
+#EXTINF:0,neplaneta
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:0,TV5 Monde Europe
+http://88.216.48.147/flussonic/TV5_Monde/index.m3u8
+#EXTINF:0,TV Polonia
+http://88.216.48.147/flussonic/TV_Polonia/index.m3u8
+#EXTINF:0,Tele5
+http://88.216.48.147/flussonic/Tele5/index.m3u8
+#EXTINF:0,Marijampoles TV HD
+http://88.216.48.147/flussonic/MarijampolesTV_HD/index.m3u8
+#EXTINF:0,Belsat
+http://88.216.48.147/flussonic/Belsat/index.m3u8
+#EXTINF:0,LNK HD
+http://88.216.48.147/flussonic/LNK_HD/index.m3u8
+#EXTINF:0,Retro
+http://88.216.48.147/flussonic/Retro/index.m3u8
+#EXTINF:0,Usadba
+http://88.216.48.147/flussonic/Usadba/index.m3u8
+#EXTINF:0,Voprosy i Otvety
+http://88.216.48.147/flussonic/VoprosyOtvety/index.m3u8
+#EXTINF:0,Psichologia 21
+http://88.216.48.147/flussonic/Psichologia21/index.m3u8
+#EXTINF:0,Viasat Explore HD
+http://88.216.48.147/flussonic/Viasat_Explore_HD/video.m3u8
+#EXTINF:0,TVP1 HD
+http://88.216.48.147/flussonic/TVP1_HD/index.m3u8
+#EXTINF:0,Food Network
+http://88.216.48.147/flussonic/Food_Network/video.m3u8
+#EXTINF:0,TVP2 HD
+http://88.216.48.147/flussonic/TVP2_HD/index.m3u8
+#EXTINF:0,Lietuvos Rytas HD
+http://88.216.48.147/flussonic/Lietuvos_rytas_HD/index.m3u8
+#EXTINF:0,TVP Info
+http://88.216.48.147/flussonic/TVP_Info/index.m3u8
+#EXTINF:0,Jasminchanne
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,FashionTV4K
+http://88.216.48.147/flussonic/FashionTV4K/video.m3u8
+#EXTINF:0,NW
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0,Belarus 24 HD
+http://88.216.48.147/flussonic/Belarus24hd/index.m3u8
+#EXTINF:0,TV1 HD
+http://88.216.48.147/flussonic/TV1_HD/index.m3u8
+#EXTINF:0,Idfashion
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+#EXTINF:0,TV8 europe
+http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
+#EXTINF:0,HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0,Russia 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,Filmzone MPEG2
+http://88.216.48.147/flussonic/Filmzone/video.m3u8
+#EXTINF:0,Music Tv
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0,TV3 Lithuania HD
+http://88.216.48.147/flussonic/TV3_HD/index.m3u8
+#EXTINF:0,TV6 1080p hevc
+http://88.216.48.147/flussonic/TV6_HD/index.m3u8
+#EXTINF:0,TV8 HD
+http://88.216.48.147/flussonic/TV8_HD/index.m3u8
+#EXTINF:0,Rodnoe_Kino
+http://88.216.48.147/flussonic/Rodnoe_Kino/index.m3u8
+#EXTINF:0,KVN_TV
+http://88.216.48.147/flussonic/KVN_TV/index.m3u8
 #EXTINF:-1,TVPLAY Sport
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
 #EXTINF:-1,Sport1 LT
@@ -9,25 +89,25 @@ http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
 https://iptvdom.my1.ru/load/0-0-1-313-20
 #EXTINF:-1,Футбол 2 HD
 https://iptvdom.my1.ru/load/0-0-1-314-20
-#EXTINF:-1,Первый Канал + HD
+#EXTINF:-1,Первый Канал  HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
-#EXTINF:-1,Интер +
+#EXTINF:-1,Интер 
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,Мир (HD) +
+#EXTINF:-1,Мир (HD) 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мир 24 HD +
+#EXTINF:-1,Мир 24 HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Мир Premium HD +
+#EXTINF:-1,Мир Premium HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1,Прямой HD +
+#EXTINF:-1,Прямой HD 
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,ТВЦ +
+#EXTINF:-1,ТВЦ 
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:-1,Россия 1 HD +
+#EXTINF:-1,Россия1 + HD 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24 +
+#EXTINF:-1,Россия 24 
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Россия К +
+#EXTINF:-1,Россия К 
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,TV3 LT HD
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
