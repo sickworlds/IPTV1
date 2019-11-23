@@ -1,0 +1,659 @@
+#EXTM3U
+#EXTINF:-1,Первый HD
+http://fr01.spr24.net/128/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Первый HD
+http://fr01.spr24.net/128128/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Первый канал
+http://fr01.spr24.net/5005/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Первый канал (+2)
+http://fr01.spr24.net/351/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Первый канал (+4)
+http://fr01.spr24.net/356/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Россия 1 HD
+http://fr01.spr24.net/77783/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Россия 1 HD
+http://fr01.spr24.net/129/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Россия 1 (+2)
+http://fr01.spr24.net/352/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Россия 1 (+4)
+http://fr01.spr24.net/355/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Россия-Культура
+http://fr01.spr24.net/5099/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РТР Планета
+http://fr01.spr24.net/5299/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ HD
+http://fr01.spr24.net/253/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ HD
+http://fr01.spr24.net/6757/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ
+http://fr01.spr24.net/5097/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ (+2)
+http://fr01.spr24.net/223/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ (+4)
+http://fr01.spr24.net/358/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ Мир
+http://fr01.spr24.net/5633/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РЕН HD
+http://fr01.spr24.net/200/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РЕН ТВ
+http://fr01.spr24.net/5106/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РЕН ТВ (+2)
+http://fr01.spr24.net/226/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РЕН ТВ (+4)
+http://fr01.spr24.net/357/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РЕН ТВ International
+http://fr01.spr24.net/6712/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНТ HD
+http://fr01.spr24.net/77781/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНТ HD
+http://fr01.spr24.net/301/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНТ
+http://fr01.spr24.net/5001/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНТ (+2)
+http://fr01.spr24.net/353/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНТ4
+http://fr01.spr24.net/364/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНТ International
+http://fr01.spr24.net/5296/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,СТС
+http://fr01.spr24.net/292/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,СТС (+2)
+http://fr01.spr24.net/224/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,СТС (+4)
+http://fr01.spr24.net/354/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,СТС International
+http://fr01.spr24.net/5297/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,СТС Love
+http://fr01.spr24.net/5253/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Супер
+http://fr01.spr24.net/6856/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Пятый Канал
+http://fr01.spr24.net/338/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Пятый Канал (+2)
+http://fr01.spr24.net/285/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Пятый Канал International
+http://fr01.spr24.net/6720/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Телеканал Звезда
+http://fr01.spr24.net/337/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Телеканал Звезда (+4)
+http://fr01.spr24.net/360/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТВЦ
+http://fr01.spr24.net/334/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТВ Центр–International
+http://fr01.spr24.net/6713/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Домашний
+http://fr01.spr24.net/291/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Домашний (+2)
+http://fr01.spr24.net/225/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Домашний (+4)
+http://fr01.spr24.net/359/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Домашний International
+http://fr01.spr24.net/6710/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Че
+http://fr01.spr24.net/363/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Пятница HD
+http://fr01.spr24.net/213/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Пятница
+http://fr01.spr24.net/5300/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Кухня ТВ
+http://fr01.spr24.net/283/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТелеДом HD
+http://fr01.spr24.net/361/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Кто есть кто
+http://fr01.spr24.net/282/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТВ3
+http://fr01.spr24.net/336/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мама
+http://fr01.spr24.net/314/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мир HD
+http://fr01.spr24.net/138/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мир 24
+http://fr01.spr24.net/5129/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Новый мир
+http://fr01.spr24.net/6737/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,12 канал
+http://fr01.spr24.net/6680/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,360°
+http://fr01.spr24.net/6792/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,8 канал
+http://fr01.spr24.net/5288/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Астрахань 24
+http://fr01.spr24.net/6799/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,БСТ
+http://fr01.spr24.net/6657/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Большая Азия
+http://fr01.spr24.net/6452/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Грозный
+http://fr01.spr24.net/5691/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ДОН 24
+http://fr01.spr24.net/6760/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КВН ТВ
+http://fr01.spr24.net/5177/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Крым 24
+http://fr01.spr24.net/5010/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Настоящее время
+http://fr01.spr24.net/5674/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Наше ТВ
+http://fr01.spr24.net/5176/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ОТР
+http://fr01.spr24.net/5501/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Перец International
+http://fr01.spr24.net/6711/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Продвижение
+http://fr01.spr24.net/6759/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Ретро ТВ
+http://fr01.spr24.net/6722/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Санкт-Петербург
+http://fr01.spr24.net/6665/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Сарафан
+http://fr01.spr24.net/5332/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Союз
+http://fr01.spr24.net/5047/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Спас Тв
+http://fr01.spr24.net/5133/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Твой дом
+http://fr01.spr24.net/6810/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Телеканал Театр
+http://fr01.spr24.net/5116/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РГВК Дагестан
+http://fr01.spr24.net/6944/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Телекафе
+http://fr01.spr24.net/5323/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНВ-Планета
+http://fr01.spr24.net/5500/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Успех
+http://fr01.spr24.net/6853/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Югра
+http://fr01.spr24.net/6708/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,RTVi
+http://fr01.spr24.net/5673/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Ю ТВ
+http://fr01.spr24.net/5142/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КРИК-ТВ
+http://fr01.spr24.net/309/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Ностальгия
+http://fr01.spr24.net/313/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Телеканал Звезда (+2)
+http://fr01.spr24.net/366/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Россия-24
+http://fr01.spr24.net/302/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Euronews Россия
+http://fr01.spr24.net/325/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Дождь
+http://fr01.spr24.net/266/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,RT HD
+http://fr01.spr24.net/105/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,RT
+http://fr01.spr24.net/5016/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,RT Док
+http://fr01.spr24.net/214/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Москва 24
+http://fr01.spr24.net/295/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РБК-ТВ
+http://fr01.spr24.net/316/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Время
+http://fr01.spr24.net/5628/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,N/A
+http://fr01.spr24.net/6750/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Первый Метео
+http://fr01.spr24.net/5017/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Discovery Channel
+http://fr01.spr24.net/5180/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Discovery Channel HD
+http://fr01.spr24.net/267/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Discovery HD Showcase
+http://fr01.spr24.net/216/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Discovery Science HD
+http://fr01.spr24.net/303/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Investigation Discovery
+http://fr01.spr24.net/5035/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ID Xtra
+http://fr01.spr24.net/149/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,DTX
+http://fr01.spr24.net/210/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,National Geographic HD
+http://fr01.spr24.net/203/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,National Geographic
+http://fr01.spr24.net/5493/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Nat Geo Wild
+http://fr01.spr24.net/124/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Animal Planet HD
+http://fr01.spr24.net/5285/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Animal Planet HD
+http://fr01.spr24.net/254/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Animal Planet
+http://fr01.spr24.net/5322/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,В мире животных HD
+http://fr01.spr24.net/219/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,HD Life
+http://fr01.spr24.net/202/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Планета HD
+http://fr01.spr24.net/168/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Travel+Adventure HD
+http://fr01.spr24.net/208/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Travel+Adventure HD
+http://fr01.spr24.net/5676/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Приключения HD
+http://fr01.spr24.net/136/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Travel Channel HD
+http://fr01.spr24.net/261/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Глазами Туриста HD
+http://fr01.spr24.net/252/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Russian Travel Guide HD
+http://fr01.spr24.net/125/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,RTG TV
+http://fr01.spr24.net/5233/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,History HD
+http://fr01.spr24.net/259/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,History
+http://fr01.spr24.net/5032/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,H2
+http://fr01.spr24.net/205/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Viasat Nature/History HD
+http://fr01.spr24.net/263/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Viasat Explore
+http://fr01.spr24.net/321/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,DocuBox HD
+http://fr01.spr24.net/332/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Живая Природа
+http://fr01.spr24.net/217/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Живая Планета
+http://fr01.spr24.net/341/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Охотник и рыболов HD
+http://fr01.spr24.net/144/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Охота и Рыбалка
+http://fr01.spr24.net/5257/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Дикая охота HD
+http://fr01.spr24.net/327/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Дикая рыбалка HD
+http://fr01.spr24.net/326/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Диалоги о рыбалке
+http://fr01.spr24.net/6751/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Outdoor Channel
+http://fr01.spr24.net/212/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Glazella HD
+http://fr01.spr24.net/146/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Эврика HD
+http://fr01.spr24.net/145/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Fine Living
+http://fr01.spr24.net/201/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ЕДА Премиум
+http://fr01.spr24.net/137/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Food Network
+http://fr01.spr24.net/5168/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,TLC HD
+http://fr01.spr24.net/260/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,TLC
+http://fr01.spr24.net/5152/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,HD Media
+http://fr01.spr24.net/262/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Авто 24
+http://fr01.spr24.net/315/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Авто Плюс
+http://fr01.spr24.net/279/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Наука 2.0
+http://fr01.spr24.net/308/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,24 Техно
+http://fr01.spr24.net/6811/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Моя Планета
+http://fr01.spr24.net/5327/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,История
+http://fr01.spr24.net/342/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Доктор
+http://fr01.spr24.net/311/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Загородная Жизнь
+http://fr01.spr24.net/345/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ Стиль
+http://fr01.spr24.net/349/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Man TV
+http://fr01.spr24.net/344/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Оружие
+http://fr01.spr24.net/5811/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Сов. Секретно
+http://fr01.spr24.net/296/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,365 дней ТВ
+http://fr01.spr24.net/278/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Бобёр
+http://fr01.spr24.net/5391/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Дикий
+http://fr01.spr24.net/6754/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Домашние Животные
+http://fr01.spr24.net/5452/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Зоопарк
+http://fr01.spr24.net/5270/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,OCEAN-TV
+http://fr01.spr24.net/5139/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Galaxy TV
+http://fr01.spr24.net/6864/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Усадьба ТВ
+http://fr01.spr24.net/6668/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Первый Вегетарианский
+http://fr01.spr24.net/6658/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Психология 21
+http://fr01.spr24.net/5239/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Точка отрыва
+http://fr01.spr24.net/6667/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,English Club TV
+http://fr01.spr24.net/6725/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,CBS Reality
+http://fr01.spr24.net/5102/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Fashion TV
+http://fr01.spr24.net/211/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Морской
+http://fr01.spr24.net/329/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://fr01.spr24.net/209/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://fr01.spr24.net/6004/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОХИТ
+http://fr01.spr24.net/272/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОСЕМЬЯ
+http://fr01.spr24.net/274/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОСЕРИЯ
+http://fr01.spr24.net/286/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://fr01.spr24.net/271/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://fr01.spr24.net/281/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Наше новое кино
+http://fr01.spr24.net/289/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,РОДНОЕ КИНО
+http://fr01.spr24.net/288/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://fr01.spr24.net/331/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,VIP Premiere
+http://fr01.spr24.net/104/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,VIP Megahit
+http://fr01.spr24.net/103/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,VIP Comedy
+http://fr01.spr24.net/102/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,TV1000 Action
+http://fr01.spr24.net/319/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,TV1000
+http://fr01.spr24.net/320/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,TV1000 Русское кино
+http://fr01.spr24.net/318/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,TV1000 Русское кино
+http://fr01.spr24.net/5183/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НСТ
+http://fr01.spr24.net/312/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Кинопремиум HD
+http://fr01.spr24.net/121/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Кинопремиум HD
+http://fr01.spr24.net/5996/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОМИКС
+http://fr01.spr24.net/273/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Остросюжетное HD
+http://fr01.spr24.net/122/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Остросюжетное HD
+http://fr01.spr24.net/5995/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Шокирующее
+http://fr01.spr24.net/119/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Страшное HD
+http://fr01.spr24.net/218/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://fr01.spr24.net/287/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНО ТВ
+http://fr01.spr24.net/147/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Комедийное
+http://fr01.spr24.net/120/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Комедия
+http://fr01.spr24.net/5089/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Наше Крутое HD
+http://fr01.spr24.net/123/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Наш Кинороман
+http://fr01.spr24.net/107/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Русский роман
+http://fr01.spr24.net/142/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КИНОСЕРИЯ
+http://fr01.spr24.net/5472/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Дом Кино Премиум HD
+http://fr01.spr24.net/108/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Дом Кино Премиум HD
+http://fr01.spr24.net/5339/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Дом Кино
+http://fr01.spr24.net/333/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Наше Любимое
+http://fr01.spr24.net/139/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Любимое Кино
+http://fr01.spr24.net/335/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Русский бестселлер
+http://fr01.spr24.net/276/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Русский Иллюзион
+http://fr01.spr24.net/294/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Иллюзион +
+http://fr01.spr24.net/293/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Русский детектив
+http://fr01.spr24.net/277/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Феникс Плюс Кино
+http://fr01.spr24.net/350/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Sony Entertainment Television HD
+http://fr01.spr24.net/140/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Sony Turbo
+http://fr01.spr24.net/227/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,SONY Sci-Fi
+http://fr01.spr24.net/228/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Amedia Hit
+http://fr01.spr24.net/270/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Amedia Premium
+http://fr01.spr24.net/258/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,A1
+http://fr01.spr24.net/268/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,A2
+http://fr01.spr24.net/269/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,FOX HD
+http://fr01.spr24.net/101/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Fox Russia
+http://fr01.spr24.net/5266/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Fox Life HD
+http://fr01.spr24.net/207/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Fox Life HD
+http://fr01.spr24.net/6857/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Fox Life
+http://fr01.spr24.net/5668/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Paramount Comedy Russia
+http://fr01.spr24.net/220/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Paramount Channel HD
+http://fr01.spr24.net/221/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Paramount channel
+http://fr01.spr24.net/5158/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Bollywood HD
+http://fr01.spr24.net/251/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Hollywood HD
+http://fr01.spr24.net/127/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Hollywood
+http://fr01.spr24.net/5511/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,TV XXI
+http://fr01.spr24.net/310/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Еврокино
+http://fr01.spr24.net/275/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ-ХИТ
+http://fr01.spr24.net/328/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ Право
+http://fr01.spr24.net/348/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,НТВ Сериал
+http://fr01.spr24.net/347/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мир Сериала
+http://fr01.spr24.net/5264/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,FilmBox
+http://fr01.spr24.net/6888/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Filmbox Arthouse
+http://fr01.spr24.net/6887/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Spike Russia
+http://fr01.spr24.net/6758/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ZEE TV
+http://fr01.spr24.net/5596/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Boomerang
+http://fr01.spr24.net/306/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Тлум HD
+http://fr01.spr24.net/141/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мультик HD
+http://fr01.spr24.net/222/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мультимузыка
+http://fr01.spr24.net/340/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мульт
+http://fr01.spr24.net/5161/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Малыш
+http://fr01.spr24.net/6752/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Рыжий
+http://fr01.spr24.net/6867/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Детский
+http://fr01.spr24.net/5275/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Детский мир
+http://fr01.spr24.net/5276/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Карусель
+http://fr01.spr24.net/339/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Мультимания
+http://fr01.spr24.net/304/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Tiji TV
+http://fr01.spr24.net/299/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,В гостях у сказки
+http://fr01.spr24.net/330/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,СТС Kids HD
+http://fr01.spr24.net/362/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Gulli Girl
+http://fr01.spr24.net/300/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Cartoon Network
+http://fr01.spr24.net/6859/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Disney
+http://fr01.spr24.net/307/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Ani
+http://fr01.spr24.net/343/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Nickelodeon HD
+http://fr01.spr24.net/135/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Nickelodeon
+http://fr01.spr24.net/5341/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Nick Jr.
+http://fr01.spr24.net/5494/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Jim Jam
+http://fr01.spr24.net/5342/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,2x2
+http://fr01.spr24.net/5245/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,O!
+http://fr01.spr24.net/5315/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Ginger HD
+http://fr01.spr24.net/148/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Da Vinci Kids
+http://fr01.spr24.net/317/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,1HD
+http://fr01.spr24.net/256/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ТНТ MUSIC
+http://fr01.spr24.net/365/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Музыка
+http://fr01.spr24.net/5491/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Europa Plus TV
+http://fr01.spr24.net/280/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,BRIDGE HD
+http://fr01.spr24.net/297/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://fr01.spr24.net/298/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Bridge TV
+http://fr01.spr24.net/5283/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Bridge TV Classic
+http://fr01.spr24.net/6861/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,BRIDGE TV DANCE
+http://fr01.spr24.net/5662/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,N/A
+http://fr01.spr24.net/5664/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,iConcerts
+http://fr01.spr24.net/126/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,MTV
+http://fr01.spr24.net/5490/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,MTV Dance
+http://fr01.spr24.net/5630/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,MTV Hits
+http://fr01.spr24.net/5162/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,MTV Rocks
+http://fr01.spr24.net/5631/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,MTV Live HD
+http://fr01.spr24.net/134/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Ля-минор
+http://fr01.spr24.net/284/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,МУЗ
+http://fr01.spr24.net/324/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,C Music TV
+http://fr01.spr24.net/257/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Шансон ТВ
+http://fr01.spr24.net/5247/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,MCM Top
+http://fr01.spr24.net/5268/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Vostok TV
+http://fr01.spr24.net/5489/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ЖАРА
+http://fr01.spr24.net/5483/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,ACB TV
+http://fr01.spr24.net/6809/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 1 HD
+http://fr01.spr24.net/130/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 1 HD
+http://fr01.spr24.net/6661/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 1
+http://fr01.spr24.net/5462/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 2 HD
+http://fr01.spr24.net/131/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 2 HD
+http://fr01.spr24.net/6662/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 2
+http://fr01.spr24.net/5463/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 3 HD
+http://fr01.spr24.net/132/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 3 HD
+http://fr01.spr24.net/6724/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Футбол 3
+http://fr01.spr24.net/5464/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Футбол
+http://fr01.spr24.net/5249/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Игра
+http://fr01.spr24.net/215/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Игра
+http://fr01.spr24.net/5282/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! HD
+http://fr01.spr24.net/255/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,МАТЧ! Боец
+http://fr01.spr24.net/230/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://fr01.spr24.net/133/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://fr01.spr24.net/5261/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Арена HD
+http://fr01.spr24.net/204/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Арена
+http://fr01.spr24.net/5252/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Страна
+http://fr01.spr24.net/229/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч ТВ
+http://fr01.spr24.net/5027/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Матч! Планета
+http://fr01.spr24.net/6062/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,M-1 Global TV
+http://fr01.spr24.net/5829/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Viasat Sport HD
+http://fr01.spr24.net/5244/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Viasat Sport
+http://fr01.spr24.net/106/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Eurosport
+http://fr01.spr24.net/264/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Eurosport 2 HD
+http://fr01.spr24.net/265/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Eurosport 2 HD
+http://fr01.spr24.net/5124/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Бокс ТВ
+http://fr01.spr24.net/346/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,SETANTA SPORTS+ HD
+http://fr01.spr24.net/934/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,SETANTA SPORTS HD
+http://fr01.spr24.net/933/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КХЛ HD
+http://fr01.spr24.net/5262/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КХЛ HD
+http://fr01.spr24.net/206/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,КХЛ
+http://fr01.spr24.net/5154/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Конный Мир
+http://fr01.spr24.net/150/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Конный мир HD
+http://fr01.spr24.net/5689/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Extreme Sports
+http://fr01.spr24.net/5242/index.m3u8?token=LZ23intpx7wuVY
+#EXTINF:-1,Русский Экстрим
+http://fr01.spr24.net/143/index.m3u8?token=LZ23intpx7wuVY
