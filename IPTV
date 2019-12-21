@@ -1,4 +1,564 @@
 #EXTM3U
+#EXTINF:0,Матч ТВ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_c1460d.acelive&.mp4
+#EXTINF:0,Матч ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fb9b11.acelive&.mp4
+#EXTINF:0,Сетанта Спорт+ HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive
+#EXTINF:0,Матч! Игра
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7d37d2.acelive&.mp4
+#EXTINF:0,Матч! Наш Спорт
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2569b1.acelive&.mp4
+#EXTINF:0,Матч! Игра
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_71b505.acelive&.mp4
+#EXTINF:0,MotorSport
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3116df.acelive&.mp4
+#EXTINF:0,TVPlay Sports Plus HD hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
+#EXTINF:0,Бокс ТВ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_71860b.acelive&.mp4
+#EXTINF:0,КХЛ HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8a42ad.acelive&.mp4
+#EXTINF:0,Матч! Арена
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_3290e3.acelive&.mp4
+#EXTINF:0,Матч! Боец
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_ce6518.acelive&.mp4
+#EXTINF:0,Матч! Футбол 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_5749f7.acelive&.mp4
+#EXTINF:0,Матч! Футбол 2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_b28a36.acelive&.mp4
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ae0547.acelive&.mp4
+#EXTINF:0,Матч! Футбол 3
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_3b9b54.acelive&.mp4
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41d8a4.acelive&.mp4
+#EXTINF:0,BTV
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50cf87.acelive&.mp4
+#EXTINF:0,BTV hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:0,LNK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8fe6e8.acelive&.mp4
+#EXTINF:0,LNK hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:0,LRT HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
+#EXTINF:0,LRT hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/lrt_televizija/index.m3u8
+#EXTINF:0,LRT Plius hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/lrt_kultura/index.m3u8
+#EXTINF:0,TV1 hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:0,TV3
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_24e09d.acelive&.mp4
+#EXTINF:0,TV3 hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:0,TV6 hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:0,TV8 hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:0,TVPlay Sports hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:0,A Home Of HBO
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c9cabb.acelive&.mp4
+#EXTINF:0,A Home Of HBO 2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_de66c9.acelive&.mp4
+#EXTINF:0,Amedia 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ee54c6.acelive&.mp4
+#EXTINF:0,Cinema
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4c3b6a.acelive&.mp4
+#EXTINF:0,Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d92f4d.acelive&.mp4
+#EXTINF:0,Paramount Comedy Россия
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_eb423b.acelive&.mp4
+#EXTINF:0,TV XXI
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8b7038.acelive&.mp4
+#EXTINF:0,TV1000 Action
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7f50df.acelive&.mp4
+#EXTINF:0,TV1000 Action
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_450bdd.acelive&.mp4
+#EXTINF:0,TV1000 Русское кино
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_487cf4.acelive&.mp4
+#EXTINF:0,TV1000
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1aca6f.acelive&.mp4
+#EXTINF:0,TV1000
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_623e9d.acelive&.mp4
+#EXTINF:0,TV1000 Premium HD hls
+#EXTVLCOPT:network-caching=1000
+http://212.12.194.10/tv1000prem/live.m3u8
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_73a907.acelive&.mp4
+#EXTINF:0,ViP Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0001ba.acelive&.mp4
+#EXTINF:0,ViP Megahit HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8cd830.acelive&.mp4
+#EXTINF:0,ViP Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_68f82e.acelive&.mp4
+#EXTINF:0,ViP Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/manifest.m3u8?id=844466e115fe5dc0a9dfe5abc59ab14ccf1dd547&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:0,Дом кино
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cf195d.acelive&.mp4
+#EXTINF:0,Дом Кино Премиум HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d9ca27.acelive&.mp4
+#EXTINF:0,Кино ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cbd839.acelive&.mp4
+#EXTINF:0,Киномикс
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_14840c.acelive&.mp4
+#EXTINF:0,Кинопоказ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f41eed.acelive&.mp4
+#EXTINF:0,Кинопоказ HD1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c94e1.acelive&.mp4
+#EXTINF:0,Киносвидание
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3484cd.acelive&.mp4
+#EXTINF:0,Киносемья
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_616e49.acelive&.mp4
+#EXTINF:0,Кинохит
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c6c693.acelive&.mp4
+#EXTINF:0,Мужское кино
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_03ceff.acelive&.mp4
+#EXTINF:0,Наш Детектив HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ff66cf.acelive&.mp4
+#EXTINF:0,Наш Кинороман HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0a0aab.acelive&.mp4
+#EXTINF:0,Наше новое кино
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6e0c81.acelive&.mp4
+#EXTINF:0,Остросюжетное HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41ce89.acelive&.mp4
+#EXTINF:0,Родное кино
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_25204b.acelive&.mp4
+#EXTINF:0,Русская комедия
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_be2f8a.acelive&.mp4
+#EXTINF:0,Русский бестселлер
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_515ad4.acelive&.mp4
+#EXTINF:0,Русский детектив
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_06b3ec.acelive&.mp4
+#EXTINF:0,Русский иллюзион
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0698e6.acelive&.mp4
+#EXTINF:0,2+2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9b3c9e.acelive&.mp4
+#EXTINF:0,2х2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_aa06c5.acelive&.mp4
+#EXTINF:0,2х2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a4eef2.acelive&.mp4
+#EXTINF:0,Fox
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_989654.acelive&.mp4
+#EXTINF:0,Fox Life
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b7ccd3.acelive&.mp4
+#EXTINF:0,Sony
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_910a3c.acelive&.mp4
+#EXTINF:0,ViP Serial HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6900f5.acelive&.mp4
+#EXTINF:0,Bridge HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41505f.acelive&.mp4
+#EXTINF:0,Bridge TV
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4a584f.acelive&.mp4
+#EXTINF:0,Europa Plus TV
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_38be4c.acelive&.mp4
+#EXTINF:0,M1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2727e0.acelive&.mp4
+#EXTINF:0,MTV Dance
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_aba682.acelive&.mp4
+#EXTINF:0,MTV Rocks
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f53aa2.acelive&.mp4
+#EXTINF:0,MTV Russia
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_87d381.acelive&.mp4
+#EXTINF:0,Music Box UA
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d1ba62.acelive&.mp4
+#EXTINF:0,VH1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c0cb9.acelive&.mp4
+#EXTINF:0,VH1 Classic
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_04ca63.acelive&.mp4
+#EXTINF:0,Музыка Первого
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0f7fbd.acelive&.mp4
+#EXTINF:0,Ностальгия
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6209d1.acelive&.mp4
+#EXTINF:0,Шансон-TB
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bb3790.acelive&.mp4
+#EXTINF:0,Шансон-TB
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c81615.acelive&.mp4
+#EXTINF:0,Техно 24
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8ce3be.acelive&.mp4
+#EXTINF:0,365 Дней
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_952b4d.acelive&.mp4
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_007df4.acelive&.mp4
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_14a6de.acelive&.mp4
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c3981a.acelive&.mp4
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_af3bb6.acelive&.mp4
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d36e29.acelive&.mp4
+#EXTINF:0,Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cbe522.acelive&.mp4
+#EXTINF:0,DTX
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c4a6b3.acelive&.mp4
+#EXTINF:0,Eureka HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41ae49.acelive&.mp4
+#EXTINF:0,Fashion TV
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_090edf.acelive&.mp4
+#EXTINF:0,Fine Living
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b4464e.acelive&.mp4
+#EXTINF:0,HD-Life
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_961623.acelive&.mp4
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ca97a4.acelive&.mp4
+#EXTINF:0,National Geographic
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_b0915f.acelive&.mp4
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d203c1.acelive&.mp4
+#EXTINF:0,Outdoor Channel HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1dd1cf.acelive&.mp4
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d5467a.acelive&.mp4
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6a9025.acelive&.mp4
+#EXTINF:0,Travel+Adventure HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_47bc8f.acelive&.mp4
+#EXTINF:0,Travel Channel HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3afbcb.acelive&.mp4
+#EXTINF:0,Viasat Explore
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ebb429.acelive&.mp4
+#EXTINF:0,Viasat History
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c4767d.acelive&.mp4
+#EXTINF:0,Viasat Nature/History HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1f9448.acelive&.mp4
+#EXTINF:0,Авто 24
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d36bfe.acelive&.mp4
+#EXTINF:0,Авто Плюс
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_44473e.acelive&.mp4
+#EXTINF:0,Бобер
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_af4b54.acelive&.mp4
+#EXTINF:0,В мире животных HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_91e992.acelive&.mp4
+#EXTINF:0,Доктор
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_655506.acelive&.mp4
+#EXTINF:0,Доктор
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_634ebe.acelive&.mp4
+#EXTINF:0,Доктор
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7072ff.acelive&.mp4
+#EXTINF:0,Еда HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cd8c06.acelive&.mp4
+#EXTINF:0,Живая Планета
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b79254.acelive&.mp4
+#EXTINF:0,Живая природа HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_022812.acelive&.mp4
+#EXTINF:0,Зоо ТВ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_76eebd.acelive&.mp4
+#EXTINF:0,Наука
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_53601c.acelive&.mp4
+#EXTINF:0,Наука 2.0
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ab2dc9.acelive&.mp4
+#EXTINF:0,Оружие
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_dd8b2c.acelive&.mp4
+#EXTINF:0,Охота и рыбалка
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_761424.acelive&.mp4
+#EXTINF:0,Охотник и рыболов HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_98c67f.acelive&.mp4
+#EXTINF:0,Планета HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_49b7d4.acelive&.mp4
+#EXTINF:0,Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5c3299.acelive&.mp4
+#EXTINF:0,Eurosport Gold
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bcf53c.acelive&.mp4
+#EXTINF:0,Футбол
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e48b61.acelive&.mp4
+#EXTINF:0,Viasat Sport HD hls
+#EXTVLCOPT:network-caching=1000
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:0,Ani
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_6245c8.acelive&.mp4
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_873ea4.acelive&.mp4
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_082956.acelive&.mp4
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b09f7d.acelive&.mp4
+#EXTINF:0,Kidzone hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/kidzone/index.m3u8
+#EXTINF:0,Kidzone hls
+#EXTVLCOPT:network-caching=1000
+http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
+#EXTINF:0,Kidzone+ HD hls
+#EXTVLCOPT:network-caching=1000
+http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cdeaf9.acelive&.mp4
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1c19a1.acelive&.mp4
+#EXTINF:0,Pingvinukas hls
+#EXTVLCOPT:network-caching=1000
+http://82.193.71.93:8080/LoLoLt/mono.m3u8
+#EXTINF:0, TiJi
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_79db44.acelive&.mp4
+#EXTINF:0,В гостях у сказки
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_991665.acelive&.mp4
+#EXTINF:0,Карусель
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e3af9f.acelive&.mp4
+#EXTINF:0,Nickelodeon hls
+#EXTVLCOPT:network-caching=1000
+http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:0,Беларусь 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_53a0b7.acelive&.mp4
+#EXTINF:0,Мир
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_57f0f3.acelive&.mp4
+#EXTINF:0,Мир
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e557ba.acelive&.mp4
+#EXTINF:0,Москва-24
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4de8b8.acelive&.mp4
+#EXTINF:0,НТВ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d85e30.acelive&.mp4
+#EXTINF:0,НТВ HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b90e5e.acelive&.mp4
+#EXTINF:0,НТВ Мир
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b98b98.acelive&.mp4
+#EXTINF:0,Первый канал
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_00e667.acelive&.mp4
+#EXTINF:0,Первый канал HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ee3ce944fa3a5f49428240d363ffc368454c6b72&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=0
+#EXTINF:0,Пятница
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f4733b.acelive&.mp4
+#EXTINF:0,Пятница
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_404cf7.acelive&.mp4
+#EXTINF:0,Рен ТВ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d09839.acelive&.mp4
+#EXTINF:0,Рен ТВ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_df1bc5.acelive&.mp4
+#EXTINF:0,Россия 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_80ca63.acelive&.mp4
+#EXTINF:0,Россия 1 HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0e43a6.acelive&.mp4
+#EXTINF:0,Россия 1 HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_618210.acelive&.mp4
+#EXTINF:0,Россия 24
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f29779.acelive&.mp4
+#EXTINF:0,Россия 24
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_ee7edb.acelive&.mp4
+#EXTINF:0,СТБ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_540c7e.acelive&.mp4
+#EXTINF:0,СТС
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_107e99.acelive&.mp4
+#EXTINF:0,СТС Love
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0a217f.acelive&.mp4
+#EXTINF:0,СТС Love
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_baabf0.acelive&.mp4
+#EXTINF:0,СТС Love
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9bcf8d.acelive&.mp4
+#EXTINF:0,ТНТ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_47784d.acelive&.mp4
+#EXTINF:0,ТНТ
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_11dee0.acelive&.mp4
+#EXTINF:0,ТНТ +2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1dda5a.acelive&.mp4
+#EXTINF:0,ТНТ +3
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29e147.acelive&.mp4
+#EXTINF:0,ТНТ-International (Беларусь)
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29e147.acelive&.mp4
+#EXTINF:0,ТНТ4
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9767d7.acelive&.mp4
+#EXTINF:0,ТНТ4
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_c6dd9e.acelive&.mp4
+#EXTINF:0,Звезда
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_2c3c73.acelive&.mp4
+#EXTINF:0,BBC World News
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6e320c.acelive&.mp4
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_13a6d6.acelive&.mp4
+#EXTINF:0,Deutsche Welle Deutsch
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2a22eb.acelive&.mp4
+#EXTINF:0,EuroNews
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9cf2dc.acelive&.mp4
+#EXTINF:0,РБК
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d08286.acelive&.mp4
+#EXTINF:0,РБК
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_66ea29.acelive&.mp4
+#EXTINF:0,Russia Today
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6f397c.acelive&.mp4
+#EXTINF:0,Russia Today
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_426547.acelive&.mp4
+#EXTINF:0,Russia Today HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4477e3.acelive&.mp4
 #EXTINF:0,LRT Televizija HD
 http://88.216.48.147/flussonic/LRT_Televizija_HD/video.m3u8
 #EXTINF:0,šiauliu televizija
