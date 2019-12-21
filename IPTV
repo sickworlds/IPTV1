@@ -1280,3 +1280,378 @@ http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-l
 #EXTINF:0,Russia Today HD
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4477e3.acelive&.mp4
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="http://www.lrta.eu/images/article/btv_logo.jpg",BTV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50cf87.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="http://www.lrta.eu/images/article/btv_logo.jpg",BTV hls
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8fe6e8.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK hls
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv-hls" tvg-logo="http://res.lt/wp-content/uploads/2017/08/lrt-300x169.jpg",LRT hls
+http://88.216.8.122:8080/lrt_televizija/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-plius-hls" tvg-logo="http://res.lt/wp-content/uploads/2015/11/LRT_PLIUS_sviesiame-fone-300x300.png",LRT Plius hls
+http://88.216.8.122:8080/lrt_kultura/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1.png",TV1 hls
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_24e09d.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 hls
+http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6 hls
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv8-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TV8_logo_for_Sweden_and_Lithuania.png/150px-TV8_logo_for_Sweden_and_Lithuania.png",TV8 hls
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tvplay-sports" tvg-logo="http://i1.tiesraides.lv/1200x0s/pictures/2018-08-10/2018-08-10_sports_full_color.jpg",TVPlay Sports hls
+http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="amedia-hit" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/hbo_grey_195.jpg",A Home Of HBO
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c9cabb.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="amedia-premium" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/hbo-2-en-vivo-205x205.png",A Home Of HBO 2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_de66c9.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="amedia1" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/70071_logo_amedia_1_1.png",Amedia 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ee54c6.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="cinema-ru" tvg-logo="https://iptvx.one/icn/cinema.png",Cinema
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4c3b6a.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="paramount-channel" tvg-logo="https://www.geekoo.it/wp-content/uploads/2016/03/canale-27-streaming.jpg",Paramount Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d92f4d.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="paramount-comedy" tvg-logo="https://pbs.twimg.com/profile_images/469810571454320641/f0lhUSCD_400x400.jpeg",Paramount Comedy Россия
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_eb423b.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tvxxi" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv-xxi.png",TV XXI
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8b7038.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-action" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000-action.png",TV1000 Action
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7f50df.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-action" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000-action.png",TV1000 Action
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_450bdd.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-russkoe-kino" tvg-logo="https://kredit-onlajn.site/pics/e9548bb977c92ea816c2b19662b4ee61.png",TV1000 Русское кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_487cf4.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000.png",TV1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1aca6f.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000.png",TV1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_623e9d.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-premium" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000-premium-1.png",TV1000 Premium HD hls
+http://212.12.194.10/tv1000prem/live.m3u8
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_73a907.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-comedy" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-vip-comedy.png",ViP Comedy HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0001ba.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-megahit" tvg-logo="http://www.frocus.net/images/logotv/original/vip-megahit.jpg",ViP Megahit HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8cd830.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-premiere" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/vip_premiere_195.jpg",ViP Premiere HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_68f82e.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-premiere" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/vip_premiere_195.jpg",ViP Premiere HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=844466e115fe5dc0a9dfe5abc59ab14ccf1dd547&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Filmai" tvg-id="domkino" tvg-logo="http://i.otzovik.com/objects/b/630000/620840.png",Дом кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cf195d.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="domkino-premium" tvg-logo="https://iptvx.one/icn/dom-kino-premium.png",Дом Кино Премиум HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d9ca27.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kino-tv" tvg-logo="https://s3.vcdn.biz/static/f/1382983311/image.jpg/pt/r300x423",Кино ТВ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cbd839.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinomiks" tvg-logo="http://newsrbk.ru/images/channels/1392.png",Киномикс
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_14840c.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinopokaz" tvg-logo="https://dantser.ru/wp-content/uploads/2018/05/Kinopokaz-2x-1.png",Кинопоказ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f41eed.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinopokaz-hd1" tvg-logo="http://www.oreol.tv/template/img2/logo_kino1.png",Кинопоказ HD1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c94e1.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinosvidanie" tvg-logo="https://www.red-media.ru/wp-content/uploads/2016/08/KINOSVIDANIE-3.png",Киносвидание
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3484cd.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinosemiya" tvg-logo="https://www.red-media.ru/wp-content/uploads/2016/08/KINOSVIDANIE-3.png",Киносемья
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_616e49.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinoxit" tvg-logo="http://xittv.net/img/can/116.png",Кинохит
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c6c693.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="muzhskoe-kino" tvg-logo="http://xittv.net/img/can/100.png",Мужское кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_03ceff.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="nash-detektiv" tvg-logo="http://xittv.net/img/can/83.png",Наш Детектив HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ff66cf.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="nash-kinoroman" tvg-logo="http://xittv.net/img/can/84.png",Наш Кинороман HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0a0aab.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="nashe-lubimoe" tvg-logo="http://xittv.net/img/can/113.png",Наше новое кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6e0c81.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://www.cableman.ru/sites/default/files/ostrosyuzhetnoe_0.png",Остросюжетное HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41ce89.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="rodnoe-kino" tvg-logo="http://xittv.net/img/can/91.png",Родное кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_25204b.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russkaya-komedia" tvg-logo="https://satsis.info/uploads/posts/2015-10/1446134142_www.satsis.info__komediya.jpg",Русская комедия
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_be2f8a.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russky-bestseller" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/80.png",Русский бестселлер
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_515ad4.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russky-detektiv" tvg-logo="https://ct-itv01.svc.iptv.rt.ru/sdp/ct/nclogo1547077931444.png",Русский детектив
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_06b3ec.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russky-illuzion" tvg-logo="http://xn--j1adfnc.xn-----6kcabofibag8dqarfelguc4ag84a.xn--p1ai/logo/360.gif",Русский иллюзион
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0698e6.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="2plus2" tvg-logo="https://mediananny.com/content/images_new/news/original/157492.jpg",2+2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9b3c9e.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="2na2" tvg-logo="https://i1.sndcdn.com/avatars-000126685382-d6uc5t-t500x500.jpg",2х2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_aa06c5.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="2na2" tvg-logo="https://i1.sndcdn.com/avatars-000126685382-d6uc5t-t500x500.jpg",2х2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a4eef2.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="fox" tvg-logo="https://i.pinimg.com/originals/38/c2/7a/38c27a27bd90ada2df68bf0fc921e376.jpg",Fox
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_989654.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="foxlife" tvg-logo="https://dash.mediaupdate.co.za/story/image/142643/142643.jpg",Fox Life
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b7ccd3.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="sony-tv" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/11/Sony-Channel-210x225.jpg",Sony
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_910a3c.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="vip-serial" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/vipserial_195.jpg",ViP Serial HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6900f5.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="bridge-hd" tvg-logo="https://bridgemedia.ru/slir/w720-h466-c720x466/s/uploads/tv_docs/bridgetv-1513259329.jpg",Bridge HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41505f.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="bridge-tv" tvg-logo="https://pbs.twimg.com/profile_images/545914867312373760/EYiqi-qY_400x400.jpeg",Bridge TV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4a584f.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="europa-plus-tv" tvg-logo="http://s3.vefire.ru/l/250x150/ru/EuropaPlusTV.png",Europa Plus TV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_38be4c.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="m1-ua" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg",M1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2727e0.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-dance" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png",MTV Dance
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_aba682.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MTV_Rocks.svg/200px-MTV_Rocks.svg.png",MTV Rocks
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f53aa2.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-russia" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/10/MTV-Russia-300x225.png",MTV Russia
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_87d381.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="musicbox-ua-hd" tvg-logo="https://static.wirtualnemedia.pl/media/top/MusicBoxUA-655.png",Music Box UA
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d1ba62.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="vh1-european" tvg-logo="http://www.overtheairdigitaltv.com/wp-content/uploads/2015/07/vh1.png",VH1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c0cb9.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="vh1-classic" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032018/untitled-1_731.png",VH1 Classic
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_04ca63.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="muzyka-pervogo" tvg-logo="http://www.onlineisrael.ru/images/MUZ_logo_color.jpg",Музыка Первого
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0f7fbd.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="nostalgia" tvg-logo="http://s.glaz.tv/images/logos/tv/big/nostalgiya.jpg",Ностальгия
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6209d1.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="shanson-tv" tvg-logo="https://shanson.tv/image/logo_160120.png",Шансон-TB
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bb3790.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="shanson-tv" tvg-logo="https://shanson.tv/image/logo_160120.png",Шансон-TB
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c81615.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="texno-24" tvg-logo="http://sintez66.com/TVLogos/BulsatColor/24_techno.png",Техно 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8ce3be.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="365-dnej" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/archive/e/e6/20090904141342%21365days.jpg",365 Дней
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_952b4d.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="animal-planet" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-animal-planet-hd-spot.png",Animal Planet HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_007df4.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="https://pbs.twimg.com/profile_images/894385274200784896/4zKTfLUO_400x400.jpg",Discovery Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_14a6de.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="https://pbs.twimg.com/profile_images/894385274200784896/4zKTfLUO_400x400.jpg",Discovery Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c3981a.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="http://content.osn.com/bob/745x419/DSC.jpg",Discovery Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_af3bb6.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="http://content.osn.com/bob/745x419/DSC.jpg",Discovery Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d36e29.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-science" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-discovery-science-hd-spot.png",Discovery Science HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cbe522.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="dtx" tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/09/dtx-640x347-640x347.jpg",DTX
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c4a6b3.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="eureka-hd" tvg-logo="https://neplpadome.lv/lv/assets/images/Programmu%20logo/eu_eureka_HD.png",Eureka HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41ae49.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="fashion-tv" tvg-logo="http://www.goldnews.com.cy/assets/image/imagebig/fashion1.jpg",Fashion TV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_090edf.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="fine-living" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fine-living.png",Fine Living
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b4464e.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="hd-life" tvg-logo="https://cdn.red-media.ru/wp-content/themes/hdlife/images/logo.png",HD-Life
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_961623.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="history" tvg-logo="http://tvmegasite.net:8080/images/primetime/promo/discovery/axmen/historylogo.JPG",History
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ca97a4.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="national-geographic" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/national-geographic-channel-logo-featured.jpg",National Geographic
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_b0915f.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="nat-geo-wild" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png",Nat Geo Wild HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d203c1.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="outdoor-channel" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2011/05/Outdoor-Channel.jpg",Outdoor Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1dd1cf.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc" tvg-logo="https://www.novinite.com/media/images/2010-10/photo_verybig_120677.jpg",TLC
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d5467a.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc" tvg-logo="https://www.novinite.com/media/images/2010-10/photo_verybig_120677.jpg",TLC
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6a9025.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="travel-adventure" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/Travel-Adventure-HD.jpg",Travel+Adventure HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_47bc8f.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="travel-channel" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.travel/icon/icon.png",Travel Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3afbcb.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-explore" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/097f1cc52d19f38b2092_256x256c.png",Viasat Explore
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ebb429.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-history" tvg-logo="http://tvzpravodaj.mnoho.info/userFiles/loga/n/viasath.jpg",Viasat History
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c4767d.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-nature-history-hd" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/261.png",Viasat Nature/History HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1f9448.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="avto24" tvg-logo="http://satgold.net/sites/default/files/field/image/Avto24.png",Авто 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d36bfe.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="avto-plus" tvg-logo="http://www.vsetv.com/pic/news/9663_1.jpg",Авто Плюс
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_44473e.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="bobior" tvg-logo="http://xittv.net/img/can/103.png",Бобер
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_af4b54.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/v_mire_jivotnyh_195.jpg",В мире животных HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_91e992.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="doktor" tvg-logo="http://tricolor.x-tk.ru/images/ranks2/tricolor_getbb_org/kanal-doktor.JPG",Доктор
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_655506.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="doktor" tvg-logo="http://tricolor.x-tk.ru/images/ranks2/tricolor_getbb_org/kanal-doktor.JPG",Доктор
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_634ebe.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="doktor" tvg-logo="http://tricolor.x-tk.ru/images/ranks2/tricolor_getbb_org/kanal-doktor.JPG",Доктор
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7072ff.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="eda-hd" tvg-logo="https://www.cableman.ru/sites/default/files/logo_premium_0.jpg",Еда HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cd8c06.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="zhivaya-planeta" tvg-logo="https://kartina.tv/media/news/images/zhivplan.jpg",Живая Планета
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b79254.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="zhivaya-priroda" tvg-logo="https://s3.vcdn.biz/static/f/1413611751/image.jpg",Живая природа HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_022812.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="zoo-tv" tvg-logo="http://viks.tv/uploads/posts/2018-12/1545165381_zoo_tv.png",Зоо ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_76eebd.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="nauka" tvg-logo="https://volia.com/user/img/pr/2016/04/nauka.jpg",Наука
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_53601c.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="nauka-20" tvg-logo="https://tvfeed.in/cache/f1/c5/f1c52e72ea1ae38abce76ab28d633073.jpg",Наука 2.0
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ab2dc9.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="oruzhie" tvg-logo="http://xittv.net/img/can/20.png",Оружие
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_dd8b2c.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="oxota-i-rybalka" tvg-logo="https://yt3.ggpht.com/-DhWhDVUU0NI/AAAAAAAAAAI/AAAAAAAAAAA/7U51pBFAbmo/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",Охота и рыбалка
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_761424.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/o_i_r_hd_195.jpg",Охотник и рыболов HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_98c67f.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="planeta-hd" tvg-logo="https://s5.vcdn.biz/static/f/709092221/image.jpg",Планета HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_49b7d4.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="eurosport1" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/559815_logo_eurosport_1.png",Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5c3299.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="eurosport-gold" tvg-logo="http://sat-world.net/uploads/posts/2017-10/1507354863_36821.jpg",Eurosport Gold
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bcf53c.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="motorsporttv" tvg-logo="https://motorsport.tv/noimage.png",MotorSport
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3116df.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="tvplay-sports-plus" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/10/logo-tvplay-sports-plus-hd-spot.png",TVPlay Sports Plus HD hls
+http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
+#EXTINF:-1 group-title="Sportas" tvg-id="box-tv" tvg-logo="https://www.red-media.ru/wp-content/uploads/2018/12/Boks-TV.png",Бокс ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_71860b.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="kxl-hd" tvg-logo="https://satsis.info/uploads/posts/2012-11/1352017325_www.satsis.info_36_khl_hd_2_.jpg",КХЛ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8a42ad.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-arena" tvg-logo="http://www.oreol.tv/img/Arena_HD.jpg",Матч! Арена
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_3290e3.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://sat-world.net/uploads/posts/2016-05/1464359167_14617.jpg",Матч! Боец
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_ce6518.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://img.rnx.ru/logotvchannel/107.jpg",Матч! Футбол 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_5749f7.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://www.oreol.tv/img/Fut_2_HD.jpg",Матч! Футбол 2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_b28a36.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://www.oreol.tv/img/Fut_2_HD.jpg",Матч! Футбол 2 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ae0547.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://ufa-news.net/img/20170516/736d988a1ca30f70d286cadd4afeb361.jpg",Матч! Футбол 3
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_3b9b54.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://ufa-news.net/img/20170516/736d988a1ca30f70d286cadd4afeb361.jpg",Матч! Футбол 3 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41d8a4.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-igra" tvg-logo="http://www.oreol.tv/img/Igra_HD.jpg",Матч! Игра
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_71b505.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-igra" tvg-logo="http://www.oreol.tv/img/Igra_HD.jpg",Матч! Игра
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7d37d2.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-nash-sport" tvg-logo="https://divan.tv/img/global_img/channel_website/ua_642.png",Матч! Наш Спорт
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2569b1.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-tv" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/3.png",Матч ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_c1460d.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-tv" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/3.png",Матч ТВ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fb9b11.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="setanta-sports-plus" tvg-logo="http://tuchkatvsport.com/uploads/posts/2016-09/1474027801_43setanta-plus.png",Сетанта Спорт+ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f2e3bd.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="football-ru" tvg-logo="https://liveam.tv/img/futbol.jpg",Футбол
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e48b61.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="viasat-sport" tvg-logo="http://www.viasatworld.com/media/1070/sportlogo.png",Viasat Sport HD hls
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="ani" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ani_195.jpg",Ani
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_6245c8.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="cartoon-network" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/50/49072/thumb/58afde11/1280px-Cartoon_Network_1992_logo-svg.png",Cartoon Network
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_873ea4.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="cartoon-network" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/50/49072/thumb/58afde11/1280px-Cartoon_Network_1992_logo-svg.png",Cartoon Network
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_082956.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="disney" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/disney_channel_0.png",Disney Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b09f7d.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="kidzone" tvg-logo="https://straume.mstatic.lv/mlmt/images/straume_channel_logos/kidzone-tv-800x600.jpg",Kidzone hls
+http://88.216.8.122:8080/kidzone/index.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="kidzone" tvg-logo="https://straume.mstatic.lv/mlmt/images/straume_channel_logos/kidzone-tv-800x600.jpg",Kidzone hls
+http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="kidzone-plus" tvg-logo="https://iptvx.one/icn/kidzone-plus.png",Kidzone+ HD hls
+http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="nickelodeon-ru" tvg-logo="http://res.lt/wp-content/uploads/2018/01/NICKELODEON_RGB-300x43.jpg",Nickelodeon
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cdeaf9.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="nickelodeon-hd" tvg-logo="http://res.lt/wp-content/uploads/2018/01/NICKELODEON_RGB-300x43.jpg",Nickelodeon HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1c19a1.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="pingvinukas" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-pingviniukas.png",Pingvinukas hls
+http://82.193.71.93:8080/LoLoLt/mono.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="tiji" tvg-logo="https://4.bp.blogspot.com/-yW46018PMF4/T1ImprMofGI/AAAAAAAAEbQ/nXQb9Tumg-M/s1600/Tji+logo+2012.jpg", TiJi
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_79db44.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="v-gostiax-u-skazki" tvg-logo="https://mediastil.ru/wp-content/uploads/2017/03/logo-vgs.png",В гостях у сказки
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_991665.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="karusel" tvg-logo="https://www.etanetas.lt/images/image/logo-karusel-tv.png",Карусель
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e3af9f.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="nickelodeon-hls" tvg-logo="http://res.lt/wp-content/uploads/2018/01/NICKELODEON_RGB-300x43.jpg",Nickelodeon hls
+http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 group-title="Regioniniai" tvg-id="belarus1" tvg-logo="https://upload.wikimedia.org/wikipedia/be/thumb/3/35/Belarus_1.jpg/270px-Belarus_1.jpg",Беларусь 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_53a0b7.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="mir" tvg-logo="https://kor.ill.in.ua/m/400x253/1586735.jpg",Мир
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_57f0f3.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="mir" tvg-logo="https://kor.ill.in.ua/m/400x253/1586735.jpg",Мир
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e557ba.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="moskva-24" tvg-logo="https://online-red.com/images/tv/moscow24.png",Москва-24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4de8b8.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/250px-NTV_logo_2003.svg.png",НТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d85e30.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/250px-NTV_logo_2003.svg.png",НТВ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b90e5e.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="ntv-mir" tvg-logo="https://img.tyt.by/320x0s/n/tv/logotipy/00/10/ntv-mir-logo.png",НТВ Мир
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b98b98.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="pervy" tvg-logo="http://i.otzovik.com/objects/b/120000/110629.png",Первый канал
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_00e667.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="pervy" tvg-logo="http://i.otzovik.com/objects/b/120000/110629.png",Первый канал HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ee3ce944fa3a5f49428240d363ffc368454c6b72&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=0
+#EXTINF:-1 group-title="Regioniniai" tvg-id="piatnica" tvg-logo="http://s3.vefire.ru/l/250x150/ru/friday.png",Пятница
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f4733b.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="piatnica" tvg-logo="http://s3.vefire.ru/l/250x150/ru/friday.png",Пятница
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_404cf7.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rentv" tvg-logo="https://kurgan.ru/media/post/12353/cover/e2d6dc3bb97dbb96b317b772eab172f3.jpg",Рен ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d09839.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rentv" tvg-logo="https://kurgan.ru/media/post/12353/cover/e2d6dc3bb97dbb96b317b772eab172f3.jpg",Рен ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_df1bc5.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia1" tvg-logo="http://www.mitrey.ru/wp-content/uploads/2015/07/11245879_426734267507781_200177032_n.jpg",Россия 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_80ca63.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia1" tvg-logo="http://www.mitrey.ru/wp-content/uploads/2015/07/11245879_426734267507781_200177032_n.jpg",Россия 1 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0e43a6.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia1" tvg-logo="http://www.mitrey.ru/wp-content/uploads/2015/07/11245879_426734267507781_200177032_n.jpg",Россия 1 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_618210.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia-24" tvg-logo="https://cdn.tvc.ru/pictures/o/112/074.jpg",Россия 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f29779.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia-24" tvg-logo="https://cdn.tvc.ru/pictures/o/112/074.jpg",Россия 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_ee7edb.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="stb-ua" tvg-logo="http://vnews.agency/uploads/posts/2015-12/1449226739_stb.png",СТБ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_540c7e.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts" tvg-logo="http://www.allenmedia.ru/images/logo-tv/by-url/logo-ctc.png",СТС
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_107e99.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts-love" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ctc_love_195.jpg",СТС Love
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0a217f.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts-love" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ctc_love_195.jpg",СТС Love
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_baabf0.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts-love" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ctc_love_195.jpg",СТС Love
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9bcf8d.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_47784d.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_11dee0.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt-pl2" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ +2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1dda5a.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt-pl3" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ +3
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29e147.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt-int-by" tvg-logo="https://tvnews.by/uploads/posts/2017-02/1485961566_tnt-int-bel.png",ТНТ-International (Беларусь)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29e147.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt4" tvg-logo="https://jourdom.ru/wp-content/uploads/2015/12/Screenshot_2-330x240.jpg",ТНТ4
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9767d7.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt4" tvg-logo="https://jourdom.ru/wp-content/uploads/2015/12/Screenshot_2-330x240.jpg",ТНТ4
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_c6dd9e.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="zvezda" tvg-logo="http://www.oneaccountproducts.com/images/tv_logo_tv_zvezda.png",Звезда
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_2c3c73.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="bbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/300px-BBC_World_News_red.svg.png",BBC World News
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6e320c.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="bloomberg" tvg-logo="https://2m6dvv3zi6nj31h9a91s1wdk-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/bloomberg-logo.jpg",Bloomberg
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_13a6d6.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="deutsche-welle-de" tvg-logo="https://misionescuatro.com/wp-content/uploads/2015/08/dw.png",Deutsche Welle Deutsch
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2a22eb.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="euronews" tvg-logo="https://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.png",EuroNews
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9cf2dc.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rbk" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/05/RBC-TV1-640x316.jpg",РБК
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d08286.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rbk" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/05/RBC-TV1-640x316.jpg",РБК
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_66ea29.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="russia-today" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg",Russia Today
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6f397c.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="russia-today" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg",Russia Today
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_426547.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="russia-today-hd" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/rthd_195.jpg",Russia Today HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4477e3.acelive&.mp4
