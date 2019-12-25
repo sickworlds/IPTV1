@@ -1,0 +1,2071 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" refresh="3600"
+#EXTINF:0  tvg-id="360-podmoskovie"  tvg-name="360 Подмосковье HD" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/360-podmoskovie.png",360 Подмосковье HD
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0314/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="2na2"  tvg-name="2x2" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/2na2.png",2x2
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0290/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="amedia1"  tvg-name="A1 HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/amedia1.png",A1 HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0007/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="amedia-hit"  tvg-name="Amedia Hit HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/amedia-hit.png",Amedia Hit HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0556/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="amedia-premium"  tvg-name="Amedia Premium HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/amedia-premium.png",Amedia Premium HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0012/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="animal-planet"  tvg-name="Animal Planet HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/animal-planet.png",Animal Planet HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0015/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="babes-tv"  tvg-name="Babes TV HD" group-title="Клубничка" tvg-logo="http://ott-club.com.ru/uploads/channel/brazzers-tv-europe.png",Babes TV HD
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0323/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bollywood-hd"  tvg-name="Bollywood HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/bollywood-hd.png",Bollywood HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0016/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="boomerang"  tvg-name="Boomerang" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/boomerang.png",Boomerang
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0018/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="babes-tv"  tvg-name="Babes TV HD" group-title="Клубничка" tvg-logo="http://ott-club.com.ru/uploads/channel/brazzers-tv-europe.png",Babes TV HD
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0323/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bridge-tv"  tvg-name="Bridge TV" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/bridge-tv.png",Bridge TV
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0019/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bridge-tv-ruxit"  tvg-name="Bridge TV Русский хит" group-title="Музыка" tvg-logo="",Bridge TV Русский хит
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0023/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="cartoon-network"  tvg-name="Cartoon Network HD" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/cartoon-network.png",Cartoon Network HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0025/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="clubbing-tv"  tvg-name="Южная волна HD" group-title="Музыка" tvg-logo="",Южная волна HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0027/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="da-vinci"  tvg-name="Da Vinci learning" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/da-vinci.png",Da Vinci learning
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0029/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="discovery-channel"  tvg-name="Discovery Channel HD" group-title="Документальные" tvg-logo="",Discovery Channel HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0032/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="discovery-science"  tvg-name="Discovery Science HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/discovery-science.png",Discovery Science HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0034/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="disney-channel-se"  tvg-name="Disney Channel" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/disney-channel-se.png",Disney Channel
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0035/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dtx"  tvg-name="DTX HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/dtx.png",DTX HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0038/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eurochannel"  tvg-name="Кинотеатр HD" group-title="Фильмы" tvg-logo="",Кинотеатр HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0041/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="euronews"  tvg-name="Euronews" group-title="Новости" tvg-logo="",Euronews
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0148/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="europa-plus-tv"  tvg-name="Europa Plus TV" group-title="Музыка" tvg-logo="",Europa Plus TV
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0042/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eurosport1"  tvg-name="Eurosport 1 HD" group-title="Спорт" tvg-logo="",Eurosport 1 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0044/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eurosport-gold"  tvg-name="Eurosport Gold HD" group-title="Спорт" tvg-logo="",Eurosport Gold HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0046/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="extreme-sports"  tvg-name="Extreme Sports" group-title="Спорт" tvg-logo="",Extreme Sports
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0047/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="food-network"  tvg-name="Food Network HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/food-network.png",Food Network HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0050/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="fox"  tvg-name="FOX HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/fox.png",FOX HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0052/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="foxlife"  tvg-name="Fox Life HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/foxlife.png",Fox Life HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0054/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="fuel-tv-hd"  tvg-name="Mosobr tv" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/fuel-tv-hd.png",Mosobr tv
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0055/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="gulli-girl"  tvg-name="Gulli" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/gulli-girl.png",Gulli
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0056/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="h2"  tvg-name="H2 HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/h2.png",H2 HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0057/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="history-hd"  tvg-name="History HD" group-title="Документальные" tvg-logo="",History HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0059/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="iconcerts"  tvg-name="Deluxe Music HD" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/iconcerts.png",Deluxe Music HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0099/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="id-xtra-ru"  tvg-name="ID Investigation Discovery HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/id-xtra-ru.png",ID Investigation Discovery HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0061/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="jimjam"  tvg-name="JimJam" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/jimjam.png",JimJam
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0062/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mcm-top"  tvg-name="MCM TOP" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/mcm-top.png",MCM TOP
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0064/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mtv-dance"  tvg-name="MTV Dance" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/mtv-dance.png",MTV Dance
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0066/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MTV HD" group-title="Музыка" tvg-logo="",MTV HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0067/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mtv-hits"  tvg-name="MTV Hits" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/mtv-hits.png",MTV Hits
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0068/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mtv-live-hd"  tvg-name="MTV Live HD" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/mtv-live-hd.png",MTV Live HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0069/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mtv-rocks"  tvg-name="MTV Rocks" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/mtv-rocks.png",MTV Rocks
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0070/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mtv-russia"  tvg-name="MTV Russia" group-title="Музыка" tvg-logo="",MTV Russia
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0071/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Охотник и рыболов Int. HD" group-title="Документальные" tvg-logo="",Охотник и рыболов Int. HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0072/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russian-musicbox"  tvg-name="Music Box RU HD" group-title="Музыка" tvg-logo="",Music Box RU HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0075/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Загородный int. HD" group-title="Документальные" tvg-logo="",Загородный int. HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0076/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nat-geo-wild"  tvg-name="Nat Geo Wild HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/nat-geo-wild.png",Nat Geo Wild HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0079/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="national-geographic"  tvg-name="National Geographic HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/national-geographic.png",National Geographic HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0081/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nick-jr"  tvg-name="Nick Jr." group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/nick-jr.png",Nick Jr.
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0082/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nickelodeon-hd"  tvg-name="Nickelodeon HD" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/nickelodeon-hd.png",Nickelodeon HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0084/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="O la la" group-title="Клубничка" tvg-logo="",O la la
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0326/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="paramount-channel"  tvg-name="Paramount Channel HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/paramount-channel.png",Paramount Channel HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0086/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="paramount-comedy"  tvg-name="Paramount Comedy HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/paramount-comedy.png",Paramount Comedy HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0088/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rtg-hd"  tvg-name="RTG HD" group-title="Документальные" tvg-logo="",RTG HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0089/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ru-tv"  tvg-name="RU TV HD" group-title="Музыка" tvg-logo="",RU TV HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0091/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sony-tv"  tvg-name="SET HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/sony-tv.png",SET HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0094/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt-int-eu"  tvg-name="Тнт Int." group-title="Развлечения" tvg-logo="",Тнт Int.
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0321/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sony-scifi"  tvg-name="Sony Sci-Fi" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/sony-scifi.png",Sony Sci-Fi
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0095/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sony-turbo"  tvg-name="Sony Turbo" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/sony-turbo.png",Sony Turbo
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0096/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="spike"  tvg-name="Spike HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/spike.png",Spike HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0097/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tiji"  tvg-name="TiJi" group-title="Мультфильмы" tvg-logo="",TiJi
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0557/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tlc"  tvg-name="Tlc HD" group-title="Развлечения" tvg-logo="",Tlc HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0102/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="travel-adventure"  tvg-name="Travel+ Adventure HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/travel-adventure.png",Travel+ Adventure HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0104/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tvxxi"  tvg-name="TV XXI" group-title="Фильмы" tvg-logo="",TV XXI
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0111/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv1000"  tvg-name="TV1000" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/tv1000.png",TV1000
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0105/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv1000-action"  tvg-name="TV1000 Action" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/tv1000-action.png",TV1000 Action
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0106/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv1000-action"  tvg-name="TV1000 Action HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/tv1000-action.png",TV1000 Action HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0107/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv1000"  tvg-name="TV1000 HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/tv1000.png",TV1000 HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0108/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv1000-russkoe-kino"  tvg-name="TV1000 Русское кино" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/tv1000-russkoe-kino.png",TV1000 Русское кино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0109/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv1000-russkoe-kino"  tvg-name="TV1000 Русское кино HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/tv1000-russkoe-kino.png",TV1000 Русское кино HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0110/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="vh1-classic"  tvg-name="VH1 Classic" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/vh1-classic.png",VH1 Classic
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0113/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="vh1-european"  tvg-name="VH1 European" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/vh1-european.png",VH1 European
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0114/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="viasat-explore"  tvg-name="Viasat Explore HD" group-title="Документальные" tvg-logo="",Viasat Explore HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0116/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="vip-serial"  tvg-name="Vip Serial HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/vip-serial.png",Vip Serial HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0126/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="viasat-history"  tvg-name="Viasat History HD" group-title="Документальные" tvg-logo="",Viasat History HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0118/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="viasat-nature"  tvg-name="Viasat Nature" group-title="Документальные" tvg-logo="",Viasat Nature
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0119/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="viasat-nature-history-hd"  tvg-name="Viasat Nature/History HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/viasat-nature-history-hd.png",Viasat Nature/History HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0121/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tvplay-sports"  tvg-name="Viasat Sport HD" group-title="Спорт" tvg-logo="",Viasat Sport HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0123/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="vip-comedy"  tvg-name="ViP Comedy HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/vip-comedy.png",ViP Comedy HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0124/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="vip-megahit"  tvg-name="ViP Megahit HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/vip-megahit.png",ViP Megahit HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0543/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="vip-premiere"  tvg-name="ViP Premiere HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/vip-premiere.png",ViP Premiere HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0125/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="avto24"  tvg-name="Авто 24 HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/avto24.png",Авто 24 HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0128/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="avto-plus"  tvg-name="Авто Плюс" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/avto-plus.png",Авто Плюс
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0127/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="M1" group-title="Музыка" tvg-logo="",M1
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0408/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bobior"  tvg-name="Бобер" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/bobior.png",Бобер
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0132/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="v-gostiax-u-skazki"  tvg-name="В гостях у сказки" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/v-gostiax-u-skazki.png",В гостях у сказки
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0134/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="detsky"  tvg-name="Детский" group-title="Мультфильмы" tvg-logo="",Детский
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0136/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="detsky-mir"  tvg-name="Детский мир" group-title="Мультфильмы" tvg-logo="",Детский мир
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0137/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dialogi-o-rybalke"  tvg-name="Диалоги о рыбалке HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/dialogi-o-rybalke.png",Диалоги о рыбалке HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0138/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="doktor"  tvg-name="Доктор" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/doktor.png",Доктор
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0142/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="domkino"  tvg-name="Дом кино" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/domkino.png",Дом кино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0143/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="domashny"  tvg-name="Домашний" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/domashny.png",Домашний
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0145/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="drive"  tvg-name="Драйв" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/drive.png",Драйв
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0146/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="evrokino"  tvg-name="Еврокино HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/evrokino.png",Еврокино HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0147/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eda"  tvg-name="Еда" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/eda.png",Еда
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0149/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eda-hd"  tvg-name="Еда Премиум HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/eda-hd.png",Еда Премиум HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0150/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zhivaya-planeta"  tvg-name="Живая Планета" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/zhivaya-planeta.png",Живая Планета
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0152/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zvezda"  tvg-name="Звезда" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/zvezda.png",Звезда
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0162/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zvezda-pl2"  tvg-name="Звезда (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/zvezda-pl2.png",Звезда (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0163/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zvezda-pl4"  tvg-name="Звезда (+4)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/zvezda-pl4.png",Звезда (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0164/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zvezda-pl7"  tvg-name="Звезда (+7)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/zvezda-pl7.png",Звезда (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0165/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Здоровое тв" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/zdorovoe-tv.png",Здоровое тв
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0167/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="izvestia"  tvg-name="Известия HD" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/izvestia.png",Известия HD
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0168/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="illuzion-plus"  tvg-name="Иллюзион+" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/illuzion-plus.png",Иллюзион+
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0306/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="istoria"  tvg-name="История" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/istoria.png",История
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0169/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="karusel"  tvg-name="Карусель" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/karusel.png",Карусель
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0170/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kvn-tv"  tvg-name="КВН ТВ" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/kvn-tv.png",КВН ТВ
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0174/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kino-tv"  tvg-name="Кино ТВ HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kino-tv.png",Кино ТВ HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0176/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="komedia"  tvg-name="Комедия" group-title="Фильмы" tvg-logo="",Комедия
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0183/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="komedia"  tvg-name="Комедия ТВ" group-title="Фильмы" tvg-logo="",Комедия ТВ
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0183/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kxl-hd"  tvg-name="КХЛ HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/kxl-hd.png",КХЛ HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0186/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="lubimoe-kino"  tvg-name="Любимое кино" group-title="Фильмы" tvg-logo="",Любимое кино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0354/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="la-minor"  tvg-name="ЛЯ-МИНОР ТВ" group-title="Музыка" tvg-logo="",ЛЯ-МИНОР ТВ
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0187/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mama"  tvg-name="Мама" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/mama.png",Мама
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0188/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-arena"  tvg-name="Матч! Арена HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-arena.png",Матч! Арена HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0153/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-boets"  tvg-name="Матч! Боец" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-boets.png",Матч! Боец
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0154/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-igra"  tvg-name="Матч! Игра HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-igra.png",Матч! Игра HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0155/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-nash-sport"  tvg-name="Матч! Страна" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-nash-sport.png",Матч! Страна
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0156/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-football1"  tvg-name="Матч! Футбол 1 HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-football1.png",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0160/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-football2"  tvg-name="Матч! Футбол 2 HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-football2.png",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0161/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-football3"  tvg-name="Матч! Футбол 3 HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-football3.png",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0308/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mir-24"  tvg-name="Мир 24 HD" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/mir-24.png",Мир 24 HD
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0192/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mir"  tvg-name="Мир HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/mir.png",Мир HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0193/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="morskoy"  tvg-name="Морской HD" group-title="Документальные" tvg-logo="",Морской HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0195/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="muzhskoe-kino"  tvg-name="Мужское кино" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/muzhskoe-kino.png",Мужское кино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0198/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="muztv"  tvg-name="Муз ТВ" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/muztv.png",Муз ТВ
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0200/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mult"  tvg-name="Мульт" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/mult.png",Мульт
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0201/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="multimuzyka"  tvg-name="Мульт и музыка" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/multimuzyka.png",Мульт и музыка
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0202/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nst"  tvg-name="НСТ" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/nst.png",НСТ
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0203/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nauka"  tvg-name="Наука 2.0" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/nauka.png",Наука 2.0
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0204/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-premier"  tvg-name="Матч! Премьер HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-premier.png",Матч! Премьер HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0157/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nashe-tv"  tvg-name="Наше ТВ HD" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/nashe-tv.png",Наше ТВ HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0206/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nostalgia"  tvg-name="Ностальгия" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/nostalgia.png",Ностальгия
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0207/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv"  tvg-name="Нтв" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv.png",Нтв
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0208/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv-pl2"  tvg-name="Нтв (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv-pl2.png",Нтв (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0271/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv-pl7"  tvg-name="Нтв (+7)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv-pl7.png",Нтв (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0273/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv"  tvg-name="Нтв HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv.png",Нтв HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0209/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinomiks"  tvg-name="Киномикс" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinomiks.png",Киномикс
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0178/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rodnoe-kino"  tvg-name="Родное кино" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/rodnoe-kino.png",Родное кино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0228/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nashe-novoe-kino"  tvg-name="Наше новое кино" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/nashe-novoe-kino.png",Наше новое кино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0205/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="o_"  tvg-name="О!" group-title="Мультфильмы" tvg-logo="",О!
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0210/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="oruzhie"  tvg-name="Оружие" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/oruzhie.png",Оружие
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0212/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="oxota-i-rybalka"  tvg-name="Охота и рыбалка" group-title="Развлечения" tvg-logo="",Охота и рыбалка
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0214/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="oxotnik-i-rybolov-hd"  tvg-name="Охотник и Рыболов HD" group-title="Развлечения" tvg-logo="",Охотник и Рыболов HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0215/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="cinema-ru"  tvg-name="Cinema" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/cinema-ru.png",Cinema
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0026/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy"  tvg-name="Первый канал HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy.png",Первый канал HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0001/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy"  tvg-name="Первый канал" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy.png",Первый канал
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0216/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy-pl2"  tvg-name="Первый канал (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy-pl2.png",Первый канал (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0276/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy"  tvg-shift="-2" tvg-name="Первый канал (+3)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy.png",Первый канал (+3)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0277/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy"  tvg-shift="-5" tvg-name="Первый канал (+5)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy.png",Первый канал (+5)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0278/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy-pl6"  tvg-name="Первый канал (+6)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy-pl6.png",Первый канал (+6)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0279/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy-pl8"  tvg-name="Россия (+8)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy-pl8.png",Россия (+8)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0309/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Univer" group-title="Развлечения" tvg-logo="",Univer
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0217/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="planeta-hd"  tvg-name="Моя планета HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/planeta-hd.png",Моя планета HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0219/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="piatnica-pl2"  tvg-name="Пятница (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/piatnica-pl2.png",Пятница (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0281/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="piatnica-pl4"  tvg-name="Пятница (+4)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/piatnica-pl4.png",Пятница (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0282/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="piatnica-pl7"  tvg-name="Пятница (+7)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/piatnica-pl7.png",Пятница (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0283/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="piatnica"  tvg-name="Пятница" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/piatnica.png",Пятница
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0221/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="5kanal-ru"  tvg-name="Пятый канал" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/5kanal-ru.png",Пятый канал
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0222/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="radost-moya"  tvg-name="Сказки для зайки HD" group-title="Мультфильмы" tvg-logo="",Сказки для зайки HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0223/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rbk"  tvg-name="РБК" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/rbk.png",РБК
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0224/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rentv"  tvg-name="Рен ТВ" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rentv.png",Рен ТВ
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0225/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rentv-pl2"  tvg-name="Рен Тв (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rentv-pl2.png",Рен Тв (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0311/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rentv"  tvg-name="Рен ТВ HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rentv.png",Рен ТВ HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0226/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rentv-pl7"  tvg-name="Рен Тв (+7)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rentv-pl7.png",Рен Тв (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0312/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="retro-tv"  tvg-name="Совершенно секретно" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/retro-tv.png",Совершенно секретно
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0227/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rossia1"  tvg-name="Россия 1" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rossia1.png",Россия 1
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0189/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rossia1-pl2"  tvg-name="Россия 1 (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rossia1-pl2.png",Россия 1 (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0292/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rossia1-pl4"  tvg-name="Россия 1 (+4)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rossia1-pl4.png",Россия 1 (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0293/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rossia1-pl6"  tvg-name="Россия 1 (+6)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rossia1-pl6.png",Россия 1 (+6)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0294/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rossia1"  tvg-name="Россия 1 HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rossia1.png",Россия 1 HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0190/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rossia-24"  tvg-name="Россия 24" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/rossia-24.png",Россия 24
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0229/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rossia-k"  tvg-name="Россия К" group-title="Россия" tvg-logo="",Россия К
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0230/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russkaya-noch"  tvg-name="Русская ночь" group-title="Клубничка" tvg-logo="http://ott-club.com.ru/uploads/channel/russkaya-noch.png",Русская ночь
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0356/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russky-bestseller"  tvg-name="Русский бестселлер" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/russky-bestseller.png",Русский бестселлер
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0231/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russky-detektiv"  tvg-name="Русский детектив" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/russky-detektiv.png",Русский детектив
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0232/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russky-illuzion"  tvg-name="Русский иллюзион" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/russky-illuzion.png",Русский иллюзион
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0233/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russky-roman"  tvg-name="Русский роман HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/russky-roman.png",Русский роман HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0235/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russky-ekstrim"  tvg-name="HD RED" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/russky-ekstrim.png",HD RED
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0236/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sarafan"  tvg-name="Сарафан" group-title="Развлечения" tvg-logo="",Сарафан
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0238/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="soyuz"  tvg-name="Союз" group-title="Религия" tvg-logo="",Союз
+#EXTGRP:Религия
+http://server1.life-tv.eu/ch0239/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="spas"  tvg-name="Спас" group-title="Религия" tvg-logo="",Спас
+#EXTGRP:Религия
+http://server1.life-tv.eu/ch0240/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="strashnoe-hd"  tvg-name="Окино" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/strashnoe-hd.png",Окино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0241/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sts"  tvg-name="Стс" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/sts.png",Стс
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0242/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sts-pl2"  tvg-name="Стс (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/sts-pl2.png",Стс (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0291/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sts-pl7"  tvg-name="Стс (+7)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/sts-pl7.png",Стс (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0330/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sts-love"  tvg-name="Стс Love" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/sts-love.png",Стс Love
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0244/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv3-ru"  tvg-name="Тв-3" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/tv3-ru.png",Тв-3
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0247/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tvcentr"  tvg-name="Твц" group-title="Россия" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a00000160080252c5642ead07fe51d0af7e/orig",Твц
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0248/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="texno-24"  tvg-name="Техно 24" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/texno-24.png",Техно 24
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0251/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tlum-hd"  tvg-name="Тлум HD" group-title="Мультфильмы" tvg-logo="",Тлум HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0252/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt"  tvg-name="Тнт" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt.png",Тнт
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0253/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt-pl2"  tvg-name="Тнт (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt-pl2.png",Тнт (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0303/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt-pl7"  tvg-name="Тнт (+7)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt-pl7.png",Тнт (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0305/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt"  tvg-name="Тнт HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt.png",Тнт HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0254/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt-music"  tvg-name="Тнт Music HD" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt-music.png",Тнт Music HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0255/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt4"  tvg-name="Shant serial HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt4.png",Shant serial HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0256/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="usadba"  tvg-name="Усадьба" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/usadba.png",Усадьба
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0258/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="feniks-plus-kino"  tvg-name="Феникс Плюс Кино" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/feniks-plus-kino.png",Феникс Плюс Кино
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0259/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="football-ru"  tvg-name="Футбол" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/football-ru.png",Футбол
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0260/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="football-ru"  tvg-name="Футбол HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/football-ru.png",Футбол HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0261/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="che"  tvg-name="Че" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/che.png",Че
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0262/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="shanson-tv-hb"  tvg-name="Шансон ТВ" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/shanson-tv-hb.png",Шансон ТВ
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0263/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Ю" group-title="Развлечения" tvg-logo="",Ю
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0264/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="1plus1"  tvg-name="1+1" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/1plus1.png",1+1
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0384/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="2plus2"  tvg-name="2+2" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/2plus2.png",2+2
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0390/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bigudi"  tvg-name="Бигуди" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/bigudi.png",Бигуди
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0396/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="indigo-ua"  tvg-name="Индиго" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/indigo-ua.png",Индиго
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0376/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntn-ua"  tvg-name="НТН" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/ntn-ua.png",НТН
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0392/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="k1-ua"  tvg-name="К1" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/k1-ua.png",К1
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0386/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="k2-ua"  tvg-name="К2" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/k2-ua.png",К2
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0393/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kvartal-tv"  tvg-name="Квартал ТВ" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/kvartal-tv.png",Квартал ТВ
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0336/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nlo-tv-ua"  tvg-name="НЛО" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/nlo-tv-ua.png",НЛО
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0369/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tet-ua"  tvg-name="Тет" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/tet-ua.png",Тет
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0387/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="novy-kanal-ua"  tvg-name="Новый канал" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/novy-kanal-ua.png",Новый канал
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0493/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="stb-ua"  tvg-name="Стб" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/stb-ua.png",Стб
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0494/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ictv-ua"  tvg-name="ICTV" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/ictv-ua.png",ICTV
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0389/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="chepe-info"  tvg-name="ЧП.INFO" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/chepe-info.png",ЧП.INFO
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0402/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ua-pershy"  tvg-name="UA:Перший" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/ua-pershy.png",UA:Перший
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0504/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ua-pershy"  tvg-name="UA:Перший" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/ua-pershy.png",UA:Перший
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0504/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="treti-cifrovoj"  tvg-name="Третий цифровой (Одесса)" group-title="Украина" tvg-logo="",Третий цифровой (Одесса)
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0399/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv-pl4"  tvg-name="Нтв (+4)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv-pl4.png",Нтв (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0272/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Нтв (+8)" group-title="Россия" tvg-logo="",Нтв (+8)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0274/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Союзмультфильм" group-title="Лайф каналы" tvg-logo="",MAXVideo Союзмультфильм
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0456/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="inter-ua"  tvg-name="Интер" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/inter-ua.png",Интер
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0385/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="5kanal-ua"  tvg-name="5 канал Украина" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/5kanal-ua.png",5 канал Украина
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0398/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus1"  tvg-name="Беларусь 1 HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus1.png",Беларусь 1 HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0368/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus2"  tvg-name="Беларусь 2 HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus2.png",Беларусь 2 HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0371/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus3"  tvg-name="Беларусь 3 HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus3.png",Беларусь 3 HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0372/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="8kanal-by"  tvg-name="Беларусь 8 Канал HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/8kanal-by.png",Беларусь 8 Канал HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0391/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus4-vitebsk"  tvg-name="Беларусь 4 Витебск" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus4-vitebsk.png",Беларусь 4 Витебск
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0401/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tro"  tvg-name="БелРос" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/tro.png",БелРос
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0131/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus24"  tvg-name="Беларусь 24 HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus24.png",Беларусь 24 HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0130/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ont-by"  tvg-name="Онт HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/ont-by.png",Онт HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0373/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="stv-by"  tvg-name="Ств Беларусь" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/stv-by.png",Ств Беларусь
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0374/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Утиные истории" group-title="Лайф каналы" tvg-logo="",MAXVideo Утиные истории
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0457/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Ultra Cinema 4K" group-title="Фильмы" tvg-logo="",Ultra Cinema 4K
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0112/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinopokaz-hd1"  tvg-name="Шокирующее HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinopokaz-hd1.png",Шокирующее HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0498/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinopremium-hd"  tvg-name="КиноПремиум HD" group-title="Фильмы" tvg-logo="",КиноПремиум HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0496/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinopremiera-hd"  tvg-name="Кинопремьера HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinopremiera-hd.png",Кинопремьера HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0179/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ufc"  tvg-name="Football Hub" group-title="Спорт" tvg-logo="",Football Hub
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0003/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="radio-shanson"  tvg-name="Радио Шансон HD" group-title="Музыка" tvg-logo="",Радио Шансон HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0400/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="btv"  tvg-name="BTV" group-title="Прибалтика" tvg-logo="",BTV
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0377/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="lnk"  tvg-name="LNK" group-title="Прибалтика" tvg-logo="",LNK
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0378/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="LRT HD" group-title="Прибалтика" tvg-logo="",LRT HD
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0379/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="m1global"  tvg-name="M-1 Global" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/m1global.png",M-1 Global
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0063/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="musicbox-ua-hd"  tvg-name="Music Box UA" group-title="Музыка" tvg-logo="https://ott-club.com.ru/uploads/channel/music-box-ua.png",Music Box UA
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0491/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Еспресо" group-title="Украина" tvg-logo="",Еспресо
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0403/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sonce-ua"  tvg-name="Сонце" group-title="Украина" tvg-logo="",Сонце
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0489/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="atr-ua"  tvg-name="ATR " group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/atr-ua.png",ATR 
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0490/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="maliatko-tv"  tvg-name="Малятко ТВ" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/maliatko-tv.png",Малятко ТВ
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0285/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="112-ua"  tvg-name="112 HD" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/112-ua.png",112 HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0394/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="M2 HD" group-title="Музыка" tvg-logo="",M2 HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0404/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="iConcerts HD" group-title="Музыка" tvg-logo="",iConcerts HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0409/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinosvidanie"  tvg-name="Киносвидание" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinosvidanie.png",Киносвидание
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0180/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinokomedia"  tvg-name="Кинокомедия" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinokomedia.png",Кинокомедия
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0177/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinosemiya"  tvg-name="Киносемья HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinosemiya.png",Киносемья HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0181/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="amedia1"  tvg-name="A1" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/amedia1.png",A1
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0006/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="amedia2"  tvg-name="A2" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/amedia2.png",A2
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0008/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="fox"  tvg-name="Fox" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/fox.png",Fox
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0051/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="foxlife"  tvg-name="Fox LIfe" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/foxlife.png",Fox LIfe
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0053/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sony-tv"  tvg-name="Sony" group-title="Фильмы" tvg-logo="",Sony
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0093/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="TV6" group-title="Прибалтика" tvg-logo="",TV6
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0416/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="3-plus-latvia"  tvg-name="Пес и Ко HD" group-title="noname" tvg-logo="http://ott-club.com.ru/uploads/channel/3-plus-latvia.png",Пес и Ко HD
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0529/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="TV8" group-title="Прибалтика" tvg-logo="",TV8
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0410/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="piatnica"  tvg-name="Пятница HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/piatnica.png",Пятница HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0375/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_mult"  tvg-name="NIKI Junior HD" group-title="Мультфильмы" tvg-logo="",NIKI Junior HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0286/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="fanhd"  tvg-name="Fan HD" group-title="Фильмы" tvg-logo="",Fan HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0048/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Нтв Мир" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/112-ua.png",Нтв Мир
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0550/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Гравити Фолз" group-title="Лайф каналы" tvg-logo="",MAXVideo Гравити Фолз
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0439/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sila"  tvg-name="Сила ТВ" group-title="Спорт" tvg-logo="",Сила ТВ
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0319/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Мотоспорт тв HD" group-title="Спорт" tvg-logo="",Мотоспорт тв HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0196/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-football3"  tvg-name="Матч! Футбол 3 HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-football3.png",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0308/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Ulto HD" group-title="Фильмы" tvg-logo="",Ulto HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0411/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="super"  tvg-name="Супер" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/super.png",Супер
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0245/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinopokaz-hd2"  tvg-name="Комедийное HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinopokaz-hd2.png",Комедийное HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0499/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belsat"  tvg-name="Белсат" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belsat.png",Белсат
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0521/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="star-family"  tvg-name="Shant premium HD" group-title="Фильмы" tvg-logo="",Shant premium HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0098/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="domashny-pl7"  tvg-name="Домашний (+7)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/domashny-pl7.png",Домашний (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0269/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Твц (+2)" group-title="Россия" tvg-logo="",Твц (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0300/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Россия РТР" group-title="Россия" tvg-logo="",Россия РТР
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0432/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kxl"  tvg-name="Кхл" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/kxl.png",Кхл
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0185/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="english-club-tv"  tvg-name="English Club HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/english-club-tv.png",English Club HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0040/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="perec-int"  tvg-name="Перец int." group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/perec-int.png",Перец int.
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0320/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eurosport2"  tvg-name="Eurosport 2" group-title="Спорт" tvg-logo="",Eurosport 2
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0501/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dozhd"  tvg-name="Дождь HD" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/dozhd.png",Дождь HD
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0413/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zik-ua"  tvg-name="Zik" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/zik-ua.png",Zik
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0395/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="galaxy-tv"  tvg-name="Galaxy" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/galaxy-tv.png",Galaxy
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0322/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus5"  tvg-name="Беларусь РТР HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus5.png",Беларусь РТР HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0549/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus5"  tvg-name="Беларусь НТВ HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus5.png",Беларусь НТВ HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0548/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Болт HD" group-title="Фильмы" tvg-logo="",Болт HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0017/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="newsone-ua"  tvg-name="News One HD" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/newsone-ua.png",News One HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0407/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belarus5"  tvg-name="Беларусь 5 HD" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/belarus5.png",Беларусь 5 HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0370/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="2na2-pl2"  tvg-name="2x2 (+2)" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/2na2-pl2.png",2x2 (+2)
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0265/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Рен тв (+8)" group-title="Россия" tvg-logo="",Рен тв (+8)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0313/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Том и Джери" group-title="Лайф каналы" tvg-logo="",MAXVideo Том и Джери
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0528/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="priamyj"  tvg-name="Прямий HD" group-title="Украина" tvg-logo="",Прямий HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0437/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ltv1"  tvg-name="LTV 1" group-title="Прибалтика" tvg-logo="",LTV 1
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0414/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="lnt"  tvg-name="LNT" group-title="Прибалтика" tvg-logo="",LNT
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0417/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv3-lt"  tvg-name="TV3 LT" group-title="Прибалтика" tvg-logo="",TV3 LT
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0418/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv3-ee"  tvg-name="TV3 EE" group-title="Прибалтика" tvg-logo="",TV3 EE
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0419/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv6-lt"  tvg-name="TV6 LT" group-title="Прибалтика" tvg-logo="",TV6 LT
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0421/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv8-lt"  tvg-name="TV8 LT" group-title="Прибалтика" tvg-logo="",TV8 LT
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0422/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter-film"  tvg-name="Enter Film" group-title="Фильмы" tvg-logo="https://ott-club.com.ru/uploads/channel/enter-film.png",Enter Film
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0423/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Игра Престолов" group-title="Лайф каналы" tvg-logo="",MAXVideo Игра Престолов
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0440/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv1000-worldkino"  tvg-name="TV1000 World Kino" group-title="Фильмы" tvg-logo="https://ott-club.com.ru/uploads/channel/tv1000-worldkino.png",TV1000 World Kino
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0363/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zoom-ua"  tvg-name="ZOOM" group-title="Украина" tvg-logo="",ZOOM
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0426/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kxl"  tvg-name="Кхл" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/kxl.png",Кхл
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0185/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-tv"  tvg-name="Матч!" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-tv.png",Матч!
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0158/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nickelodeon-ru"  tvg-name="Nickelodeon" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/nickelodeon-ru.png",Nickelodeon
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0083/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="amedia-hit"  tvg-name="Amedia Hit" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/amedia-hit.png",Amedia Hit
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0009/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="amedia-premium"  tvg-name="Amedia Premium" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/amedia-premium.png",Amedia Premium
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0011/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="UFC ТВ HD" group-title="Спорт" tvg-logo="",UFC ТВ HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0427/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="GPB 2" group-title="noname" tvg-logo="",GPB 2
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0427/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Чип и Дейл" group-title="Лайф каналы" tvg-logo="",MAXVideo Чип и Дейл
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0443/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_mult"  tvg-name="Губка Боб" group-title="Лайф каналы" tvg-logo="http://life-tv.eu/logo_life.jpg",Губка Боб
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0468/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ktk-kz"  tvg-name="KTK" group-title="Казахстан" tvg-logo="",KTK
+#EXTGRP:Казахстан
+http://server1.life-tv.eu/ch0424/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Маша и Медведь" group-title="Лайф каналы" tvg-logo="",MAXVideo Маша и Медведь
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0469/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="almaty"  tvg-name="Almaty HD" group-title="Казахстан" tvg-logo="",Almaty HD
+#EXTGRP:Казахстан
+http://server1.life-tv.eu/ch0287/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kazakh-tv"  tvg-name="Kazakh TV HD" group-title="Казахстан" tvg-logo="",Kazakh TV HD
+#EXTGRP:Казахстан
+http://server1.life-tv.eu/ch0428/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="OralTV" group-title="Казахстан" tvg-logo="",OralTV
+#EXTGRP:Казахстан
+http://server1.life-tv.eu/ch0429/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="anekdottv"  tvg-name="Анекдот ТВ" group-title="Развлечения" tvg-logo="",Анекдот ТВ
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0129/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="24 Хабар HD" group-title="Казахстан" tvg-logo="",24 Хабар HD
+#EXTGRP:Казахстан
+http://server1.life-tv.eu/ch0430/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Детки из класса 402" group-title="Лайф каналы" tvg-logo="",MAXVideo Детки из класса 402
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0470/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Джек Пират" group-title="Лайф каналы" tvg-logo="",MAXVideo Джек Пират
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0471/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Город Свиней" group-title="Лайф каналы" tvg-logo="",MAXVideo Город Свиней
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0472/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Буба" group-title="Лайф каналы" tvg-logo="",MAXVideo Буба
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0473/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Черный Плащ" group-title="Лайф каналы" tvg-logo="",MAXVideo Черный Плащ
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0474/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Алладин" group-title="Лайф каналы" tvg-logo="",MAXVideo Алладин
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0475/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="3 кота HD" group-title="Лайф каналы" tvg-logo="",3 кота HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0476/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Фиксики" group-title="Лайф каналы" tvg-logo="",MAXVideo Фиксики
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0477/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Паравозик Чагентон" group-title="Лайф каналы" tvg-logo="",MAXVideo Паравозик Чагентон
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0478/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Тотали Спайс" group-title="Лайф каналы" tvg-logo="",MAXVideo Тотали Спайс
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0479/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_mult"  tvg-name="Вспыш и чудо машинки" group-title="Лайф каналы" tvg-logo="http://life-tv.eu/logo_life.jpg",Вспыш и чудо машинки
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0480/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Ну Погоди!" group-title="Лайф каналы" tvg-logo="",MAXVideo Ну Погоди!
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0481/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Пятница Int." group-title="Развлечения" tvg-logo="",Пятница Int.
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0412/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nash-detektiv"  tvg-name="Наше крутое HD" group-title="Фильмы" tvg-logo="",Наше крутое HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0495/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nashe-lubimoe"  tvg-name="Советское кино HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/nashe-lubimoe.png",Советское кино HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0361/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zvezda"  tvg-name="Звезда HD" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/zvezda.png",Звезда HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0388/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-tv"  tvg-name="Матч! HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-tv.png",Матч! HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0159/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ostrosiuzhetnoe-hd"  tvg-name="Остросюжетное HD" group-title="Фильмы" tvg-logo="",Остросюжетное HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0497/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dozhd"  tvg-name="Дождь HD" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/dozhd.png",Дождь HD
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0413/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="spike"  tvg-name="Spike HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/spike.png",Spike HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0097/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="discovery-hd-showcase"  tvg-name="Discovery Showcase HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/discovery-hd-showcase.png",Discovery Showcase HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0346/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="setanta-sports-plus"  tvg-name="Setanta Sports 1 HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/setanta-sports-plus.png",Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0380/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="setanta-sports"  tvg-name="Setanta Sports 2 HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/setanta-sports.png",Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0381/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="360-news"  tvg-name="360 Новости HD" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/360-news.png",360 Новости HD
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0315/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="box-tv"  tvg-name="Старт HD" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/box-tv.png",Старт HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0289/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belmuztv"  tvg-name="Sport 1" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/belmuztv.png",Sport 1
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0435/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Парк Патриот HD" group-title="Развлечения" tvg-logo="",Парк Патриот HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0436/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="super-pl2"  tvg-name="MAXvideo Брюс Ли" group-title="Лайф каналы" tvg-logo="http://ott-club.com.ru/uploads/channel/super-pl2.png",MAXvideo Брюс Ли
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0295/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="super-pl4"  tvg-name="Sky 1 HD DE" group-title="Германия" tvg-logo="http://ott-club.com.ru/uploads/channel/super-pl4.png",Sky 1 HD DE
+#EXTGRP:Германия
+http://server1.life-tv.eu/ch0296/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="super-pl7"  tvg-name="Sky Action" group-title="Германия" tvg-logo="http://ott-club.com.ru/uploads/channel/super-pl7.png",Sky Action
+#EXTGRP:Германия
+http://server1.life-tv.eu/ch0297/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Твц (+7)" group-title="Россия" tvg-logo="",Твц (+7)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0302/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="star-cinema"  tvg-name="Star Cinema HD" group-title="Фильмы" tvg-logo="",Star Cinema HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0002/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="perec-int"  tvg-name="Перец Int." group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/perec-int.png",Перец Int.
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0320/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="animal-planet"  tvg-name="Animal Planet" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/animal-planet.png",Animal Planet
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0014/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="discovery-channel"  tvg-name="Discovery Channel" group-title="Документальные" tvg-logo="",Discovery Channel
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0031/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="discovery-science"  tvg-name="Discovery Science" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/discovery-science.png",Discovery Science
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0033/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dtx"  tvg-name="DTX" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/dtx.png",DTX
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0037/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eurosport1"  tvg-name="Eurosport 1" group-title="Спорт" tvg-logo="https://ott-club.com.ru/uploads/channel/eurosport1.png",Eurosport 1
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0043/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eurosport-gold"  tvg-name="Eurosport Gold" group-title="Спорт" tvg-logo="https://ott-club.com.ru/uploads/channel/eurosport-gold.png",Eurosport Gold
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0045/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="id-xtra-ru"  tvg-name="ID Investigation Discovery" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/id-xtra-ru.png",ID Investigation Discovery
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0060/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="mezzo-live-hd"  tvg-name="Mezzo Live HD" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/mezzo-live-hd.png",Mezzo Live HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0065/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bolshaya-azia"  tvg-name="Большая Азия HD" group-title="Документальные" tvg-logo="",Большая Азия HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0133/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dikiy"  tvg-name="Дикий" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/dikiy.png",Дикий
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0141/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="domashny-pl2"  tvg-name="Домашний (+2)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/domashny-pl2.png",Домашний (+2)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0267/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="domashny-pl4"  tvg-name="Домашний (+4)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/domashny-pl4.png",Домашний (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0268/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="morskoy"  tvg-name="Морской" group-title="Документальные" tvg-logo="",Морской
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0194/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Ералаш" group-title="Лайф каналы" tvg-logo="",MAXVideo Ералаш
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0459/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="zhara"  tvg-name="Жара HD" group-title="Музыка" tvg-logo="",Жара HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0151/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Кинокласика СССР" group-title="Лайф каналы" tvg-logo="",MAXVideo Кинокласика СССР
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0441/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo MUSIC-MIX" group-title="Лайф каналы" tvg-logo="",MAXVideo MUSIC-MIX
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0442/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="vtv"  tvg-name="ВТВ" group-title="Беларусь" tvg-logo="http://ott-club.com.ru/uploads/channel/vtv.png",ВТВ
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0405/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="maliatko-tv"  tvg-name="Малятко ТВ" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/maliatko-tv.png",Малятко ТВ
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0285/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="teatr"  tvg-name="Театр ТВ HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/teatr.png",Театр ТВ HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0250/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-football1"  tvg-name="Матч! Футбол 1" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-football1.png",Матч! Футбол 1
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0316/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-football2"  tvg-name="Матч! Футбол 2" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-football2.png",Матч! Футбол 2
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0317/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="match-football3"  tvg-name="Матч! Футбол 3" group-title="Спорт" tvg-logo="http://ott-club.com.ru/uploads/channel/match-football3.png",Матч! Футбол 3
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0318/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Экран 5" group-title="Фильмы" tvg-logo="",Экран 5
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0366/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Дайвинг" group-title="Развлечения" tvg-logo="",Дайвинг
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0249/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg"  tvg-name="Realx HQM HD" group-title="Релакс" tvg-logo="https://img.favpng.com/20/14/1/download-preview-png-favpng-zztmc86TkNfJi8mzYDvyaZb8d_t.jpg",Realx HQM HD
+#EXTGRP:Релакс
+http://server1.life-tv.eu/ch0135/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg"  tvg-name="Сварожичи" group-title="Развлечения" tvg-logo="http://tivix.co/uploads/posts/2018-12/1543643572_svarojisji.png",Сварожичи
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0218/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Телепутешествие" group-title="Развлечения" tvg-logo="",Телепутешествие
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0500/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="shot-tv"  tvg-name="Shot TV" group-title="Фильмы" tvg-logo="",Shot TV
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0092/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Киноклассика 90-х" group-title="Лайф каналы" tvg-logo="",MAXVideo Киноклассика 90-х
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0445/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="95 квартал (пародии) HD" group-title="Лайф каналы" tvg-logo="",95 квартал (пародии) HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0447/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Маски шоу" group-title="Лайф каналы" tvg-logo="",MAXVideo Маски шоу
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0449/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Ретро тв" group-title="Лайф каналы" tvg-logo="",MAXVideo Ретро тв
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0451/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pobeda"  tvg-name="Победа HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/pobeda.png",Победа HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0220/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="insight-ultra-hd"  tvg-name="Media 3D" group-title="Фильмы" tvg-logo="",Media 3D
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0005/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="sts-kids-hd"  tvg-name="Стс KIDS HD" group-title="Мультфильмы" tvg-logo="",Стс KIDS HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0243/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="fanhd"  tvg-name="FAN HD" group-title="Фильмы" tvg-logo="",FAN HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0048/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tayna"  tvg-name="Тайна" group-title="Развлечения" tvg-logo="",Тайна
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0246/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dikaya-oxota-hd"  tvg-name="Дикая Охота HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/dikaya-oxota-hd.png",Дикая Охота HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0139/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dikaya-rybalka-hd"  tvg-name="Дикая Рыбалка HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/dikaya-rybalka-hd.png",Дикая Рыбалка HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0140/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="shalun"  tvg-name="Шалун HD" group-title="Клубничка" tvg-logo="http://ott-club.com.ru/uploads/channel/shalun.png",Шалун HD
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0327/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kinoxit"  tvg-name="Кинохит HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/kinoxit.png",Кинохит HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0182/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="E" group-title="Развлечения" tvg-logo="",E
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0039/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Nano HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/nano-hd.png",Nano HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0077/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="KINO SAT" group-title="Фильмы" tvg-logo="",KINO SAT
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0434/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo 4K" group-title="4K" tvg-logo="",MAXVideo 4K
+#EXTGRP:4K
+http://server1.life-tv.eu/ch0454/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Экран  3D HD" group-title="Лайф каналы" tvg-logo="",Экран  3D HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0455/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv-style"  tvg-name="Нтв Стиль" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv-style.png",Нтв Стиль
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0438/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="travel-channel"  tvg-name="Travel Channel HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/travel-channel.png",Travel Channel HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0103/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Первый канал (+1)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy.png",Первый канал (+1)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0280/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Наша Сибирь HD" group-title="Развлечения" tvg-logo="",Наша Сибирь HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0329/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="fine-living"  tvg-name="Fine living" group-title="Документальные" tvg-logo="",Fine living
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0325/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="outdoor-channel"  tvg-name="Outdoor Channel" group-title="Документальные" tvg-logo="",Outdoor Channel
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0328/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="brazzers-tv-europe"  tvg-name="Brazzers TV Europe" group-title="Клубничка" tvg-logo="http://ott-club.com.ru/uploads/channel/brazzers.png",Brazzers TV Europe
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0324/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Ani" group-title="Мультфильмы" tvg-logo="",Ani
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0013/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bridge-tv-classic"  tvg-name="BRIDGE TV CLASSIC" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/bridge-tv-classic.png",BRIDGE TV CLASSIC
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0020/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bridge-tv-dance"  tvg-name="BRIDGE TV DANCE" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/bridge-tv-dance.png",BRIDGE TV DANCE
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0021/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="bridge-hd"  tvg-name="BRIDGE HD" group-title="Музыка" tvg-logo="http://ott-club.com.ru/uploads/channel/bridge-hd.png",BRIDGE HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0022/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="cartoon-network"  tvg-name="Cartoon Network" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/cartoon-network.png",Cartoon Network
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0024/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="cnn"  tvg-name="CNN International" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/cnn.png",CNN International
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0028/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Deutsche Welle" group-title="Германия" tvg-logo="",Deutsche Welle
+#EXTGRP:Германия
+http://server1.life-tv.eu/ch0030/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="dorama"  tvg-name="Дорама HD" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/dorama.png",Дорама HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0036/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="english-club-tv"  tvg-name="English Club" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/englishclub.png",English Club
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0040/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_cinema"  tvg-name="Кино меню" group-title="Фильмы" tvg-logo="",Кино меню
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0362/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_cinema"  tvg-name="Akudjio HD" group-title="Фильмы" tvg-logo="",Akudjio HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0363/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_cinema"  tvg-name="ULTO HD" group-title="Фильмы" tvg-logo="",ULTO HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0364/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Экран 4" group-title="Фильмы" tvg-logo="",Экран 4
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0365/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo Русские ретро мелодии" group-title="Лайф каналы" tvg-logo="",MAXVideo Русские ретро мелодии
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0458/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo VHS Эротика" group-title="Лайф каналы" tvg-logo="",MAXVideo VHS Эротика
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0530/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="TV3 HD" group-title="Прибалтика" tvg-logo="",TV3 HD
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0288/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="russian-extreme-uhd"  tvg-name="Ultra Rex 4K" group-title="4K" tvg-logo="http://ott-club.com.ru/uploads/channel/russian-extreme-uhd.png",Ultra Rex 4K
+#EXTGRP:4K
+http://server1.life-tv.eu/ch0335/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo VHS Боевик" group-title="Лайф каналы" tvg-logo="",MAXVideo VHS Боевик
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0462/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo VHS Комедия" group-title="Лайф каналы" tvg-logo="",MAXVideo VHS Комедия
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0463/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo VHS Фантастика" group-title="Лайф каналы" tvg-logo="",MAXVideo VHS Фантастика
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0464/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="RTVi"  tvg-name="RTVI" group-title="Новости" tvg-logo="http://ott-club.com.ru/uploads/channel/rtvi.png",RTVI
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0331/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo Аниме" group-title="Лайф каналы" tvg-logo="",MAXVideo Аниме
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0465/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Тест" group-title="noname" tvg-logo="",Тест
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0339/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Украина" group-title="Украина" tvg-logo="",Украина
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0527/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt4"  tvg-name="ТНТ4 HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt4.png",ТНТ4 HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0338/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="24news-ua"  tvg-name="Украина HD" group-title="Украина" tvg-logo="http://ott-club.com.ru/uploads/channel/24news-ua.png",Украина HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0554/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Капитан фантастика HD" group-title="Мультфильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/multik-hd.png",Капитан фантастика HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0431/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tnt4"  tvg-name="Тнт4 HD" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/tnt4.png",Тнт4 HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0338/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="rti"  tvg-name="4 Канал Украина HD" group-title="Украина" tvg-logo="",4 Канал Украина HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0555/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="pervy-pl4"  tvg-name="Первый канал (+4)" group-title="Россия" tvg-logo="http://ott-club.com.ru/uploads/channel/pervy-pl4.png",Первый канал (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0307/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="kino-24"  tvg-name="KINO24" group-title="Фильмы" tvg-logo="",KINO24
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0433/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Советские мультфильмы HD" group-title="Мультфильмы" tvg-logo="",Советские мультфильмы HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0337/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv-serial"  tvg-name="Нтв Сериал" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv-serial.png",Нтв Сериал
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0342/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="prikluchenia-hd"  tvg-name="Приключения" group-title="Документальные" tvg-logo="",Приключения
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0343/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eureka-hd"  tvg-name="Эврика HD" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/eureka-hd.png",Эврика HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0344/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo Щенячий патруль" group-title="Лайф каналы" tvg-logo="",MAXVideo Щенячий патруль
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0484/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="2na2-pl4"  tvg-name="2x2 (+4)" group-title="Развлечения" tvg-logo="http://ott-club.com.ru/uploads/channel/2x2-pl4.png",2x2 (+4)
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0266/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="ntv-xit"  tvg-name="Нтв Хит" group-title="Фильмы" tvg-logo="http://ott-club.com.ru/uploads/channel/ntv-xit.png",Нтв Хит
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0350/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="K12" group-title="Прибалтика" tvg-logo="",K12
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0486/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Страшное HD" group-title="Фильмы" tvg-logo="",Страшное HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0485/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Мир Баскетбола" group-title="Спорт" tvg-logo="",Мир Баскетбола
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0487/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="K11" group-title="Прибалтика" tvg-logo="",K11
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0488/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="football1-ua"  tvg-name="Футбол 1 UA HD" group-title="Спорт" tvg-logo="",Футбол 1 UA HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0359/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="football2-ua"  tvg-name="Футбол 2 UA HD" group-title="Спорт" tvg-logo="",Футбол 2 UA HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0360/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="belviasat-plustv"  tvg-name="Белвиасат +ТВ" group-title="Беларусь" tvg-logo="https://epg.iptvx.one/icn/belviasatplustv.png",Белвиасат +ТВ
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0509/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="4ever Music HD" group-title="Музыка" tvg-logo="",4ever Music HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0482/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="1 Музыкальный RU" group-title="Музыка" tvg-logo="",1 Музыкальный RU
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0483/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Рен Тв Baltic" group-title="Прибалтика" tvg-logo="",Рен Тв Baltic
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0525/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="otse"  tvg-name="Оце HD" group-title="Украина" tvg-logo="https://epg.iptvx.one/icn/otse.png",Оце HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0519/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Disney XD" group-title="Мультфильмы" tvg-logo="",Disney XD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0524/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Discovery World" group-title="Документальные" tvg-logo="",Discovery World
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0523/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="DOCUBOX HD" group-title="Документальные" tvg-logo="",DOCUBOX HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0514/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="FASTBOX FUN HD" group-title="Спорт" tvg-logo="",FASTBOX FUN HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0518/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="UA:Закарпаття" group-title="Украина" tvg-logo="",UA:Закарпаття
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0520/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="XSPORT HD" group-title="Спорт" tvg-logo="",XSPORT HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0517/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Трофей HD" group-title="Спорт" tvg-logo="",Трофей HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0513/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 2" group-title="Спорт" tvg-logo="",Sport 2
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0383/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Первый Автомобильный" group-title="Спорт" tvg-logo="",Первый Автомобильный
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0526/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Kanalas 2" group-title="Прибалтика" tvg-logo="",Kanalas 2
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0505/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Kidzone" group-title="Мультфильмы" tvg-logo="",Kidzone
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0506/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Беларусь 4 Витебск" group-title="Беларусь" tvg-logo="",Беларусь 4 Витебск
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0510/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="3 Film HD" group-title="Фильмы" tvg-logo="",3 Film HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0503/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="UFC HD" group-title="Спорт" tvg-logo="",UFC HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0535/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="ETV" group-title="Прибалтика" tvg-logo="",ETV
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0537/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="ETV+" group-title="Прибалтика" tvg-logo="",ETV+
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0536/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="3+ LV" group-title="Прибалтика" tvg-logo="",3+ LV
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0533/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Россия (+8)" group-title="Россия" tvg-logo="",Россия (+8)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0355/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Nuart" group-title="Клубничка" tvg-logo="",Nuart
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0534/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="HISTORY" group-title="Документальные" tvg-logo="",HISTORY
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0058/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Earth HD" group-title="Документальные" tvg-logo="",Earth HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0004/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Food Network" group-title="Развлечения" tvg-logo="",Food Network
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0049/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Music Box Gold" group-title="Музыка" tvg-logo="",Music Box Gold
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0073/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Music Box RU" group-title="Музыка" tvg-logo="",Music Box RU
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0074/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="RUTV" group-title="Музыка" tvg-logo="",RUTV
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0090/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Viasat Nature" group-title="Документальные" tvg-logo="",Viasat Nature
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0120/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Viasat Sport" group-title="Спорт" tvg-logo="",Viasat Sport
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0122/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Кухня тв" group-title="Развлечения" tvg-logo="",Кухня тв
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0184/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Мир" group-title="Россия" tvg-logo="",Мир
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0191/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Моя планета" group-title="Документальные" tvg-logo="http://ott-club.com.ru/uploads/channel/moya-planeta.png",Моя планета
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0197/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Мужской" group-title="Развлечения" tvg-logo="",Мужской
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0199/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Москва 24" group-title="Новости" tvg-logo="",Москва 24
+#EXTGRP:Новости
+http://server1.life-tv.eu/ch0211/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Отр" group-title="Россия" tvg-logo="",Отр
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0213/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Рыжий" group-title="Мультфильмы" tvg-logo="",Рыжий
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0237/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Мир Вокруг HD" group-title="Документальные" tvg-logo="",Мир Вокруг HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0257/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Тест" group-title="noname" tvg-logo="",Тест
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0270/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Первый канал (+1)" group-title="Россия" tvg-logo="",Первый канал (+1)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0275/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Миледи" group-title="Украина" tvg-logo="",Миледи
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0284/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="eurosport2"  tvg-name="Eurosport 2 HD" group-title="Спорт" tvg-logo="",Eurosport 2 HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0310/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Точка отрыва" group-title="Развлечения" tvg-logo="",Точка отрыва
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0332/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="TV3 HD LV" group-title="Прибалтика" tvg-logo="",TV3 HD LV
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0340/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="НТВ право" group-title="Фильмы" tvg-logo="",НТВ право
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0341/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="FilmBox Arthouse HD" group-title="Фильмы" tvg-logo="",FilmBox Arthouse HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0345/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="EU Music" group-title="Музыка" tvg-logo="",EU Music
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0347/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Sport 1" group-title="Спорт" tvg-logo="",Sport 1
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0348/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Epic Drama HD" group-title="Фильмы" tvg-logo="",Epic Drama HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0349/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Стс HD" group-title="Россия" tvg-logo="",Стс HD
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0351/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="11 Канал Пенза" group-title="Региональные" tvg-logo="",11 Канал Пенза
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0352/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="12 канал Омск" group-title="Региональные" tvg-logo="",12 канал Омск
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0353/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Candy" group-title="Клубничка" tvg-logo="",Candy
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0357/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Candy HD" group-title="Клубничка" tvg-logo="",Candy HD
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0358/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_cinema"  tvg-name="3 Film HD (test)" group-title="Фильмы" tvg-logo="",3 Film HD (test)
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0367/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Тв-3 HD" group-title="Фильмы" tvg-logo="",Тв-3 HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0382/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Первый Вегетарианский HD" group-title="Развлечения" tvg-logo="",Первый Вегетарианский HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0397/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="TV3" group-title="Прибалтика" tvg-logo="",TV3
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0415/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="TV6 EE" group-title="Прибалтика" tvg-logo="",TV6 EE
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0420/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Fight Box HD" group-title="Спорт" tvg-logo="",Fight Box HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0502/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="FilmUALive" group-title="Фильмы" tvg-logo="",FilmUALive
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0507/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="1+1 HD " group-title="Украина" tvg-logo="",1+1 HD 
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0508/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="FILMBOX" group-title="Фильмы" tvg-logo="",FILMBOX
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0511/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="HOLLYWOOD" group-title="Фильмы" tvg-logo="",HOLLYWOOD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0512/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Fight Box HD" group-title="Спорт" tvg-logo="",Fight Box HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0515/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Nicktoons" group-title="Мультфильмы" tvg-logo="",Nicktoons
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0516/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Наука 2.0" group-title="Документальные" tvg-logo="",Наука 2.0
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0522/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Eurosport 4K UHD" group-title="Спорт" tvg-logo="",Eurosport 4K UHD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0531/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Беларусь 8 канал" group-title="Беларусь" tvg-logo="",Беларусь 8 канал
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0532/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Яснае тв HD" group-title="Беларусь" tvg-logo="",Яснае тв HD
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0538/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Jasmin HD" group-title="Клубничка" tvg-logo="",Jasmin HD
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0539/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="100 Automoto HD" group-title="Развлечения" tvg-logo="",100 Automoto HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0540/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Первый Балтийский канал" group-title="Прибалтика" tvg-logo="",Первый Балтийский канал
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0541/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Украина" group-title="Украина" tvg-logo="",Украина
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0544/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Star Family HD" group-title="Фильмы" tvg-logo="",Star Family HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0545/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Беларусь Онт INT." group-title="Беларусь" tvg-logo="",Беларусь Онт INT.
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0546/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="ON! Пятница" group-title="Развлечения" tvg-logo="",ON! Пятница
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0547/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="SONG TV HD" group-title="Музыка" tvg-logo="",SONG TV HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0551/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MostVideo TV HD" group-title="Развлечения" tvg-logo="",MostVideo TV HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0552/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Здоровье" group-title="Развлечения" tvg-logo="",Здоровье
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0553/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Мир сериала" group-title="Фильмы" tvg-logo="",Мир сериала
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0334/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Зарубежные мелодии Ретро" group-title="Музыка" tvg-logo="",Зарубежные мелодии Ретро
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0467/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Nat Geo Wild" group-title="Документальные" tvg-logo="",Nat Geo Wild
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0078/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Nat Geographic" group-title="Документальные" tvg-logo="",Nat Geographic
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0080/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Paramount Channel" group-title="Фильмы" tvg-logo="",Paramount Channel
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0085/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Paramount Comedy" group-title="Фильмы" tvg-logo="",Paramount Comedy
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0087/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tlc"  tvg-name="Tlc" group-title="Развлечения" tvg-logo="9",Tlc
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0101/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Viasat Explore" group-title="Документальные" tvg-logo="",Viasat Explore
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0115/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Viasat History" group-title="Документальные" tvg-logo="",Viasat History
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0117/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Дом кино Премиум HD" group-title="Фильмы" tvg-logo="",Дом кино Премиум HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0144/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Звезда (+8)" group-title="Россия" tvg-logo="",Звезда (+8)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0166/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Беларусь Варяг" group-title="Беларусь" tvg-logo="",Беларусь Варяг
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0171/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_music"  tvg-name="4Fun TV" group-title="Музыка" tvg-logo="",4Fun TV
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0172/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="43 канал HD" group-title="Фильмы" tvg-logo="",43 канал HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0173/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Кино ТВ" group-title="Фильмы" tvg-logo="",Кино ТВ
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0175/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Русский роман" group-title="Фильмы" tvg-logo="",Русский роман
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0234/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Тв-3 (+2)" group-title="Фильмы" tvg-logo="",Тв-3 (+2)
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0298/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Тв-3 (+7)" group-title="Фильмы" tvg-logo="",Тв-3 (+7)
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0299/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Твц (+4)" group-title="Россия" tvg-logo="",Твц (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0301/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Тнт (+4)" group-title="Россия" tvg-logo="",Тнт (+4)
+#EXTGRP:Россия
+http://server1.life-tv.eu/ch0304/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo Веселые зверята (+16)" group-title="Лайф каналы" tvg-logo="",MAXVideo Веселые зверята (+16)
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0561/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Матч! Премьер" group-title="Спорт" tvg-logo="",Матч! Премьер
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch00560/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Setanta Sports UA HD" group-title="Спорт" tvg-logo="",Setanta Sports UA HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch00562/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="MAXVideo Жизнь с Луи" group-title="Лайф каналы" tvg-logo="",MAXVideo Жизнь с Луи
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0592/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Мимимишки HD" group-title="Лайф каналы" tvg-logo="",Мимимишки HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0593/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Маша и медведь" group-title="Лайф каналы" tvg-logo="",Маша и медведь
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0444/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="no_epg_music"  tvg-name="HQM Kids" group-title="Музыка" tvg-logo="https://www.vippng.com/png/detail/208-2080946_kids-border-png-childs-day.png",HQM Kids
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0446/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo 1" group-title="Лайф каналы" tvg-logo="",MAXVideo 1
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0448/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo 3 HD" group-title="Лайф каналы" tvg-logo="",MAXVideo 3 HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0450/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo 4 HD" group-title="Лайф каналы" tvg-logo="",MAXVideo 4 HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0452/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Огии и тараканы" group-title="Лайф каналы" tvg-logo="",Огии и тараканы
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0453/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Test Chanel" group-title="noname" tvg-logo="",Test Chanel
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0668/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="Маша и медведь" group-title="Лайф каналы" tvg-logo="",Маша и медведь
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0461/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0   tvg-name="MAXVideo Anime" group-title="Лайф каналы" tvg-logo="",MAXVideo Anime
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0466/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 1" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 1
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0562/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 2" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 2
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0563/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 3" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 3
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0564/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 4" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 4
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0565/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 5" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 5
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0566/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 6" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 6
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0567/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 7" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 7
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0568/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 8" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 8
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0569/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 9" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 9
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0570/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 10" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 10
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0571/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 11" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 11
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0572/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 12" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 12
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0573/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 13" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 13
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0574/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 14" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 14
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0575/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 15" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 15
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0576/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 16" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 16
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0577/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 17" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 17
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0578/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 18" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 18
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0579/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 19" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 19
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0580/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 20" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 20
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0581/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="TOP Великолепный Век" group-title="Фильмы" tvg-logo="",TOP Великолепный Век
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0582/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Релакс Аквариум HD" group-title="Релакс" tvg-logo="",Релакс Аквариум HD
+#EXTGRP:Релакс
+http://server1.life-tv.eu/ch0583/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Малышарики HD" group-title="Лайф каналы" tvg-logo="",Малышарики HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0584/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="TOP Cinema HD" group-title="Фильмы" tvg-logo="",TOP Cinema HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0585/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="TOP Budo HD" group-title="Фильмы" tvg-logo="",TOP Budo HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0586/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="TOP 80's" group-title="Фильмы" tvg-logo="",TOP 80's
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0587/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Экран HD Лайф ТВ 27" group-title="Экран ЛАЙФ ТВ" tvg-logo="",Экран HD Лайф ТВ 27
+#EXTGRP:Экран ЛАЙФ ТВ
+http://server1.life-tv.eu/ch0588/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Релакс Море HD" group-title="Релакс" tvg-logo="",Релакс Море HD
+#EXTGRP:Релакс
+http://server1.life-tv.eu/ch0589/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Релакс Камин HD" group-title="Релакс" tvg-logo="",Релакс Камин HD
+#EXTGRP:Релакс
+http://server1.life-tv.eu/ch0590/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Отважные птенцы HD" group-title="Лайф каналы" tvg-logo="",Отважные птенцы HD
+#EXTGRP:Лайф каналы
+http://server1.life-tv.eu/ch0591/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Setanta Sports UA" group-title="Спорт" tvg-logo="",Setanta Sports UA
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch00562/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sky Cinema Action" group-title="Германия" tvg-logo="",Sky Cinema Action
+#EXTGRP:Германия
+http://server1.life-tv.eu/ch0600/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sky Cinema" group-title="Германия" tvg-logo="",Sky Cinema
+#EXTGRP:Германия
+http://server1.life-tv.eu/ch0601/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sky Cinema Hits" group-title="Германия" tvg-logo="",Sky Cinema Hits
+#EXTGRP:Германия
+http://server1.life-tv.eu/ch0602/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Channel 11" group-title="Израиль" tvg-logo="",Channel 11
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0603/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Channel 12" group-title="Израиль" tvg-logo="",Channel 12
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0604/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Channel 13" group-title="Израиль" tvg-logo="",Channel 13
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0605/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Channel 9" group-title="Израиль" tvg-logo="",Channel 9
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0606/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Museum HD" group-title="Развлечения" tvg-logo="",Museum HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0608/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="myZen.tv HD" group-title="Развлечения" tvg-logo="",myZen.tv HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0609/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Fuel TV HD" group-title="Развлечения" tvg-logo="",Fuel TV HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0610/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Stingray iConcerts HD" group-title="Музыка" tvg-logo="",Stingray iConcerts HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0611/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="A2 про любовь HD" group-title="Фильмы" tvg-logo="",A2 про любовь HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0612/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Неизвестная планета HD" group-title="Документальные" tvg-logo="",Неизвестная планета HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0613/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Ultra HD Cinema" group-title="Фильмы" tvg-logo="",Ultra HD Cinema
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0614/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Galaxy TV HD" group-title="Документальные" tvg-logo="",Galaxy TV HD
+#EXTGRP:Документальные
+http://server1.life-tv.eu/ch0615/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Ultra HD cinema 4k" group-title="4K" tvg-logo="",Ultra HD cinema 4k
+#EXTGRP:4K
+http://server1.life-tv.eu/ch0616/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Ultra HD cinema (FHD)" group-title="Фильмы" tvg-logo="",Ultra HD cinema (FHD)
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0617/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="AIVA" group-title="Музыка" tvg-logo="",AIVA
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0618/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Clubbing TV HD" group-title="Музыка" tvg-logo="",Clubbing TV HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0619/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="31-kanal-chelyabinsk"  tvg-name="31ТВ Челябинск" group-title="Региональные" tvg-logo="https://pp.userapi.com/c627321/v627321958/d227/6aOXXZ1Ur_4.jpg",31ТВ Челябинск
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0622/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="5TV (+4)" group-title="Региональные" tvg-logo="",5TV (+4)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0623/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="8 канал (Владивосток)" group-title="Региональные" tvg-logo="",8 канал (Владивосток)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0624/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="C1 HD (Сургут)" group-title="Региональные" tvg-logo="",C1 HD (Сургут)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0625/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="TV Губерния (Воронеж)" group-title="Региональные" tvg-logo="",TV Губерния (Воронеж)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0626/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="UGRA Travel (Сургут)" group-title="Региональные" tvg-logo="",UGRA Travel (Сургут)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0627/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="UTV (Пермь)" group-title="Региональные" tvg-logo="",UTV (Пермь)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0628/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="ZAB.TV (Чита)" group-title="Региональные" tvg-logo="",ZAB.TV (Чита)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0629/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Аист (Иркутск)" group-title="Региональные" tvg-logo="",Аист (Иркутск)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0630/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Альтес (Чита)" group-title="Региональные" tvg-logo="",Альтес (Чита)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0631/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Ариг Ус 24 (Улан-Удэ)" group-title="Региональные" tvg-logo="",Ариг Ус 24 (Улан-Удэ)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0632/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Ариранг" group-title="Региональные" tvg-logo="",Ариранг
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0633/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Архыз 24 (Черкесск)" group-title="Региональные" tvg-logo="",Архыз 24 (Черкесск)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0634/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="АТВ (Ставрополь)" group-title="Региональные" tvg-logo="",АТВ (Ставрополь)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0635/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="АТВ (Улан-Удэ)" group-title="Региональные" tvg-logo="",АТВ (Улан-Удэ)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0636/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Афонтово (Красноярск)" group-title="Региональные" tvg-logo="",Афонтово (Красноярск)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0637/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Барс (Иваново)" group-title="Региональные" tvg-logo="",Барс (Иваново)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0638/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Белгород 24" group-title="Региональные" tvg-logo="",Белгород 24
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0639/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="БСТ (Челябинск)" group-title="Региональные" tvg-logo="",БСТ (Челябинск)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0640/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Вариант V (Владимир)" group-title="Региональные" tvg-logo="",Вариант V (Владимир)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0641/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Волга (Н. Новгород)" group-title="Региональные" tvg-logo="",Волга (Н. Новгород)
+#EXTGRP:Региональные
+http://server1.life-tv.eu/ch0642/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Shot HD" group-title="Клубничка" tvg-logo="",Shot HD
+#EXTGRP:Клубничка
+http://server1.life-tv.eu/ch0643/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Музыка Первого" group-title="Музыка" tvg-logo="",Музыка Первого
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0645/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Телекафе" group-title="Развлечения" tvg-logo="",Телекафе
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0647/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Maxxi tv" group-title="Украина" tvg-logo="",Maxxi tv
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0649/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Сиеста HD" group-title="Фильмы" tvg-logo="",Сиеста HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0651/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="ערוץ הידברות" group-title="Израиль" tvg-logo="",ערוץ הידברות
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0653/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Silence TV HD" group-title="Развлечения" tvg-logo="",Silence TV HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0655/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="ZooПарк" group-title="Развлечения" tvg-logo="",ZooПарк
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0657/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Мультик HD" group-title="Мультфильмы" tvg-logo="",Мультик HD
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0659/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="TVPlay Sports HD" group-title="Спорт" tvg-logo="",TVPlay Sports HD
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0660/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Love Nature 4K" group-title="4K" tvg-logo="",Love Nature 4K
+#EXTGRP:4K
+http://server1.life-tv.eu/ch0650/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Ключ" group-title="noname" tvg-logo="",Ключ
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0652/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sky Sport Austria DE" group-title="Спорт" tvg-logo="",Sky Sport Austria DE
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0661/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Polsat Sport Extra HD PL" group-title="Спорт" tvg-logo="",Polsat Sport Extra HD PL
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0662/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Polsat Sport Fight HD PL" group-title="Спорт" tvg-logo="",Polsat Sport Fight HD PL
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0663/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Polsat Sport HD PL" group-title="Спорт" tvg-logo="",Polsat Sport HD PL
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0664/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Polsat Sport Premium 1 FHD PL" group-title="Спорт" tvg-logo="",Polsat Sport Premium 1 FHD PL
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0665/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Малыш тв" group-title="Мультфильмы" tvg-logo="",Малыш тв
+#EXTGRP:Мультфильмы
+http://server1.life-tv.eu/ch0644/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Поехали HD" group-title="Развлечения" tvg-logo="",Поехали HD
+#EXTGRP:Развлечения
+http://server1.life-tv.eu/ch0646/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Jukebox" group-title="noname" tvg-logo="",Jukebox
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0648/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Киноужас HD" group-title="Фильмы" tvg-logo="",Киноужас HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0667/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Тнт EXCLUSIV" group-title="noname" tvg-logo="",Тнт EXCLUSIV
+#EXTGRP:noname
+http://server1.life-tv.eu/ch0671/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Под ёлкой HD" group-title="Фильмы" tvg-logo="",Под ёлкой HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0672/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="4K тест" group-title="4K" tvg-logo="",4K тест
+#EXTGRP:4K
+http://server1.life-tv.eu/ch0670/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Москва Доверие" group-title="Фильмы" tvg-logo="",Москва Доверие
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0673/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Vintage Music HD" group-title="Музыка" tvg-logo="",Vintage Music HD
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0674/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Супер HD" group-title="Фильмы" tvg-logo="",Супер HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0675/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sky2000Cinema HD" group-title="Фильмы" tvg-logo="",Sky2000Cinema HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0677/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sky2000Russian HD" group-title="Фильмы" tvg-logo="",Sky2000Russian HD
+#EXTGRP:Фильмы
+http://server1.life-tv.eu/ch0678/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Eurodance Mix 90-x " group-title="Музыка" tvg-logo="",Eurodance Mix 90-x 
+#EXTGRP:Музыка
+http://server1.life-tv.eu/ch0681/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Yowi 4K" group-title="4K" tvg-logo="",Yowi 4K
+#EXTGRP:4K
+http://server1.life-tv.eu/ch0682/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Первый городской телеканал" group-title="Беларусь" tvg-logo="",Первый городской телеканал
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0679/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Ранак" group-title="Беларусь" tvg-logo="",Ранак
+#EXTGRP:Беларусь
+http://server1.life-tv.eu/ch0680/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="3+ EE" group-title="Прибалтика" tvg-logo="",3+ EE
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0676/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Yes 1" group-title="Израиль" tvg-logo="",Yes 1
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0687/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Yes 2" group-title="Израиль" tvg-logo="",Yes 2
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0688/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Yes 3" group-title="Израиль" tvg-logo="",Yes 3
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0689/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Yes 4" group-title="Израиль" tvg-logo="",Yes 4
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0690/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Yes 5" group-title="Израиль" tvg-logo="",Yes 5
+#EXTGRP:Израиль
+http://server1.life-tv.eu/ch0691/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 1 HD [IL]" group-title="Спорт" tvg-logo="",Sport 1 HD [IL]
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0692/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 2 HD [IL]" group-title="Спорт" tvg-logo="",Sport 2 HD [IL]
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0693/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 3 HD [IL]" group-title="Спорт" tvg-logo="",Sport 3 HD [IL]
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0694/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 4 HD [IL]" group-title="Спорт" tvg-logo="",Sport 4 HD [IL]
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0695/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 5 HD [IL]" group-title="Спорт" tvg-logo="",Sport 5 HD [IL]
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0697/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 5 Plus HD [IL]" group-title="Спорт" tvg-logo="",Sport 5 Plus HD [IL]
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0698/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="enter url"  tvg-name="Sport 5 live HD [IL]" group-title="Спорт" tvg-logo="",Sport 5 live HD [IL]
+#EXTGRP:Спорт
+http://server1.life-tv.eu/ch0700/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="tv8-lt"  tvg-name="TV8 HD" group-title="Прибалтика" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFplZuCEN-NsjM6j560BF8wsMHFUQY0y4vUVCWceJ3seGL3yj_&s",TV8 HD
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0709/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="balticum-platinum"  tvg-name="Baltikum Platium HD" group-title="Прибалтика" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-balticum-platinum-hd.png",Baltikum Platium HD
+#EXTGRP:Прибалтика
+http://server1.life-tv.eu/ch0711/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nlo-tv1"  tvg-name="NLO TV 1 HD" group-title="Украина" tvg-logo="https://mediananny.com/content/images_new/news/620x408/130002.jpg",NLO TV 1 HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0708/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
+#EXTINF:0  tvg-id="nlo-tv2"  tvg-name="NLO TV 2 HD" group-title="Украина" tvg-logo="https://mediananny.com/content/images_new/news/620x408/130002.jpg",NLO TV 2 HD
+#EXTGRP:Украина
+http://server1.life-tv.eu/ch0685/video.m3u8?token=c2F1bGU1NTU1fHxNVE16WVRReU1XST0=
