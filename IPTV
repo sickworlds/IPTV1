@@ -20,6 +20,9 @@ http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-l
 #EXTINF:0,MotorSport
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3116df.acelive&.mp4
+#EXTINF:0,Setanta Sports 1 HD 
+#EXTVLCOPT:network-caching=1000
+http://178.124.183.15:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
 #EXTINF:0,TVPlay Sports Plus HD hls
 #EXTVLCOPT:network-caching=1000
 http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
