@@ -646,8 +646,8 @@ http://88.216.48.147/flussonic/Rodnoe_Kino/index.m3u8
 http://88.216.48.147/flussonic/KVN_TV/index.m3u8
 #EXTINF:-1,TVPLAY Sport
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF:-1,Sport1 LT
-http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:0,Sport1 HD
+http://88.216.48.147/flussonic/Sport1HD/index.m3u8
 #EXTINF:-1,Футбол 1 HD
 https://iptvdom.my1.ru/load/0-0-1-313-20
 #EXTINF:-1,Футбол 2 HD
