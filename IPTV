@@ -23,9 +23,9 @@ http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-l
 #EXTINF:0,Setanta Sports 1 HD 
 #EXTVLCOPT:network-caching=1000
 http://178.124.183.15:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
-#EXTINF:0,TVPlay Sports Plus HD hls
+#EXTINF:0,TV3 Sport HD hls
 #EXTVLCOPT:network-caching=1000
-http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
+http://213.252.252.2/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD.m3u8
 #EXTINF:0,Бокс ТВ
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_71860b.acelive&.mp4
@@ -89,9 +89,6 @@ http://88.216.8.122:8080/tv6/index.m3u8
 #EXTINF:0,TV8 hls
 #EXTVLCOPT:network-caching=1000
 http://88.216.8.122:8080/tv8/index.m3u8
-#EXTINF:0,TVPlay Sports hls
-#EXTVLCOPT:network-caching=1000
-http://88.216.8.122:8080/tvplay_sports/index.m3u8
 #EXTINF:0,A Home Of HBO
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c9cabb.acelive&.mp4
