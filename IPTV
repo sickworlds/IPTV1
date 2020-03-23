@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,ПЯТНИЦА! HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1,TV 3 HD
+http://195.191.208.2:8086/udp/233.170.170.79:58631
+#EXTINF:-1,СУПЕР HD
+http://195.191.208.2:8086/udp/233.170.170.105:58631
+#EXTINF:-1,ТНТ HD
+http://195.191.208.2:8086/udp/233.170.170.78:58631
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1,МАТЧ! HD
+http://195.191.208.2:8086/udp/233.170.170.93:58631
+#EXTINF:-1,МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-para ... ylist.m3u8
+#EXTINF:-1,МИР ПРЕМИУМ HD
+http://hls.mirtv.cdnvideo.ru/mirtv-para ... ylist.m3u8
+#EXTINF:-1,МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-para ... ylist.m3u8
 #EXTINF:0,Матч ТВ
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_c1460d.acelive&.mp4
