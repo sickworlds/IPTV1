@@ -35,3 +35,11 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/id-xtra.m3u8
  http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 #EXTINF:-1,Nat Geo Wild 
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
+ #EXTINF:-1,DTX
+http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8 
+#EXTINF:-1,HD life 
+ http://37.193.6.155:34040/udp/239.1.9.2:1234
+ #EXTINF:-1,Animal Planet 1
+http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8 
+#EXTINF:-1,TLC HD (RU) 
+ http://188.35.9.11:21031/udp/037n 
