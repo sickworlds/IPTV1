@@ -86,9 +86,9 @@ http://78.29.1.69/live/istoriya/copy/playlist.m3u8
  #EXTGRP:Познавательные
  http://nano.teleservice.su:8080/hls/luxury.m3u8 
 #EXTINF:-1 ,MostVideo TV HD 
-#EXTGRP:Познавательные
  http://w4.mostvideo.tv/tv/ch1.m3u8 
 #EXTINF:-1 ,Red Bull TV HD 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8 
  #EXTINF:-,Россия К 
+#EXTINF:-group-title="Познавательные"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8 
