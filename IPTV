@@ -73,9 +73,6 @@ https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c1
  #EXTINF:-1 group-title="Познавательные",History HD 2 
 #EXTGRP:Познавательные 
 https://plbl.m9.lfstrm.tv/history_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8 
-#EXTINF:-1 group-title="Познавательные",History HD 3 
-#EXTGRP:Познавательные 
-https://plbl.m9.lfstrm.tv/history_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8 
 #EXTINF:-1 group-title="Познавательные",История
  #EXTGRP:Познавательные 
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8 
