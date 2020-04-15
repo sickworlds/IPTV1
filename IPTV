@@ -92,3 +92,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
  #EXTINF:-,Россия К 
 #EXTINF:-group-title="Познавательные"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8 
+#EXTINF:0 group-title="Познавательные",Моя Планета 
+#EXTGRP:Познавательные 
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8 
