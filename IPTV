@@ -43,3 +43,51 @@ http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
 http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8 
 #EXTINF:-1,TLC HD (RU) 
  http://188.35.9.11:21031/udp/037n 
+#EXTINF:-1,DocuBox HD
+ #EXTGRP:Познавательные 
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+ #EXTINF:-1,Outdoor Channel 
+#EXTGRP:Познавательные 
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/outdoor-channel.m3u8
+ #EXTINF:-1,Fine Living
+ #EXTGRP:Познавательные 
+http://70.32.0.9:5000/live/543/playlist.m3u8 
+#EXTINF:-1,Viasat Nature 
+#EXTGRP:Познавательные 
+http://185.29.255.170:8006/play/48
+ #EXTINF:-1,Viasat Explorer
+ #EXTGRP:Познавательные 
+http://185.29.255.170:8006/play/46 
+#EXTINF:-1,HISTORY 2 
+#EXTGRP:Познавательные 
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8 
+#EXTINF:-1,Драйв (Резерв2)
+ #EXTGRP:Познавательные 
+https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8 
+#EXTINF:-1,History 
+#EXTGRP:Познавательные 
+https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+ #EXTINF:-1,History 
+#EXTGRP:Познавательные 
+https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+ #EXTINF:-1 group-title="Познавательные",History HD 2 
+#EXTGRP:Познавательные 
+https://plbl.m9.lfstrm.tv/history_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8 
+#EXTINF:-1 group-title="Познавательные",History HD 3 
+#EXTGRP:Познавательные 
+https://plbl.m9.lfstrm.tv/history_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8 
+#EXTINF:-1 group-title="Познавательные",История
+ #EXTGRP:Познавательные 
+http://78.29.1.69/live/istoriya/copy/playlist.m3u8 
+#EXTINF:-1 ,TLC Russia 
+#EXTGRP:Познавательные
+ http://182.73.122.74:10004/bysid/1113
+ #EXTINF:-1 ,Luxury
+ #EXTGRP:Познавательные
+ http://nano.teleservice.su:8080/hls/luxury.m3u8 
+#EXTINF:-1 ,MostVideo TV HD 
+#EXTGRP:Познавательные
+ http://w4.mostvideo.tv/tv/ch1.m3u8 
+#EXTINF:-1 ,Red Bull TV HD 
+#EXTGRP:Познавательные 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8 
