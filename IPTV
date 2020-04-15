@@ -33,7 +33,5 @@ http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/id-xtra.m3u8
 #EXTINF:-1,Discovery Science 
  http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
-#EXTINF:-1,National Geographic HD 
- http://188.35.9.11:21031/udp/034x 
 #EXTINF:-1,Nat Geo Wild 
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
